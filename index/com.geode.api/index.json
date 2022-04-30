@@ -2,6 +2,7 @@
     "download": {
         "platforms": [ "windows", "macos" ],
         "url": "https://github.com/geode-sdk/api/releases/download/v0.0.1-alpha/GeodeAPI.geode",
+        "name": "GeodeAPI.geode",
         "checksum": 4041793255
     }
 }
