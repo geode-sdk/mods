@@ -5,7 +5,6 @@
     "name": "Small Enhancements",
     "developer": "HJfod",
     "description": "",
-    "credits": null,
     "settings": {
         "borderless-fullscreen": {
             "type": "bool",
