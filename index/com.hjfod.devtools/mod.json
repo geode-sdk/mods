@@ -5,7 +5,6 @@
     "name":         "DevTools",
     "developer":    "HJfod",
     "description":  "Advanced Developer Tools",
-    "details":      "Browser-like advanced developer tools for Geode",
     "repository":   "https://github.com/hjfod/geode-devtools",
     "binary":       "DevTools"
 }
