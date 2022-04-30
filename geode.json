@@ -1,34 +1,5 @@
 {
     "name": "Test",
     "description": "Test source stream",
-    "defaultToLatestRelease": false,
-    "mods": {
-        "com.geode.api": {
-            "repository": "https://github.com/geode-sdk/api",
-            "branch": "gui",
-            "commit": "9ec1426",
-            "platforms": [
-                "windows",
-                "macos",
-                "ios"
-            ]
-        },
-        "com.hjfod.devtools": {
-            "repository": "https://github.com/hjfod/devtools",
-            "branch": "main",
-            "commit": "45f662e",
-            "platforms": [
-                "windows"
-            ]
-        },
-        "com.hjfod.small_enhancements": {
-            "repository": "https://github.com/HJfod/GDShare-mod",
-            "branch": "master",
-            "commit": "38f00df",
-            "release": "v0.3.4",
-            "platforms": [
-                "windows"
-            ]
-        }
-    }
+    "defaultToLatestRelease": false
 }
