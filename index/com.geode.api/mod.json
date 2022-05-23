@@ -8,7 +8,6 @@
     "repository": "https://github.com/geode-sdk/api",
 	"dependencies": null,
     "binary":       "GeodeAPI",
-    "settings": null,
     "resources": {
         "fonts": {
             "mdFont": {
