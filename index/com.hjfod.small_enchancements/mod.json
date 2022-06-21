@@ -5,15 +5,6 @@
     "name": "Small Enhancements",
     "developer": "HJfod",
     "description": "",
-    "settings": {
-        "borderless-fullscreen": {
-            "type": "bool",
-            "name": "Borderless fullscreen",
-            "value": {
-                "default": false
-            }
-        }
-    },
     "binary": "SmallEnhancements",
     "dependencies": [
         {
