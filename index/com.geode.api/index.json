@@ -1,8 +1,9 @@
 {
     "download": {
-        "platforms": [ "windows", "macos" ],
-        "url": "https://github.com/geode-sdk/api/releases/download/v0.0.1-alpha/GeodeAPI.geode",
-        "name": "GeodeAPI.geode",
-        "hash": "8310cff47d4bfc64c45aae33d3b702339420060bc451c1517676f9beac68872e"
+        "*": {
+            "url": "https://github.com/geode-sdk/api/releases/download/v0.0.1-alpha/GeodeAPI.geode",
+            "name": "GeodeAPI.geode",
+            "hash": "8310cff47d4bfc64c45aae33d3b702339420060bc451c1517676f9beac68872e"
+        }
     }
 }
