@@ -1,9 +1,9 @@
 {
     "download": {
         "windows": {
-            "url": "https://github.com/HJfod/DevTools/releases/download/v0.0.1/DevTools.geode",
+            "url": "https://github.com/HJfod/DevTools/releases/download/v0.0.2/DevTools.geode",
             "name": "DevTools.geode",
-            "hash": "b85bbf3fe61c1e050b0682c88870822c7002471455ddc3905463d590dd6b6aa9"
+            "hash": "449a05b426af0cea255002ce695ca5434c17a96f1b87b780ce2da084e0c59e0b"
         }
     }
 }
