@@ -1,5 +1,8 @@
 {
     "name": "Test",
     "description": "Test source stream",
-    "defaultToLatestRelease": false
+    "defaultToLatestRelease": false,
+    "featured": [
+        "com.hjfod.devtools"
+    ]
 }
