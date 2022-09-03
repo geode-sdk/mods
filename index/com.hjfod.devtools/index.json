@@ -4,5 +4,8 @@
         "name": "DevTools.geode",
         "hash": "449a05b426af0cea255002ce695ca5434c17a96f1b87b780ce2da084e0c59e0b",
         "platforms": [ "windows" ]
-    }
+    },
+    "categories": [
+        "Developer"
+    ]
 }
