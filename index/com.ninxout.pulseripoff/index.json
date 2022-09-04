@@ -1,0 +1,14 @@
+{
+  "download": {
+    "url": "https://github.com/HJfod/ninXout-mods/releases/download/v0.0.1/pausesettingmaybe.geode",
+    "name": "pausesettingmaybe.geode",
+    "hash": "47839e9c50b21372ec709ae99c8653771b0be8aa72e5a5bd3fb7ddf6e6820cd8",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "categories": [
+    "Enhancement",
+    "Gameplay"
+  ]
+}

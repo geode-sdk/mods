@@ -1,0 +1,14 @@
+{
+  "download": {
+    "url": "https://github.com/HJfod/ninXout-mods/releases/download/v0.0.1/BotTest.geode",
+    "name": "BotTest.geode",
+    "hash": "7be36097190636d4044fa5073bdf98b5d31d3f43424e1efc7d516c00bfc85c8a",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "categories": [
+    "Enhancement",
+    "Gameplay"
+  ]
+}

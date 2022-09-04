@@ -1,0 +1,14 @@
+{
+  "download": {
+    "url": "https://github.com/HJfod/ninXout-mods/releases/download/v0.0.1/NEWmod.geode",
+    "name": "NEWmod.geode",
+    "hash": "631983bb10ff432ec117cc6ef7043b02bc4a04ced39ecd600d84a3358e2bfa91",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "categories": [
+    "Enhancement",
+    "Gameplay"
+  ]
+}
