@@ -1,0 +1,11 @@
+{
+    "download": {
+        "url": "https://github.com/HJfod/DevTools/releases/download/v0.0.5/DevTools.geode",
+        "name": "DevTools.geode",
+        "hash": "c39abbb7d7b3dda2462428922612c81f7165f0a2139ab07b0310e203067dd4fc",
+        "platforms": [ "windows" ]
+    },
+    "categories": [
+        "Developer"
+    ]
+}

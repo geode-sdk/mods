@@ -3,6 +3,6 @@
     "description": "Test source stream",
     "defaultToLatestRelease": false,
     "featured": [
-        "com.hjfod.devtools"
+        "hjfod.devtools"
     ]
 }

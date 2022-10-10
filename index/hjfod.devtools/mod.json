@@ -1,0 +1,9 @@
+{
+    "geode":        "v0.4.1",
+	"version":      "v0.0.5",
+	"id":           "hjfod.devtools",
+    "name":         "DevTools",
+    "developer":    "HJfod",
+    "description":  "Advanced Developer Tools",
+    "repository":   "https://github.com/hjfod/geode-devtools"
+}
