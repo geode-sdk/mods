@@ -3,6 +3,7 @@
     "description": "Test source stream",
     "defaultToLatestRelease": false,
     "featured": [
-        "hjfod.devtools"
+        "hjfod.devtools",
+        "com.alk.editorcollab"
     ]
 }
