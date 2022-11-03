@@ -1,7 +1,7 @@
 {
 	"download": {
 		"url": "https://github.com/camila314/geode-mods/releases/download/0.0.2/noclip.geode",
-		"file_name": "noclip.geode",
+		"name": "noclip.geode",
 		"hash": "0fc1ab293e533db731b8e2807ccb227ae5e9ae6c8f1447ca0e9f6e3b9d0e346e",
 		"platforms": [
 			"macos"
