@@ -1,0 +1,13 @@
+{
+	"download": {
+		"url": "https://github.com/camila314/geode-mods/releases/download/0.0.2/alignto.geode",
+		"name": "alignto.geode",
+		"hash": "6f0359a5c566815ad82d4a2f4f9007f707a27c7c35f8fda47f14be3800f24f50",
+		"platforms": [
+			"macos"
+		]
+	},
+	"categories": [
+		"Editor"
+	]
+}
