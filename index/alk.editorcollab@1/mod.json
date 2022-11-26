@@ -1,0 +1,14 @@
+{
+	"geode": "0.6.0",
+	"version": "1.3.0",
+	"id": "alk.editorcollab",
+	"name": "Editor Collab",
+	"developer": "alk",
+	"description": "Live multiplayer editor collaboration tool",
+	"dependencies": [],
+	"repository": "https://github.com/altalk23/EditorCollab",
+	"issues": {
+		"info": "Post your issues on the <cp>Issue tracking repository</c>.",
+		"url": "https://github.com/altalk23/EditorCollab/issues/new/choose"
+	}
+}
