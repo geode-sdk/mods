@@ -2,8 +2,8 @@
     "download": {
         "url": "https://github.com/matcool/geode-mods/releases/download/v0.0.1/practice-music.geode",
         "name": "practice-music.geode",
-        "hash": "e7ae04dc4d2035907584515616074aa18f1df1160b42b2e3b3862798f82eb3ff ",
-        "platforms": ["windows"]
+        "hash": "f7016cfe80d9ce2f63578425ee9360c524def831a212984823770beb50e3639c",
+        "platforms": ["windows", "macos"]
     },
     "categories": ["Enhancements", "Gameplay"]
 }
