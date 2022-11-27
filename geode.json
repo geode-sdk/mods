@@ -4,6 +4,7 @@
     "defaultToLatestRelease": false,
     "featured": [
         "hjfod.devtools",
-        "alk.editorcollab"
+        "alk.editorcollab",
+        "mat.circle-tool"
     ]
 }
