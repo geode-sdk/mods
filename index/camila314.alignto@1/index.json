@@ -4,7 +4,7 @@
 		"name": "alignto.geode",
 		"hash": "6f0359a5c566815ad82d4a2f4f9007f707a27c7c35f8fda47f14be3800f24f50",
 		"platforms": [
-			"macos"
+			"macos", "windows"
 		]
 	},
 	"categories": [

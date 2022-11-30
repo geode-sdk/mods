@@ -1,0 +1,14 @@
+{
+	"download": {
+		"url": "https://github.com/camila314/geode-mods/releases/download/0.0.2/demonlist-button.geode",
+		"name": "demonlist-button.geode",
+		"hash": "4f8f834cc2dab499b4a853ad212135e959d34da04a86cf9bad8573b79407b6de",
+		"platforms": [
+			"macos",
+			"windows"
+		]
+	},
+	"categories": [
+		"Entertainment"
+	]
+}

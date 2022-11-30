@@ -4,7 +4,7 @@
 		"name": "startswitcher.geode",
 		"hash": "252037d5de324bb763ed0d30c69d5ee9e59c604514571a1208d94ac7459f9b18",
 		"platforms": [
-			"macos"
+			"macos", "windows"
 		]
 	},
 	"categories": ["Enhancements"]
