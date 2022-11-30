@@ -1,20 +1,11 @@
 {
-	"geode": "v0.4.0",
-	"version": "v0.5.3",
-	"id": "com.alk.editorcollab",
+	"geode": "0.6.0",
+	"version": "1.3.0",
+	"id": "alk.editorcollab",
 	"name": "Editor Collab",
 	"developer": "alk",
 	"description": "Live multiplayer editor collaboration tool",
 	"dependencies": [],
-	"resources": {
-		"files": [],
-		"spritesheets": {
-			"TulipEditor": [
-				"resources/*.png",
-				"resources/arrows/*.png"
-			]
-		}
-	},
 	"repository": "https://github.com/altalk23/EditorCollab",
 	"issues": {
 		"info": "Post your issues on the <cp>Issue tracking repository</c>.",
