@@ -1,9 +1,14 @@
 {
-    "download": {
-        "url": "https://github.com/camila314/geode-mods/releases/download/0.0.2/acbypass.geode",
-        "name": "acbypass.geode",
-        "hash": "f3c975e8ac6eb10ccb205093ba5834657a618ef46ec25348ce04347725578715",
-        "platforms": ["macos", "windows"]
-    },
-    "categories": ["Cheats"]
+	"download": {
+		"url": "https://github.com/camila314/geode-mods/releases/download/0.0.2/acbypass.geode",
+		"name": "acbypass.geode",
+		"hash": "2e66007a3bd7c4954e168dd9f0e14af45e5e132195852b09e21418e79f467994",
+		"platforms": [
+			"macos",
+			"windows"
+		]
+	},
+	"categories": [
+		"Utility"
+	]
 }
