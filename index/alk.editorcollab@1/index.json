@@ -1,8 +1,8 @@
 {
     "download": {
-        "url": "https://github.com/altalk23/EditorCollab/releases/download/v1.3.0-rc/EditorCollab.geode",
+        "url": "https://github.com/altalk23/EditorCollab/releases/download/v1.4.0/EditorCollab.geode",
         "name": "EditorCollab.geode",
-        "hash": "8e40e72b8514bba52ad0e16c519c12c462bebd4c12110c5c4f152dea19414495",
+        "hash": "637e9e9d2264b530efc997e6254bb414d7cfd12e2bb7ebc3c13858a182943161",
         "platforms": [ "windows", "macos" ]
     },
     "categories": [
