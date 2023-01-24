@@ -1,0 +1,14 @@
+{
+    "mod": {
+        "download": "https://github.com/altalk23/EditorCollab/releases/download/v1.3.0-rc/EditorCollab.geode",
+        "hash": "8e40e72b8514bba52ad0e16c519c12c462bebd4c12110c5c4f152dea19414495"
+    },
+    "platforms": [
+        "windows",
+        "macos"
+    ],
+    "tags": [
+        "Editor", "Online"
+    ],
+    "featured": true
+}

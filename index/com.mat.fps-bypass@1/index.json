@@ -1,9 +1,0 @@
-{
-    "download": {
-        "url": "https://github.com/matcool/geode-fps-bypass/releases/download/v1.0.0/fps-bypass.geode",
-        "name": "fps-bypass.geode",
-        "hash": "3b84720635a48d58a0b5ac434251e7a6e65e4467009c9c22fa05894a16d916cf",
-        "platforms": ["windows"]
-    },
-    "categories": ["Enhancements"]
-}

@@ -1,9 +1,0 @@
-{
-    "download": {
-        "url": "https://github.com/matcool/geode-mods/releases/download/v0.0.1/circle-tool.geode",
-        "name": "circle-tool.geode",
-        "hash": "0bd4582bf0b91cb8abb47f5a87d34c4ad15d099547cce0687ac3ebdcdf4c6644",
-        "platforms": ["windows", "macos"]
-    },
-    "categories": ["Enhancements", "Editor"]
-}

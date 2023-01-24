@@ -1,8 +1,0 @@
-{
-	"geode": "0.6.1",
-	"version": "v1.0.0",
-	"id": "camila314.bezier",
-	"name": "bezier",
-	"developer": "camila314",
-	"description": "Exposes an API for an in-game bezier curve editor"
-}

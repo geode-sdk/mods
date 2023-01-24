@@ -1,0 +1,13 @@
+{
+    "mod": {
+        "download": "https://github.com/geode-sdk/DevTools/releases/download/v1.0.0/DevTools.geode",
+        "hash": "d5ce7244219d609f4fc5bdb190094fd0242de4f36541fd41ffac67ef1a765ba2"
+    },
+    "platforms": [
+        "windows"
+    ],
+    "tags": [
+        "Developer"
+    ],
+    "featured": true
+}
