@@ -1,9 +1,0 @@
-{
-	"geode":        "1.0.0-alpha",
-	"version":      "v1.0.0",
-	"id":           "com.iandyhd.soundeffects",
-	"name":         "Sound Effects",
-	"developer":    "iAndy_HD3",
-	"description":  "add sound effects to gameplay events",
-	"binary":       "SoundEffects"
-}

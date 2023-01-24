@@ -1,9 +1,0 @@
-{
-    "download": {
-        "url": "https://github.com/iAndyHD3/geode-mods/releases/download/0.0.1/SoundEffects.geode",
-        "name": "SoundEffects.geode",
-        "hash": "",
-		"platforms": ["windows"]
-    },
-    "categories": ["Enhancements", "Gameplay"]
-}
