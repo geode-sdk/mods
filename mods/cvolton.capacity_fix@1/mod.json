@@ -1,0 +1,13 @@
+{
+	"geode": "1.0.0-beta",
+	"version": "v1.0.0",
+	"id": "cvolton.capacity_fix",
+	"name": "Capacity Fix",
+	"developer": "Cvolton",
+	"description": "Fixes an optimization oversight with loading the level capacity string (extraString).",
+	"repository": "https://github.com/Cvolton/capacity-fix-geode",
+	"issues": {
+		"url": "https://github.com/Cvolton/capacity-fix-geode/issues",
+		"info": "Issues go here."
+	}
+}
