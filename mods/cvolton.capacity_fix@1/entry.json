@@ -1,0 +1,13 @@
+{
+    "mod": {
+        "download": "https://github.com/Cvolton/capacity-fix-geode/releases/download/v1.0.0-r2/CapacityFix.geode",
+        "hash": "9ebac7b46fd1b520c0f15e922ca7a3cd6b988733ee3ccc320a0217629a0452ca"
+    },
+    "platforms": [
+        "windows"
+    ],
+    "tags": [
+        "Developer"
+    ],
+    "featured": true
+}
