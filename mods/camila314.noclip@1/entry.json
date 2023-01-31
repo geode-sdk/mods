@@ -1,0 +1,11 @@
+{
+    "commit-author": "camila314",
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/geode-index/raw/main/camila314.noclip@1/mod.geode",
+        "hash": "61093146243963b57c1d69867a7e41e42231b2131da92107a5fdfe123ccd1e4e"
+    },
+    "tags": []
+}

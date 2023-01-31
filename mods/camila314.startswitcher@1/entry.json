@@ -1,12 +1,11 @@
 {
     "commit-author": "camila314",
     "platforms": [
-        "macos",
-        "windows"
+        "macos"
     ],
     "mod": {
-        "download": "https://github.com/camila314/geode-index/raw/main/camila314.startpos-switch@1/mod.geode",
-        "hash": "c5059843536b53ef5eae253963fc602e28f7a49681e5a2527d170b5f0e19d598"
+        "download": "https://github.com/camila314/geode-index/raw/main/camila314.startswitcher@1/mod.geode",
+        "hash": "a14957d5760dd637ba4ce40be4c8465e13bb596907f68c017dcba57345f606ea"
     },
     "tags": []
 }
