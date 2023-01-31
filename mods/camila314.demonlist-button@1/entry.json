@@ -1,9 +1,12 @@
 {
     "commit-author": "camila314",
-    "platforms": [],
+    "platforms": [
+        "macos",
+        "windows"
+    ],
     "mod": {
         "download": "https://github.com/camila314/geode-index/raw/main/camila314.demonlist-button@1/mod.geode",
-        "hash": "fcf859b66ec4c5e190c333638cb2bd7ecb57d53f93eddb8438fc70c312b2167a"
+        "hash": "b99773566abab03ff839888dab86058da26edf115569c7122d119bf04c714cc0"
     },
     "tags": []
 }
