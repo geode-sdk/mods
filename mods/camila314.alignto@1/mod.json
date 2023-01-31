@@ -1,0 +1,8 @@
+{
+	"geode": "1.0.0",
+	"version": "v1.0.0",
+	"id": "camila314.alignto",
+	"name": "Arbitrary Align",
+	"developer": "camila314",
+	"description": "Align objects using any axis, not just X and Y"
+}
