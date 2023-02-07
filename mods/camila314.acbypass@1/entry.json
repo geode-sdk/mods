@@ -1,11 +1,12 @@
 {
     "commit-author": "camila314",
     "platforms": [
-        "macos"
+        "macos",
+        "windows"
     ],
     "mod": {
         "download": "https://github.com/camila314/geode-index/raw/main/camila314.acbypass@1/mod.geode",
-        "hash": "4338b7d29d304a5124db1901d531f9da0b0c00e51df96020a9eb2b995b564c99"
+        "hash": "b66ef234d746b9c9e6b4962657f0b2a2d89d323d303228f9367556eb3891d7ba"
     },
     "tags": []
 }

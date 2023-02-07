@@ -1,11 +1,12 @@
 {
     "commit-author": "camila314",
     "platforms": [
-        "macos"
+        "macos",
+        "windows"
     ],
     "mod": {
         "download": "https://github.com/camila314/geode-index/raw/main/camila314.alignto@1/mod.geode",
-        "hash": "e41209bc1e8b62bebd04d5287562f573e3dbc325b18f70dfab715258214e32cf"
+        "hash": "d082ff032b992e03c6559d8a558d15b725c3bf879ccd3ae0480529ed9b28e1b4"
     },
     "tags": []
 }
