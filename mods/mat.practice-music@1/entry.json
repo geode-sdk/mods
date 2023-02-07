@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/indexer/raw/main/mat.practice-music@1/mod.geode",
+        "hash": "b87f25c7beb00cbdfa8da10f33e099642f81e7782bd14d9a2efc4ce265382155"
+    },
+    "tags": []
+}
