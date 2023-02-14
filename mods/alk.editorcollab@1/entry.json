@@ -1,14 +1,12 @@
 {
-    "mod": {
-        "download": "https://github.com/altalk23/EditorCollab/releases/download/v1.4.0/EditorCollab.geode",
-        "hash": "637e9e9d2264b530efc997e6254bb414d7cfd12e2bb7ebc3c13858a182943161"
-    },
+    "commit-author": "altalk23",
     "platforms": [
-        "windows",
-        "macos"
+        "macos",
+        "windows"
     ],
-    "tags": [
-        "Editor", "Online"
-    ],
-    "featured": true
+    "mod": {
+        "download": "https://github.com/altalk23/geode-indexer/raw/main/alk.editorcollab@1/mod.geode",
+        "hash": "bb45bee7385262a749f40ca5cdce623a9e93e689167e2654f3f41254df3610f6"
+    },
+    "tags": []
 }

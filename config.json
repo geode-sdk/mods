@@ -14,6 +14,9 @@
             "mat.practice-music",
             "mat.rgb-color-input",
             "mat.scroll-zoom"
+        ],
+        "altalk23/geode-indexer": [
+            "alk.editorcollab"
         ]
     },
     "verified": [

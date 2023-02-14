@@ -1,14 +1,31 @@
 {
-	"geode": "1.0.0",
-	"version": "1.4.0-beta",
+	"geode": "1.0.0-beta",
+	"version": "1.6.1-beta",
 	"id": "alk.editorcollab",
 	"name": "Editor Collab",
 	"developer": "alk",
 	"description": "Live multiplayer editor collaboration tool",
 	"dependencies": [],
+	"resources": {
+		"spritesheets": {
+			"TulipEditor": [
+				"resources/*.png",
+				"resources/arrows/*.png",
+				"resources/32bit/*.png"
+			]
+		}
+	},
 	"repository": "https://github.com/altalk23/EditorCollab",
 	"issues": {
 		"info": "Post your issues on the <cp>Issue tracking repository</c>.",
 		"url": "https://github.com/altalk23/EditorCollab/issues/new/choose"
+	},
+	"settings": {
+		"move-button": {
+			"type": "bool",
+			"name": "Move button",
+			"description": "Move the Editor Collab button to the side of the create screen.",
+			"default": false
+		}
 	}
 }
