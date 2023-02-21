@@ -1,6 +1,6 @@
 {
 	"geode": "1.0.0-beta",
-	"version": "1.6.1-beta",
+	"version": "1.7.0-beta",
 	"id": "alk.editorcollab",
 	"name": "Editor Collab",
 	"developer": "alk",
@@ -15,6 +15,11 @@
 			]
 		}
 	},
+	"tags": [
+		"Collab",
+        "Editor", 
+        "Online"
+    ],
 	"repository": "https://github.com/altalk23/EditorCollab",
 	"issues": {
 		"info": "Post your issues on the <cp>Issue tracking repository</c>.",

@@ -6,7 +6,11 @@
     ],
     "mod": {
         "download": "https://github.com/altalk23/geode-indexer/raw/main/alk.editorcollab@1/mod.geode",
-        "hash": "bb45bee7385262a749f40ca5cdce623a9e93e689167e2654f3f41254df3610f6"
+        "hash": "46c35de1bab3f7d89c62d3bdbc15588fbf457b3baa40fb622089c22ab11d2b24"
     },
-    "tags": []
+    "tags": [
+        "Collab",
+        "Editor",
+        "Online"
+    ]
 }
