@@ -17,6 +17,10 @@
         ],
         "altalk23/geode-indexer": [
             "alk.editorcollab"
+        ],
+        "HJfod/geode-indexer": [
+            "hjfod.gdshare",
+            "hjfod.gmd-api"
         ]
     },
     "verified": [
