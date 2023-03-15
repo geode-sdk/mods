@@ -1,6 +1,6 @@
 {
-	"geode": "1.0.0-beta",
-	"version": "1.7.0-beta",
+	"geode": "1.0.0",
+	"version": "1.8.0-beta",
 	"id": "alk.editorcollab",
 	"name": "Editor Collab",
 	"developer": "alk",
