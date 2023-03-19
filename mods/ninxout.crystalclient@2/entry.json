@@ -4,7 +4,7 @@
         "macos"
     ],
     "mod": {
-        "download": "https://github.com/ninXout/Crystal-Client/releases/download/v2.0.0/CrystalTest.geode",
+        "download": "https://github.com/ninXout/Crystal-Client/releases/download/v2.0.0/CrystalClient.geode",
         "hash": "f5c0647f35746d6df40b86fa30f7e0f03a3d2c8848aed58434a6d94e71329c69"
     },
     "tags": [
