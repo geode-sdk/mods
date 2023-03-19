@@ -1,6 +1,6 @@
 {
 	"geode": "1.0.0-beta",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"id": "cvolton.capacity_fix",
 	"name": "Capacity Fix",
 	"developer": "Cvolton",
@@ -8,6 +8,6 @@
 	"repository": "https://github.com/Cvolton/capacity-fix-geode",
 	"issues": {
 		"url": "https://github.com/Cvolton/capacity-fix-geode/issues",
-		"info": "Issues go here."
+		"info": "Issues go here. :3"
 	}
 }
