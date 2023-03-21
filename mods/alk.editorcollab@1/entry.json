@@ -5,7 +5,7 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/altalk23/geode-indexer/raw/main/alk.editorcollab@1/mod.geode",
+        "download": "https://github.com/altalk23/geode-indexer/raw/HEAD/alk.editorcollab@1/mod.geode",
         "hash": "7b46de3945bbb6e03fcf1375ebccf75d0d8ca787fbedd48fe073efa70b122d3e"
     },
     "tags": [
