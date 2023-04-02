@@ -4,7 +4,7 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/HJfod/geode-indexer/raw/main/hjfod.gdshare@1/mod.geode",
+        "download": "https://github.com/HJfod/geode-indexer/raw/HEAD/hjfod.gdshare@1/mod.geode",
         "hash": "a191db48801977736951d2913523c3b01d6baf43a8117bd6d87e1d9d1b6de247"
     },
     "tags": []
