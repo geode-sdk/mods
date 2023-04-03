@@ -1,13 +1,12 @@
 {
-    "mod": {
-        "download": "https://github.com/geode-sdk/DevTools/releases/download/v1.0.0/DevTools.geode",
-        "hash": "d5ce7244219d609f4fc5bdb190094fd0242de4f36541fd41ffac67ef1a765ba2"
-    },
+    "commit-author": "HJfod",
     "platforms": [
+        "macos",
         "windows"
     ],
-    "tags": [
-        "Developer"
-    ],
-    "featured": true
+    "mod": {
+        "download": "https://github.com/HJfod/geode-indexer/raw/HEAD/geode.devtools@1/mod.geode",
+        "hash": "af9121570bf2fabae43bc2bc0a7c925487d3ca750d7f0c10d03afedc59b1461c"
+    },
+    "tags": []
 }
