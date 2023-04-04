@@ -19,7 +19,6 @@
             "alk.editorcollab"
         ],
         "HJfod/geode-indexer": [
-            "geode.devtools",
             "hjfod.gdshare",
             "hjfod.gmd-api"
         ]
