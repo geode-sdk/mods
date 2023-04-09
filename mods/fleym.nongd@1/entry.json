@@ -1,0 +1,11 @@
+{
+    "commit-author": "Fleeym",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Fleeym/indexer/raw/HEAD/fleym.nongd@1/mod.geode",
+        "hash": "182af7702fde0baad21e5fe46f28b275af6c53c7efe53080cdcbc4995bb2874f"
+    },
+    "tags": []
+}

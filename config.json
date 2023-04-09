@@ -22,6 +22,9 @@
             "geode.devtools",
             "hjfod.gdshare",
             "hjfod.gmd-api"
+        ],
+        "Fleeym/indexer": [
+            "fleym.nongd"
         ]
     },
     "verified": [
