@@ -16,7 +16,8 @@
             "mat.scroll-zoom"
         ],
         "altalk23/geode-indexer": [
-            "alk.editorcollab"
+            "alk.editorcollab",
+            "alk.fps-shower"
         ],
         "HJfod/geode-indexer": [
             "geode.devtools",

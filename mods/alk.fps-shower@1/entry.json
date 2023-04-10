@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/geode-indexer/raw/HEAD/alk.fps-shower@1/mod.geode",
+        "hash": "4d57a8bf81914fb01dc129762ba93d39b800ae7b601d63454abb66ce0330e169"
+    },
+    "tags": []
+}

@@ -1,0 +1,14 @@
+{
+	"geode": "1.0.0-beta.14",
+	"version": "v1.0.0",
+	"id": "alk.fps-shower",
+	"name": "FPS Shower",
+	"developer": "alk",
+	"description": "FPS overlay with a funny name",
+	"settings": {
+		"text-color": {
+            "type": "color",
+            "default": "#ff00ff"
+        }
+	}
+}
