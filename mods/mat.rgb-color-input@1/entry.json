@@ -5,8 +5,8 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/matcool/indexer/raw/main/mat.rgb-color-input@1/mod.geode",
-        "hash": "6e2e7b73bc8ce9c653fa79bb054c3582935ba96a55b75808806738567e3ceaff"
+        "download": "https://github.com/matcool/indexer/raw/HEAD/mat.rgb-color-input@1/mod.geode",
+        "hash": "4a832947c16641deb09c9b622ac4a50adb40e6593a7c9792f658d2f2b64a7a70"
     },
     "tags": []
 }

@@ -1,6 +1,6 @@
 {
 	"geode": "v1.0.0",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"id": "mat.rgb-color-input",
 	"name": "RGB Color Input",
 	"developer": "mat",

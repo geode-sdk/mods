@@ -5,8 +5,8 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/matcool/indexer/raw/main/mat.circle-tool@1/mod.geode",
-        "hash": "ebc49e8f25e1c700d9c9fcb301b0cf6264e666554e661c7059d6749aedac9371"
+        "download": "https://github.com/matcool/indexer/raw/HEAD/mat.circle-tool@1/mod.geode",
+        "hash": "864101391de31fe5708a29695dea23d4ba27ab490334f744b5781cebc0c63542"
     },
     "tags": []
 }

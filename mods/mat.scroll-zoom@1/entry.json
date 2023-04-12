@@ -5,8 +5,8 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/matcool/indexer/raw/main/mat.scroll-zoom@1/mod.geode",
-        "hash": "5d1d4defefe593a804d941081fa56b17cf7e69970dd3719d75b3bb374ad8a0e2"
+        "download": "https://github.com/matcool/indexer/raw/HEAD/mat.scroll-zoom@1/mod.geode",
+        "hash": "2a803068eeb1dfd727fffc209bf88e61c2682648a84deb5f6566c468c3b76f18"
     },
     "tags": []
 }

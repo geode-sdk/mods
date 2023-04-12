@@ -4,8 +4,8 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/matcool/indexer/raw/main/mat.fps-bypass@1/mod.geode",
-        "hash": "674ff904b7f19f7371f7990f39642ace711c3023c325c26fc81ca23baad07f26"
+        "download": "https://github.com/matcool/indexer/raw/HEAD/mat.fps-bypass@1/mod.geode",
+        "hash": "b360d1260ef8c9b2e9a9ec2feb8dde55db8ec853fdf09a02a2123b53fefc6d02"
     },
     "tags": []
 }

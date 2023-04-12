@@ -5,8 +5,8 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/matcool/indexer/raw/main/mat.practice-music@1/mod.geode",
-        "hash": "f4eeda3ab38918f5500076870fd4c3bc33e971d9d61d972d179fbb6ad38b6d4b"
+        "download": "https://github.com/matcool/indexer/raw/HEAD/mat.practice-music@1/mod.geode",
+        "hash": "33cfd5a3bb24a7c71967c39e906379eca071da49698773371c53604193aaf1fa"
     },
     "tags": []
 }
