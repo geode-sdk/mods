@@ -5,7 +5,7 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/Fleeym/indexer/raw/HEAD/fleym.nongd@1/mod.geode",
+        "download": "https://github.com/Fleeym/indexer/raw/fac17390499c4e7d047e0ba28e1dc1008100be96/fleym.nongd@1/mod.geode",
         "hash": "007a795d896347a08dbbb782bbcab220cdad8267954bfba90803ae8a65c01ad7"
     },
     "tags": []
