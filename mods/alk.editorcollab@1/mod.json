@@ -1,6 +1,6 @@
 {
 	"geode": "1.0.0",
-	"version": "1.8.5-beta",
+	"version": "1.9.0-beta",
 	"id": "alk.editorcollab",
 	"name": "Editor Collab",
 	"developer": "alk",
@@ -30,6 +30,18 @@
 			"type": "bool",
 			"name": "Move button",
 			"description": "Move the Editor Collab button to the side of the create screen.",
+			"default": false
+		},
+		"normal-undo-local": {
+			"type": "bool",
+			"name": "Normal undo in local",
+			"description": "Uses the GD's undo redo system for local levels.",
+			"default": true
+		},
+		"normal-undo-shared": {
+			"type": "bool",
+			"name": "Normal undo in shared",
+			"description": "Uses the GD's undo redo system for shared levels.",
 			"default": false
 		}
 	}
