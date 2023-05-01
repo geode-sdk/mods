@@ -10,7 +10,9 @@
         ],
         "altalk23/geode-indexer": [
             "alk.editorcollab",
-            "alk.fps-shower"
+            "alk.fps-shower",
+            "alk.small-additions",
+            "alk.small-additions"
         ],
         "HJfod/geode-indexer": [
             "geode.devtools",
