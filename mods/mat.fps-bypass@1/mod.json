@@ -1,0 +1,31 @@
+{
+	"geode": "v1.0.0",
+	"version": "v1.0.3",
+	"id": "mat.fps-bypass",
+	"name": "FPS Bypass",
+	"developer": "mat",
+	"description": "Allows for greater FPS values",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"type": "bool",
+			"default": true
+		},
+		"fps-value": {
+			"name": "FPS value",
+			"type": "int",
+			"default": 60,
+			"min": 0,
+			"control": {
+				"input": true,
+				"arrows": false,
+				"slider": false
+			}
+		},
+		"fps-label": {
+			"name": "Show FPS label",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

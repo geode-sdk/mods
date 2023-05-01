@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-indexer/raw/32ef1f9b784bda9f7cd9c86b00d51d6779ca4da1/mat.rgb-color-input@1/mod.geode",
+        "hash": "f1f10b74b94daf75f7e05068640787fdf6531f658a1d14e2d265682e2e804241"
+    },
+    "tags": []
+}

@@ -20,6 +20,13 @@
         ],
         "Fleeym/indexer": [
             "fleym.nongd"
+        ],
+        "matcool/geode-indexer": [
+            "mat.circle-tool",
+            "mat.fps-bypass",
+            "mat.practice-music",
+            "mat.rgb-color-input",
+            "mat.scroll-zoom"
         ]
     },
     "verified": [

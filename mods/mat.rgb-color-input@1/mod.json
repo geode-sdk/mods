@@ -1,0 +1,8 @@
+{
+	"geode": "v1.0.0",
+	"version": "v1.0.2",
+	"id": "mat.rgb-color-input",
+	"name": "RGB Color Input",
+	"developer": "mat",
+	"description": "Edit colors precisely"
+}
