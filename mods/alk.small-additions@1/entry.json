@@ -4,8 +4,8 @@
         "macos"
     ],
     "mod": {
-        "download": "https://github.com/altalk23/geode-indexer/raw/e681c0f7c028e8eaf2a7551582922af70f846b74/alk.small-additions@1/mod.geode",
-        "hash": "0fc778364a723679853eda15f3648cd6c2e103de608001c5698f570d4dcac63c"
+        "download": "https://github.com/altalk23/geode-indexer/raw/1b5da5a529d1da80c31da93beda8c9dfd1b4a166/alk.small-additions@1/mod.geode",
+        "hash": "4cab3da6f68f0ec692b8c25b485bfac3c9858eef94f68e4f10ba39cb103d3af7"
     },
     "tags": []
 }
