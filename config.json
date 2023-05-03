@@ -29,6 +29,9 @@
             "mat.practice-music",
             "mat.rgb-color-input",
             "mat.scroll-zoom"
+        ],
+        "relativemodder/indexer": [
+            "rlt.gd-multiprofile-mod"
         ]
     },
     "verified": [

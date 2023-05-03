@@ -1,0 +1,11 @@
+{
+    "commit-author": "relativemodder",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/indexer/raw/f8c65856ee8b19e4a30529c4ad2e4043be0b5839/rlt.gd-multiprofile-mod@1/mod.geode",
+        "hash": "d74110acbf46979017162e8ad681505cfe5de88b8b0d9c5aafa2bbc750c85ae6"
+    },
+    "tags": []
+}
