@@ -31,7 +31,8 @@
             "mat.scroll-zoom"
         ],
         "relativemodder/indexer": [
-            "rlt.gd-multiprofile-mod"
+            "rlt.gd-multiprofile-mod",
+            "rlt.gd-platformer"
         ]
     },
     "verified": [

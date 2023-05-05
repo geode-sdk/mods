@@ -1,0 +1,13 @@
+{
+	"geode": "1.0.0-beta.16",
+	"version": "v1.0.0",
+	"id": "rlt.gd-platformer",
+	"name": "gd-platformer",
+	"developer": "RLT",
+	"description": "Just a simple platformer mod, nothing more.",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
