@@ -33,6 +33,9 @@
         "relativemodder/indexer": [
             "rlt.gd-multiprofile-mod",
             "rlt.gd-platformer"
+        ],
+        "FigmentBoy/indexer": [
+            "fig.video_player"
         ]
     },
     "verified": [
