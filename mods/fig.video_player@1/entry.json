@@ -4,8 +4,8 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/FigmentBoy/indexer/raw/9c42fbdfc48754509380eecaed4cf6b3f6ba31c1/fig.video_player@1/mod.geode",
-        "hash": "f230770838b9b01e801586ad92ea22bc140f39390fb9f3476d3602c30975d17f"
+        "download": "https://github.com/FigmentBoy/indexer/raw/f202ba1f14a0cb12c46c926f55453b6e4d43ac27/fig.video_player@1/mod.geode",
+        "hash": "f6497a2765dcb60ee543b356b10d21238191e39bcacca7d364b1f4eb058c10d7"
     },
     "tags": []
 }
