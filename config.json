@@ -39,6 +39,9 @@
         ],
         "ninXout/index-test": [
             "ninxout.crystalclient"
+        ],
+        "CattoDev/indexer": [
+            "cattodev.gatobot"
         ]
     },
     "verified": [
