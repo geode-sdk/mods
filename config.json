@@ -42,6 +42,11 @@
         ],
         "CattoDev/indexer": [
             "cattodev.gatobot"
+        ],
+        "ruslan831/indexer": [
+            "ruslan.apm",
+            "ruslan.ne",
+            "ruslan.nm"
         ]
     },
     "verified": [
