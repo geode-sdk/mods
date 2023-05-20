@@ -36,6 +36,9 @@
         ],
         "FigmentBoy/indexer": [
             "fig.video_player"
+        ],
+        "ninXout/index-test": [
+            "ninxout.crystalclient"
         ]
     },
     "verified": [
