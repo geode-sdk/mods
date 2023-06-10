@@ -5,8 +5,8 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/HJfod/geode-indexer/raw/171c377c64b0bebd9bafae25dc08cc394a6bbdbd/geode.devtools@1/mod.geode",
-        "hash": "af9121570bf2fabae43bc2bc0a7c925487d3ca750d7f0c10d03afedc59b1461c"
+        "download": "https://github.com/HJfod/geode-indexer/raw/30121c952a7bf77c64e26b334fb6550a2bb82c39/geode.devtools@1/mod.geode",
+        "hash": "627060f2f69132d25719ad80cc9bac68b75e6157fb14e74c2e8ac9317d50c29d"
     },
     "tags": []
 }
