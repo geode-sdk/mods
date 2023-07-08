@@ -1,6 +1,6 @@
 {
-	"geode": "1.0.0-beta.16",
-	"version": "2.0.0",
+	"geode": "1.0.0",
+	"version": "2.2.0",
 	"id": "alk.small-additions",
 	"name": "Small Additions",
 	"developer": "alk",
@@ -24,6 +24,12 @@
 			"type": "bool",
 			"name": "Player Flags",
 			"description": "Randomly adds pride flags to the icons in the chat.",
+			"default": true
+		},
+		"disable-save-unfocus": {
+			"type": "bool",
+			"name": "Disable Save on Unfocus",
+			"description": "Disables saving on unfocusing the window.",
 			"default": true
 		}
 	}
