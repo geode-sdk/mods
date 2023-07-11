@@ -1,0 +1,11 @@
+{
+    "commit-author": "Igbalabanov",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Igbalabanov/indexer/raw/65204ed2a01bf1a701b5a10afb9fac62d83a02e9/chs000.modmenutest@0/mod.geode",
+        "hash": "613c8f40be15c4b946a6ce75db5a1fb9e930eebe1a3fac7c0c67ae8c6183084d"
+    },
+    "tags": []
+}

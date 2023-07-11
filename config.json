@@ -46,6 +46,10 @@
             "ruslan.apm",
             "ruslan.ne",
             "ruslan.nm"
+        ],
+        "Igbalabanov/indexer": [
+            "chs.confirmquit",
+            "chs000.modmenutest"
         ]
     },
     "verified": [
