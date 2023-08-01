@@ -53,6 +53,9 @@
         ],
         "o7Moon/indexer": [
             "o7moon.noglow"
+        ],
+        "balt-dev/indexer": [
+            "balt.freewindow"
         ]
     },
     "verified": [
