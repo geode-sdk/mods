@@ -1,0 +1,11 @@
+{
+    "commit-author": "HarmOnGitHub",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/HarmOnGitHub/indexer/raw/f442231cd5ce1321c833f0e5688bd094f6b9a546/harm.restartkey@1/mod.geode",
+        "hash": "2ad8a9665181749aaca99d407b251cbe1b5c35395ee2090cfa915cc31400f48b"
+    },
+    "tags": []
+}

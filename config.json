@@ -56,6 +56,9 @@
         ],
         "balt-dev/indexer": [
             "balt.freewindow"
+        ],
+        "HarmOnGitHub/indexer": [
+            "harm.restartkey"
         ]
     },
     "verified": [
