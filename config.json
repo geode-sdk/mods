@@ -1,11 +1,7 @@
 {
     "repos": {
         "camila314/geode-index": [
-            "camila314.acbypass",
-            "camila314.alignto",
-            "camila314.bezier",
             "camila314.demonlist-button",
-            "camila314.noclip",
             "camila314.startswitcher"
         ],
         "altalk23/geode-indexer": [
