@@ -59,6 +59,9 @@
         ],
         "HarmOnGitHub/indexer": [
             "harm.restartkey"
+        ],
+        "Cvolton/geode-indexer": [
+            "cvolton.betterinfo"
         ]
     },
     "verified": [

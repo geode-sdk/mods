@@ -1,0 +1,11 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Cvolton/geode-indexer/raw/d8f3762ba47b55a13f34f666930a74f6a51ed5bc/cvolton.betterinfo@3/mod.geode",
+        "hash": "3970a3f935c15f996d2f34dadaab7fbe3ac8e4c168f01f0d2adb5892cf1d06ab"
+    },
+    "tags": []
+}
