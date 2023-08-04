@@ -4,8 +4,8 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/Cvolton/geode-indexer/raw/d8f3762ba47b55a13f34f666930a74f6a51ed5bc/cvolton.betterinfo@3/mod.geode",
-        "hash": "3970a3f935c15f996d2f34dadaab7fbe3ac8e4c168f01f0d2adb5892cf1d06ab"
+        "download": "https://github.com/Cvolton/geode-indexer/raw/dfae2ad103d263b73dc66afe95bd7eed4810ff22/cvolton.betterinfo@3/mod.geode",
+        "hash": "60fd298b77c2a9a2ea9390293331d15a25348af0b9b22690356c0a5d1e5b965a"
     },
     "tags": []
 }
