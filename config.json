@@ -69,5 +69,13 @@
         "HJfod",
         "altalk23",
         "FigmentBoy"
-    ]
+    ],
+    "entries": {
+        "alk.editorcollab": {
+            "verified": false,
+            "versions": [
+                "1.12.4-beta"
+            ]
+        }
+    }
 }
