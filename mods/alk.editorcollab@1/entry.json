@@ -5,9 +5,9 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/altalk23/EditorCollab/releases/download/v1.12.3/EditorCollab.geode",
-        "hash": "031812c34c9d73abaee3a6cf38586c8551bee7d6abd8dc41b4e7cf4583414b2b",
-        "hash256": "67c646d78f81e984574e7dc95504f2903ffec3297a2a43abdff595fea2409e16"
+        "download": "https://github.com/altalk23/EditorCollab/releases/download/v1.12.4/EditorCollab.geode",
+        "hash": "f043c4780b0b7d206a7da6c5baee521111b27417510adc123c93948dff9a388b",
+        "hash256": "d96c73cabae572bd0ecfc63deea6b8ad8d23cd4aa607a644a6cba96806f5242b"
     },
     "tags": [
         "Collab",
