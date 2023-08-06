@@ -79,6 +79,12 @@
                 "1.12.3-beta",
                 "1.12.1-beta"
             ]
+        },
+        "geode.texture-loader": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
