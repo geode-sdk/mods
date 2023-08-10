@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/MacosFPSBypass/releases/download/v1.0.0/alk.fpsbypass.geode",
+        "hash": "7ba586a49eca95bb2917b55a89a7828f8f889338b041397f0705235beea91b92",
+        "hash256": "d09b58db45ed9e7a9f62139ec360d8157344798a83bf9725a6229307a361c73b"
+    },
+    "tags": []
+}

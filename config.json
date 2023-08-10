@@ -101,6 +101,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "alk.fpsbypass": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
