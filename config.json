@@ -120,6 +120,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "alk.small-additions": {
+            "verified": false,
+            "versions": [
+                "2.2.1"
+            ]
         }
     }
 }
