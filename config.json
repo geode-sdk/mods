@@ -117,7 +117,8 @@
         "alk.small-additions": {
             "verified": false,
             "versions": [
-                "2.2.1"
+                "2.2.1",
+                "2.2.2"
             ]
         }
     }
