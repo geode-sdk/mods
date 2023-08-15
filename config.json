@@ -114,6 +114,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "alk.fps-bypass": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }

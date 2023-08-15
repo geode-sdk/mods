@@ -1,0 +1,24 @@
+{
+    "geode": "1.0.3",
+    "version": "1.0.2",
+    "id": "alk.fps-bypass",
+    "name": "FPS Bypass (MacOS)",
+    "developer": "alk",
+    "description": "An FPS bypass that replaces the internal timer.",
+    "dependencies": [],
+    "early-load": true,
+    "settings": {
+        "fps": {
+            "type": "float",
+            "name": "Set FPS",
+            "description": "Sets the framerate.",
+            "default": 60.0
+        },
+        "vsync": {
+            "type": "bool",
+            "name": "Enable VSync",
+            "description": "Enables the application VSync",
+            "default": true
+        }
+    }
+}
