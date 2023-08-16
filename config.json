@@ -123,6 +123,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "geode.devtools": {
+            "verified": false,
+            "versions": [
+                "1.2.0"
+            ]
         }
     }
 }
