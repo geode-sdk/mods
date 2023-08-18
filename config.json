@@ -115,7 +115,8 @@
             "verified": false,
             "versions": [
                 "2.2.1",
-                "2.2.2"
+                "2.2.2",
+                "2.2.3"
             ]
         },
         "alk.fps-shower": {
