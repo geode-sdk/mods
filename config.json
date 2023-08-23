@@ -145,6 +145,12 @@
             "versions": [
                 "3.0.2"
             ]
+        },
+        "mat.practice-music": {
+            "verified": false,
+            "versions": [
+                "1.0.4"
+            ]
         }
     }
 }
