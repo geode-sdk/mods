@@ -151,6 +151,12 @@
             "versions": [
                 "1.0.4"
             ]
+        },
+        "cvolton.robtop_bot": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
