@@ -143,7 +143,8 @@
         "cvolton.betterinfo": {
             "verified": false,
             "versions": [
-                "3.0.2"
+                "3.0.2",
+                "3.0.3"
             ]
         },
         "mat.practice-music": {
