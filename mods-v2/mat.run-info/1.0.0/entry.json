@@ -1,0 +1,13 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/run-info-v1.0.0/mat.run-info.geode",
+        "hash": "eb02b36291bfb084459f668b7516eb1412e94d0be1ca0674d56899ac462dd436",
+        "hash256": "9d389664c56dbed38d54241f274fb1c7aca32b7935604c96b44421b916f15930"
+    },
+    "tags": []
+}
