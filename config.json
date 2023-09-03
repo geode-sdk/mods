@@ -169,7 +169,8 @@
         "alk.drawing-utilities": {
             "verified": false,
             "versions": [
-                "0.1.0-alpha"
+                "0.1.0-alpha",
+                "0.2.0-alpha"
             ]
         }
     }
