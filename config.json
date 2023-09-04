@@ -242,6 +242,12 @@
             "versions": [
                 "1.0.3"
             ]
+        },
+        "hjfod.custom-keybinds": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
