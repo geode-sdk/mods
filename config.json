@@ -266,6 +266,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "mat.fps-bypass": {
+            "verified": false,
+            "versions": [
+                "1.0.3"
+            ]
         }
     }
 }
