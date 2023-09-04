@@ -260,6 +260,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "mat.circle-tool": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
