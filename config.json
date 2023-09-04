@@ -182,6 +182,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "camila314.acbypass": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
