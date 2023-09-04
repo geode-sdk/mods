@@ -230,6 +230,12 @@
             "versions": [
                 "0.1.2"
             ]
+        },
+        "fig.video_player": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
