@@ -320,6 +320,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ruslan.apm": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
