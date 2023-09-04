@@ -278,6 +278,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "mat.scroll-zoom": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
