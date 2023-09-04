@@ -272,6 +272,12 @@
             "versions": [
                 "1.0.3"
             ]
+        },
+        "mat.rgb-color-input": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }
