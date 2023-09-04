@@ -212,6 +212,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "cattodev.gatobot": {
+            "verified": false,
+            "versions": [
+                "1.3.0"
+            ]
         }
     }
 }
