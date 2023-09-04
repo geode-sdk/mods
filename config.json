@@ -302,6 +302,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "rlt.gd-platformer": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
