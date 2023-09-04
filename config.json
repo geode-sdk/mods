@@ -194,6 +194,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "camila314.demonlist-button": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
