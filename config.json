@@ -308,6 +308,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ruslan.ne": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
