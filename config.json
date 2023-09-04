@@ -296,6 +296,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "rlt.gd-multiprofile-mod": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
