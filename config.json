@@ -224,6 +224,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "chs000.modmenutest": {
+            "verified": false,
+            "versions": [
+                "0.1.2"
+            ]
         }
     }
 }

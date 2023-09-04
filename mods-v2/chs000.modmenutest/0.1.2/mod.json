@@ -1,0 +1,52 @@
+{
+	"geode": "1.0.0-beta.18",
+	"version": "v0.1.2",
+	"id": "chs000.modmenutest",
+	"name": "Cobalt Menu",
+	"developer": "chs000",
+	"description": "Simple Mod Menu",
+    "dependencies": [
+        {
+            "id": "camila314.acbypass",
+            "version": ">=v1.0.0",
+            "required": true
+        },
+        {
+            "id": "hjfod.custom-keybinds",
+            "version": "v1.0.0",
+            "required": true  
+        }
+    ],
+    "repository": "https://github.com/Igbalabanov/Cobalt-Menu",
+    "settings": {
+        "ShowOnStartup": {
+            "name": "Show On Startup",
+            "description": "Should the mod menu show on startup",
+            "type": "bool",
+            "default": true
+        },
+        "FontSize": {
+            "name": "Font Size",
+            "description": "The size of the font",
+            "type": "int",
+            "default": 16,
+            "min": 4,
+            "max": 50,
+            "control": {
+                "big-arrows": true,
+                "input": true
+            }
+        },
+        "isDebugOn": {
+            "name": "Enable Debug Mode",
+            "description": "Enables a menu for debugging cobalt",
+            "type": "bool",
+            "default": false
+        }
+    },
+    "resources": {
+        "files": [
+            "resources/Inter-Regular.ttf"
+        ]
+    }
+}
