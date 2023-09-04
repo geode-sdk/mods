@@ -1,0 +1,8 @@
+{
+	"geode":        "v1.0.0",
+	"version":      "v1.0.0",
+	"id":           "chs.confirmquit",
+	"name":         "Confirm Quit",
+	"developer":    "chs000",
+	"description":  "Simple Confirm Quit Mod"
+}
