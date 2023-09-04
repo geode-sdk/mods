@@ -206,6 +206,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "camila314.startswitcher": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
