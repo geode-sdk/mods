@@ -248,6 +248,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "hjfod.gdshare": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
