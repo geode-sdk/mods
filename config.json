@@ -284,6 +284,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ninxout.crystalclient": {
+            "verified": false,
+            "versions": [
+                "2.0.0"
+            ]
         }
     }
 }
