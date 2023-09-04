@@ -290,6 +290,12 @@
             "versions": [
                 "2.0.0"
             ]
+        },
+        "o7moon.noglow": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
