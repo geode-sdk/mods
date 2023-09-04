@@ -254,6 +254,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "hjfod.gmd-api": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
