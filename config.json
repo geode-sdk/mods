@@ -176,6 +176,12 @@
                 "0.2.1-alpha",
                 "0.2.2-alpha"
             ]
+        },
+        "balt.freewindow": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

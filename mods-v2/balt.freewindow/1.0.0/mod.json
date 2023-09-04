@@ -1,0 +1,9 @@
+{
+	"geode":        "v1.0.0-beta.18",
+	"version":      "v1.0.0",
+	"id":           "balt.freewindow",
+	"name":         "FreeWindow",
+	"developer":    "balt",
+	"description":  "Lets you freely resize the window.",
+	"binary":       "FreeWindow"
+}
