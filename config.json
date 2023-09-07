@@ -282,7 +282,8 @@
         "mat.scroll-zoom": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "ninxout.crystalclient": {
