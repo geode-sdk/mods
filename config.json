@@ -242,7 +242,8 @@
         "fleym.nongd": {
             "verified": false,
             "versions": [
-                "1.0.3"
+                "1.0.3",
+                "1.0.4"
             ]
         },
         "hjfod.custom-keybinds": {

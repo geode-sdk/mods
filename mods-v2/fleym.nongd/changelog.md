@@ -1,0 +1,42 @@
+# Changelog
+
+## v1.0.4
+
+ * Switched to using the new API for Song File Hub
+ * Gave the add song popup some elasticity
+
+## v1.0.3
+ 
+ * Removed all filters for the song file picker so that MacOS can actually use it.
+
+## v1.0.2
+
+ * Fixed a crash that occured by pressing ESC while downloading a NONG
+ * Disable NONGd for levels that use Robtop level songs
+ * Update json impl to match the new json library version API
+ * Add a small indicator to the song label to hint that you can click it
+ * Fixed text inputs for Geode v1.0.0-beta.14
+
+## v1.0.1
+
+ * Mod can now build on MacOS
+
+## v1.0.0
+
+ * Implement async file downloads
+ * Fix some crashes
+ * Only download one song at a time instead of downloading all of them
+ * Fix size label showing 0.00mb for undownloaded newgrounds songs
+ * Reduce calls to updateSongObject
+
+## v1.0.0-beta.3
+
+ * Fix the invalid SFH download popup being positioned weirdly
+ * Update the Custom Song Widget on every nong update
+ * Use layouts for list cells
+ * Try to fix unicode not being parsed correctly
+ * Fix nongd folder not being created properly on some occasions
+
+## v1.0.0-beta.1
+
+ * Initial version
