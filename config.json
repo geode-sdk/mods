@@ -336,7 +336,8 @@
         "camila314.betterloading": {
             "verified": false,
             "versions": [
-                "1.0.0-beta"
+                "1.0.0-beta",
+                "1.0.1-beta"
             ]
         },
         "camila314.bezier": {
