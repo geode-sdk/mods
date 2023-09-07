@@ -351,6 +351,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "alphalaneous.separatedualicons": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

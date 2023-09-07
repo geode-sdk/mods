@@ -1,0 +1,15 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphatism/indexer/raw/main/alphalaneous.separatedualicons@1/mod.geode",
+        "hash": "bf2157da4a62f472dbb0f9be75544d882350139b80862b10f3305fd3fe2a186d",
+        "hash256": "53f4a428d9dde2a4b5421e772d697c4586c94745efda882161e548523ea5b2d7"
+    },
+    "tags": [
+        "Player",
+        "Customization"
+    ]
+}
