@@ -1,12 +1,13 @@
 {
     "commit-author": "camila314",
     "platforms": [
-        "macos"
+        "macos",
+        "windows"
     ],
     "mod": {
         "download": "https://github.com/camila314/geode-mods/releases/download/1.0.0/bezier.geode",
-        "hash": "8553e889377a40be30fce955d897b34e42448919fb62655965d69e657055e56a",
-        "hash256": "d507becd63ab9c5c0504332bef34eb0acb3b8c5922ce16f9660f1f4a4b614a65"
+        "hash": "64f2a19b33700284df127aa1d544e99b4d083c78f1bddb8054a981c3aa0169e7",
+        "hash256": "1dfb6fa8755eef7c050327e652e0d8346d226d59630f28a314ab66a08f70cb75"
     },
     "tags": []
 }
