@@ -331,6 +331,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "camila314.betterloading": {
+            "verified": false,
+            "versions": [
+                "1.0.0-beta"
+            ]
         }
     }
 }
