@@ -345,6 +345,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "org.dogotrigger.deathreplay": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }
