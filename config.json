@@ -92,7 +92,8 @@
                 "1.12.6-beta",
                 "1.12.7-beta",
                 "1.12.8-beta",
-                "1.12.9-beta"
+                "1.12.9-beta",
+                "1.12.10-beta"
             ]
         },
         "geode.texture-loader": {
