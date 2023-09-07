@@ -338,6 +338,12 @@
             "versions": [
                 "1.0.0-beta"
             ]
+        },
+        "camila314.bezier": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
