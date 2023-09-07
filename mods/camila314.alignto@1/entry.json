@@ -1,13 +1,12 @@
 {
-    "commit-author": "altalk23",
+    "commit-author": "camila314",
     "platforms": [
-        "macos",
-        "windows"
+        "macos"
     ],
     "mod": {
-        "download": "https://github.com/camila314/geode-index/raw/44adc9bf8641229fbedd7883f352faaa47ed8d6c/camila314.alignto@1/mod.geode",
-        "hash": "da7d38200a4fad117342d4bca6f711fb816a4cf1d2656f52417fe1667d466147",
-        "hash256": "22886afa14c4b33284075f8be06477a71c68afe3d2ffe50cc95f146680e9cc65"
+        "download": "https://github.com/camila314/geode-mods/releases/download/1.0.0/alignto.geode",
+        "hash": "b97d8db58405a59199879ed22448cc2ce6e57e0558542c9fcce247bb37cc79f1",
+        "hash256": "32a1b69ebbea973e46e379b99c3e63230ea11e78e35e129b6d1a50262a04eaeb"
     },
     "tags": []
 }
