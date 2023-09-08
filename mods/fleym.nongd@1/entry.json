@@ -5,9 +5,9 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/Fleeym/nongd/releases/download/1.0.4/fleym.nongd.geode",
-        "hash": "b3321565259b4b5658ed42579696d4f73315b7e5a38d334c7b89c014e0a9be2f",
-        "hash256": "e4e41465db5f17f69daad98bc86c8fa73287cd2cb38dc03674d0c7556954fc9f"
+        "download": "https://github.com/Fleeym/nongd/releases/download/v1.0.5/fleym.nongd.geode",
+        "hash": "ec6278053d7569731d6046ca9c1a38f2999625d69d7615336f9374c93bdb937f",
+        "hash256": "c63a0e069da260de6b7284582f11e91565ad67b9689b124f072505eee3c969ee"
     },
     "tags": [
         "Music"
