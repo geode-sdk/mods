@@ -1,0 +1,20 @@
+{
+	"geode": "1.0.0",
+	"version": "v1.0.0",
+	"id": "geode.mouse-api",
+	"name": "Mouse API",
+	"developer": "Geode Team",
+	"description": "Support for more mouse buttons & hovering",
+	"resources": {
+		"spritesheets": {
+			"MouseSheet": [
+				"resources/*.png"
+			]
+		}
+	},
+	"api": {
+		"include": [
+			"include/*.hpp"
+		]
+	}
+}

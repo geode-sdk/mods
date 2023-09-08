@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/MouseAPI/releases/download/v1.0.0/geode.mouse-api.geode",
+        "hash": "80f8f907f6484b62d2a521a622db852334a1bb773d9596ca6f2cd932fd151d55",
+        "hash256": "863de513f5791c8ec11ab2dd055fc9cdb1c6984c037125a6bd13716ad40de7d5"
+    },
+    "tags": []
+}

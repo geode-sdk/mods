@@ -357,6 +357,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "geode.mouse-api": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
