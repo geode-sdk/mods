@@ -243,7 +243,8 @@
             "verified": false,
             "versions": [
                 "1.0.3",
-                "1.0.4"
+                "1.0.4",
+                "1.0.6"
             ]
         },
         "hjfod.custom-keybinds": {
