@@ -261,7 +261,8 @@
         "hjfod.gdshare": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "hjfod.gmd-api": {
