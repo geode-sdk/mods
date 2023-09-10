@@ -141,7 +141,8 @@
         "geode.devtools": {
             "verified": false,
             "versions": [
-                "1.2.0"
+                "1.2.0",
+                "1.2.1"
             ]
         },
         "cvolton.betterinfo": {
