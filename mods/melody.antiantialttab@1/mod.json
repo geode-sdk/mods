@@ -4,5 +4,6 @@
 	"id": "melody.antiantialttab",
 	"name": "AntiAntiAltTab",
 	"developer": "Melody",
-	"description": "Allows the game to continue running after alt-tabbing."
+	"description": "Allows the game to continue running after alt-tabbing.",
+	"repository": "https://github.com/melowody/AntiAntiAltTab-Geode"
 }

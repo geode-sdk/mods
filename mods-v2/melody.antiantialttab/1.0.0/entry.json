@@ -1,12 +1,12 @@
 {
-    "commit-author": "altalk23",
+    "commit-author": "melowody",
     "platforms": [
         "windows"
     ],
     "mod": {
         "download": "https://github.com/melowody/AntiAntiAltTab-Geode/releases/download/1.0.0/melody.antiantialttab.geode",
-        "hash": "c5c7be9354fdc4fcce62741bcace7ae34214843cc802780f33c4ea824c243e8f",
-        "hash256": "7c4cfb7daa22a4b89149a207375a671e386e0dc9087f20689013c24986909e60"
+        "hash": "758644299096d2dcc7d173e67f2dae53ab9b57b8de01712fda0f1df6bd0a0d21",
+        "hash256": "a8ff053364daf584c297a456c1dc43547ed780a134334385da06e98256d6de6b"
     },
     "tags": []
 }
