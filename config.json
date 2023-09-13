@@ -389,6 +389,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "mat.song-search": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

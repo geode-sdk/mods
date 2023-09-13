@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/song-search-v1.0.0/mat.song-search.geode",
+        "hash": "a9273cf221f0b23ebf537c218062882660420d595cd9d34de30941c9d7c3c705",
+        "hash256": "ce3268bac2083cb1f2db15235f6da96ed61571a685078b25cd287cf0ba0361b5"
+    },
+    "tags": []
+}
