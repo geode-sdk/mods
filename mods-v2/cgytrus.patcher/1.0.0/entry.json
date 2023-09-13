@@ -1,0 +1,15 @@
+{
+    "commit-author": "cgytrus",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/cgytrus/SimplePatchLoader/releases/download/v1.0.0/cgytrus.patcher.geode",
+        "hash": "a79575a96dd0221105d44bc39f10fe749f76a06fc55cb22d81796f64c5ae3d14",
+        "hash256": "885013b690bbe00c9ba8e3eec895c6c9227bd9b8cfa3946cd8b18efb099811e3"
+    },
+    "tags": [
+        "Customization"
+    ]
+}

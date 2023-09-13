@@ -383,6 +383,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "cgytrus.patcher": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
