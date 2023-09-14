@@ -401,7 +401,8 @@
         "geode.custom-keybinds": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.1.1"
             ]
         }
     }
