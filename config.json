@@ -373,7 +373,8 @@
         "alphalaneous.separatedualicons": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.2"
             ]
         },
         "geode.mouse-api": {
