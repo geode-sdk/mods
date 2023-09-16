@@ -1,0 +1,16 @@
+{
+    "commit-author": "user95401",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/user95401/gdPlatformerMode/releases/download/3.0.0.0/user95401.gdPlatformerMode.geode",
+        "hash": "0e557052695e61279375e2f84a242e16a93981d4",
+        "hash256": "d7737df31ba9456749b49a7620e57cf5808ab721bcf1532b1d4458fee70d686d"
+    },
+    "tags": [
+        "Player",
+        "Editor",
+        "Online"
+    ]
+}
