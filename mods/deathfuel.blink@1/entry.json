@@ -1,0 +1,12 @@
+{
+    "commit-author": "DeathFuel",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/DeathFuel/Blink/releases/download/v1.0.0/deathfuel.blink.geode",
+        "hash": "5b4c98f1d8a7db5b864d0e0c19d87b8b6b156417adbcb7426ad4843c7d28a768",
+        "hash256": "f68d91d6867fb7766bf37b24389bd15e17101d8ce46c0268372ff86ad61cb126"
+    },
+    "tags": []
+}

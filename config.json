@@ -409,6 +409,12 @@
                 "1.1.1",
                 "1.1.2"
             ]
+        },
+        "deathfuel.blink": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
