@@ -1,0 +1,36 @@
+{
+	"geode": "1.2.1",
+	"version": "v0.1.0",
+	"id": "abb2k.UltimateCustomDash",
+	"name": "Ultimate Custom Dash",
+	"developer": "abb2k",
+	"description": "Ultimate Custom Night in gd... yup!",
+	"resources": {
+        "files": [
+            "resources/CustomNightIcons/*.png",
+			"resources/CustomNightIcons/sound/*.wav",
+			"resources/CustomNightIcons/menu buttons/*.png",
+			"resources/CustomNightIcons/menu buttons/toggles/*.png",
+			"resources/CustomNightIcons/menu buttons/setall20/*.png",
+			"resources/CustomNightIcons/menu buttons/setall10/*.png",
+			"resources/CustomNightIcons/menu buttons/setall5/*.png",
+			"resources/CustomNightIcons/menu buttons/setall0/*.png",
+			"resources/CustomNightIcons/menu buttons/Powerups/*.png",
+			"resources/CustomNightIcons/menu buttons/Powerups/Frigid/*.png",
+			"resources/CustomNightIcons/menu buttons/Powerups/DD repel/*.png",
+			"resources/CustomNightIcons/menu buttons/Powerups/Battery/*.png",
+			"resources/CustomNightIcons/menu buttons/Powerups/3 coins/*.png",
+			"resources/CustomNightIcons/menu buttons/office/*.png",
+			"resources/CustomNightIcons/menu buttons/GO/*.png",
+			"resources/CustomNightIcons/menu buttons/Background tiles/*.png",
+			"resources/CustomNightIcons/menu buttons/Background tiles/Blue/*.png",
+			"resources/CustomNightIcons/menu buttons/Background tiles/Red/*.png",
+			"resources/CustomNightIcons/menu buttons/addall1/*.png",
+			"resources/CustomNightIcons/fonts/*.png",
+			"resources/CustomNightIcons/fonts/*.fnt",
+			"resources/CustomNightIcons/AILevelButtons/add/*.png",
+			"resources/CustomNightIcons/AILevelButtons/remove/*.png"
+        ]
+
+    }
+}
