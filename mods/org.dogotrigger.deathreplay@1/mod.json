@@ -29,6 +29,12 @@
 			"description": "Shows death particles.",
 			"type": "bool",
 			"default": true
+		},
+		"show-ghost": {
+			"name": "Show Ghost",
+			"description": "Shows ghost from previous attempt in Normal mode.",
+			"type": "bool",
+			"default": false
 		}
 	}
 }
