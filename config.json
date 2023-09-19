@@ -433,6 +433,12 @@
             "versions": [
                 "0.1.0"
             ]
+        },
+        "fig.zbot": {
+            "verified": false,
+            "versions": [
+                "3.0.0-beta.1"
+            ]
         }
     }
 }

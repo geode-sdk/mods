@@ -1,0 +1,15 @@
+{
+    "commit-author": "FigmentBoy",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://zbot.figmentcoding.me/static/geode/v3.0.0-beta.1/fig.zbot.geode",
+        "hash": "f35aed627492eee811ceab105e9052ffd47c50ca9133f73cf76fdd1800ae255a",
+        "hash256": "b5778e7b6ff91b4b1c14b6b1175cd38902f0166550301c9d7c608004562b2337"
+    },
+    "tags": [
+        "Player"
+    ]
+}
