@@ -442,6 +442,12 @@
                 "3.0.0-beta.2",
                 "3.0.0-beta.3"
             ]
+        },
+        "dankmeme.globed": {
+            "verified": false,
+            "versions": [
+                "0.1.2"
+            ]
         }
     }
 }
