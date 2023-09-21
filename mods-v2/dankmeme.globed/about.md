@@ -2,7 +2,7 @@
 
 Globed is an open-source, highly customizable multiplayer mod for Geometry Dash.
 
-It is very much in beta, and will probably be buggy and laggy. Please be aware of that. If you can reproduce a crash then please report it to the developer, but if it's a random crash that you have no idea how it happened, I doubt I'll be able to help.
+It is very much in beta, and you may expierence some issues, especially if you live far from the server location. For optimal experience, make sure to update the mod whenever available, so you get all the latest bugfixes.
 
 ## Usage
 
@@ -16,4 +16,4 @@ If you want to change the URL of the Central Server, open the Globed Menu and pr
 
 ## Status
 
-The mod is in beta and I don't have a massive motivation anymore to work on it, feel free to make changes, forks or whatever you want. I'll try to maintain it (including the servers) but can't promise
+The mod is in beta and I don't have a massive motivation anymore to work on it, but I will try to fix bugs, add some features and maintain servers. If you are a developer, feel free to fork the repository or use the code in any way you want.
