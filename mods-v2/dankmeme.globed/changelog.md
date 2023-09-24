@@ -1,3 +1,12 @@
+# v0.2.1
+
+* Made the server levels list much faster and more efficient (thanks to Cvolton and Alphalaneous)
+* Fixed a typo in mod's description (thanks Aktimoose)
+* Made it impossible to get a million error popups get thrown at you
+* (hopefully) controller back button works now to exit menus (made exclusively for Cvolton)
+* Added better validation on the server for invalid names and icons
+* Tweaked mod logo & menu icon again (thanks to Alphalaneous and ca7x3)
+
 # v0.2.0
 
 ## Lag is no more (sort of)
