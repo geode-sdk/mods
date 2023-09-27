@@ -1,3 +1,14 @@
+# v0.3.0
+
+* Made it so that you can see other players move while paused (thanks mat for helping to figure it out)
+* Changed the player progress indicator to a much prettier one
+* Mac support (largely untested, thanks a lot to Firee for helping with it)
+* Added glow for player icons
+* Changed interpolation (again?) to make other players move smoother (maybe?)
+* Fixed some other bugs
+
+Due to protocol changes, this is a required update. Without it you won't be able to connect to official servers.
+
 # v0.2.1
 
 * Made the server levels list much faster and more efficient (thanks to Cvolton and Alphalaneous)
