@@ -1,3 +1,13 @@
+# v0.3.1
+
+* Hide progress indicators of other players when the progress bar is hidden
+* Add an option to change the size of the progress indicator
+* Add an option to show your own icon below the progress bar too
+* Add lines to the progress indicators
+* Add a button on the level page to open the server levels list
+* Fixed a very obscure crash
+* Fixed a small Mac issue
+
 # v0.3.0
 
 * Made it so that you can see other players move while paused (thanks mat for helping to figure it out)
