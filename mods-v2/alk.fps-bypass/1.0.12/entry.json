@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/GeodeMods/releases/download/v1.0.12-fps-bypass/alk.fps-bypass.geode",
+        "hash": "8088d27398bf16eabb6ac378b27422c273d80b6d03c83fbee03b55f0b5f9bc77",
+        "hash256": "de5ac1b934b43d4dacea2eb8f500a559f829b283a55e74da762582891511cd42"
+    },
+    "tags": []
+}
