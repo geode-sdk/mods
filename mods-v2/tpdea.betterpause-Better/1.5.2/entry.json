@@ -1,0 +1,14 @@
+{
+    "commit-author": "TpdeaX",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TpdeaX/indexer/raw/2aa2fdf22220a2e825f8468765b2ce779db42bb8/tpdea.betterpause-Better@1/mod.geode",
+        "hash": "64e1b4af7b252568079cc83578b64c5073db62bc2698e2d0b2564fae8fbe80be",
+        "hash256": "76f620c4a58e8b51710172b952a2d678407746c57d15f83a362236dc960626b8"
+    },
+    "tags": [
+        "Customization"
+    ]
+}

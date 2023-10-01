@@ -489,6 +489,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "tpdea.betterpause-Better": {
+            "verified": false,
+            "versions": [
+                "1.5.2"
+            ]
         }
     }
 }
