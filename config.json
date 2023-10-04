@@ -450,7 +450,8 @@
         "abb2k.UltimateCustomDash": {
             "verified": false,
             "versions": [
-                "0.1.0"
+                "0.1.0",
+                "0.1.0-alpha"
             ]
         },
         "fig.zbot": {
