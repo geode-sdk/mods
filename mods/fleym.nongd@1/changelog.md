@@ -1,5 +1,19 @@
 # Changelog
 
+## v1.1.0
+
+ * Changed the song size label to show N/A instead of 0.00MB for songs that are missing their file
+ * Added a setting that prevents mashup downloading from Song File Hub
+ * Added a "Remove All" button to the NONG list
+ * Fixed aspect ratio issues in the popups
+ * Copy locally added nongs to the mod storage instead of using the file provided by the user
+ * Created a manifest system to track JSON structure updates
+ * Added a button that opens the settings page in the nong popup
+
+## v1.0.6
+
+ * Fixed a bug that prevented saving songs to disk if the Song File Hub name contained Unicode characters
+
 ## v1.0.4
 
  * Switched to using the new API for Song File Hub
