@@ -1,0 +1,17 @@
+{
+	"geode": "1.2.1",
+	"version": "v1.0.0",
+	"id": "alphalaneous.integrated_loquibot",
+	"name": "Integrated Loquibot",
+	"developer": "Alphalaneous",
+	"description": "Interact with the Loquibot Level Request bot in game.",
+	"resources": {
+        "sprites": [
+            "resources/LB_blockCreatorBtn.png",
+			"resources/LB_blockLevelBtn.png",
+			"resources/LB_blockUserBtn.png",
+			"resources/LB_randomBtn.png",
+			"resources/loqui.png"
+        ]
+    }
+}

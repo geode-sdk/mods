@@ -500,6 +500,12 @@
             "versions": [
                 "1.5.2"
             ]
+        },
+        "alphalaneous.integrated_loquibot": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
