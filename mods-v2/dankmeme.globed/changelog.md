@@ -1,3 +1,18 @@
+# v0.4.0
+
+* Added <cg>spectating</c>!!!! (it actually works!!!!) (experimental!!!!)
+* Added <cy>death effects</c>, and two new settings for controlling them
+* Added <cj>level ending animation</c>
+* Added a setting to disable the overlay text when in a custom level or disconnected
+* Ported the mod to <cg>Android</c> for the upcoming Geode 1.4.0 release
+* Fixed major bugs on Mac
+* Added glow to the cube passenger inside ship & ufo
+* Added glow to the icons in the spectate list
+* Fixed dash rotations being buggy
+* Removed the default mini icons setting because it didn't work properly
+
+Due to protocol changes, this is a required update. Without it you won't be able to connect to official servers.
+
 # v0.3.2
 
 * Improve the progress indicator
