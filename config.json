@@ -509,6 +509,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "hjfod.volumescrollwheel": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }
