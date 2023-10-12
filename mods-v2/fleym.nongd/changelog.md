@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.1
+
+ * Add experimental Android support
+
 ## v1.1.0
 
  * Changed the song size label to show N/A instead of 0.00MB for songs that are missing their file
