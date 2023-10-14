@@ -14,7 +14,6 @@
         ],
         "HJfod/geode-indexer": [
             "geode.devtools",
-            "hjfod.custom-keybinds",
             "hjfod.gdshare",
             "hjfod.gmd-api"
         ],
@@ -280,12 +279,6 @@
                 "1.0.6",
                 "1.1.0",
                 "1.1.1"
-            ]
-        },
-        "hjfod.custom-keybinds": {
-            "verified": false,
-            "versions": [
-                "1.0.0"
             ]
         },
         "hjfod.gdshare": {
