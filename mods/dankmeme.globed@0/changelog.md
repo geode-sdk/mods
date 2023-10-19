@@ -1,3 +1,8 @@
+# v0.4.2
+
+* Potentially fixed some bugs specific to Mac
+* Auto music sync when spectating now works on Android
+
 # v0.4.1
 
 * Fixed the random safe mode bug when completing a level (oops)
