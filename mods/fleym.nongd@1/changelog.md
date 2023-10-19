@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.0
+
+ * Replace old popup with a layer that fits the game more
+ * Recompile for Android NDK r26b
+
 ## v1.1.1
 
  * Add experimental Android support
