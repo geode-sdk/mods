@@ -1,0 +1,13 @@
+{
+	"geode": "1.3.0",
+	"version": "v1.0.0",
+	"id": "camila314.song-randomizer",
+	"name": "Song Randomizer",
+	"developer": "camila314",
+	"description": "Finds random songs for you",
+	"resources": {
+		"sprites": [
+			"images/dice.png"
+		]
+	}
+}
