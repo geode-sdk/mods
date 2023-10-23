@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.1
+
+ * Increased the Z Layer for the NONG popup
+
 ## v1.2.0
 
  * Replace old popup with a layer that fits the game more
