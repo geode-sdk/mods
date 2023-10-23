@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.2
+
+ * Fix crashes on Android
+
 ## v1.2.1
 
  * Increased the Z Layer for the NONG popup
