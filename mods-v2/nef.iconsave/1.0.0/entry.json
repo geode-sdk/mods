@@ -1,0 +1,12 @@
+{
+    "commit-author": "not-nef",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/not-nef/IconSave/releases/download/v1.0.0/nef.iconsave.geode",
+        "hash": "3588f09fbbaa9cbe4e1025682bc5fe3617b5b1c11e3d6508dba31a87c021067d",
+        "hash256": "9b0cdec3b908477f9d74afe5b599cd153f3a5eeb4f2963240b40ccc81ae02a84"
+    },
+    "tags": []
+}
