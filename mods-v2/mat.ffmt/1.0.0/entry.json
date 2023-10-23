@@ -1,0 +1,14 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/ffmt-v1.0.0/mat.ffmt.geode",
+        "hash": "782fab0761f16a74e9257127b5aea5e324268d97d762203f954cfb59bb3533f2",
+        "hash256": "be07959df662990a4c85d9b243187ab130709bde4caf1e6a4a63bbb2f09638f7"
+    },
+    "tags": [
+        "Optimization"
+    ]
+}
