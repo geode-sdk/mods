@@ -537,6 +537,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "muhammadgames.bettermenu": {
+            "verified": false,
+            "versions": [
+                "1.0.4-beta.8"
+            ]
         }
     }
 }

@@ -1,0 +1,15 @@
+{
+    "commit-author": "MuhXd",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/MuhXd/BetterMenuMod/releases/download/v1.0.4-beta.8/muhammadgames.bettermenu.geode",
+        "hash": "47d33ae11bbc0a85184ba59acf39b7ac403e876999fcc97f4220eb59124099f4",
+        "hash256": "027c3a7399e415fd89e97ec60e1233c6b1b9c8f1fca54a1e7bcdc9ce8c03baff"
+    },
+    "tags": [
+        "Customization"
+    ]
+}
