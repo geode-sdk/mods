@@ -1,0 +1,16 @@
+{
+	"geode": "1.3.5",
+	"version": "v1.0.0",
+	"id": "n.level_pronouns",
+	"name": "Level Pronouns",
+	"developer": "n",
+	"description": "Adds pronouns to levels!",
+	"settings": {
+		"neopronouns": {
+			"name": "Use Neopronouns",
+			"description": "Use neopronouns in levels. <cy>Warning</c>: Disabling will make levels with neopronouns have normal pronouns.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

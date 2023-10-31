@@ -1,0 +1,13 @@
+{
+    "commit-author": "camila314",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/NicknameGG/level-pronouns/releases/download/1.0.0/n.level_pronouns.geode",
+        "hash": "060320c325b36f8fcd0374f6cdb2741fd5e2f687690868fafb76c0e16b0bac6c",
+        "hash256": "5681b339a31edc64b033a1b39c117800bfd77af5a97cec0c5a5a579eb68a873c"
+    },
+    "tags": []
+}
