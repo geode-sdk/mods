@@ -556,6 +556,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "endrei.mappacksremover": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
