@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.3
+
+ * Fix crash when adding a NONG manually for the first time
+
 ## v1.2.2
 
  * Fix crashes on Android
