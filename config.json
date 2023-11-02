@@ -562,6 +562,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "capeling.demons_in_garage": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
