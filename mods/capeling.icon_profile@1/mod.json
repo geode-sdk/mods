@@ -1,0 +1,12 @@
+{
+	"geode": "1.3.5",
+	"version": "v1.1.0",
+	"id": "capeling.icon_profile",
+	"name": "Icon Profile",
+	"developer": "Capeling",
+	"description": "Replaces the Main Menu Profile Sprite with your icon!",
+	"repository": "https://github.com/Capeling/icon-profile-geode/",
+	"tags": [
+		"Customization"
+	]
+}

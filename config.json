@@ -568,6 +568,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "capeling.icon_profile": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }

@@ -1,0 +1,15 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/icon-profile-geode/releases/download/1.1.0/capeling.icon_profile.geode",
+        "hash": "170ec58925ec6b257f3709460b4631321ecf585ce487b903e88b382ae87e682a",
+        "hash256": "1ac2839308504c4181d7f9e2ac203eaec8e2d3bc004e4e50f029a8392246d05c"
+    },
+    "tags": [
+        "Customization"
+    ]
+}
