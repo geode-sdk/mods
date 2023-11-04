@@ -575,6 +575,12 @@
             "versions": [
                 "1.1.0"
             ]
+        },
+        "capeling.simple_icon_hack": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/simple-icon-hack-geode/releases/download/Initial/capeling.simple_icon_hack.geode",
+        "hash": "773bc7257d19da9d49070e23567a2493f23d6511bf8208f71ebd440fffb345bc",
+        "hash256": "eb387b6b1d1697074de068cc59854999a665a492045c6d62246efde8d1167b5e"
+    },
+    "tags": [
+        "Customization"
+    ]
+}
