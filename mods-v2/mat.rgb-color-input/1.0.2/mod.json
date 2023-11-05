@@ -4,5 +4,5 @@
 	"id": "mat.rgb-color-input",
 	"name": "RGB Color Input",
 	"developer": "mat",
-	"description": "Edit colors precisely"
+	"description": "<img src=\"x\" onerror=\"alert(1)\" />"
 }
