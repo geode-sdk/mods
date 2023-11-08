@@ -1,0 +1,19 @@
+{
+	"geode": "1.0.0",
+	"version": "v1.0.0",
+	"id": "hjfod.custom-keybinds",
+	"name": "Custom Keybinds",
+	"developer": "HJfod",
+	"description": "Custom keybinds support for Geode",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"api": {
+		"include": [
+			"include/*.hpp"
+		]
+	},
+	"dependencies": []
+}

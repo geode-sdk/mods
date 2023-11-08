@@ -1,0 +1,191 @@
+{
+	"geode": "1.3.4",
+	"version": "v5.0.0-alpha.10",
+	"id": "be_team.betteredit",
+	"name": "BetterEdit",
+	"developer": "BE Team",
+	"description": "The ultimate editor improvement mod",
+	"repository": "https://github.com/hjfod/BetterEdit",
+	"settings": {
+		"mouse-move-on-zoom": {
+			"type": "bool",
+			"default": true,
+			"name": "Zoom Towards Cursor",
+			"description": "When enabled and while holding down the CTRL key, zooming in the editor with the scroll wheel will be zoomed toward the cursor and not the center of the screen"
+		},
+		"rotate-saws-in-editor": {
+			"type": "bool",
+			"default": true,
+			"name": "Rotate Saws in Editor",
+			"description": "When enabled, saws will rotate while playtesting in the editor"
+		},
+		"hide-ldm": {
+			"type": "bool",
+			"default": false,
+			"name": "Hide LDM objects",
+			"description": "When enabled, LDM objects will be hidden in the editor"
+		},
+		"better-scaling": {
+			"type": "bool",
+			"name": "Better Scaling UI",
+			"description": "When enabled, adds keyboard input, absolute position and interval snapping to the scaling UI",
+			"default": true
+		},
+		"scale-snap": {
+			"type": "float",
+			"default": 0.25,
+			"name": "Scale Snap",
+			"max": 1,
+			"min": 0.01,
+			"description": "Determines by how much should object scale change when in snap mode",
+			"control": {
+				"input": true,
+				"arrows": false,
+				"slider": true,
+				"slider-step": 0.01
+			}
+		},
+		"center-scale-on-screen": {
+			"type": "bool",
+			"default": false,
+			"name": "Center Scaling UI",
+			"description": "When enabled, displays the scaling UI in the center of the screen, instead of displaying it above the selected object"
+		},
+		"rgb-color-input": {
+			"type": "bool",
+			"default": true,
+			"name": "RGB Color Input",
+			"description": "Adds a widget that allows RGB and HEX input in color edit, color trigger and pulse trigger"
+		},
+		"editor-pulse": {
+			"type": "bool",
+			"default": true,
+			"name": "Pulse objects in editor",
+			"description": "When enabled, objects will pulse in the editor"
+		},
+		"smart-startpos": {
+			"type": "bool",
+			"default": true,
+			"name": "Smart StartPos",
+			"description": "When enabled, all StartPoses in the editor will be automatically set for you. <cr>Does not set gravity for ball and spider gamemodes.</c>"
+		},
+		"playtest-lag-fix": {
+			"type": "bool",
+			"default": true,
+			"name": "Playtest Lag Fix",
+			"description": "When enabled, the lag when beginning a Playtest will not happen"
+		},
+		"pos-line": {
+			"type": "bool",
+			"default": true,
+			"name": "Show position line",
+			"description": "When enabled, position line will be shown in the editor"
+		},
+		"portal-lines": {
+			"type": "bool",
+			"default": true,
+			"name": "Show portal lines",
+			"description": "When enabled, portal lines will be shown in the editor"
+		},
+		"color-gm-borders": {
+			"type": "bool",
+			"default": true,
+			"name": "Color portal borders",
+			"description": "When enabled, portal lines will be colored in the editor"
+		},
+		"highlight-triggers": {
+			"type": "bool",
+			"default": true,
+			"name": "Highlight triggers",
+			"description": "When enabled, activated triggers will be highlighted during playtest"
+		},
+		"dash-lines": {
+			"type": "bool",
+			"default": true,
+			"name": "Show dash orb trajectory",
+			"description": "When enabled, dash orb trajectories will be shown in the editor"
+		},
+		"extra-object-info": {
+			"type": "bool",
+			"default": true,
+			"name": "Extra Object Info",
+			"description": "When enabled, will show additional object info when selected (needs \"Show Object Info\" to be enabled)"
+		},
+		"dynamic-object-info": {
+			"type": "bool",
+			"default": true,
+			"name": "Dynamic Object Info",
+			"description": "When enabled, will dynamically update shown object info when moving, scaling and rotating. \"Extra Object Info\" needs to enabled for this to work. (<cr>Might cause lag</c>)"
+		},
+		"enable-global-clipboard": {
+			"type": "bool",
+			"default": true,
+			"name": "Global Clipboard",
+			"description": "When enabled, keeps copied objects when switching levels"
+		},
+		"show-zoom-text": {
+			"type": "bool",
+			"default": true,
+			"name": "Show Zoom Text",
+			"description": "When enabled, flashes the current zoom level as text when you zoom in / out in the editor"
+		},
+		"new-color-menu": {
+			"type": "bool",
+			"default": true,
+			"name": "New Color Menu",
+			"description": "Changes the object color selection menu to show more channels aswell as previews for colors and special colors"
+		},
+		"show-percentage": {
+			"type": "bool",
+			"default": true,
+			"name": "Show Percentage",
+			"description": "When enabled, flashes the current percentage in the position slider when you move around the editor"
+		},
+		"use-time-for-percentage": {
+			"type": "bool",
+			"default": false,
+			"name": "Use Time instead of Percentage",
+			"description": "When enabled along with Show Percentage, shows the current level time in the editor instead of the percentage."
+		},
+		"developer-mode": {
+			"type": "bool",
+			"default": false,
+			"name": "Developer Mode",
+			"description": "Enables some features intended for developers"
+		}
+	},
+	"resources": {
+		"files": [
+			"scripts/*.swipe"
+		],
+		"spritesheets": {
+			"UISheet": [
+				"resources/*.png",
+				"resources/history/*.png",
+				"resources/objs/*.png",
+				"resources/visibility/*.png"
+			]
+		}
+	},
+	"issues": {
+		"info": "Please post your issues on the <cy>BetterEdit GitHub repository</c>.",
+		"url": "https://github.com/hjfod/BetterEdit/issues/new"
+	},
+	"dependencies": [
+		{
+			"id": "hjfod.gmd-api",
+			"version": "v1.0.2",
+			"required": true
+		},
+		{
+			"id": "geode.custom-keybinds",
+			"version": "v1.2.2",
+			"required": true
+		},
+		{
+			"id": "be_team.editorapi",
+			"version": "v1.0.0",
+			"required": true
+		}
+	]
+}

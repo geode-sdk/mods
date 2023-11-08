@@ -1,11 +1,11 @@
 {
-    "commit-author": "altalk23",
+    "commit-author": "HJfod",
     "platforms": [
         "macos",
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/HJfod/geode-indexer/raw/30121c952a7bf77c64e26b334fb6550a2bb82c39/hjfod.gmd-api@1/mod.geode",
+        "download": "https://github.com/HJfod/geode-indexer/raw/c673a35567d5426ee7447dda1c6ba65cf87f6af2/hjfod.gmd-api@1/mod.geode",
         "hash": "a9c699d403e5de5c7f426a8510c5df047db5a6b766ed5c327e4e72564e20752e",
         "hash256": "e7e16021664151e2a5f000b9b81cbdc471a9f22a7dee63caaf422876184b32bd"
     },

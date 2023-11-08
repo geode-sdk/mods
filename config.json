@@ -12,11 +12,7 @@
             "alk.fps-shower",
             "alk.small-additions"
         ],
-        "HJfod/geode-indexer": [
-            "geode.devtools",
-            "hjfod.gdshare",
-            "hjfod.gmd-api"
-        ],
+        "HJfod/geode-indexer": [],
         "Fleeym/indexer": [
             "fleym.nongd"
         ],
@@ -164,7 +160,8 @@
                 "1.2.0",
                 "1.2.1",
                 "1.2.2",
-                "1.2.3"
+                "1.2.3",
+                "1.1.1"
             ]
         },
         "cvolton.betterinfo": {
@@ -580,6 +577,24 @@
             ]
         },
         "capeling.simple_icon_hack": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
+        },
+        "be_team.betteredit": {
+            "verified": false,
+            "versions": [
+                "5.0.0-alpha.10"
+            ]
+        },
+        "be_team.editorapi": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
+        },
+        "hjfod.custom-keybinds": {
             "verified": false,
             "versions": [
                 "1.0.0"
