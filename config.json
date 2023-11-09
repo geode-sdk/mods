@@ -599,6 +599,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "kolyah35.clipboardfix": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
