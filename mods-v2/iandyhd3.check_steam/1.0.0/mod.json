@@ -1,0 +1,24 @@
+{
+	"geode": "1.3.6",
+	"version": "v1.0.0",
+	"id": "iandyhd3.check_steam",
+	"name": "Check Steam",
+	"developer": "iAndyHD3",
+	"description": "check steam",
+	"resources": {
+		"sprites": [
+			"resources/steam.png"
+		]
+	},
+	"settings": {
+		"steam-db": {
+			"name": "Open SteamDB Link",
+			"type": "bool",
+			"description": "Opens the SteamDB branch history link instead of opening the steam client",
+			"default": false
+		}
+		
+	}
+
+
+}

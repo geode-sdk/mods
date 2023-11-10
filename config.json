@@ -620,6 +620,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "iandyhd3.check_steam": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

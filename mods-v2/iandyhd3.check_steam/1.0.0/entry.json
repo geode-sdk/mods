@@ -1,0 +1,12 @@
+{
+    "commit-author": "iAndyHD3",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/iAndyHD3/CheckSteam/releases/download/v1.0.0/iandyhd3.check_steam.geode",
+        "hash": "79481e208079c13f09bbf6c6b698592bf8040b16cc57b52cec85ebde02268fb2",
+        "hash256": "7e2c607cf62277fa57aa0bd634be75f52839b9fda6b5384651f6f65e3ce27e2c"
+    },
+    "tags": []
+}
