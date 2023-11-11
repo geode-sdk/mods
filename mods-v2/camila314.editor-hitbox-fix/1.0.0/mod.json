@@ -1,0 +1,8 @@
+{
+	"geode": "1.3.5",
+	"version": "v1.0.0",
+	"id": "camila314.editor-hitbox-fix",
+	"name": "Editor Hitbox Fix",
+	"developer": "camila314",
+	"description": "Fixes rotatable hitboxes in editor"
+}

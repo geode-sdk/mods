@@ -1,0 +1,13 @@
+{
+    "commit-author": "camila314",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/editor-hitbox-fix/releases/download/1.0.0/camila314.editor-hitbox-fix.geode",
+        "hash": "557a77ba0fdd218608c0b715323c8e7e3f6dda783b6024079877eadd21fd7c1b",
+        "hash256": "cc61a9ca3b6ac8581befcd5693fd11abf84e391cefe7fa7ece931bad2b473751"
+    },
+    "tags": []
+}

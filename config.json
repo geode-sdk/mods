@@ -626,6 +626,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "camila314.editor-hitbox-fix": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
