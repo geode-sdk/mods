@@ -640,6 +640,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "alphalaneous.extraicons": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
