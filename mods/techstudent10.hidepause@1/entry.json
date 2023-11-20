@@ -1,0 +1,12 @@
+{
+    "commit-author": "TechStudent10",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TechStudent10/HidePause/releases/download/v1.0.0/techstudent10.hidepause.geode",
+        "hash": "a5d41546bf20530e90e06cd39cde67cf68b2aab53d9ab73c525b88048cb56eff",
+        "hash256": "2a874c94868b0aabb915ea6b29c14676cfc327440e8a6796568e6e4d0a257999"
+    },
+    "tags": []
+}
