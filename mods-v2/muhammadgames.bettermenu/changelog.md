@@ -1,5 +1,11 @@
 # ChangeLog
-
+## BetterMenu-beta.9
+* fixed the name bug
+* added a flip menu option
+* option to move bottom ui
+* New icon by Croozy (croozington)
+* changed how right side menu is handled 
+* Fixed Icon profile mod bug breaking the look of the gui
 ## BetterMenu-beta.8 (Mini fixes)
 * Fixed the changelog on Beta.4
 * Changed the Developer to my fursona because i prefer it
