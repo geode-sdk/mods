@@ -1,0 +1,12 @@
+{
+    "commit-author": "iAndyHD3",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/iAndyHD3/CustomObjectWorkshop/releases/download/v1.0.0/iandyhd3.custom_object_workshop.geode",
+        "hash": "82d0ecc3a5b23e72062da8529cc2ff234e82caf4953f1be5c5e739cd32c911fa",
+        "hash256": "b106cf5b8acc5c744ee3ea6754e3af436de1dea53e18207eb9f65cdfb9c2b4eb"
+    },
+    "tags": []
+}

@@ -660,6 +660,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "iandyhd3.custom_object_workshop": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
