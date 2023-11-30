@@ -668,6 +668,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "cgytrus.8star-antianticheat": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
