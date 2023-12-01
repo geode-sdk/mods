@@ -1,0 +1,13 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/GD-Discord-Webhook-Integration/releases/download/v1.0.0/TheSillyDoggo.DiscordWebhook.geode",
+        "hash": "136212b12d0f845279d713a7a9dae40eea7fc67e686eabe210198399740e0da4",
+        "hash256": "fb3d3061bcdf62daaf06519c82c32bd51611b483e0638b9982bdaae0639ea64d"
+    },
+    "tags": []
+}

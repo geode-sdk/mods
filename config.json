@@ -675,6 +675,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "TheSillyDoggo.DiscordWebhook": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
