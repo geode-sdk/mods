@@ -5,9 +5,9 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/Capeling/icon-profile-geode/releases/download/1.1.0/capeling.icon_profile.geode",
-        "hash": "170ec58925ec6b257f3709460b4631321ecf585ce487b903e88b382ae87e682a",
-        "hash256": "1ac2839308504c4181d7f9e2ac203eaec8e2d3bc004e4e50f029a8392246d05c"
+        "download": "https://github.com/Capeling/icon-profile-geode/releases/download/1.1.1/capeling.icon_profile.geode",
+        "hash": "67e09561d0437405911954d9e435453de60df0093f27ac3fc0f26fe809e20951",
+        "hash256": "d51ee938a1ba2d5080e51c506a1244128a05d9353afe769e324d4c1585f74804"
     },
     "tags": [
         "Customization"
