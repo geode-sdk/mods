@@ -687,6 +687,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "techstudent10.discord_rich_presence": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
