@@ -518,7 +518,8 @@
         "tpdea.betterpause-Better": {
             "verified": false,
             "versions": [
-                "1.5.2"
+                "1.5.2",
+                "1.5.3"
             ]
         },
         "alphalaneous.integrated_loquibot": {
