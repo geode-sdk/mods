@@ -18,5 +18,10 @@
 			"type": "bool",
 			"default": false
 		}
+	},
+	"repository": "https://github.com/TechStudent10/DiscordRPC",
+	"issues": {
+		"info": "Please report issues to the GitHub repository",
+		"url": "https://github.com/TechStudent10/DiscordRPC/issues"
 	}
 }
