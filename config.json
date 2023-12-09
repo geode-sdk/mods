@@ -700,6 +700,12 @@
                 "1.0.0",
                 "1.1.0"
             ]
+        },
+        "uproxide.quick_quit": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }

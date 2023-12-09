@@ -1,0 +1,12 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/GeodeMods/releases/download/QQ1.0.1/uproxide.quick_quit.geode",
+        "hash": "c03657bbdcea36a2348dd2f94d0dd41d18ac7af16eb3d3878a4d4eae11903030",
+        "hash256": "e06ba2321b12547e51c8db18f9911dd9bf71e672fcf499a19d29cab0e58116a7"
+    },
+    "tags": []
+}
