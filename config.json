@@ -706,6 +706,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "alphalaneous.customsplash": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
