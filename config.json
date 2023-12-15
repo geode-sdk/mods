@@ -416,12 +416,6 @@
                 "1.0.3"
             ]
         },
-        "geode.mouse-api": {
-            "verified": false,
-            "versions": [
-                "1.0.0"
-            ]
-        },
         "melody.antiantialttab": {
             "verified": false,
             "versions": [
