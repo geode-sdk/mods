@@ -716,6 +716,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "user95401.swing": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }

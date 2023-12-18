@@ -1,0 +1,63 @@
+{
+	"geode": "1.0.0-beta.16",
+	"version": "v1.1.0",
+	"id": "user95401.swing",
+	"name": "Swing.",
+	"developer": "user95401",
+	"description": "Adding a Swing game mode",
+	"repository": "https://github.com/user95401/Swing",
+	"issues": {
+		"url": "https://discord.gg/89VGJH6QQg",
+		"info": "U can write about it on <cb>user666's discord...</c>"
+	},
+	"settings": {
+		"TouchGarage": {
+			"name": "TouchGarage",
+			"description": "add stuff on garage layer",
+			"type": "bool",
+			"default": true
+		},
+		"AddSwingPortal": {
+			"name": "AddSwingPortal",
+			"description": "add custom swing portal game object",
+			"type": "bool",
+			"default": true
+		},
+		"AddObjectAtIndex": {
+			"name": "AddObjectAtIndex",
+			"description": "to change place in create tab",
+			"type": "int",
+			"default": 29
+		},
+		"AddObjectToTab": {
+			"name": "AddObjectToTab",
+			"description": "to change tab",
+			"type": "int",
+			"default": 6
+		},
+		"AddBackPart": {
+			"name": "AddBackPart",
+			"description": "add back part sprite for custom swing portal",
+			"type": "bool",
+			"default": true
+		},
+		"AddParticles": {
+			"name": "AddParticles",
+			"description": "add particles for portal",
+			"type": "bool",
+			"default": true
+		},
+		"EditorParticles": {
+			"name": "EditorParticles",
+			"description": "add particles in editor\nworks because very shitty implemented\nand idk why lol",
+			"type": "bool",
+			"default": false
+		},
+		"ReplaceShip": {
+			"name": "ReplaceShip",
+			"description": "ship becomes swing",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
