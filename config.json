@@ -709,6 +709,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "colon.gd_in_2019": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
