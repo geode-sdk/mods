@@ -1,4 +1,36 @@
 # Changelog
+## <cg>v3.1.0</c> (2023-12-19)
+* Added saved songs button to level search filters
+* Added Platformer length marking
+* Added 2.2 level submission
+* Minor improvements to BI list layers
+* Fixed corners
+* Fixed level ID positioning for NA levels
+* Fixed Song Browser lag (RobTop bug)
+* Internal structure changes, bugfixes & improvements
+(if you're a mod developer who depends on BetterInfo's node IDs, this update changes all of them, so make sure to update your mods accordingly)
+
+## <cg>v3.0.13</c> (2023-12-14)
+* Added Account ID search to "ID Search" in BetterInfo Menu
+* Settings button in BI Menu now actually opens settings
+
+## <cg>v3.0.12</c> (2023-12-09)
+* Fixed misaligned mod badges on profiles
+* Fixed level names in Daily History
+* Other bugfixes & improvements
+
+## <cg>v3.0.11</c> (2023-12-07)
+* Added demon difficulty to Weekly History
+* Added highlighting to View Leaderboard As
+* Added refresh button to View Leaderboard As
+* Fixed most blank cells in View Leaderboard As (fix backported from 2.2)
+* Fixed Jump to page on Daily and Reward Histories
+* Hidden 2.2 profile info on your own profile (it's always default)
+* Other bugfixes & improvements
+
+## <cg>v3.0.10</c> (2023-11-19)
+* Added 2.2 profile info to user profiles (press 'i' button to show)
+
 ## <cg>v3.0.9</c> (2023-10-17)
 * Fixed a bug causing coins not to get submitted to leaderboards for old daily levels
 * Fixed chest icons in chest history
