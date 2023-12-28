@@ -575,7 +575,8 @@
         "n.level_pronouns": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "endrei.mappacksremover": {
