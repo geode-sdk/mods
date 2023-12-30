@@ -726,6 +726,12 @@
             "versions": [
                 "1.1.0"
             ]
+        },
+        "geode.node-ids": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

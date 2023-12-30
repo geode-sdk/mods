@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/NodeIDs/releases/download/v1.0.0/geode.node-ids.geode",
+        "hash": "b9498eefcb622f2a1b6f62e4983c016472a6d0b9fd3fb6d230a3450e87081d16",
+        "hash256": "1226a9148bdf9c618a5ca939c9724c6f25db1f63dc93f0a3b38a0645f352c793"
+    },
+    "tags": []
+}
