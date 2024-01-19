@@ -692,7 +692,8 @@
         "TheSillyDoggo.GradientPages": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.1.0"
             ]
         },
         "techstudent10.discord_rich_presence": {
