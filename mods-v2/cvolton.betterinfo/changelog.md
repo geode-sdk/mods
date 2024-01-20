@@ -1,4 +1,8 @@
 # Changelog
+## <cg>4.0.0-alpha.2</c> (2024-01-20)
+* Fixed most crashing issues
+* Re-added page limit bypass
+
 ## <cg>4.0.0-alpha.1</c> (2024-01-19)
 * Added 2.204 support
 * Added info buttons to The Tower levels
