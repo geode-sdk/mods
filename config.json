@@ -769,6 +769,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "alphalaneous.integratedloquibot": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }
