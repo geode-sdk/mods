@@ -1,1 +1,0 @@
-This mod allows you to send a message to a discord webhook whenever you get a new best or complete a level.
