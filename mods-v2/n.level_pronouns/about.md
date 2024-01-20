@@ -1,6 +1,6 @@
 # Level Pronouns
 
-Elevate your levels to a new level with personalized pronouns! Say goodbye to the oppression of pronoun-less levels, and welcome a more inclusive gaming experience.
+Elevate your levels to a new level with personalized pronouns in 2.2! Say goodbye to the oppression of pronoun-less levels, and welcome a more inclusive gaming experience.
 
 > Based on [this amazing reddit post](https://www.reddit.com/r/geometrydash/comments/178xm3l/thoughts_on_demons_having_pronouns_in_22_i_think/?rdt=48760) by IsopropylAlcohol_
 
