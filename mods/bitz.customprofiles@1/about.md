@@ -1,6 +1,10 @@
 # CustomProfiles
 Customize your profile with a new and interesting interface!
 
+## **Fixes**
+- Crashes with BetterInfo
+- Customization Menu Size Issues
+
 ## **Features**
 
 - Customization for Corners
