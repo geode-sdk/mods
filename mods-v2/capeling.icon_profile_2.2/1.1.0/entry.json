@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/Icon-Profile-2.2/releases/download/v1.1.0/capeling.icon_profile_2.2.geode",
+        "hash": "61b399e0827c2f561780deba6ed51635dc603751c266caa4b10daa16c9982588",
+        "hash256": "518298319eabcd6e2f20efec801403f1869dbfdfa8677bc9af08722e79247b08"
+    },
+    "tags": []
+}

@@ -794,6 +794,12 @@
                 "1.1.4",
                 "1.1.5"
             ]
+        },
+        "capeling.icon_profile_2.2": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }
