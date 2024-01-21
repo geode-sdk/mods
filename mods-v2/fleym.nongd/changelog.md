@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.0.0
+
+ * Add 2.2 support
+ * Add support for levels with multiple songs (experimental)
+ * Optimizations and bug fixes
+ * Rebranding!
+
+This release is only available on Windows, next one should be available on Android too. (Sorry android fellas)
+
 ## v1.2.3
 
  * Fix crash when adding a NONG manually for the first time
