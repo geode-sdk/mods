@@ -809,6 +809,12 @@
             "versions": [
                 "1.1.0"
             ]
+        },
+        "capeling.goodbye_unnecessary_buttons": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
