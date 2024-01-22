@@ -821,6 +821,12 @@
             "versions": [
                 "1.1.0"
             ]
+        },
+        "coopeeo.customname": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }
