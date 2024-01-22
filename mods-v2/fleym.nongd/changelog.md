@@ -1,8 +1,16 @@
 # Changelog
 
+## v2.1.0
+
+ * Correctly disable nongs for levels that have robtop levels
+ * Fix a crash that happened when entering a level with an invalid song id
+ * Store level name separate from song name (and display it in the song list)
+ * Store song data as minified json
+ * Fix 0.0B on multi asset levels (experimental)
+
 ## v2.0.1
 
-- Fix a crash that happens when entering a level with song info data not fetched
+ * Fix a crash that happens when entering a level with song info data not fetched
 
 ## v2.0.0
 
