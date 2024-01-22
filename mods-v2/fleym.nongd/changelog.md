@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.0.1
+
+- Fix a crash that happens when entering a level with song info data not fetched
+
 ## v2.0.0
 
  * Add 2.2 support
