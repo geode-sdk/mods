@@ -17,13 +17,6 @@
 			]
 		}
 	},
-    "incompatibilities": [
-		{
-			"id": "bitz.customprofiles",
-			"version": "*",
-			"importance": "breaking"
-		}
-	],
 	"settings": {
         "apply-profiles": {
             "name": "Apply to Profiles",

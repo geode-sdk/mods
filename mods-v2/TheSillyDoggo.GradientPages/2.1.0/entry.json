@@ -6,9 +6,9 @@
         "android64"
     ],
     "mod": {
-        "download": "https://github.com/TheSillyDoggo/Gradient-Pages/releases/download/2.1.1/TheSillyDoggo.GradientPages.geode",
-        "hash": "4f4b85252d99d71d0297e4d4c5040fe9e3d2824086cb48b37d5fbe6f26f1918e",
-        "hash256": "c4a9fafcb7c956d840a856756743ad3a5cbb7ab59a905c1802bd6c7a00d120da"
+        "download": "https://github.com/TheSillyDoggo/Gradient-Pages/releases/download/2.2.0/TheSillyDoggo.GradientPages.geode",
+        "hash": "d99cbb8c974d1a881048e71919f05f8d55ccf0aba0d9c0445bb1d3da909e0700",
+        "hash256": "6a9f7a0482c8654a2497744cfff9c39ed83316e4abebdc5371cea2db90fa46ac"
     },
     "tags": [
         "Customization"
