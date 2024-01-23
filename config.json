@@ -844,6 +844,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "colon.bumpscosity": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
