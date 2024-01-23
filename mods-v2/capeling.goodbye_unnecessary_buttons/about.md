@@ -1,3 +1,3 @@
-# Demons In Garage 2.2
+# Goodbye Unnecessary Buttons
 
-Demons In Garage, now for 2.2!
+Removes The Versus, Map and Event buttons from CreatorLayer!

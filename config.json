@@ -823,7 +823,8 @@
         "capeling.goodbye_unnecessary_buttons": {
             "verified": false,
             "versions": [
-                "1.0.1"
+                "1.0.1",
+                "1.0.2"
             ]
         },
         "capeling.demons_in_garage_2.2": {
