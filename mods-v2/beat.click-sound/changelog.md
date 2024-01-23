@@ -1,5 +1,10 @@
 # Changelog
+## Version v1.0.2
+* Added an option to not play sounds while changing direction in platformer mode! (enabled by default) 
+* 'I loooove GD Cologne' click sound added! (ty colon!)
+* 'Metronome' click sound added!
 ## Version v1.0.1
 * Android Support!
 ## Version v1.0.0
-* bwomp, fire in the hole and osu and vine booms clicks added
+* 'Bwomp', 'Fire In The Hole', 'Osu', and 'Vine Boom' click sounds added!
+* Initial release of Click Sounds!

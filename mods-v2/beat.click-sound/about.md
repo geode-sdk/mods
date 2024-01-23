@@ -9,5 +9,7 @@ Open the mod settings to change the click sound.
 - 2 - Vine Boom
 - 3 - Bwomp
 - 4 - FIRE IN THE HOLE!
+- 5 - I Loooove GD Cologne
+- 6 - Metronome
 
 If you want a new click sound or feature to be added, DM @beat___ on discord. <3
