@@ -2,10 +2,13 @@
 Customize your profile with a new and interesting interface!
 
 ## **Fixes**
-- Crashes with BetterInfo
-- Customization Menu Size Issues
+- Some crashes
 
-## **Features**
+## **Android Support!**
+- Waiting for fixes for enable customization settings
+Customization not available at the moment
+
+## **Features (windows only)**
 
 - Customization for Corners
 - Customization for Colors
