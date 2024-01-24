@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.1.3
+
+ * Fix buttons not working in the song list
+
 ## v2.1.2
 
  * Fix crashes on Android
