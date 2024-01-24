@@ -2,13 +2,13 @@
 	"geode": "2.0.0",
 	"gd": {
 		"win": "2.204",
-		"android": "2.200"
+		"android": "*"
 	},
 	"version": "v2.1.0",
 	"id": "TheSillyDoggo.GradientPages",
 	"name": "Gradient Pages",
 	"developer": "TheSillyDoggo",
-	"description": "Add's Gradients to the back of some popups",
+	"description": "Adds Gradients to the back of some popups",
 	"repository": "https://github.com/TheSillyDoggo/Gradient-Pages",
 	"resources": {
 		"spritesheets": {
