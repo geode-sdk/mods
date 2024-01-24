@@ -1,0 +1,14 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/QOLMod/releases/download/v1.0.0/TheSillyDoggo.Cheats.geode",
+        "hash": "b925c04b08c3db7a2491b978172c1b5887a59bd28c80b5dfd121a42b42978ff7",
+        "hash256": "e02eb6311b71d8a2ec2cf378c780e78848d0cf32a8510fd7a4339560bee12c07"
+    },
+    "tags": []
+}
