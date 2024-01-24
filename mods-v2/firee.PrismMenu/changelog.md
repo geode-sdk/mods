@@ -1,3 +1,9 @@
+# v1.1.5
+    - Added Russian Translations (Thank you MegaSa1nt, savvacorgi, and dankmeme01!)
+    - Added Czech Translations (Thank you Ignis!)
+    - Removed Free Shop Items for now so I can work on making a stats editor (Basically will make that useless)
+# v1.1.41 
+    - Fixed bug when you enter levels, it crashes. (On Android)
 # v1.1.4 
     - Added support for 2.205 on Android.
     - Fixed issue where the shop crashes.
