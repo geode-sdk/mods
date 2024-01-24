@@ -6,4 +6,6 @@ based on [serponge's meme from 2017](https://twitter.com/Sersponge/status/828175
 
 basically just adds way more buttons to the creator layer
 
+now updated for 2.2! (does not show the quest ! alert though)
+
 functional but a little buggy on non-16:9 windows
