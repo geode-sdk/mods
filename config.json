@@ -833,7 +833,8 @@
         "capeling.demons_in_garage_2.2": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.1.1"
             ]
         },
         "coopeeo.customname": {

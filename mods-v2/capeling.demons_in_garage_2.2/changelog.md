@@ -1,4 +1,6 @@
 # Demons In Garage 2.2 Changelog
+## v1.1.1
+- Bump Android Version (2.205)
 ## v1.1.0
 - New Logo
 - Fixed for Geode 2.0.0

@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/Demons-In-Garage-2.2/releases/download/v1.1.1/capeling.demons_in_garage_2.2.geode",
+        "hash": "335d65a6d2e335ced821042bf4488c37fccb3b164ce9342ee768699a35730c5f",
+        "hash256": "e83426b10fea515e181a21f7dab9283e3939f59475b138043ff5e16ec9b4a8ec"
+    },
+    "tags": []
+}
