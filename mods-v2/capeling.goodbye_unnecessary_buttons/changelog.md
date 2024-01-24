@@ -1,4 +1,6 @@
 # Goodbye Unnecessary Buttons Changelog
+## v1.0.3
+- Bump Android Version (2.205)
 ## v1.0.2
 - Fix Mod Name Typo
 - Fix Incorrect About Description
