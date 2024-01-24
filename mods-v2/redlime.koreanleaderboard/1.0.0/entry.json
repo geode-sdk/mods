@@ -1,0 +1,14 @@
+{
+    "commit-author": "RedLime",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RedLime/geode-indexer/raw/a1e651ee795c89a0f1333ec7c35c52d440f75454/redlime.koreanleaderboard@1/mod.geode",
+        "hash": "d1f7f253ad395b05dcd36f752d17b04dcdb6f2a99c09bdbd3f7ecc9e32b06103",
+        "hash256": "ba224a7c7557fc363f65b31994d6d1875669df5acacdc60dee1002df68b23c9d"
+    },
+    "tags": []
+}

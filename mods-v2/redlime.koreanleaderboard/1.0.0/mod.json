@@ -1,0 +1,25 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "redlime.koreanleaderboard",
+	"name": "KR Profile Leaderboard",
+	"developer": "RedLime",
+	"description": "Integrate GMD Korea Forum: Stats rank into ingame profile",
+	"tags": [],
+	"repository": "https://github.com/RedLime/KR-Profile-Leaderboard",
+	"issues": {
+		"info": "GitHub",
+		"url": "https://github.com/RedLime/KR-Profile-Leaderboard"
+	},
+	"dependencies": [
+		{
+            "id": "geode.node-ids",
+            "version": ">=v1.1.3",
+            "importance": "required"
+        }
+	]
+}

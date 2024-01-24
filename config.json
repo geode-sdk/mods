@@ -865,6 +865,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "redlime.koreanleaderboard": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
