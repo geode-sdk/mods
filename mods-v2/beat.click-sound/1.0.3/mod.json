@@ -1,0 +1,38 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.3",
+	"id": "beat.click-sound",
+	"name": "Click sound",
+	"developer": "Beat",
+	"gd": {
+		"android": "2.205",
+        "win": "2.204"
+	},
+	"description": "Plays a sound whenever you press a jump button.",
+	"resources": {
+		"files": [
+			"resources/*.ogg"
+		]
+	},
+	"settings": {
+		"clicksound-currentsound": {
+			"name": "Current click sound",
+			"description": "Change the click sound. 1 = Default, 2 = Boom, 3 = Bwomp, 4 = Fire In The Hole, 5 = I love GD Cologne, 6 = Metronome, 7 = Click-1",
+			"type": "int",
+			"default": 1,
+			"min": 1,
+			"max": 7,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"OnlyOnJump": {
+			"name": "Only play on jump",
+			"description": "Doesn't play sound on movement of platformer keys",
+			"type": "bool",
+			"default": true
+		},
+		"repository": "https://github.com/BeatACVR/geode-clicksound"
+	}
+}
