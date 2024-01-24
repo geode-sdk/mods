@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.1.2
+
+ * Fix crashes on Android
+ * Fix manual song add on Android
+
 ## v2.1.1
 
  * Fix the Robtop Music Library being... a little weird
