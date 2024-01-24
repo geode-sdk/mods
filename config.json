@@ -820,7 +820,8 @@
         "capeling.icon_profile_2.2": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.1.1"
             ]
         },
         "capeling.goodbye_unnecessary_buttons": {
