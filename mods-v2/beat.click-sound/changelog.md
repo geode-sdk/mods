@@ -1,4 +1,7 @@
 # Changelog
+## Version v1.0.4
+* 'Metal Pipe' click sound added!
+* 'TikTok' click sound added! (ty boofer!)
 ## Version v1.0.3
 * 'Click-1' click sound added! (ty l4at2!)
 ## Version v1.0.2

@@ -12,5 +12,7 @@ Open the mod settings to change the click sound.
 - 5 - I Loooove GD Cologne
 - 6 - Metronome
 - 7 - Click 1
+- 8 - Metal Pipe
+- 9 - TikTok
 
 If you want a new click sound or feature to be added, DM @beat___ on discord. <3
