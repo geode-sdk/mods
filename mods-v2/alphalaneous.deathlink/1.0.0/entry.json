@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphatism",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphatism/DeathLink-Geode/releases/download/1.0.0/alphalaneous.deathlink.geode",
+        "hash": "92ddab4653b54d8d623e2bce438cbd993d21163f0e107d34f69bafd3c13d1681",
+        "hash256": "3560ad8f6ea29c44cef2a7b9d12c53c47a42709e8ea75d79e4175dbece85fa93"
+    },
+    "tags": []
+}

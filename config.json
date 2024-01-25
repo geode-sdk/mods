@@ -889,6 +889,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "alphalaneous.deathlink": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
