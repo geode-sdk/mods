@@ -1,0 +1,12 @@
+{
+    "commit-author": "AdyaGMD",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/AdyaGMD/GodLikeFaces/releases/download/release/adyagd.godlikefaces.geode",
+        "hash": "ef2ea4b2ef7fd99b3b268aa9c745e7c2d12a5a34d8aae8c8821d8e025bcc6f1b",
+        "hash256": "c565bdfdb01f1143e49ba494b538fd402c64c4b27a08949e9b6964b469d76efe"
+    },
+    "tags": []
+}
