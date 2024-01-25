@@ -1,0 +1,22 @@
+{
+    "geode":        "1.3.0",
+	"version":      "1.0.3",
+	"id":           "hjfod.gdshare",
+    "name":         "GDShare",
+    "developer":    "HJfod",
+    "description":  "Share levels as files",
+    "resources": {
+        "spritesheets": {
+            "GDShare": [
+                "resources/*.png"
+            ]
+        }
+    },
+    "dependencies": [
+        {
+            "id": "hjfod.gmd-api",
+            "version": ">=v1.0.0",
+            "required": true
+        }
+    ]
+}

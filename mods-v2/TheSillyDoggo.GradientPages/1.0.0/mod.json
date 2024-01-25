@@ -1,0 +1,31 @@
+{
+	"geode": "1.3.4",
+	"version": "v1.0.0",
+	"id": "TheSillyDoggo.GradientPages",
+	"name": "Gradient Pages",
+	"developer": "TheSillyDoggo",
+	"description": "Add's Gradients to the back of some popups",
+	"repository": "https://github.com/TheSillyDoggo/Gradient-Pages",
+	"resources": {
+		"spritesheets": {
+			"UISheet": [
+				"resources/*.png"
+			]
+		}
+	},
+	"settings": {
+        "apply-profiles": {
+            "name": "Profiles",
+            "description": "Should it apply a gradient to profile pages?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-info-layer": {
+            "name": "Level Description",
+            "description": "Should it apply a gradient to the level description?",
+            "type": "bool",
+            "default": true
+        }
+	}
+
+}

@@ -1,0 +1,13 @@
+{
+    "commit-author": "camila314",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/BetterLoading/releases/download/1.0.4-beta/betterloading.geode",
+        "hash": "882a126f02062bcfb793a8d8808e892e29b768e534971ee8777268f5f9154a26",
+        "hash256": "2700148f95fc421cff85d89e6c76e17d2b9396e7debc3c4b5eb53dc3ee91bd5e"
+    },
+    "tags": ["Unstable"]
+}

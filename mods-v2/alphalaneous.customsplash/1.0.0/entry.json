@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphatism",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphatism/CustomSplash/releases/download/1.0.0/alphalaneous.customsplash.geode",
+        "hash": "a8c465d893ed3e7d970d9c0aab458bc6fd9032ed4e8dd45dc526b9d9cb3c663e",
+        "hash256": "4b8eaf9b507c0eb4ce0ea3c0467beb3ab3cd21aaf34ae39ce6b4ddbfbf82bddb"
+    },
+    "tags": []
+}

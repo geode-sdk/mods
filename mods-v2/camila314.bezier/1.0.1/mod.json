@@ -1,0 +1,13 @@
+{
+	"geode": "1.0.0",
+	"version": "v1.0.1",
+	"id": "camila314.bezier",
+	"name": "Bezier API",
+	"developer": "camila314",
+	"description": "Exposes an API for an in-game bezier curve editor",
+	"api": {
+		"include": [
+			"include/*.hpp"
+		]
+	}
+}

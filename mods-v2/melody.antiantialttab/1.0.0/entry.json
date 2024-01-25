@@ -1,0 +1,12 @@
+{
+    "commit-author": "melowody",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/melowody/AntiAntiAltTab-Geode/releases/download/1.0.0/melody.antiantialttab.geode",
+        "hash": "758644299096d2dcc7d173e67f2dae53ab9b57b8de01712fda0f1df6bd0a0d21",
+        "hash256": "a8ff053364daf584c297a456c1dc43547ed780a134334385da06e98256d6de6b"
+    },
+    "tags": []
+}

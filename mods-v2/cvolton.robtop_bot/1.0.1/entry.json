@@ -1,0 +1,13 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Cvolton/robtopbot-geode/releases/download/v1.0.1/cvolton.robtop_bot.geode",
+        "hash": "ba206176a1aaa1868e47295db0794b9e100f5147629500f8139b2764cd84405a",
+        "hash256": "80163a0d145c208f2a33565b12417aca7b0c73d369a511fbb1f6e3f2a1d28c96"
+    },
+    "tags": []
+}

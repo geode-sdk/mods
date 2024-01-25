@@ -1,0 +1,13 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/not-nef/VolumeScrollWheel/releases/download/v1.0.2/hjfod.volumescrollwheel.geode",
+        "hash": "05353d1f70c345cb66fcc436854aaf3ba6760ae764f6cf0d404424b1f53fa063",
+        "hash256": "acc0b48cd99b3ba2cb2cd3410cb822c0639b8dade4b38196d796a968dc884bd8"
+    },
+    "tags": []
+}

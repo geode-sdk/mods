@@ -1,0 +1,25 @@
+{
+	"geode": "1.0.0-beta",
+	"version": "v1.0.0",
+	"id": "o7moon.noglow",
+	"name": "NoGlow",
+	"developer": "o7Moon",
+	"description": "no glow by default.",
+	"settings": {
+		"no-glow": {
+			"name": "No Glow",
+			"type": "bool",
+			"default": true
+		},
+		"dont-fade": {
+			"name": "Dont Fade",
+			"type": "bool",
+			"default": true
+		},
+		"dont-enter": {
+			"name": "Dont Enter",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/ninXout/Crystal-Client/releases/download/v2.0.0/CrystalClient.geode",
+        "hash": "f5c0647f35746d6df40b86fa30f7e0f03a3d2c8848aed58434a6d94e71329c69",
+        "hash256": "e231b3594a4196c395dac5ed7969e75ab03e9f0ea0cd9410a012975210ad3a00"
+    },
+    "tags": []
+}

@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphatism",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/loquibot/Integrated-Loquibot/releases/download/1.0/alphalaneous.integrated_loquibot.geode",
+        "hash": "42498ef52d11ffc800b11c5c54e1d985addfb39c2294b0f266dbca6384311390",
+        "hash256": "54535dce29cd7351addc84268ed4cd9cd228cfdb5b2ef6317cae3029861f7f94"
+    },
+    "tags": []
+}

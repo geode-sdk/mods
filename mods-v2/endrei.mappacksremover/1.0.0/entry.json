@@ -1,0 +1,13 @@
+{
+    "commit-author": "EnderTheDeveloper",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/EnderTheDeveloper/mappackremover/releases/download/geode/endrei.mappacksremover.geode",
+        "hash": "23b5c9f137c83a9d16dd8024334a5d0aa35e6d45458b985691a6d2c854c18ad9",
+        "hash256": "47d6da187c15c2900625faf44f34b7835b4f5256e0ef26ec08e2d0db4c0371f5"
+    },
+    "tags": []
+}

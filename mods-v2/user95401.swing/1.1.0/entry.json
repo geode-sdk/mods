@@ -1,0 +1,12 @@
+{
+    "commit-author": "user95401",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/user95401/Swing/releases/download/v1.1.0/user95401.swing.geode",
+        "hash": "57f36a434b991b3c8b902f6b28be28d0fd7856a027699d67f25a2689b309146c",
+        "hash256": "2e0bf07e293be55b65b97caaa0902beb5e2f8711884891166c3d2dff4f69d406"
+    },
+    "tags": []
+}

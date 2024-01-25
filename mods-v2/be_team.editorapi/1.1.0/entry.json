@@ -1,0 +1,13 @@
+{
+    "commit-author": "HJfod",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/HJfod/geode-indexer/raw/c673a35567d5426ee7447dda1c6ba65cf87f6af2/be_team.editorapi@1/mod.geode",
+        "hash": "625c4f9411c2d54d4ea9c864511ab74999d33d078273bf2c00da2896b00bd3a4",
+        "hash256": "6cf6feb26f3103a8ac72382d0af0258719cdc3e24df29e463a6b802ecca14d24"
+    },
+    "tags": []
+}

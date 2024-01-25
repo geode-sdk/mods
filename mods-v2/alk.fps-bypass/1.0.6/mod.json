@@ -1,0 +1,29 @@
+{
+    "geode": "1.1.1",
+    "version": "1.0.6",
+    "id": "alk.fps-bypass",
+    "name": "FPS Bypass",
+    "developer": "alk",
+    "description": "An FPS bypass that replaces the internal timer.",
+    "dependencies": [],
+    "early-load": true,
+    "api": {
+        "include": [
+            "include/*.hpp"
+        ]
+    },
+    "settings": {
+        "fps": {
+            "type": "float",
+            "name": "Set FPS",
+            "description": "Sets the framerate.",
+            "default": 60.0
+        },
+        "vsync": {
+            "type": "bool",
+            "name": "Enable VSync",
+            "description": "Enables the application VSync",
+            "default": true
+        }
+    }
+}

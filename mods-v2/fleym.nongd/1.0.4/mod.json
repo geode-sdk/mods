@@ -1,0 +1,15 @@
+{
+	"geode": "1.2.1",
+	"version": "v1.0.4",
+	"id": "fleym.nongd",
+	"name": "nongd",
+	"developer": "Fleym",
+	"description": "A NONG song manager for Geometry Dash!",
+	"repository": "https://github.com/Fleeym/nongd",
+	"issues": {
+		"info": "Discord: Flame#7418"
+	},
+	"tags": [
+		"Music"
+	]
+}

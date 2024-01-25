@@ -1,0 +1,13 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/CustomKeybinds/releases/download/v1.2.3/geode.custom-keybinds.geode",
+        "hash": "feb607c3642d43da46d0d70912c6b1c9ebae4c9f76b2386a98062250f29cb81e",
+        "hash256": "9906fd9abaa05ac328414f6452d459a8b0459763dedfab22bd49b40a7dbe6ac6"
+    },
+    "tags": []
+}

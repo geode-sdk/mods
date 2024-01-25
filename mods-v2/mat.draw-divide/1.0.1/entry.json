@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/draw-divide-v1.0.1/mat.draw-divide.geode",
+        "hash": "95d304961dba4e644322bd3d97d2b17506d39611701eba7b020871835b16fc03",
+        "hash256": "31f5f6c11323ba614f8b3d1148c0ac75b33099ac9bcc3e45a7a89ae0fafe054d"
+    },
+    "tags": []
+}

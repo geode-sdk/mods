@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Fleeym/indexer/raw/cec76870a1fd551179a19346afe6e6e2bab27ac0/fleym.nongd@1/mod.geode",
+        "hash": "41b1f072104b4547e13c38466c2bcf8a06ef3d8b921b9deaa43b6875a8550b51",
+        "hash256": "53e490f6a3a28c45357788a4afb969f0b5ba02c859469e7d7bfe08a7e95d711b"
+    },
+    "tags": []
+}

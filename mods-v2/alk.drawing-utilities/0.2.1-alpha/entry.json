@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/GeodeMods/releases/download/v0.2.1-alpha-drawing-utilities/alk.drawing-utilities.geode",
+        "hash": "dda35874a176a6597c249862f5e28b3b865c290b595812101251d3edd9c34a0b",
+        "hash256": "2ee1368a332a2f4077ab1632dc834881ce8d41cd06b98c092dd1297fd6e709d9"
+    },
+    "tags": []
+}

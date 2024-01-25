@@ -1,0 +1,8 @@
+{
+    "geode": "1.3.7",
+    "version": "v1.0.1",
+    "id": "cgytrus.8star-antianticheat",
+    "name": "I Am Not Hacking",
+    "developer": "ConfiG",
+    "description": "Shows a warning if you complete an 8+ star level with less than 10 attempts and less than 50 jumps."
+}

@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/balt-dev/indexer/raw/dc8736172b31210a5ddd6b6969af4b7479115e02/balt.freewindow@1/mod.geode",
+        "hash": "339fa12d8ad6de295f1deea43109bd6062fc95bf1bab8560c6594f49a3b3e95d",
+        "hash256": "2ddc3b95b95a67b47c24e21c1ee89856377a25371d9c19d7d40524c1a9c3439a"
+    },
+    "tags": []
+}

@@ -1,0 +1,19 @@
+{
+	"geode": "1.3.6",
+	"version": "v1.0.0",
+	"id": "capeling.simple_icon_hack",
+	"name": "Simple Icon Hack",
+	"developer": "Capeling",
+	"description": "Simple mod to unlock all icons and colors!",
+	"settings": {
+		"enabled":{
+			"name": "Enabled",
+			"description": "",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"tags": [
+		"Customization"
+	]
+}

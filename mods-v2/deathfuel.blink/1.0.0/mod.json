@@ -1,0 +1,27 @@
+{
+	"geode": "1.3.2",
+	"version": "v1.0.0",
+	"id": "deathfuel.blink",
+	"name": "Blink",
+	"developer": "deathfuel",
+	"description": "Adjust the length and color of menu transitions.",
+    "repository": "https://github.com/DeathFuel/Blink",
+    "settings": {
+        "timescale": {
+            "name": "Time Scale",
+            "description": "Multiplies transition time by this amount.",
+            "type": "float",
+            "default": 0.5,
+            "min": 0.01,
+            "max": 2,
+            "control": {
+                "slider": true
+            }
+        },
+        "color": {
+            "name": "Transition color",
+            "type": "color",
+            "default": "#000000"
+        }
+    }
+}

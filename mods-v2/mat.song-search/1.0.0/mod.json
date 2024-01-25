@@ -1,0 +1,8 @@
+{
+	"geode": "v1.3.0",
+	"version": "v1.0.0",
+	"id": "mat.song-search",
+	"name": "Song Search",
+	"developer": "mat",
+	"description": "Easily search through your saved songs."
+}

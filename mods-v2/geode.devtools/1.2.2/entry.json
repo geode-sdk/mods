@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/DevTools/releases/download/v1.2.2/geode.devtools.geode",
+        "hash": "2c0162d30073370f8b91656c1cedf270f2df5d378645ecf5720833be02eddf1c",
+        "hash256": "8ee4139b64642964300fa77186cd4eeb05fa0f07b6a2802a1f8f8d0bee7b326f"
+    },
+    "tags": []
+}

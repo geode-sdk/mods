@@ -1,0 +1,216 @@
+{
+	"geode": "1.3.0",
+	"version": "0.4.2",
+	"id": "dankmeme.globed",
+	"name": "Globed",
+	"developer": "dankmeme",
+	"description": "Multiplayer for Geometry Dash",
+	"repository": "https://github.com/dankmeme01/globed",
+	"resources": {
+		"spritesheets": {
+			"globedsheet1": [
+				"resources/menuicon.png",
+				"resources/spectate.png",
+				"resources/spectate-stop.png"
+			]
+		}
+	},
+	"tags": [
+		"Online"
+	],
+	"settings": {
+		"overlay-pos": {
+			"name": "Overlay position",
+			"type": "int",
+			"min": 0,
+			"max": 4,
+			"default": 4,
+			"description": "Position of the <cy>in-game overlay</c> that shows the <cg>current ping</c> to the server.\n\n0. Disabled\n1. Top left\n2. Top right\n3. Bottom left\n4. Bottom right",
+			"control": {
+				"arrows": true,
+				"arrow-step": 1,
+				"slider": false,
+				"input": false
+			}
+		},
+		"overlay-off": {
+			"name": "Overlay offset",
+			"type": "int",
+			"min": 0,
+			"max": 250,
+			"default": 2,
+			"description": "If you have <cg>another mod</c> that displays some data in the corner, you can try to change this setting to resolve <cr>conflicts</c>. The higher the value, the <cy>closer</c> the overlay is to the <cg>center of the screen</c>.",
+			"control": {
+				"slider": true,
+				"slider-step": 1,
+				"arrows": true
+			}
+		},
+		"overlay-hide-dc": {
+			"name": "Only ping overlay",
+			"type": "bool",
+			"default": false,
+			"description": "Hides the <cy>in-game ping overlay</c> text whenever you are <cr>disconnected</c> or in a <cj>custom level</c>. Otherwise, replaces it with an appropriate status message."
+		},
+		"server-levels-button": {
+			"name": "Server levels button",
+			"type": "int",
+			"min": 0,
+			"max": 3,
+			"default": 1,
+			"description": "Position of the <cg>server levels</c> button on the <cy>level info page</c>.\n\n0. Disabled\n1. Left side\n2. Top left corner\n3. Right side",
+			"control": {
+				"arrows": true,
+				"arrow-step": 1,
+				"slider": false,
+				"input": false
+			}
+		},
+		"player-opacity": {
+			"name": "Player opacity",
+			"type": "int",
+			"min": 0,
+			"max": 255,
+			"default": 255,
+			"description": "Sets opacity of <cy>other players</c>. 0 is <cj>invisible</c>, 255 is <cj>fully opaque</c>."
+		},
+		"show-names": {
+			"name": "Player names",
+			"type": "bool",
+			"default": true,
+			"description": "Show players' <cg>names</c> above their heads."
+		},
+		"show-names-dual": {
+			"name": "Player dual name",
+			"type": "bool",
+			"default": false,
+			"description": "Show players' <cg>names</c> (and the <cg>checkpoint icon</c> if <cy>Practice icon</c> is <cg>enabled</c>) near their secondary dual icon as well. When turned <cr>off</c>, <cy>only</c> shows the name above the <cj>primary</c> icon."
+		},
+		"show-names-offset": {
+			"name": "Name offset",
+			"type": "int",
+			"min": 0,
+			"max": 250,
+			"default": 25,
+			"description": "If <cy>Player names</c> is <cg>enabled</c>, the higher the value, the higher will the player's name be rendered above a player's icon.",
+			"control": {
+				"slider": true,
+				"slider-step": 1,
+				"arrows": false,
+				"big-arrows": false
+			}
+		},
+		"show-names-scale": {
+			"name": "Name scale",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 2.0,
+			"description": "If <cy>Player names</c> is <cg>enabled</c>, this defines the <cg>size</c> of the name.",
+			"control": {
+				"slider": true,
+				"slider-step": 0.01,
+				"arrows": true,
+				"big-arrows": false
+			}
+		},
+		"show-names-opacity": {
+			"name": "Name opacity",
+			"type": "int",
+			"default": 255,
+			"min": 0,
+			"max": 255,
+			"description": "If <cy>Player names</c> is <cg>enabled</c>, this defines the <cg>opacity</c> of the name. 0 is <cj>invisible</c> and 255 is <cj>fully opaque</c>."
+		},
+		"show-progress": {
+			"name": "Player progress",
+			"type": "bool",
+			"default": true,
+			"description": "Shows an icon of a player below your <cj>progress bar</c>, indicating how far the player is into the level."
+		},
+		"show-progress-self": {
+			"name": "Self progress",
+			"type": "bool",
+			"default": true,
+			"description": "Shows your icon under the <cj>progress bar</c> as well, along with other players."
+		},
+		"show-progress-altcolor": {
+			"name": "Alt progress color",
+			"type": "bool",
+			"default": false,
+			"description": "When toggled, use a player's <cj>primary</c> color instead of the <cg>secondary</c> for displaying the line that indicates their progress in the level when <cy>Player progress</c> is enabled."
+		},
+		"show-progress-scale": {
+			"name": "Progress scale",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 2.0,
+			"description": "If <cy>Player progress</c> is <cg>enabled</c>, this defines the <cj>size</c> of the cube icon below the progress bar.",
+			"control": {
+				"slider": true,
+				"slider-step": 0.01,
+				"arrows": true,
+				"big-arrows": false
+			}
+		},
+		"show-progress-offset": {
+			"name": "Progress offset",
+			"type": "int",
+			"default": -5,
+			"min": -20,
+			"max": 20,
+			"description": "If <cy>Player progress</c> is <cg>enabled</c>, higher values will move the <cj>cube icon</c> of every player closer to the <cy>center of the screen</c>.",
+			"control": {
+				"slider": true,
+				"slider-step": 1,
+				"arrows": true,
+				"big-arrows": false
+			}
+		},
+		"old-progress": {
+			"name": "Old progress",
+			"type": "bool",
+			"default": false,
+			"description": "Instead of showing an <cj>icon</c> below the <cy>progress bar</c>, show text with arrows at the <cy>edge of your screen</c> indicating where the player is."
+		},
+		"show-progress-opacity": {
+			"name": "Old progress opacity",
+			"type": "int",
+			"default": 255,
+			"min": 0,
+			"max": 255,
+			"description": "If <cy>Old progress</c> is <cg>enabled</c>, this defines the <cg>opacity</c> of the <cy>progress indicator</c>. 0 is <cj>invisible</c> and 255 is <cj>fully opaque</c>."
+		},
+		"death-effects": {
+			"name": "Death effects",
+			"type": "bool",
+			"default": true,
+			"description": "Play a <cj>death effect</c> when another player dies. You <cj>may</c> need to restart your game in order to load them."
+		},
+		"default-death-effects": {
+			"name": "Default death effect",
+			"type": "bool",
+			"default": false,
+			"description": "All players have the <cg>default</c> death effect instead of the one they chose."
+		},
+		"practice-icon": {
+			"name": "Player status icons",
+			"type": "bool",
+			"default": true,
+			"description": "Shows specific icons above player heads if they are in <cg>practice mode</c> or have <cj>paused the game</c>."
+		},
+		"name-colors": {
+			"name": "Name colors",
+			"type": "bool",
+			"default": true,
+			"description": "People who helped me or supported me get a <cj>colorful name</c> :D"
+		},
+		"debug": {
+			"name": "Debug mode",
+			"type": "bool",
+			"default": false,
+			"description": "This option toggles <cj>debug mode</c>. It is <cr>not recommended</c> to use unless you know the risks. Your game may crash, produce weird behavior, be laggy, or even <cr>corrupt some of your data</c>. You have been warned. Restart the game to see any changes."
+		}
+	}
+}

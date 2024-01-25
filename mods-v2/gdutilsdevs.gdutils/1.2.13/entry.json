@@ -1,0 +1,14 @@
+{
+    "commit-author": "FireMario211",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Jouca/GDUtils-Geode/releases/download/v1.2.13/gdutilsdevs.gdutils.geode",
+        "hash": "9a9fe784b6143e491f0ebe9f02a450568487e0d29634a92c97d46fc32ba0ca9f",
+        "hash256": "137ba1e6de77246acc9bcbb4e2e835040dff934494dd1508c4a636f7bdf2b2ff"
+    },
+    "tags": []
+}

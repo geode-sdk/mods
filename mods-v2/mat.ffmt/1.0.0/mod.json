@@ -1,0 +1,9 @@
+{
+	"geode": "v1.0.0",
+	"version": "v1.0.0",
+	"id": "mat.ffmt",
+	"name": "Fast Format",
+	"developer": "mat",
+	"description": "might be fast, who knows",
+	"tags": ["Optimization"]
+}

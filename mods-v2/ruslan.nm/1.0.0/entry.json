@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ruslan831/indexer/raw/51b7d9ce7af3914a5de9a1ffb2aabda05cefd83b/ruslan.nm@1/mod.geode",
+        "hash": "8c0d289f46ad06a3ba8ef5f80d94f6f92b0c1e6921409e8ee31985663527297c",
+        "hash256": "9db66c132e424e58c0e82f8e339b769175cd58e14ded579613a94300b961191f"
+    },
+    "tags": []
+}

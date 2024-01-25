@@ -1,0 +1,13 @@
+{
+    "commit-author": "cgytrus",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/cgytrus/IAmNotHacking/releases/download/v1.0.1/cgytrus.8star-antianticheat.geode",
+        "hash": "1fc5d4a0f327b30ac25f26b8c17c18d32058f40686c4350fdf5536da7a5d90eb",
+        "hash256": "a5067ccdd5d4e51dfacca433630bc5228efe6b898359db5965b4102b0452a5c2"
+    },
+    "tags": []
+}

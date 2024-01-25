@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/GeodeMods/releases/download/v2.2.2-small-additions/alk.small-additions.geode",
+        "hash": "4680da4b7c727154349a2ec8e72f8c52e80c44bdf7e6f3ff933eebe42373016a",
+        "hash256": "b9dac7a2edbc0564e7115743b1c5864e77fc108a6553914fff3d6aa484647735"
+    },
+    "tags": []
+}

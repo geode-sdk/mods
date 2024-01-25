@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/CustomKeybinds/releases/download/v1.1.1/geode.custom-keybinds.geode",
+        "hash": "ffb3cd97c949fd6635b21e3b5243457ce8a24cb65086e25af9d457227a0f861e",
+        "hash256": "81961a8a7129b9eef373322071a1db5b364deae0ab7c2f9784ec39c1b9dd8ced"
+    },
+    "tags": []
+}

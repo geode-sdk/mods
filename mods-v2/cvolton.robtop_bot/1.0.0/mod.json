@@ -1,0 +1,29 @@
+{
+	"geode": "1.1.0",
+	"version": "v1.0.0",
+	"id": "cvolton.robtop_bot",
+	"name": "RobTop Bot",
+	"developer": "Cvolton",
+	"description": "The worst bot ever made, now at your fingertips...",
+	"repository": "https://github.com/cvolton/robtopbot-geode",
+	"settings": {
+        "show-playing": {
+            "name": "Show Playback text",
+            "description": "Shows \"Playback\" in the corner when ",
+            "type": "bool",
+            "default": true
+        },
+        "record-actions": {
+            "name": "Record replays for online levels",
+            "description": "Records replays for online levels and stores them in your save file (CCGameManager.dat).",
+            "type": "bool",
+            "default": false
+        },
+        "download-verification-replay": {
+            "name": "Try to download verification replays (GDPS only)",
+            "description": "Tries to download verification replays for online levels. This option has been disabled server-side by RobTop, so it only works on private servers.",
+            "type": "bool",
+            "default": false
+        }
+    }
+}

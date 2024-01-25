@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/CattoDev/indexer/raw/2f647ebc0a75a4e658ddac0faec0dabd5fd7ace0/cattodev.gatobot@1/mod.geode",
+        "hash": "e04000d78263156a243695374eeddef62e6b3c0157260e9c44bc62f7cf1bc07b",
+        "hash256": "9197545ccad9d1babaa10b00ac2a2aff5826fa99575f6df016ef7ab998eba0d9"
+    },
+    "tags": []
+}

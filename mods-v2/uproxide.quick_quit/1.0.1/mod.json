@@ -1,0 +1,23 @@
+{
+	"geode": "1.3.7",
+	"version": "v1.0.1",
+	"id": "uproxide.quick_quit",
+	"name": "Quick Quit",
+	"developer": "Uproxide",
+	"description": "Closes the game with \"Q\" Key",
+	"dependencies": [
+        {
+            "id": "geode.custom-keybinds",
+            "version": ">=1.2.2",
+            "required": true
+        }
+    ],
+	"settings": {
+        "active": {
+            "name": "Enabled",
+            "description": "Enables or Disables Quick Quit, Cause Indeed",
+            "type": "bool",
+            "default": true
+        }
+	}
+}

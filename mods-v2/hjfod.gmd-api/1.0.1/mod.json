@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "hjfod.gmd-api",
+	"name": "GMD API",
+	"developer": "HJfod",
+	"description": "API for working with level files (.gmd)",
+	"api": {
+		"include": [
+			"include/*.hpp"
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/demons-in-garage-geode/releases/download/initial/capeling.demons_in_garage.geode",
+        "hash": "f3f558a0114ede70b16ace836deb16e370afd7f9ba9da77480a9a3ee6620384e",
+        "hash256": "6bb4f0804231f996bc5eb4649b22d6a12a9d46649440d8d5838ce0f85a57046a"
+    },
+    "tags": [
+        "Customization"
+    ]
+}

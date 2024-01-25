@@ -1,0 +1,14 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "macos",
+        "windows",
+        "android"
+    ],
+    "mod": {
+        "download": "https://github.com/Cvolton/lists-geode/releases/download/v1.0.1/cvolton.lists.geode",
+        "hash": "7c236ceb954c5e3f361b0e8e6dce91a97092e537f23813f3f0a3cf46e6d3a186",
+        "hash256": "9074363cbb6620db098ed63503b2eae4a10896dd436dfb1b33d13510939ac946"
+    },
+    "tags": []
+}

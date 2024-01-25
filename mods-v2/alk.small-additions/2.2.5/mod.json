@@ -1,0 +1,36 @@
+{
+	"geode": "1.0.3",
+	"version": "2.2.5",
+	"id": "alk.small-additions",
+	"name": "Small Additions",
+	"developer": "alk",
+	"description": "Small customizable additions for enhancing the Geometry Dash experience.",
+	"dependencies": [],
+	"resources": {
+		"spritesheets": {
+			"FlagSheet": [
+				"resources/flags/*.png"
+			]
+		}
+	},
+	"settings": {
+		"practice-song-hack": {
+			"type": "bool",
+			"name": "Practice Song Hack",
+			"description": "Uses the song of the level instead of the default practice song.",
+			"default": true
+		},
+		"player-flags": {
+			"type": "bool",
+			"name": "Player Flags",
+			"description": "Randomly adds pride flags to the icons in the chat.",
+			"default": true
+		},
+		"disable-save-unfocus": {
+			"type": "bool",
+			"name": "Disable Save on Unfocus",
+			"description": "Disables saving on unfocusing the window.",
+			"default": true
+		}
+	}
+}

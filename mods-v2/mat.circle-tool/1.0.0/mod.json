@@ -1,0 +1,8 @@
+{
+	"geode": "v1.0.0",
+	"version": "v1.0.0",
+	"id": "mat.circle-tool",
+	"name": "Circle Tool",
+	"developer": "mat",
+	"description": "An editor tool to duplicate and rotate objects."
+}

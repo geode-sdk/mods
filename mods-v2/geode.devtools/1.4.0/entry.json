@@ -1,0 +1,14 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/DevTools/releases/download/v1.4.0/geode.devtools.geode",
+        "hash": "48f980189a6094de41ecd51686033a57f0f593890fb29d7e99b214339d1930ec",
+        "hash256": "9c5e1addb37de2f3afb9de92ce807786be18f6079a1088831bf47bce5c6b6d99"
+    },
+    "tags": []
+}

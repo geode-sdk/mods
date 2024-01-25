@@ -1,0 +1,31 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.1",
+	"id": "beat.click-sound",
+	"name": "Click sound",
+	"developer": "Beat",
+	"gd": {
+		"android": "2.200",
+        "win": "2.204"
+	},
+	"description": "Plays a sound whenever you press a jump button.",
+	"resources": {
+		"files": [
+			"resources/*.mp3"
+		]
+	},
+	"settings": {
+		"clicksound-currentsound": {
+			"name": "Current click sound",
+			"description": "Change the click sound. 1 = Default, 2 = Boom, 3 = Bwomp, 4 = Fire In The Hole",
+			"type": "int",
+			"default": 1,
+			"min": 1,
+			"max": 4,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		}
+	}
+}

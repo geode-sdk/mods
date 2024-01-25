@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphatism",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphatism/Projected-Stars/releases/download/1.1/alphalaneous.projectedstars.geode",
+        "hash": "5b9a99d213ef34b1cd1f0de2b5dc0d3f376e7cb664188de152a0bd007ed55b07",
+        "hash256": "9fe6fef593c73bfcd9af618cf8abdce527512673b5968b961fe5bbb6c0f3a6ab"
+    },
+    "tags": []
+}

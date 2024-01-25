@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-indexer/raw/32ef1f9b784bda9f7cd9c86b00d51d6779ca4da1/mat.circle-tool@1/mod.geode",
+        "hash": "864101391de31fe5708a29695dea23d4ba27ab490334f744b5781cebc0c63542",
+        "hash256": "cbfdab4ddd22836267120086ce307bdf117a31e54d8a36627fd51bf7643d12cd"
+    },
+    "tags": []
+}

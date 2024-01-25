@@ -1,0 +1,12 @@
+{
+    "commit-author": "Kolyah35",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Kolyah35/ClipboardFix/releases/download/v1.0.1/kolyah35.clipboardfix.geode",
+        "hash": "70352ced6f2c17b40136d2c3187631ff600a1d50e1b5a13c21dfb684c1a53b15",
+        "hash256": "87204c5d527b7ab171948a112a07fcfe825589c225d157c3156bcd8d61bf1c4e"
+    },
+    "tags": []
+}

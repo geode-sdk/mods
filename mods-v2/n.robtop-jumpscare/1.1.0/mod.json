@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.0",
+	"id": "n.robtop-jumpscare",
+	"name": "Robtop Jumpscare",
+	"developer": "n",
+	"description": "Jumpscare yourself everytime you jump!",
+	"resources": {
+		"files": [
+			"resources/*.mp3",
+			"resources/*.png"
+		]
+	}
+}

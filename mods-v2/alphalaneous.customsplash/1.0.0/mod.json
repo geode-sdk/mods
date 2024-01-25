@@ -1,0 +1,17 @@
+{
+	"geode": "1.2.1",
+	"version": "v1.0.0",
+	"id": "alphalaneous.customsplash",
+	"name": "CustomSplash",
+	"developer": "Alphalaneous",
+	"description": "Change the splash text on the loading screen",
+	"early-load": true,
+	"settings": {
+        "dont-replace": {
+            "name": "Don't Replace Existing",
+            "description": "Keep existing splash text and the custom ones",
+            "type": "bool",
+            "default": true
+        }
+    }
+}

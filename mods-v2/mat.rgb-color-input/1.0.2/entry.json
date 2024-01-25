@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-indexer/raw/32ef1f9b784bda9f7cd9c86b00d51d6779ca4da1/mat.rgb-color-input@1/mod.geode",
+        "hash": "f1f10b74b94daf75f7e05068640787fdf6531f658a1d14e2d265682e2e804241",
+        "hash256": "a439128bae97b5684d09228f69a772e2008ff6ed210983fdb8114eee2c0b5e47"
+    },
+    "tags": []
+}

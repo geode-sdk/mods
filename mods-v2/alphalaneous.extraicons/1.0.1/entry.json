@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphatism",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphatism/ExtraIcons/releases/download/1.0.1/alphalaneous.extraicons.geode",
+        "hash": "0c276ebaefd46b0da0f0974a7f41c862cd8ace8f51c14945ac44c78f4b94e34f",
+        "hash256": "70baa8876e26c3fa8bb231d723b2149c8cb3aa136e8efbc044c3809d4c31aafb"
+    },
+    "tags": []
+}

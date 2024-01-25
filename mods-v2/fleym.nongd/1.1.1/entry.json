@@ -1,0 +1,16 @@
+{
+    "commit-author": "Fleeym",
+    "platforms": [
+        "macos",
+        "windows",
+        "android"
+    ],
+    "mod": {
+        "download": "https://github.com/Fleeym/nongd/releases/download/v1.1.1/fleym.nongd.geode",
+        "hash": "5770d6cb1b98e6144181c17c603bd9f64be5102e7f9bcf30364a66fa2a143d77",
+        "hash256": "e69f270999f23aa46104156aa556de517437560866c06d1935eb9718e45e2c8d"
+    },
+    "tags": [
+        "Music"
+    ]
+}

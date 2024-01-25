@@ -1,0 +1,12 @@
+{
+    "commit-author": "GDColon",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/GDColon/Bumpscosity-for-GD/releases/download/v1.0.0/colon.bumpscosity.geode",
+        "hash": "a3979ef0f1d264ecbf0fd02e9f6731d9ec9108f57a14a10dca2ce64878893865",
+        "hash256": "c76afc6613ce41fd0834d27e3c433daa34ca3f704aa2e9e79593192fe3f8612a"
+    },
+    "tags": []
+}

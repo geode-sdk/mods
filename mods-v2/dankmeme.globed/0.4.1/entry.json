@@ -1,0 +1,16 @@
+{
+    "commit-author": "dankmeme01",
+    "platforms": [
+        "macos",
+        "windows",
+        "android"
+    ],
+    "mod": {
+        "download": "https://github.com/dankmeme01/globed/releases/download/0.4.1/dankmeme.globed.geode",
+        "hash": "b2aae2c56508061a95c5fc1bd157b2f89cac2f3ea4b7acd35876539a7e554049",
+        "hash256": "15523fbe1c8e064a09115a5df7371c19505436b09404a12160ee903155da0ebd"
+    },
+    "tags": [
+        "Online"
+    ]
+}

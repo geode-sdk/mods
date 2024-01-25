@@ -1,0 +1,10 @@
+{
+	"geode": "1.0.3",
+	"version": "1.0.1",
+	"id": "alk.fullscreen-fix",
+	"name": "Fullscreen Fix",
+	"developer": "alk",
+	"description": "Rewrites the fullscreen implementation on MacOS.",
+	"dependencies": [],
+	"early-load": true
+}

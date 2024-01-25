@@ -1,0 +1,15 @@
+{
+    "commit-author": "Alphatism",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphatism/SeparateDualIcons-Geode/releases/download/1.0.1/alphalaneous.separatedualicons.geode",
+        "hash": "3ad8028ee966865343e768f05e99ee0cf71e252939ffa9f6487a2dea5a094695",
+        "hash256": "8a70e6b5456c37271a26122a4c31e8d2b494fd9762a49af4fe03ff10bb67d7d5"
+    },
+    "tags": [
+        "Player",
+        "Customization"
+    ]
+}

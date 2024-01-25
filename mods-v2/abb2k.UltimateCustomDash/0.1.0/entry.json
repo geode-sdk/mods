@@ -1,0 +1,12 @@
+{
+    "commit-author": "abb2k",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/abb2k/indexer/raw/e60e53e657734f04db26c249d2177c9fb6a27538/abb2k.UltimateCustomDash@0/mod.geode",
+        "hash": "1daee2db08da2286ab9724a6b00893c611a24ffc88b53013358ad2f0885a59e8",
+        "hash256": "7fcc1e2295f30190d7ee0075f969770f37b55d1f22dca9d4334d409e5b4019df"
+    },
+    "tags": []
+}

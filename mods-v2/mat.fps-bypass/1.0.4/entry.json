@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/fps-bypass-v1.0.4/mat.fps-bypass.geode",
+        "hash": "dbe4293437434523df6c2ebafab860e7c074c523c5c7868c839eae9bdf5fff93",
+        "hash256": "85c7707168e9e0f19b08acaab08d6b9f69d671e7d70c3f12f37107e021b19481"
+    },
+    "tags": []
+}

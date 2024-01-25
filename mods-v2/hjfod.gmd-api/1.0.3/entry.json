@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/GMD-API/releases/download/v1.0.4/hjfod.gmd-api.geode",
+        "hash": "7304b6f0424c420281195cc95baee7692d688df9f9db9cb9ef21647098243f00",
+        "hash256": "d09045543ba1db04d7e56b691c0eeba2c4d7803ad1664f708ee2df6bafbf194e"
+    },
+    "tags": []
+}

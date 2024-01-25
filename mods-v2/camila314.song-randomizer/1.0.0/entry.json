@@ -1,0 +1,13 @@
+{
+    "commit-author": "camila314",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/song-randomizer/releases/download/1.0.0/camila314.song-randomizer.geode",
+        "hash": "9149452ef8530b8c94104d1b4b302ee078605bf0ee9f31ae4493622739f8f7fb",
+        "hash256": "b255be740342135b1df3e1e18ecca654df4e38ae3cd5da70a25ccd0cffb0a4f3"
+    },
+    "tags": []
+}

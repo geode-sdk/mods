@@ -1,0 +1,13 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/DevTools/releases/download/v1.2.3/geode.devtools.geode",
+        "hash": "08eb643ee7bbb1a6c3b61729cc6112014d1c8bf89b85840d44f9796d383c272d",
+        "hash256": "b8b620ef525137145316a9b1518a75b516c7fb5ca9aa5aecb84a687d4338cfc8"
+    },
+    "tags": []
+}

@@ -1,0 +1,27 @@
+{
+	"geode": "1.3.6",
+	"version": "v1.1.0",
+	"id": "techstudent10.discord_rich_presence",
+	"name": "Discord Rich Presence",
+	"developer": "TechStudent10",
+	"description": "poor absence",
+	"settings": {
+		"funny-mode": {
+			"name": "Just, dont...",
+			"description": "Don't do it... you know you shouldn't...",
+			"type": "bool",
+			"default": false
+		},
+		"private-info": {
+			"name": "Show sensitive info",
+			"description": "Allows this mod to show things like level names in the creator tab for the world to see (no not your password)",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"repository": "https://github.com/TechStudent10/DiscordRPC",
+	"issues": {
+		"info": "Please report issues to the GitHub repository",
+		"url": "https://github.com/TechStudent10/DiscordRPC/issues"
+	}
+}

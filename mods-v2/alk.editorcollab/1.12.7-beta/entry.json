@@ -1,0 +1,17 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/EditorCollab/releases/download/v1.12.7/EditorCollab.geode",
+        "hash": "5846ef8ceca9729fbd52d9b59262af043ab7f6db18cfece730b9b8d4cde2d73e",
+        "hash256": "dd6a1e981899ccb5206355ed4ff1c14240422f85d1fad035ee1c4be81c3010e8"
+    },
+    "tags": [
+        "Collab",
+        "Editor",
+        "Online"
+    ]
+}

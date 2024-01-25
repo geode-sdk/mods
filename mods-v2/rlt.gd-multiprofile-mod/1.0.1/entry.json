@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/indexer/raw/4344c0ad69368bca47d1f799e7d4b51530007bd2/rlt.gd-multiprofile-mod@1/mod.geode",
+        "hash": "d74110acbf46979017162e8ad681505cfe5de88b8b0d9c5aafa2bbc750c85ae6",
+        "hash256": "2b7aee6277ff15f424346638f8b7c6fe74322d39d4edc8340bd177736f34f1b3"
+    },
+    "tags": []
+}

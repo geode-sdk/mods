@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/GeodeMods/releases/download/v1.0.3-fullscreen-fix/alk.fullscreen-fix.geode",
+        "hash": "af733d94c30867df0ac4e311e2cd2fefe02da645ec320726e763490200332c80",
+        "hash256": "4ab24a27240393c27680b9ea7875f55627a76ee93c4b9bdc4461935fff1ad015"
+    },
+    "tags": []
+}

@@ -1,0 +1,48 @@
+{
+	"geode": "1.2.0",
+	"version": "1.12.10-beta",
+	"id": "alk.editorcollab",
+	"name": "Editor Collab",
+	"developer": "alk",
+	"description": "Live multiplayer editor collaboration tool",
+	"dependencies": [],
+	"resources": {
+		"spritesheets": {
+			"TulipEditor": [
+				"resources/*.png",
+				"resources/arrows/*.png",
+				"resources/32bit/*.png"
+			]
+		}
+	},
+	"tags": [
+		"Collab",
+        "Editor", 
+        "Online"
+    ],
+	"repository": "https://github.com/altalk23/EditorCollab",
+	"issues": {
+		"info": "Post your issues on the <cp>Issue tracking repository</c>.",
+		"url": "https://github.com/altalk23/EditorCollab/issues/new/choose"
+	},
+	"settings": {
+		"move-button": {
+			"type": "bool",
+			"name": "Move button",
+			"description": "Move the Editor Collab button to the side of the create screen.",
+			"default": false
+		},
+		"normal-undo-local": {
+			"type": "bool",
+			"name": "Normal undo in local",
+			"description": "Uses the GD's undo redo system for local levels.",
+			"default": true
+		},
+		"normal-undo-shared": {
+			"type": "bool",
+			"name": "Normal undo in shared",
+			"description": "Uses the GD's undo redo system for shared levels.",
+			"default": false
+		}
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.200"
+	},
+	"version": "v1.1.0",
+	"id": "TheSillyDoggo.GradientPages",
+	"name": "Gradient Pages",
+	"developer": "TheSillyDoggo",
+	"description": "Add's Gradients to the back of some popups",
+	"repository": "https://github.com/TheSillyDoggo/Gradient-Pages",
+	"resources": {
+		"spritesheets": {
+			"UISheet": [
+				"resources/*.png"
+			]
+		}
+	},
+	"settings": {
+        "apply-profiles": {
+            "name": "Apply to Profiles",
+            "description": "Should it apply a gradient to profile pages?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-info-layer": {
+            "name": "Apply to Level Description",
+            "description": "Should it apply a gradient to the level description?",
+            "type": "bool",
+            "default": true
+        },
+		"reverse-order": {
+            "name": "Reverse Order",
+            "description": "Reverses the order of the gradient vertically",
+            "type": "bool",
+            "default": false
+        },
+		"use-custom-colours": {
+            "name": "Use Custom Colours",
+            "description": "Should it use colours of your choice instead of your player colours?",
+            "type": "bool",
+            "default": false
+        },
+		"primary-colour": {
+            "name": "Primary Colour",
+			"description": "The Colour used at the top of pages that aren't profiles",
+            "type": "color",
+            "default": "#7d7cff"
+        },
+		"secondary-colour": {
+            "name": "Secondary Colour",
+			"description": "The Colour used at the bottom of pages that aren't profiles",
+            "type": "color",
+            "default": "#7efeb0"
+        }
+	},
+	"tags":	[
+		"Customization"
+	]
+
+}

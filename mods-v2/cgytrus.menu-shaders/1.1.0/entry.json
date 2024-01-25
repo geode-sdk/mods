@@ -1,0 +1,15 @@
+{
+    "commit-author": "cgytrus",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/cgytrus/MenuShaders/releases/download/v1.1.0/cgytrus.menu-shaders.geode",
+        "hash": "9cfa1c016ddffbba3f12f1ef2a39c6b22630bc144c564760d28681cbc5c821af",
+        "hash256": "79c33a52d542a89fe3382bf2ea2b90a35594a1fcae26cc7f676de0332fce3b38"
+    },
+    "tags": [
+        "Customization"
+    ]
+}

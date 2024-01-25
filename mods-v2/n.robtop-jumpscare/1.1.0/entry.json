@@ -1,0 +1,12 @@
+{
+    "commit-author": "dankmeme01",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/dankmeme01/gd-nong/releases/download/faserw/n.robtop-jumpscare.geode",
+        "hash": "8b800ac3931314f13ec5ffcc7635bd9e7359f5328376f3102eea08af67eb5014",
+        "hash256": "75e1b26086bd596d28e8e73aa4d6436eeb84b24afbe2e9c84a7d51e8d9a25a04"
+    },
+    "tags": []
+}

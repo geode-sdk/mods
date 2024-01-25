@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/GDShare-mod/releases/download/v1.0.3/hjfod.gdshare.geode",
+        "hash": "49bb8e95ee8c57fbb1fa85aaeb8dd619bc9878771f3c53e4f8902dd071188eeb",
+        "hash256": "aad540967954428ce98c3df51e5fd062e499664f900a6b1b7e79e0f06c05afd6"
+    },
+    "tags": []
+}

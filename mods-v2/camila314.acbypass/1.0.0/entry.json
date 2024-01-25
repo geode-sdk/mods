@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/geode-index/raw/44adc9bf8641229fbedd7883f352faaa47ed8d6c/camila314.acbypass@1/mod.geode",
+        "hash": "d97be90618bc129d80b7d76d670f216fa4dc481b067219bd9bb458e7279efb81",
+        "hash256": "0cfa3fb77dc0dc4bf4350713c9432822b79ea9024df4c42322123f42bda85eee"
+    },
+    "tags": []
+}

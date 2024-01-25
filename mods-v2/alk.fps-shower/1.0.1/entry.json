@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/altalk23/GeodeMods/releases/download/v1.0.0-fps-shower/alk.fps-shower.geode",
+        "hash": "d1d502d69edfc720128b850798f3968f8d7acbb16dcec7f8ee2fa1f2ee737926",
+        "hash256": "c48764528d2ae149d8c5aa12547e66c06c6572ea340ece2ce2da15ebf1860d4f"
+    },
+    "tags": []
+}

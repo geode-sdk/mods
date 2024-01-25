@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/o7Moon/indexer/raw/525353aae4664d3bbf9c8037dd2cc5fc1fb8227d/o7moon.noglow@1/mod.geode",
+        "hash": "8cdc47b3baa524822133c57a2709198369c4d7b7978cf9e141ad03bd0397b1a6",
+        "hash256": "5840ec940254a8d6c863ca792ed021c2944ab9a9037f0b45792687fffd483b4f"
+    },
+    "tags": []
+}

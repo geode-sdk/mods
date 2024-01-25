@@ -1,0 +1,36 @@
+{
+	"geode": "1.3.4",
+	"version": "v1.5.2",
+	"id": "tpdea.betterpause-Better",
+	"name": "BetterPause",
+	"developer": "Tpdea",
+	"description": "A mod inspired by the collar server, an improvement for the geometry dash pause menu.",
+	"repository": "https://github.com/TpdeaX/BetterPause",
+	"issues": {
+        "info": "Report any issues you have on GitHub issues.",
+        "url": "https://github.com/TpdeaX/BetterPause/issues"
+    },
+    "early-load": false,
+	"settings": {
+        "level-editor-hack": {
+            "name": "Level Editor Hack",
+            "description": "I couldn't adapt the level edit recognition of the mods menus, sorry :(",
+            "type": "bool",
+            "default": true
+        },
+        "first-style": {
+            "name": "First Style",
+            "description": "Makes it go back to the zidnes fanart style, I mean the first public version.",
+            "type": "bool",
+            "default": false
+        }
+    },
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+	"tags": [
+		"Customization"
+	]
+}

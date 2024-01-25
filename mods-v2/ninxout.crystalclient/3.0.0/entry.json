@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/ninXout/index-test/raw/f24f789b8e08dafff9c63e728e2ef742ca011331/ninxout.crystalclient@3/mod.geode",
+        "hash": "c451a1e11b1364421ae2fce96a867a9178762202fcfaa67d9d4b2987a0e5fc19",
+        "hash256": "4914adcef576a41fa2bacdb2d2981b7fa6876ce17a8e1328b1fb4615b0e01d14"
+    },
+    "tags": []
+}

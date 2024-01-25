@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/abb2k/UltimateCustomDash/releases/download/Ultimate_Custom_Dash/abb2k.UltimateCustomDash.geode",
+        "hash": "1a88683c39ffb77a8e55b8659895022611d0eeeeaf3df4a5c1d2c836ce56f5c3",
+        "hash256": "89e5b0f49f2a804b95ecc658b366317ac90cc6ff7e8502dba30169d1bcb37235"
+    },
+    "tags": []
+}

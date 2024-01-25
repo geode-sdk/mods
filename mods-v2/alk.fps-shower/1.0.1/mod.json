@@ -1,0 +1,14 @@
+{
+	"geode": "1.0.3",
+	"version": "1.0.1",
+	"id": "alk.fps-shower",
+	"name": "FPS Shower",
+	"developer": "alk",
+	"description": "It's just an standalone fps overlay mod.",
+	"settings": {
+		"text-color": {
+            "type": "color",
+            "default": "#ff00ff"
+        }
+	}
+}

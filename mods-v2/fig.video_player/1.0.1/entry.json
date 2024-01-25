@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/FigmentBoy/indexer/raw/f202ba1f14a0cb12c46c926f55453b6e4d43ac27/fig.video_player@1/mod.geode",
+        "hash": "f6497a2765dcb60ee543b356b10d21238191e39bcacca7d364b1f4eb058c10d7",
+        "hash256": "06c34ef2a44f7d207fcd08dcf4262266f59ba7a712ebf20a1a8ae2a228f79975"
+    },
+    "tags": []
+}

@@ -1,0 +1,9 @@
+{
+	"geode": "v2.0.0",
+	"gd": "*",
+	"version": "v1.0.1",
+	"id": "mat.draw-divide",
+	"name": "Draw divide",
+	"developer": "mat",
+	"description": "Makes the game render at native refresh rate, helping perfomance."
+}

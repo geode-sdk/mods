@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-indexer/raw/32ef1f9b784bda9f7cd9c86b00d51d6779ca4da1/mat.fps-bypass@1/mod.geode",
+        "hash": "b360d1260ef8c9b2e9a9ec2feb8dde55db8ec853fdf09a02a2123b53fefc6d02",
+        "hash256": "fd7443f893f55b6a27bcaeb4a2603da0084a175ce6e75c173b22d2d099e5ec20"
+    },
+    "tags": []
+}

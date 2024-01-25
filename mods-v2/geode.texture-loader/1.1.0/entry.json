@@ -1,0 +1,13 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/textureldr/releases/download/v1.1.0/geode.texture-loader.geode",
+        "hash": "eb153f9b8fe5c98053cfcf3da30ace2e091a9e1b1809382f8d0a805c3153f65e",
+        "hash256": "f2e88ad2bcfaae28ac4497f43a1955e6a9e5f979263107ea389ced6213c4ead9"
+    },
+    "tags": []
+}

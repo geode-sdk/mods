@@ -1,0 +1,14 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows",
+        "android"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/textureldr/releases/download/v1.0.2/geode.texture-loader.geode",
+        "hash": "fc5f1ca70f6eb466cc233b2eb28d220146bb83252f27e0b02950977dad74c5b4",
+        "hash256": "e8a8a350ef7ba59eab93b68376ee8a212e46923cad6143ec3b7d9c9c71bfee77"
+    },
+    "tags": []
+}

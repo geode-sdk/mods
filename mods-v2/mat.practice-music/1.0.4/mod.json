@@ -1,0 +1,8 @@
+{
+	"geode": "v1.0.0",
+	"version": "v1.0.4",
+	"id": "mat.practice-music",
+	"name": "Practice Music",
+	"developer": "mat",
+	"description": "Play the actual song in practice mode"
+}

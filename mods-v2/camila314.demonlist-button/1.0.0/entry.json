@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/geode-index/raw/44adc9bf8641229fbedd7883f352faaa47ed8d6c/camila314.demonlist-button@1/mod.geode",
+        "hash": "6434a1d0d844a1c3b15e0e20ebf8cbc8c87071d8e2e8fb75ea0e71c32a48884b",
+        "hash256": "5d652a7abf75d935822b8616ac4483a20c9f8866388c1c8f7f500ca7fb9835fa"
+    },
+    "tags": []
+}

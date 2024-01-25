@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.1",
+	"id": "bitz.customprofiles",
+	"name": "CustomProfiles",
+	"developer": "BitZ",
+	"description": "My first mod to geode, a port for the original CustomProfiles now available with new features!",
+	"gd": {
+		"android": "2.200",
+		"win": "2.204"
+	}
+}

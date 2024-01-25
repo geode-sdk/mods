@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Igbalabanov/indexer/raw/c89fa15b8eba405b9b77e3b2d4e5745451949a31/chs.confirmquit@1/mod.geode",
+        "hash": "845246bc9fc4fc913ccdbfd7fbd83594db4eb9669697de4947d566954bf22d16",
+        "hash256": "a85fd77fe77c1ccefd9e0af8d88885ff0c921a2004d48301d5fce78f48870a54"
+    },
+    "tags": []
+}

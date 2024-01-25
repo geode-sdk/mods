@@ -1,0 +1,63 @@
+{
+    "geode": "1.3.5",
+    "version": "v1.1.0",
+    "id": "cgytrus.menu-shaders",
+    "name": "Menu Shaders",
+    "developer": "mat & ConfiG",
+    "description": "Replaces the background of the main menu with a custom shader, which can be customized.",
+    "repository": "https://github.com/cgytrus/MenuShaders",
+    "issues": {
+        "info": "Report any issues you have on GitHub issues.",
+        "url": "https://github.com/cgytrus/MenuShaders/issues"
+    },
+    "tags": [ "Customization" ],
+    "resources": {
+        "files": [
+            "resources/shaders/*.glsl"
+        ]
+    },
+    "settings": {
+        "show-main": {
+            "name": "Show in main menu",
+            "description": "MenuLayer",
+            "type": "bool",
+            "default": true
+        },
+        "show-level-select": {
+            "name": "Show in level select menu",
+            "description": "LevelSelectLayer",
+            "type": "bool",
+            "default": false
+        },
+        "show-creator": {
+            "name": "Show in creator menu",
+            "description": "CreatorLayer",
+            "type": "bool",
+            "default": false
+        },
+        "show-level-browser": {
+            "name": "Show in level lists",
+            "description": "Hall of Fame, Featured, Saved, etc. (LevelBrowserLayer)",
+            "type": "bool",
+            "default": false
+        },
+        "show-edit-level": {
+            "name": "Show in edit level menu",
+            "description": "EditLevelLayer",
+            "type": "bool",
+            "default": false
+        },
+        "show-play-level": {
+            "name": "Show in play level menu",
+            "description": "LevelInfoLayer",
+            "type": "bool",
+            "default": false
+        },
+        "show-search": {
+            "name": "Show in search menu",
+            "description": "LevelSearchLayer",
+            "type": "bool",
+            "default": false
+        }
+    }
+}

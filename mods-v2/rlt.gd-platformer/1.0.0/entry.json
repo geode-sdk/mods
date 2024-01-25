@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/indexer/raw/4344c0ad69368bca47d1f799e7d4b51530007bd2/rlt.gd-platformer@1/mod.geode",
+        "hash": "9694636e91638a11bf9d5261f74612db4784f5c4cc9f93dced3c29cb4848d83a",
+        "hash256": "fa3bb45ac1c237686d1d9c86e293c710b68c0f12b6814b5209703f68a3d87957"
+    },
+    "tags": []
+}

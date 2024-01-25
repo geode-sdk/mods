@@ -1,0 +1,13 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-indexer/raw/32ef1f9b784bda9f7cd9c86b00d51d6779ca4da1/mat.scroll-zoom@1/mod.geode",
+        "hash": "2a803068eeb1dfd727fffc209bf88e61c2682648a84deb5f6566c468c3b76f18",
+        "hash256": "cbfaaf7087a4e9bacade6bf5f8b33be7a2ceecdb5895e3ccf5e29003677e3e6a"
+    },
+    "tags": []
+}

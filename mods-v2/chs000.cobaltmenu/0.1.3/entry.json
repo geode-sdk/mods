@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Chs000-00/Cobalt-Menu/releases/download/v0.1.3/chs000.cobaltmenu.geode",
+        "hash": "be85630d12a0bebf87eda3f2a55be77d5af8c087274ad1e6b261d2ca7ae78049",
+        "hash256": "1933ccf01cfd34a4138845fe5badda776ff9424dc1df4aa0465f319926fd2d3e"
+    },
+    "tags": []
+}

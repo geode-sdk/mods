@@ -1,0 +1,11 @@
+{
+	"geode": "1.0.0-beta.14",
+	"version": "v1.0.1",
+	"id": "rlt.gd-multiprofile-mod",
+	"name": "Multi-Profile",
+	"developer": "RLT",
+	"description": "A mod that makes able to create multiple accounts (like Discord etc...)",
+	"resources": {
+		"files": [ "resources/templates/*.dat" ]
+	}
+}

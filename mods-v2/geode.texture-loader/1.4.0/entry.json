@@ -1,0 +1,14 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/textureldr/releases/download/v1.4.0/geode.texture-loader.geode",
+        "hash": "5d13fa07d08b3b6501b7e2ceba55e971b4039f5508c18f484e23b657428e71a1",
+        "hash256": "f1d8ec1303a5829aafcfa1ff2b2100e64188dc4bd9c7b6c7af06da07b88315db"
+    },
+    "tags": []
+}

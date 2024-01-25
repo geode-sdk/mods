@@ -1,0 +1,12 @@
+{
+    "commit-author": "iAndyHD3",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/iAndyHD3/AbbreviatedLabels/releases/download/v1.0.1/iandyhd3.abbreviated_labels.geode",
+        "hash": "6d03f0fabee855689c3826dbda842781eb0ed03aef9c3c3867ff29312fdae934",
+        "hash256": "c11dc33cdd069d3c63e383cc0874189905d489e3f13769fc4b96fb216249eb8a"
+    },
+    "tags": []
+}

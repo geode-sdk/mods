@@ -1,0 +1,13 @@
+{
+    "commit-author": "camila314",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/geode-mods/releases/download/1.0.0/alignto.geode",
+        "hash": "4f0b2c47d56e1b1e087ab0794e691a9b60281593262d3341fad8b28763aae42e",
+        "hash256": "ab595aa671c0788381d825d21f9fc27abad0f91380d8d540f3bd75b7908a4c26"
+    },
+    "tags": []
+}

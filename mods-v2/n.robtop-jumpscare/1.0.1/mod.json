@@ -1,0 +1,18 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.1",
+	"id": "n.robtop-jumpscare",
+	"name": "Robtop Jumpscare",
+	"developer": "n",
+	"gd": {
+		"android": "2.200",
+        "win": "2.204"
+	},
+	"description": "Jumpscare yourself everytime you jump!",
+	"resources": {
+		"files": [
+			"resources/*.mp3",
+			"resources/*.png"
+		]
+	}
+}

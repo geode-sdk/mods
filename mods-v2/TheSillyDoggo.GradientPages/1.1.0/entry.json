@@ -1,0 +1,16 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/Gradient-Pages/releases/download/2.201/TheSillyDoggo.GradientPages.geode",
+        "hash": "572ad7b3e12c3ce269fbef5938065b5ab61af974e5a190d282ce2206251ff83f",
+        "hash256": "8e3c81c47e7357d0e6e0f29bced25380a09621adb8b1b1a0ea4ae097aabaca23"
+    },
+    "tags": [
+        "Customization"
+    ]
+}

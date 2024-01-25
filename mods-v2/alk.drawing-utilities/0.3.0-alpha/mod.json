@@ -1,0 +1,16 @@
+{
+	"geode": "1.2.0",
+	"version": "0.3.0-alpha",
+	"id": "alk.drawing-utilities",
+	"name": "Drawing Utilities",
+	"developer": "alk",
+	"description": "Some editor drawing utilities",
+	"resources": {
+		"sprites": [
+			"resources/test.png"
+		],
+		"files": [
+			"resources/*.svg"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "commit-author": "TpdeaX",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TpdeaX/indexer/releases/download/ReleaseA/mod.geode",
+        "hash": "789f23b5fc09523b75fcecc42671fc21268e3669961c51a358a3214312fae95b",
+        "hash256": "ea719cac52fd490c0823e94bd03362558cdc039eb909f10cf269b87246949641"
+    },
+    "tags": [
+        "Customization"
+    ]
+}
