@@ -1,7 +1,7 @@
 # Click Sound
 
 Plays a click sound whenever you press a jump button.
-If you want a new built-in click sound or feature to be added, DM @beat___ on discord. <3
+If you want a new built-in click sound or feature to be added, join the [discord server](https://discord.gg/RwbRP8ADdc). <3
 
 ### Uses Geode Beta on 2.2
 Open the mod settings to change the click sound. Set the click sound to '0' to use a custom click sound.

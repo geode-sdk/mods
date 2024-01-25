@@ -1,0 +1,53 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.1",
+	"id": "beat.click-sound",
+	"name": "Click sound",
+	"developer": "Beat",
+	"gd": {
+		"android": "2.205",
+        "win": "2.204",
+		"mac": "2.200"
+	},
+	"description": "Plays a sound whenever you press a jump button.",
+	"resources": {
+		"files": [
+			"resources/*.ogg",
+			"*/.mp3",
+			"*/.wav"
+		]
+	},
+	"settings": {
+		"enable-clicksound": {
+			"name": "Enable click sounds",
+			"description": "Enable or disable click sounds without restarting the game!",
+			"type": "bool",
+			"default": true
+		},
+		"OnlyOnJump": {
+			"name": "Only play on jump",
+			"description": "Doesn't play sound on movement of platformer keys",
+			"type": "bool",
+			"default": true
+		},
+		"clicksound-currentsound": {
+			"name": "Current click sound",
+			"description": "Change the click sound. 0 = Custom, 1 = Default, 2 = Metronome, 3 = Click One, 4 = Click Two, 5 = Fire In The Hole, 6 = I love GD Cologne, 7 = Vine Boom, 8 = Bwomp, 9 = Metal Pipe, 10 = TikTok, 11 = Plug.",
+			"type": "int",
+			"default": 1,
+			"min": 0,
+			"max": 11,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"custom-sound": {
+            "name": "Upload a custom sound",
+            "description": "Select a .ogg, .wav, or .mp3 format file to set as sound 0. The best practice is to use sounds that start loudly and immediately.",
+            "type": "path",
+            "default": "Upload a file first."
+        }
+	},
+	"repository": "https://github.com/BeatACVR/geode-clicksound"
+}
