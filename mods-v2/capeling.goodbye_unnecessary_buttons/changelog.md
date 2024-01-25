@@ -1,4 +1,7 @@
 # Goodbye Unnecessary Buttons Changelog
+## v1.1.0
+- Swapped The Quests and Paths Buttons
+- Swapped The Lists and Map Packs Buttons
 ## v1.0.3
 - Bump Android Version (2.205)
 ## v1.0.2

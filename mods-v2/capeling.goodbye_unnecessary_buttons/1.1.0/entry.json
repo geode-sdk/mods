@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/Goodbye-Unnecessary-Buttons/releases/download/v1.1.0/capeling.goodbye_unnecessary_buttons.geode",
+        "hash": "5fb64e3c4c02e5cd45d8dae2cdf9a721ebcd4733f319ed787f0fe9867406e43f",
+        "hash256": "9a8ae41d52c95d24874db439b3a1044bbd5e85cfc23159ffa959c98a92247c72"
+    },
+    "tags": []
+}
