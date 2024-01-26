@@ -955,6 +955,12 @@
             "versions": [
                 "1.2.1"
             ]
+        },
+        "izzy.practice_sync": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "commit-author": "snowyzia",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/snowyzia/practice-sync/releases/download/woah/izzy.practice_sync.geode",
+        "hash": "5fd3a0a3b0452c6372adf5a5903cd68a981efc491f3078c99d95f3dad5d486a0",
+        "hash256": "cb15177e946994e84b9518e14f65dcfea81a2e1be83d14380a0304cd6a5300de"
+    },
+    "tags": []
+}
