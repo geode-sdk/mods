@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.1.4
+
+ * Temporarily disable manual song add on Android
+ * Fix touch priority issues in the song list
+
 ## v2.1.3
 
  * Fix buttons not working in the song list
