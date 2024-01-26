@@ -1,3 +1,13 @@
+# v1.2.0
+### Gameplay Changes
+ * Ghost has been temporarily disabled; it's very broken in 2.2
+### Technical Changes
+ * SDK has been updated to v2.0.0-beta.9
+ * Ghost now waste less CPU time when its hidden than in DR v1.1.0
+ * Death Replay level file now has new parameter - playTime
+   - playTime parameter is fully ignored while being in Platformer mode.
+   - Normal Mode can use playTime parameter if it possible
+
 # v1.1.1
 ### Gameplay Changes
  * Fixed bug where Ghost didn't get hidden when he was said to
