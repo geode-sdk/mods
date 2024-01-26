@@ -1,0 +1,14 @@
+{
+    "commit-author": "Alphatism",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphatism/Projected-Stars/releases/download/1.1.1/alphalaneous.projectedstars.geode",
+        "hash": "9368a014ac7c6e8453f5ed13d16c98fa31bf4bbcafda0501ded57c83966308aa",
+        "hash256": "1cfd65b77003b51fa9592d3ebb04755806388586007cb6252e978a43b815f070"
+    },
+    "tags": []
+}
