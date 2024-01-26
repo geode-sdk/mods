@@ -1,4 +1,12 @@
 # Changelog
+## Version v1.1.2
+* Release sounds are now supported, along with custom release sounds!
+* Built-in release sounds are a seperate category of sounds from click sounds.
+* 'Click 3' click sound added!
+* 'El Gato' click sound added!
+* 'Release 1' release sound added! (intended for use with Click 3 click sound)
+## Version v1.1.1
+* Changed one line in the README and about.md.
 ## Version v1.1.0 (MAJOR)
 * Custom sounds are now supported!
 * The most useful sounds come before meme sounds now!

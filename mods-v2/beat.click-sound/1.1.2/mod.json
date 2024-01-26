@@ -1,0 +1,77 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.2",
+	"id": "beat.click-sound",
+	"name": "Click sound",
+	"developer": "Beat",
+	"gd": {
+		"android": "2.205",
+        "win": "2.204",
+		"mac": "2.200"
+	},
+	"description": "Plays a sound whenever you press a jump button.",
+	"resources": {
+		"files": [
+			"resources/*.ogg",
+			"*/.mp3",
+			"*/.wav"
+		]
+	},
+	"settings": {
+		"OnlyOnJump": {
+			"name": "Only play on jump",
+			"description": "Doesn't play sound on movement of platformer keys",
+			"type": "bool",
+			"default": true
+		},
+		"enable-clicksound": {
+			"name": "Enable click sounds",
+			"description": "Enable or disable click sounds without restarting the game!",
+			"type": "bool",
+			"default": true
+		},
+		"clicksound-currentsound": {
+			"name": "Current click sound",
+			"description": "Change the click sound. 0 = Custom, 1 = Default, 2 = Metronome, 3 = Click One, 4 = Click Two, 5 = Click Three, 6 = Fire In The Hole, 7 = I love GD Cologne, 8 = Vine Boom, 9 = Bwomp, 10 = Metal Pipe, 11 = TikTok, 12 = Plug.",
+			"type": "int",
+			"default": 1,
+			"min": 0,
+			"max": 13,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"custom-clicksound": {
+            "name": "Upload a custom click sound",
+            "description": "Select a .ogg, .wav, or .mp3 format file to set as sound 0. The best practice is to use a .ogg format sound that start loudly and immediately.",
+            "type": "path",
+            "default": "Upload a file first."
+        },
+		"enable-releasesound": {
+			"name": "Enable release sounds",
+			"description": "Enable or disable release sounds.",
+			"type": "bool",
+			"default": false
+		},
+		"custom-releasesound": {
+            "name": "Upload a custom release sound",
+            "description": "Select a .ogg, .wav, or .mp3 format file to set as sound 0. The best practice is to use a .ogg format sound that start loudly and immediately.",
+            "type": "path",
+            "default": "Upload a file first."
+        },
+		"releasesound-currentsound": {
+			"name": "Current release sound",
+			"description": "Change the release sound. 0 = Custom, 1 = Default, 2 = Metronome, 3 = Click One, 4 = Click Two, 5 = Fire In The Hole, 6 = I love GD Cologne, 7 = Vine Boom, 8 = Bwomp, 9 = Metal Pipe, 10 = TikTok, 11 = Plug.",
+			"type": "int",
+			"default": 1,
+			"min": 0,
+			"max": 1,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		}
+	},
+	"repository": "https://github.com/BeatACVR/geode-clicksound"
+}
