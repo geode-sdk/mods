@@ -930,6 +930,12 @@
             "versions": [
                 "0.1.0"
             ]
+        },
+        "skyward.no_robtop_logo": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
