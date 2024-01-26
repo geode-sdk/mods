@@ -942,6 +942,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "zilko.xdbot": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
