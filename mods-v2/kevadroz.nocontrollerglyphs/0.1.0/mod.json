@@ -1,0 +1,14 @@
+{
+	"geode": "v2.0.0",
+	"gd": "2.204",
+	"version": "v0.1.0",
+	"id": "kevadroz.nocontrollerglyphs",
+	"name": "No Controller Glyphs",
+	"developer": "Kevadroz",
+	"description": "Hides all gamepad indicators when a controller is plugged in.",
+	"repository": "https://github.com/Kevadroz/NoControllerGlyphs",
+	"issues": {
+		"info": "Report any sighthing of controller glyphs or other bugs to the git repo.",
+		"url": "https://github.com/Kevadroz/NoControllerGlyphs/issues"
+	}
+}
