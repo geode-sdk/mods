@@ -1,0 +1,28 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"version": "v1.0.0",
+	"id": "weebify.jumpscare",
+	"name": "Jumpscare",
+	"developer": "Weebify",
+	"description": "Randomly jumpscares you when you die",
+	"resources": {
+		"files": [
+			"resources/background.png",
+			"resources/jumpscare.png",
+			"resources/jumpscareAudio.mp3"
+		]
+	},
+	"settings": {
+		"chance": {
+            "name": "Probability(%)",
+            "type": "float",
+            "default": 10,
+            "min": 0,
+            "max": 100
+		}
+	}
+}

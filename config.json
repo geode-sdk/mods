@@ -1002,6 +1002,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "weebify.jumpscare": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
