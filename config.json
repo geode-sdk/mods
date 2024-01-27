@@ -967,7 +967,8 @@
         "undefined0.gdtweaks": {
             "verified": false,
             "versions": [
-                "1.2.1"
+                "1.2.1",
+                "1.3.0"
             ]
         },
         "izzy.practice_sync": {
