@@ -1,0 +1,14 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/restartbutton-geode/releases/download/v1.0.0/weebify.restartbtn.geode",
+        "hash": "587021f8a8a8cd56b25296a93583a786712628fee9c6e1996099275d5d6207af",
+        "hash256": "c20b2826eadc502c70cef6646ed07dc2c9fe5bf8b6d7ba3a00d6c2f5a6132272"
+    },
+    "tags": []
+}

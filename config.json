@@ -996,6 +996,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "weebify.restartbtn": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

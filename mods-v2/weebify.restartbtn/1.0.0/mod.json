@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"version": "v1.0.0",
+	"id": "weebify.restartbtn",
+	"name": "Restart Button",
+	"developer": "Weebify",
+	"description": "Adds a button to quickly restart the game"
+}
