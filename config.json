@@ -1024,7 +1024,8 @@
         "shineua.minecraft_splash": {
             "verified": false,
             "versions": [
-                "1.1.1"
+                "1.1.1",
+                "1.1.2"
             ]
         },
         "prevter.openhack": {

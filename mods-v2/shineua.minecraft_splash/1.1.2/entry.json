@@ -1,0 +1,14 @@
+{
+    "commit-author": "ShineUA",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/ShineUA/minecraft-splash-mod-geode/releases/download/v1.1.2/shineua.minecraft_splash.geode",
+        "hash": "3e3d43866421b0ba47f39639c6204492c8ecce3996cfb660c276a59a9d900809",
+        "hash256": "162e3af0d0441066e6bc8dca73602123299c89b462dee77a573e78a3ba813a5d"
+    },
+    "tags": []
+}
