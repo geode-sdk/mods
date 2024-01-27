@@ -975,6 +975,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "itzkiba.elegant_rankings": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
