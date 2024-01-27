@@ -990,6 +990,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "adyagd.ingamelistmod": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
