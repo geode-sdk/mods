@@ -1,0 +1,14 @@
+{
+    "commit-author": "RedLime",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RedLime/Stat-Changes-Geode/releases/download/1.1.0/redlime.statchanges.geode",
+        "hash": "067b0be5c2079954b4b60a24d3dda17d83711d10aff57368a7b4f6113218db18",
+        "hash256": "97dee802a06683ab5762e6bc8f20ada8dcb48f8e33ea5f4505cf9520b4a73c5f"
+    },
+    "tags": []
+}
