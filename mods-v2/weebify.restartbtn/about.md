@@ -1,3 +1,3 @@
 # Restart button
 
-Adds a button to quickly restart the game
+Adds a restart game button (and a close game button for android) in the main menu
