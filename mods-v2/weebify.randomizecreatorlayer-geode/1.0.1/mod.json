@@ -1,0 +1,19 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"version": "v1.0.1",
+	"id": "weebify.randomizecreatorlayer-geode",
+	"name": "Creator Layer Randomizer",
+	"developer": "Weebify",
+	"description": "Randomizes the creator layer buttons",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.0.0",
+			"importance": "required"
+		}
+	]
+}

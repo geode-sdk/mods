@@ -1,0 +1,14 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/randomizecreatorlayer-geode/releases/download/v1.0.1/weebify.randomizecreatorlayer-geode.geode",
+        "hash": "4e8159273ad89431e985891e4842f7468e7f423704b27d22e63a18dfa0392285",
+        "hash256": "544e9466ebf823afa97e72bca27fd75d97204ea2a8971053b9ad21566908cbae"
+    },
+    "tags": []
+}
