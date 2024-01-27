@@ -978,7 +978,8 @@
         "abb2k.backup": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "itzkiba.elegant_rankings": {
