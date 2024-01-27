@@ -1,0 +1,12 @@
+{
+    "commit-author": "Prevter",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Prevter/GDOpenHack/releases/download/1.6.0/prevter.openhack.geode",
+        "hash": "4646d1fc168a335ca0743b395c5c4b0c2c1d36a6b6f8d01b7e2dc96912a850af",
+        "hash256": "f6ab07b21e1c3667d28ea4e89f9c4914e75bb7ea54eb37bf83b65b2072988f27"
+    },
+    "tags": []
+}
