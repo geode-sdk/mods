@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.1.5
+
+ * Reenable manual song add on Android
+
 ## v2.1.4
 
  * Temporarily disable manual song add on Android
