@@ -1,0 +1,26 @@
+{
+	"geode": "2.0.0-beta.9",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "abb2k.backup",
+	"name": "Backup",
+	"developer": "abb2k",
+	"description": "a mod that allows you to easily backup your save file :D",
+
+	"settings": {
+		"Auto_Backup": {
+            "name": "Auto Backup",
+            "description": "automatically backup the game.",
+            "type": "bool",
+			"default": false
+        },
+        "Max_Auto_Backups": {
+            "name": "Max Auto Backups",
+            "description": "how many backups the mod autosaves before starting to delete old ones for space.",
+            "type": "int",
+            "default": 1,
+			"min": 1,
+            "max": 10
+        }
+    }
+}
