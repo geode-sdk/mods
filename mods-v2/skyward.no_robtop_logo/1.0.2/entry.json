@@ -1,0 +1,12 @@
+{
+    "commit-author": "Deadcello",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Deadcello/no-robtop-logo-geode/releases/download/1.02/skyward.no_robtop_logo.geode",
+        "hash": "5f56b99a5c39418c4e06db2de26954bbd9aafe4b8d206b8ef8ba2edbbcf58824",
+        "hash256": "ab3eb2478f1ec811e86c0c7110daa80c9cd9749816233095362ee0cd906a4e08"
+    },
+    "tags": []
+}
