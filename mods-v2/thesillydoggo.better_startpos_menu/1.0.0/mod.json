@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"id": "thesillydoggo.better_startpos_menu",
+	"name": "Compact Editor Menus",
+	"developer": "TheSillyDoggo",
+	"description": "please make this real robert"
+}

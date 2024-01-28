@@ -1044,6 +1044,12 @@
             "versions": [
                 "1.0.0-beta.1"
             ]
+        },
+        "thesillydoggo.better_startpos_menu": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

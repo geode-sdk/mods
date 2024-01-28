@@ -1,0 +1,14 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/BetterStartpos/releases/download/v1.0.0/thesillydoggo.better_startpos_menu.geode",
+        "hash": "06cb1afd3d7c7c3984a8087ba7a8969af844d13b92dc1f7c8c7d4e15e0f859cf",
+        "hash256": "accb3e60bbcd5c756d3fa3963afeb07330bab625a446077153c366def769df1f"
+    },
+    "tags": []
+}
