@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.2.1",
+	"id": "n.robtop-jumpscare",
+	"name": "Robtop Jumpscare",
+	"developer": "n",
+	"gd": {
+		"android": "2.205",
+        "win": "2.204"
+	},
+	"repository": "https://github.com/NicknameGG/robtop-jumpscare",
+	"description": "Jumpscare yourself everytime you jump!",
+	"resources": {
+		"files": [
+			"resources/*.mp3",
+			"resources/*.png"
+		]
+	},
+	"settings": {
+		"randomize-jumpscare": {
+			"name": "Randomize Jumpscare",
+			"description": "Jumpscares happen with a 1% chance instead of a 100% chance when enabled.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
