@@ -1,3 +1,7 @@
+# v0.1.2
+
+* (Hopefully) Fixed crash on game start whenever the main menu controller labels don't exist.
+
 # v0.1.1
 
 * Fixed incompatibility with Custom Keybinds.
