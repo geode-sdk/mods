@@ -3,7 +3,7 @@ Customize your profile with a new and interesting interface!
 
 
 ## **Fixes**
-- Customization touch menu fix
+- Disable info button fix
 
 ## **Android Support!**
 - Now the customizations are available on android!
