@@ -1,0 +1,12 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/GeodeMods/releases/download/egd-v1.0.1/uproxide.evilgd.geode",
+        "hash": "1e89302f980f34a9c33cf492130a3d6f93e5bec9dbf37c1269122103ebf353ee",
+        "hash256": "3c002ba788d2d219d991bd024bef768b379b25f3cfbb698791d81bf71ced136f"
+    },
+    "tags": []
+}

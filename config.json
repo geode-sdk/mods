@@ -1054,6 +1054,12 @@
                 "1.0.0",
                 "1.1.0"
             ]
+        },
+        "uproxide.evilgd": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
