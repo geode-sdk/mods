@@ -1,0 +1,19 @@
+{
+	"geode": "v2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.2",
+	"id": "blackholemx.nomoregames",
+	"name": "NoMoreGames",
+	"developer": "BlackHoleMX",
+	"description": "Removes that useless button",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.1.1",
+            "importance": "required"
+        }
+    ]
+}
