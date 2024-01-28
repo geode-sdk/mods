@@ -7,10 +7,11 @@ Now you can place the Daily chest below the Play button!
 # Features (v1.1.0)
 
 - The Daily button is moved right below the Play button, **it can be disabled**.
-![alt text](https://github.com/GDSaneS/Daily-Transfer/blob/main/images/daily-transfer-0.png?raw=true)
+![Mod enabled](sanes.daily-transfer/0.png)
 
 - Compatibility setting "Transfer Full Column": every button on the right gets moved below the Play button!
-![alt text](https://github.com/GDSaneS/Daily-Transfer/blob/main/images/daily-transfer-1.png?raw=true)
+![Full Column enabled](sanes.daily-transfer/1.png)
+(v1.1.1) -> You can now modify the gap between the buttons
 
 That's it for now!
 

@@ -1,0 +1,12 @@
+{
+    "commit-author": "GDSaneS",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/GDSaneS/Daily-Transfer/releases/download/v1.1.1/sanes.daily-transfer.geode",
+        "hash": "2e8064456c1faa91aaa115b780079ee56e82b7252e29892a8acc7ed49f540392",
+        "hash256": "14bc15d1d96f18c3bdfd1b4552a166412fa5a9a083a4764452ccef9038682946"
+    },
+    "tags": []
+}
