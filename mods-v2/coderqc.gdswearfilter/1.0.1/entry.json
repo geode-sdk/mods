@@ -1,0 +1,12 @@
+{
+    "commit-author": "CoderQCFromScraatch",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/CoderQCFromScraatch/gd-swear-filter/releases/download/1.0.1/coderqc.gdswearfilter.geode",
+        "hash": "f29af9d4ac78b4f578235848870e4a3511cf92f313fcb3f84d325bf99602caa9",
+        "hash256": "7fb989c5e62c4a0a089d9d07f9be7b1c1680a0dbe294edfebb9e0fc77e28e87f"
+    },
+    "tags": []
+}

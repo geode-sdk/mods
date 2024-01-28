@@ -1,0 +1,66 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "coderqc.gdswearfilter",
+	"name": "Swear Filter",
+	"developer": "CoderQC",
+	"description": "Adds a filter to Geometry Dash.",
+	"repository": "https://github.com/CoderQCFromScraatch/gd-swear-filter",
+	"settings": {
+        "strict-mode": {
+            "name": "Strict Mode",
+            "description": "Hides the <cr>entire word</c> when a word is fitered, not just the offending area.",
+            "type": "bool",
+            "default": false
+        },
+		"filter-profanity": {
+            "name": "Disallow Profanity",
+            "description": "Whether or not to hide <cr>profanity</c>.",
+            "type": "bool",
+            "default": true
+        },
+		"filter-sexual": {
+            "name": "Disallow Sexual Words",
+            "description": "Whether or not to hide <cr>sexual words</c>.",
+            "type": "bool",
+            "default": true
+        },
+		"filter-racism": {
+            "name": "Disallow Racism",
+            "description": "Whether or not to hide <cr>racism</c>.\n<cy>(Doesn't censor much.)</c>",
+            "type": "bool",
+            "default": true
+        },
+		"filter-antilgbtq": {
+            "name": "Disallow LGBTQ+ Slurs",
+            "description": "Whether or not to hide <cr>LGBTQ+ slurs.</c>",
+            "type": "bool",
+            "default": true
+        },
+		"censor-comments": {
+            "name": "Censor Comments",
+            "description": "Whether or not to censor <cg>comments.</c>",
+            "type": "bool",
+            "default": true
+        },
+		"censor-level-names": {
+            "name": "Censor Level Names",
+            "description": "Whether or not to censor <cg>level names.</c>",
+            "type": "bool",
+            "default": true
+        },
+		"censor-level-descriptions": {
+            "name": "Censor Level Desc.",
+            "description": "Whether or not to censor <cg>level descriptions.</c>",
+            "type": "bool",
+            "default": true
+        },
+        "relax-censor": {
+            "name": "Relax Result",
+            "description": "Exposes the first and last characters of the censored word.",
+            "type": "bool",
+            "default": false
+        }
+	}
+}

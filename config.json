@@ -1072,6 +1072,12 @@
             "versions": [
                 "0.0.1"
             ]
+        },
+        "coderqc.gdswearfilter": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
