@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "elnexreal.demonlistinfo",
+	"name": "Demonlist User Info",
+	"developer": "elnexreal",
+	"description": "Retrieve Demonlist stats of the profile you are currently watching.",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
