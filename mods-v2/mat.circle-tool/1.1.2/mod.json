@@ -1,0 +1,22 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.2",
+	"id": "mat.circle-tool",
+	"name": "Circle Tool",
+	"developer": "mat",
+	"description": "An editor tool to duplicate and rotate objects.",
+	"resources": {
+		"sprites": [
+			"res/screenshot.png"
+		],
+		"spritesheets": {
+			"CircleToolButton": [
+				"res/button.png"
+			]
+		}
+	}
+}
