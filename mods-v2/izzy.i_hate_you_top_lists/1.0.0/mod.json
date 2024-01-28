@@ -1,0 +1,10 @@
+{
+	"geode": "2.0.0-beta.9",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "izzy.i_hate_you_top_lists",
+	"name": "I hate you Top Lists!",
+	"developer": "izzy",
+	"description": "Makes the Top Lists button redirect you directly to your own lists!",
+	"repository": "https://github.com/snowyzia/geode-i-hate-you-top-lists"
+}
