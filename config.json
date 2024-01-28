@@ -1049,7 +1049,8 @@
         "thesillydoggo.better_startpos_menu": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.1.0"
             ]
         }
     }
