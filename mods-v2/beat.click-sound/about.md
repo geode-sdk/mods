@@ -27,6 +27,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 7 - Plug/Pluh
 - 8 - El Gato
 - 9 - Bonk
+- 10 - Discord Ping
 ## Release sounds
 ### Useful release sounds:
 - 0 - Custom sound

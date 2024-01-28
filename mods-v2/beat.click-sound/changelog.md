@@ -1,4 +1,6 @@
 # Changelog
+## Version v1.1.4
+* 'Dicord Ping' meme click sound added!
 ## Version v1.1.3
 * Meme sounds are now negative numbers, and useful sounds are positive numbers.
 * 'Click/Release 1' useful click/release sound added! (renamed click 3)
