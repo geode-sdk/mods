@@ -4,9 +4,9 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/GDSaneS/Daily-Transfer/releases/download/v1.0.0/sanes.daily-transfer.geode",
-        "hash": "d06b75a708a61a17d8a8ada2a8c4ea73c9d89ab678e9cdf5e12ecba6affecba8",
-        "hash256": "d167545154a7a4b05291ff82d07d5ca891762feda589f4ee0bfaeb4e7ebba0b9"
+        "download": "https://github.com/GDSaneS/Daily-Transfer/releases/download/v1.1.0/sanes.daily-transfer.geode",
+        "hash": "cee473d306c830af696f7e66da54a3ec14d4a76c3beec34af5822c90046b100a",
+        "hash256": "7cbbed0526bcb9845b87a69ff65478b5657aef1108d305c69b51a31f62f66ccb"
     },
     "tags": []
 }

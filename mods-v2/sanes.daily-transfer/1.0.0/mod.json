@@ -23,6 +23,12 @@
             "type": "bool",
             "default": true
         },
+        "fullHouse": {
+            "name": "Transfer Full Column",
+            "description": "Move the daily chest button to the center of the menu",
+            "type": "bool",
+            "default": false
+        },
         "isMeow": {
             "name": "Meow",
             "description": "Purrr",
