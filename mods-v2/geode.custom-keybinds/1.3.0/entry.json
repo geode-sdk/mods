@@ -1,0 +1,12 @@
+{
+    "commit-author": "Fleeym",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/CustomKeybinds/releases/download/v1.3.0/geode.custom-keybinds.geode",
+        "hash": "bb001ee514244982de7b90943230d0978114446dc7737bd8659514d7fcf4ef87",
+        "hash256": "692fbec2b713d63ff54af39901de5a0b742236a18ad685ff3c4613a6c3b356fc"
+    },
+    "tags": []
+}
