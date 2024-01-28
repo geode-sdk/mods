@@ -1,0 +1,12 @@
+{
+    "commit-author": "sse2",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/sse2/gd-music-manager/releases/download/v0.0.1/sse2.gj-music-manager.geode",
+        "hash": "f59a3a1ea139408dfc2f8c2b2ada0ecad50ccc0764b3f10661c001e08c75edac",
+        "hash256": "7e1e4775c6b0e2ebc50210ba46eae90cfb2a74783080fedc3ccdc254f8a1d2ba"
+    },
+    "tags": []
+}

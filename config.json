@@ -1066,6 +1066,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "sse2.gj-music-manager": {
+            "verified": false,
+            "versions": [
+                "0.0.1"
+            ]
         }
     }
 }
