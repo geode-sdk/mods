@@ -1,0 +1,12 @@
+{
+    "commit-author": "B1rtek",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/B1rtek/Geode-GDDLIntegration/releases/download/v1.0.2/b1rtek.gddlintegration.geode",
+        "hash": "db7a57eab167342942bd2f24f112e539b0f239779c35946386cac6d6528bc174",
+        "hash256": "d8de1d4290bba884623f4ea9e7483a7e5fba6c9c6ffe182977e12b53dd6fa1fa"
+    },
+    "tags": []
+}

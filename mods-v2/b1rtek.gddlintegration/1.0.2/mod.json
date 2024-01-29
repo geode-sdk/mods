@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.2",
+	"gd": "2.204",
+	"id": "b1rtek.gddlintegration",
+	"name": "GDDL Integration",
+	"developer": "B1rtek",
+	"description": "Displays GDDL tiers of demons along with enjoyment ratings",
+	"repository": "https://github.com/B1rtek/Geode-GDDLIntegration",
+	"resources": {
+		"sprites": [
+			"resources/tier.png",
+			"resources/tiers/*.png"
+		]
+	}
+}
