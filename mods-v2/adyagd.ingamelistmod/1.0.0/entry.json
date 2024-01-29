@@ -5,8 +5,8 @@
     ],
     "mod": {
         "download": "https://github.com/AdyaGMD/IngameListMod/releases/download/release-geode-v1.1.0/adyagd.ingamelistmod.geode",
-        "hash": "d835d5c571651b9f6332c0e9fa91756a21f884df6ec0b57280da7de4fd91dab0",
-        "hash256": "29b436a59c04d442630bf4f5d05865df5f9d9dacec0e7c4cec5cdb3750ce5010"
+        "hash": "d20a4577f32c3064024bb28d7cb6fb00d8e92234953aa10808fed6ac9da25fdc",
+        "hash256": "a9482c8c81758ee55d2eaab2381f905ba29621227f47472a7eee0d9a444ba2fd"
     },
     "tags": []
 }
