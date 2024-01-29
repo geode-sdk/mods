@@ -1,4 +1,8 @@
 # Changelog
+## Version v1.1.5
+* 'Hamburger' meme click sound added!
+* 'Geometry Dash Death' meme click sound added!
+* Added 'kuipurr' to credits.
 ## Version v1.1.4
 * 'Dicord Ping' meme click sound added!
 ## Version v1.1.3
