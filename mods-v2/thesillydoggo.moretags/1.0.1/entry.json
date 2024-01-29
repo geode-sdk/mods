@@ -1,0 +1,12 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/More-Level-Tags/releases/download/v1.0.1/thesillydoggo.moretags.geode",
+        "hash": "ef600b03c28a42a3333a17aa572e4581f51ed865946918d3f9cd3d16e3144b20",
+        "hash256": "ee356e24864206e4f828828c4b2359cc8ea6d4dfde2425cf1b1541b729cb565f"
+    },
+    "tags": []
+}
