@@ -1,9 +1,7 @@
 {
     "commit-author": "undefined06855",
     "platforms": [
-        "windows",
-        "android32",
-        "android64"
+        "windows"
     ],
     "mod": {
         "download": "https://github.com/undefined06855/StuffMod/releases/download/v1.4.0/undefined0.gdtweaks.geode",
