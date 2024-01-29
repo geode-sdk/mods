@@ -1,0 +1,12 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/StuffMod/releases/download/v1.5.0/undefined0.gdtweaks.geode",
+        "hash": "572e38aced71f7916483872106844adfa0b7c810f343146049c84f840636f39b",
+        "hash256": "98da2dbbaa2d52cae01bd030d86bfe45d1988ee07ebe55c6d2bbf0524a9c8591"
+    },
+    "tags": []
+}

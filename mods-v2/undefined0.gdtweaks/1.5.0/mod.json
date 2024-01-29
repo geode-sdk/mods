@@ -1,0 +1,111 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.5.0",
+	"id": "undefined0.gdtweaks",
+	"name": "GDTweaks",
+	"developer": "undefined0",
+	"description": "tweak the geometry",
+	"repository": "https://github.com/undefined06855/StuffMod",
+	"dependencies": [
+		{
+			"id": "geode.texture-loader",
+			"version": "v1.4.1",
+			"importance": "suggested"
+		},
+		{
+			"id": "cvolton.betterinfo",
+			"version": "v4.0.0-alpha.9",
+			"importance": "suggested"
+		}
+	],
+
+	"resources": {
+		"files": [
+			"resources/fire.ogg"
+		]
+	},
+
+	"settings": {
+		"title-text": {
+			"name": "Change title text",
+			"description": "Whether the title screen Geometry Dash text gets skewed.",
+			"type": "bool",
+			"default": false
+		},
+		"title-buttons": {
+			"name": "Change title buttons",
+			"description": "Whether the title screen newgrounds button gets replaced by Geode.",
+			"type": "bool",
+			"default": true
+		},
+		"map-packs": {
+			"name": "Remove map packs (HIGHLY RECOMMENDED)",
+			"description": "Whether the map pack button gets removed",
+			"type": "bool",
+			"default": true
+		},
+		"remove-corners": {
+			"name": "Remove corners",
+			"description": "Whether corners gets removed from menus.",
+			"type": "bool",
+			"default": true
+		},
+		"remove-level-select-top": {
+			"name": "Remove level select topper",
+			"description": "Whether the top bar thingymabob gets removed from the main level select screen.",
+			"type": "bool",
+			"default": false
+		},
+		"fix-joystick-scroll": {
+			"name": "Fix joystick indicator",
+			"description": "Whether the joystick indicator gets moved from behind other buttons.",
+			"type": "bool",
+			"default": true
+		},
+		"move-betterinfo": {
+			"name": "Move BetterInfo button",
+			"description": "Whether the BetterInfo button gets moved into the corner. *BetterInfo must be installed.",
+			"type": "bool",
+			"default": true
+		},
+		"replace-more-games-w-texture": {
+			"name": "Replace \"More Games\" with texture pack",
+			"description": "Whether the More Games button on the title screen gets replaced with the texture pack selector. *Texture Loader must be installed.",
+			"type": "bool",
+			"default": true
+		},
+		"fire-in-the-hole": {
+			"name": "FIRE IN THE HOLE",
+			"description": "Whether the play button on the title screen plays \"FIRE IN THE HOLE\" when clicked.",
+			"type": "bool",
+			"default": false
+		},
+		"garage-bg-remove": {
+			"name": "Remove icon kit's icon selector background",
+			"description": "Whether the background behind the icons in the icon kit should be removed.",
+			"type": "bool",
+			"default": false
+		},
+		"garage-lock-tap-remove": {
+			"name": "Remove \"Tap lock for more info!\" message",
+			"description": "Whether the \"Tap lock for more info!\" message in the icon kit should be removed. WARNING: this may be wildly incompatible with other mods that modify the icon kit.",
+			"type": "bool",
+			"default": true
+		},
+		"fix-main-menu-settings-gamepad": {
+			"name": "Fix the main menu's settings gamepad icon",
+			"description": "Whether the d-pad down gamepad icon on the main menu gets adjusted. Only turn this on if the positioning is broken, else it might make it worse.",
+			"type": "bool",
+			"default": true
+		},
+		"randomise-main-menu-bg": {
+			"name": "Randomise main menu ground + background",
+			"description": "Whether the background and ground of the main menu gets randomised. This doesn't allow the loading screen to be changed.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

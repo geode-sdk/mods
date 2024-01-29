@@ -1,4 +1,11 @@
 # GDTweaks Changelog
+## 1.5.0
+- Changed a bunch of stuff about removing corners
+- Added random grounds and removed disable ground option (might readd in the future)
+- Removed android support since it's weird idk
+- Fixed level select topper removal only working on 16:9
+- Fixed compatibility with backup mod
+- Fixed map button placement only working on 16:9 when "remove map packs" is on
 ## 1.4.0
 - Added randomise background, fix settings gamepad
 - Fixed a bunch of other stuff
