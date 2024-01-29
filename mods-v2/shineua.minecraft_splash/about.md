@@ -1,8 +1,9 @@
 # Minecraft Splash
 
-## Changelog v1.1.3  
+## Changelog v1.1.4  
 
-- Added alternative appearance which can be enabled in mod settings.
+- Added ability to change animation speed in the settings of the mod.  
 
-### Abiity to add own splashes will be added in future update.
+### Ability to add own splashes will be added in the future.  
+
 #### You also can tag me (shineua) in [Geode SDK](https://discord.com/invite/9e43WMKzhp) or [Geometry Dash Ukraine](https://discord.gg/vKUGgkTsSK) discord servers.
