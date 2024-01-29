@@ -1,0 +1,12 @@
+{
+    "commit-author": "altalk23",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/StuffMod/releases/download/v1.5.1/undefined0.gdtweaks.geode",
+        "hash": "27b07fc443c7a78a1e1dfa424c8e6bb77013740272aa40db7fc81af8b8e5f1c7",
+        "hash256": "839ca1292d4cde244c9300f94bc5fb3e67ef660b887743417f824b5c42e9b714"
+    },
+    "tags": []
+}
