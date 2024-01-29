@@ -1,0 +1,14 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/circle-tool-v1.1.3/mat.circle-tool.geode",
+        "hash": "6a3045fd619d5ead6882f1a90a1dae517277a012d6bcfcfb6e94b35359807dfd",
+        "hash256": "a4dc3b038d6154fc1ce324f9424724bb399865a13576051ea7e8b74a11abfe8e"
+    },
+    "tags": []
+}
