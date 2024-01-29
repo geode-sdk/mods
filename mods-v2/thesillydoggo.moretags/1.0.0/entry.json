@@ -1,0 +1,14 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/More-Level-Tags/releases/download/v1.0.0/thesillydoggo.moretags.geode",
+        "hash": "0dfaa4b744fd7fa67978751d8d00bc930cd5ae9dbe3d34eb9b51310dfe6aad01",
+        "hash256": "9a655c135fbd41d7926281302a12a3c9062b2a020aa417c3197c25b3dc58e5ba"
+    },
+    "tags": []
+}
