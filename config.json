@@ -1002,7 +1002,8 @@
         "itzkiba.elegant_rankings": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "weebify.randomizecreatorlayer-geode": {

@@ -1,0 +1,23 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.1",
+	"gd": "2.204",
+	"id": "itzkiba.elegant_rankings",
+	"name": "Profile Rankings",
+	"developer": "ItzKiba",
+	"description": "Adds Creator Rank to profile pages and makes rankings look nicer.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.1.3",
+			"importance": "required"
+		}
+	],
+	"resources": {
+		"spritesheets": {
+			"ER_SpriteSheet": [
+				"resources/*.png"
+			]
+		}
+	}
+}
