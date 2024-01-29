@@ -16,10 +16,11 @@ Now you can place the Daily chest below the Play button!
 That's it for now!
 
 Requests for more silly changes appreciated ^^
-You can tag me (sanesgd) in the [Geode SDK](https://discord.com/invite/9e43WMKzhp) discord server.
+You can tag me (@sanesgd) in the [Geode SDK](https://discord.com/invite/9e43WMKzhp) discord server.
 
 # Compatibility
 
 - `GDTweaks` (compatible with all but "Replace More Games" setting)
 - `Better Menu` (compatible with all but "Right Menu to Shortcuts" setting)
-- `Backup`, `Texture Loader` and any other mod that adds a button to the side!
+- `Texture Loader` and most mods that a button to the side
+- **WARNING** `Backup` mod breaks mine if you enable "Button In Options Menu" (I could fix it, but not yet)

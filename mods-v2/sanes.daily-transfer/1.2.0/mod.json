@@ -1,0 +1,47 @@
+{
+	"geode": "v2.0.0",
+	"version": "v1.2.0",
+	"id": "sanes.daily-transfer",
+	"name": "Daily Transfer",
+	"developer": "SaneS",
+	"description": "Moves the daily chest button below the Play button!",
+    "gd": {
+        "win": "2.204",
+        "android": "2.205"
+    },
+	"resources": {
+        "sprites": [
+            "resources/*.png"
+        ],
+		"files": [
+            "resources/s3532.ogg"
+        ]
+    },
+    "settings": {
+        "isOn": {
+            "name": "Enable the mod",
+            "description": "Move the daily chest button to the center of the menu",
+            "type": "bool",
+            "default": true
+        },
+        "fullHouse": {
+            "name": "Transfer Full Column",
+            "description": "Move the daily chest button to the center of the menu",
+            "type": "bool",
+            "default": false
+        },
+        "gap": {
+            "name": "Gap Size",
+            "type": "float",
+            "default": 5.0,
+            "min": 0,
+            "max": 40
+        },
+        "isMeow": {
+            "name": "Meow",
+            "description": "Purrr",
+            "type": "bool",
+            "default": false
+        }
+    }
+}
