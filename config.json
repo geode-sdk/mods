@@ -1114,7 +1114,8 @@
         "maxnu.gd_mega_overlay": {
             "verified": false,
             "versions": [
-                "2.2.0"
+                "2.2.0",
+                "2.2.1"
             ]
         }
     }
