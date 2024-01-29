@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.2.0
+
+ * Removed Song File Hub integration
+
 ## v2.1.5
 
  * Reenable manual song add on Android
