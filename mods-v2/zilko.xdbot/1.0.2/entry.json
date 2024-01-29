@@ -1,0 +1,12 @@
+{
+    "commit-author": "ZiLko",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ZiLko/xdBot/releases/download/v1.0.2/zilko.xdbot.geode",
+        "hash": "3f7d8c3cfdcbe80dffb39a09c37e4885cee9003f2786a72d0de2d63c0591c8eb",
+        "hash256": "9c5417f03906a85c21e3ba10a2ae3186b21055dc93672f8a7e3859a601d26dfc"
+    },
+    "tags": []
+}

@@ -1,0 +1,10 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.2",
+	"id": "zilko.xdbot",
+	"gd": "2.204",
+	"repository": "https://github.com/ZiLko/xdBot/",
+	"name": "xdBot",
+	"developer": "Zilko",
+	"description": "Geometry Dash Bot"
+}
