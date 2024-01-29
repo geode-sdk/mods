@@ -4,9 +4,9 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/TechStudent10/DiscordRPC/releases/download/v1.3.0/techstudent10.discord_rich_presence.geode",
-        "hash": "976e8f7884e1cabd44e1221a72c483f7a6604a039788ade78df27c949807358f",
-        "hash256": "711fbdaeaf07049a8c5750b5e1c16200bceabdb141cd320914e4bcd7e420bfd2"
+        "download": "https://github.com/TechStudent10/DiscordRPC/releases/download/v2.0.0/techstudent10.discord_rich_presence.geode",
+        "hash": "ff229dd547df678f2801fce5ead5181713da1f5a3b8d186e9315f5aa580a6e48",
+        "hash256": "433810d6c31b19987fb18aa956c31d0f70cbc6d6061fbd1b1b5c438b4c6e3c63"
     },
     "tags": []
 }
