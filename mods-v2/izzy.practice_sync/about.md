@@ -1,4 +1,4 @@
-# Practice Mode Music
+# Practice Mode Sync
 
 Unlock the Practice Mode Music Sync!
 
