@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.3.3
+
+- Fix editor keybinds
+- Add F-Keys to editor keybinds
+- Add half moves and big moves to editor keybinds
+
 ## v1.3.2
 
 - Add DPad Up as default for P1 Jump
