@@ -4,9 +4,9 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/maxnut/GDMegaOverlay/releases/download/2.2.3/maxnu.gd_mega_overlay.geode",
-        "hash": "fba78e4274242de2392e6c02b8c4dccbb62d1d65d46d66dd9dc17b13a15d7395",
-        "hash256": "814f68c00f45c50683d075612394a58aac348aa8b4d94cab985fcbb1940e039c"
+        "download": "https://github.com/maxnut/GDMegaOverlay/releases/download/2.2.4/maxnu.gd_mega_overlay.geode",
+        "hash": "07d3f694b3532fead32fb5da0b3532ee16a139fd3dfbee0d226d3a39f4d4817f",
+        "hash256": "ba8a01deeecd4c17b78f64f981a8135b0475fe2f874c829d10f40c524856a226"
     },
     "tags": []
 }
