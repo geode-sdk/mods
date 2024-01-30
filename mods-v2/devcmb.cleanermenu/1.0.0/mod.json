@@ -1,0 +1,40 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "devcmb.cleanermenu",
+	"name": "Cleaner Menu",
+	"developer": "DevCmb",
+	"description": "Improves the GD main menu.",
+	"settings": {
+		"hideRobtopLogo": {
+			"name": "Hide RobTop Logo",
+			"description": "Hide the robtop logo on the main menu",
+			"type": "bool",
+			"default": false
+		},
+		"hideSocials": {
+			"name": "Hide Social Icons",
+			"description": "Hide the many social icons on the main menu",
+			"type": "bool",
+			"default": false
+		},
+		"hideMoreGames": {
+			"name": "Hide More Games",
+			"description": "Hide the more games button on the main menu | Disabling this will revert the position of the profile button back",
+			"type": "bool",
+			"default": true
+		},
+		"revertProfileButton": {
+			"name": "Revert Profile Button",
+			"description": "Revert the position of the profile button back to the original position",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}

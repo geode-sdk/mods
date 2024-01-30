@@ -1156,6 +1156,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "devcmb.cleanermenu": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
