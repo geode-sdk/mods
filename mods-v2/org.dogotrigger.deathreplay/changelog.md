@@ -1,3 +1,10 @@
+# v1.2.0 Beta 3
+### Gameplay Changes
+ * Pressing ESC on removing Death Replay file popup now doesn't do anything (#2)
+### Techinical Changes
+ * Death particles are now spawned properly
+ * SDK has been updated to `v2.0.0-beta.12`
+ * Ghost's recording now includes Player scaling
 
 # v1.2.0 Beta 2
 ### Gameplay Changes
