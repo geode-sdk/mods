@@ -1130,6 +1130,12 @@
                 "2.2.2",
                 "2.2.3"
             ]
+        },
+        "TheSillyDoggo.StartposSwitcher": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
