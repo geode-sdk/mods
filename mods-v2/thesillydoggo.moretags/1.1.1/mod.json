@@ -1,0 +1,18 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.1",
+	"gd": {
+		"win": "2.204"
+	},
+	"id": "thesillydoggo.moretags",
+	"name": "More Level Tags",
+	"developer": "TheSillyDoggo",
+	"description": "hello NothingIsScary :3",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.1.0",
+            "importance": "required"
+        }
+    ]
+}
