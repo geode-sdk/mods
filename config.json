@@ -1143,6 +1143,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "uproxide.geodedevelopers": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

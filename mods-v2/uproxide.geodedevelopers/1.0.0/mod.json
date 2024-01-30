@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "uproxide.geodedevelopers",
+	"name": "Geode Contributors",
+	"developer": "Uproxide",
+	"description": "Displays a Special Badge for Geode Contributors",
+	"resources": {
+		"sprites": [
+			"rec/*.png"
+		]
+	}
+}
