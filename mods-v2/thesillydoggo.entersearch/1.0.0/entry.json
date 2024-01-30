@@ -1,0 +1,13 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/Enter-Search/releases/download/v1.0.0/thesillydoggo.entersearch.geode",
+        "hash": "da9890d99f26d7df4ba1276bdfb95fab506aab834068eaa3644895b534c83cdc",
+        "hash256": "6d5e3d884d54a97e14891d9a073a1cc36b5ed629d3515d692f878776de932027"
+    },
+    "tags": []
+}

@@ -1136,6 +1136,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "thesillydoggo.entersearch": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
