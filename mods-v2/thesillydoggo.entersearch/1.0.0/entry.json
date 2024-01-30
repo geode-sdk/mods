@@ -5,9 +5,9 @@
         "windows"
     ],
     "mod": {
-        "download": "https://github.com/TheSillyDoggo/Enter-Search/releases/download/v1.0.0/thesillydoggo.entersearch.geode",
-        "hash": "da9890d99f26d7df4ba1276bdfb95fab506aab834068eaa3644895b534c83cdc",
-        "hash256": "6d5e3d884d54a97e14891d9a073a1cc36b5ed629d3515d692f878776de932027"
+        "download": "https://github.com/TheSillyDoggo/Enter-Search/releases/download/v1.1.0/thesillydoggo.entersearch.geode",
+        "hash": "969fa0a9131c061009878b000735c2eebfbfa96410218e30e022bb7b432960b4",
+        "hash256": "2c0ba9d6679f23a71ab966103b3fcfabcb600d7458453d6207753912455be12e"
     },
     "tags": []
 }
