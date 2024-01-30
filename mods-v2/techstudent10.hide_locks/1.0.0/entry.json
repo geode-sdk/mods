@@ -1,0 +1,12 @@
+{
+    "commit-author": "TechStudent10",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TechStudent10/HideLocks/releases/download/v1.0.0/techstudent10.hide_locks.geode",
+        "hash": "4ad814df52cf56a6c767b2ffcb72e81aa2c223a2db9ccadb8c24335ef1968a5c",
+        "hash256": "da810f80547f2e84ebd03003c25e87b1051886be90a5c2e4f72ff417b223c4ea"
+    },
+    "tags": []
+}
