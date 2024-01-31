@@ -1,0 +1,12 @@
+{
+    "commit-author": "29cmb",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/29cmb/CleanMenu/releases/download/2.204-4/devcmb.cleanermenu.geode",
+        "hash": "791ad4dd29b917b656883490e5fcd154c1bc4797a3c60bfffc7266c788c66bba",
+        "hash256": "b21b3841ceb44e7882e2702022597a2c0d6a98ae171dc70b14ea27ef1404cbba"
+    },
+    "tags": []
+}
