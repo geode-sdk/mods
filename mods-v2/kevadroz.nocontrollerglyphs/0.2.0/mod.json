@@ -1,0 +1,33 @@
+{
+	"geode": "v2.0.0",
+	"gd": "2.204",
+	"version": "v0.2.0",
+	"id": "kevadroz.nocontrollerglyphs",
+	"name": "No Controller Glyphs",
+	"developer": "Kevadroz",
+	"description": "Hides all gamepad indicators when a controller is plugged in.",
+	"repository": "https://github.com/Kevadroz/NoControllerGlyphs",
+	"issues": {
+		"info": "Report any sighthing of controller glyphs or other bugs to the git repo.",
+		"url": "https://github.com/Kevadroz/NoControllerGlyphs/issues"
+	},
+	"settings": {
+		"enabled": {
+			"type": "bool",
+			"default": true,
+			"name": "Enabled"
+		},
+		"switch-mode": {
+			"type": "bool",
+			"default": true,
+			"name": "Show when using controller",
+			"description": "Show the glyphs when a controller is being used."
+		},
+		"ignore-mouse": {
+			"type": "bool",
+			"default": false,
+			"name": "Ignore mouse",
+			"description": "\"Show when using controller\" ignores mouse input."
+		}
+	}
+}

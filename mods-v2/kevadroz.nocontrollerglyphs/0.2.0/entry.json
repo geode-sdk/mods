@@ -1,0 +1,12 @@
+{
+    "commit-author": "Kevadroz",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Kevadroz/NoControllerGlyphs/releases/download/v0.2.0/kevadroz.nocontrollerglyphs.geode",
+        "hash": "580a42ad96fa0dd52f03bf66b753a64ba75f3673f18a3223003dc3fd5a090b2b",
+        "hash256": "b01c40f90e24a070a9606331da7bea94d7d0d8e84493031a7f03753340a7e541"
+    },
+    "tags": []
+}
