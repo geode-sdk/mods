@@ -1,0 +1,34 @@
+{
+	"geode": "v2.0.0",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.1.0",
+	"id": "mat.scroll-zoom",
+	"name": "Scroll Zoom",
+	"developer": "mat",
+	"description": "zoom in the editor..",
+	"settings": {
+		"zoom-mult": {
+			"type": "float",
+			"control": {
+				"slider": true
+			},
+			"default": 1.0,
+			"min": 0,
+			"max": 2,
+			"name": "Zoom speed"
+		},
+		"scroll-mult": {
+			"type": "float",
+			"control": {
+				"slider": true
+			},
+			"default": 2.0,
+			"min": 0,
+			"max": 5,
+			"name": "Scroll speed",
+			"description": "Speed for how fast the editor pans when you scroll the mouse."
+		}
+	}
+}

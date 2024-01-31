@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/scroll-zoom-v1.1.0/mat.scroll-zoom.geode",
+        "hash": "eb6864d24cb092b4fab8b591114b3d250e87360cb42dcce0bd67a1b96a4f8b86",
+        "hash256": "8c4b0e0603da6597047dd660eb9b430bed9499c3f5dd77a6a6b8e2b4a651692f"
+    },
+    "tags": []
+}
