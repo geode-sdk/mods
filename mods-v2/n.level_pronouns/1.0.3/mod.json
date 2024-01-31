@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.3",
+	"id": "n.level_pronouns",
+	"name": "Level Pronouns",
+	"developer": "n",
+	"description": "Enchance 2.2 with pronouns on levels!",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.1.1",
+			"importance": "required"
+		}
+	],
+	"gd": {
+		"android": "2.205",
+        "win": "2.204"
+	},
+	"settings": {
+		"neopronouns": {
+			"name": "Use Neopronouns",
+			"description": "Use neopronouns in levels. <cy>Warning</c>: Disabling will make levels with neopronouns have normal pronouns.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

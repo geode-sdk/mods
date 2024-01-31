@@ -1,0 +1,14 @@
+{
+    "commit-author": "NicknameGG",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/NicknameGG/level-pronouns/releases/download/v1.0.3/n.level_pronouns.geode",
+        "hash": "94fc453999d7c9a9e0b089b65f05d566c224fa97c95622015714cdacb3549192",
+        "hash256": "5989ad7a1bb9c3922a751214e6aa4e1b210a10ba358da1681bdd38c416662f61"
+    },
+    "tags": []
+}
