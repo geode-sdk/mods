@@ -1182,6 +1182,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "asaki_zuki.same_dual_color": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

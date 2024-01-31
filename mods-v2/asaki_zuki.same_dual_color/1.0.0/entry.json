@@ -1,0 +1,14 @@
+{
+    "commit-author": "asakizuki",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/asakizuki/Same-Dual-Color/releases/download/v1.0.0/asaki_zuki.same_dual_color.geode",
+        "hash": "3844345d7e7ab24b3523fbd5bfbeddfe07cee315637e57cee01856b817f34c14",
+        "hash256": "9db82ea478fb7ee5e3699353cefa8421567cbfb9caadcd53841a64259dbbf0ec"
+    },
+    "tags": []
+}
