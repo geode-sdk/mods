@@ -6,6 +6,7 @@
 	"name": "Grandpa Demon",
 	"developer": "ItzKiba",
 	"description": "Adds additional demon difficulties",
+	"repository": "https://github.com/ItzKiba/GrandpaDemon",
 	"resources": {
         "spritesheets": {
 			"GrD_IconSheet": [
