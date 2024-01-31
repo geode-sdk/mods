@@ -1,0 +1,15 @@
+{
+    "commit-author": "FireMario211",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/FireMario211/Prism-Menu/releases/download/v1.3.0/firee.PrismMenu.geode",
+        "hash": "d135d318cfaa22eeeb96ba7865d1c5ca1bd99c0d3d6f2086d7d0e7ee951cb015",
+        "hash256": "aad1d8aca59cbe75c0611d7bf9dec5f3f54ee9a498600ed3dd9c01c506035fe8"
+    },
+    "tags": []
+}
