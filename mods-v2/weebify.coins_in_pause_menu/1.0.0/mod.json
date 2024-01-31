@@ -1,0 +1,18 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"version": "v1.0.0",
+	"id": "weebify.coins_in_pause_menu",
+	"name": "Coins in Pause Menu",
+	"developer": "Weebify",
+	"description": "Shows the current level's coins in the pause menu",
+	"repository": "https://github.com/Weebifying/coins-in-pause-menu-geode",
+	"resources": {
+		"files": [
+			"resources/ss.png"
+		]
+	}
+}
