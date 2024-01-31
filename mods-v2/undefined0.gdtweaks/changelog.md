@@ -1,4 +1,7 @@
 # GDTweaks Changelog
+## 1.6.0
+- Added move player to corner, remove player and remove ground options
+- Changed github repo link
 ## 1.5.0
 - Changed a bunch of stuff about removing corners
 - Added random grounds and removed disable ground option (might readd in the future)

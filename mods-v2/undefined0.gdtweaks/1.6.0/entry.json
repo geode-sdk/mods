@@ -1,0 +1,12 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/GDTweaks/releases/download/v1.6.0/undefined0.gdtweaks.geode",
+        "hash": "4f2495e93bf03ad87fb738cda3a6b1d43c06475d22d04129cabedf5e6b06ebe2",
+        "hash256": "723a02466f499d39619151d3681719aa3aa95641961d0efd681bafc1314c4e6a"
+    },
+    "tags": []
+}
