@@ -1,0 +1,34 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "adam_729.deathmarkers",
+	"name": "Death Markers",
+	"developer": "Adam_729",
+	"description": "super mario maker like markers",
+	"resources": {
+		"sprites": [
+			"resources/death-marker.png"
+		]
+	},
+	"settings": {
+		"enable-markers": {
+			"name": "Enable Death Markers",
+			"type": "bool",
+			"default": true
+		},
+		"show-practice": {
+			"name": "Enable in Practice",
+			"type": "bool",
+			"default": false
+		},
+		"show-testmode": {
+			"name": "Enable in Testmode",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
