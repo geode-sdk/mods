@@ -1,0 +1,12 @@
+{
+    "commit-author": "SadShikawa",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/SadShikawa/doomsutils/releases/download/2.204/doom.doomsutils.geode",
+        "hash": "4f16220bfe06fbd4a5a5e70bedbef4a017e72ebead0c369aed6b764642aaae9d",
+        "hash256": "4d31f3133aa9054f0c921486e1f472ad651922c4e979ae00787519ca01bc6907"
+    },
+    "tags": []
+}

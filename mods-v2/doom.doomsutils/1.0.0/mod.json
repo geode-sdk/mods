@@ -1,0 +1,34 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "doom.doomsutils",
+	"name": "dooms utils",
+	"developer": "doom",
+	"description": "small dooms utils he made for no one",
+	"resources": {
+		"sprites": [
+			"resources/DU_twitterBtn.png"
+		]
+    },
+    "settings": {
+        "icon-hack": {
+            "name": "Icon hack",
+            "description": "Unlocks all icons",
+            "type": "bool",
+            "default": true
+        },
+        "main-menu": {
+            "name": "Switch menu button",
+            "description": "If true, switches the 'search' button in the main menu with a 'create' button",
+            "type": "bool",
+            "default": false
+        },
+        "old-twitter-icon": {
+            "name": "Old Twitter Icon",
+            "description": "Toggle on to change the X icon to the twitter icon.",
+            "type": "bool",
+            "default": false
+        }
+    }
+}
