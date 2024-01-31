@@ -1,7 +1,10 @@
 # Changelog
+## Version v1.1.8
+* 'Up Arrow Click/Release 1' useful click/release sound added!
+* 'Desk Hit' meme click sound added! (ty coop :3) (also ty coop's desk for being the test subject)
 ## Version v1.1.7
 * Picking sounds is more efficient now! (potentially less delay, ty coop!)
-* [Coopeeo](user:21207551) is a developer now! (luv u coop! <3)
+* [coopeeo](user:21207551) is a developer now! (luv u coop! <3)
 * No changes for users this update, sorry ;w;
 ## Version v1.1.6
 * 'Up Arrow 2' useful click sound added! (ty verizat!)
