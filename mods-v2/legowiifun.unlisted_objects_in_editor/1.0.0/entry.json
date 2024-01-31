@@ -1,0 +1,12 @@
+{
+    "commit-author": "legowiifun",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/legowiifun/Geometry-Dash-Unlisted-Objects-in-Editor/releases/download/v1.0.0/legowiifun.unlisted_objects_in_editor.geode",
+        "hash": "16b778fc04d754805637a812bcb190be7ac56f0d2369596d44f12cd81c348d28",
+        "hash256": "929ae258a36a021d6b38c83e99c5143d55fe959210029e9c38e94d8d9deff7d4"
+    },
+    "tags": []
+}

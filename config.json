@@ -1196,6 +1196,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "legowiifun.unlisted_objects_in_editor": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
