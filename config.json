@@ -825,7 +825,8 @@
         "itzkiba.grandpa_demon": {
             "verified": false,
             "versions": [
-                "1.0.1"
+                "1.0.1",
+                "1.1.0"
             ]
         },
         "firee.PrismMenu": {
