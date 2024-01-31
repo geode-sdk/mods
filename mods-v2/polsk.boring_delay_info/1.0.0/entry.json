@@ -1,0 +1,12 @@
+{
+    "commit-author": "polskidevv",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/polskidevv/boringdelayinfo/releases/download/1.0.0/polsk.boring_delay_info.geode",
+        "hash": "c9e32b74d61f7c78dabdf89d3f44c09efc9023f9c2c99abd095ac71bc155942f",
+        "hash256": "987cee520851ae3309e167ce51e5335c75cd5150e7f268f52412f2854e6c2db9"
+    },
+    "tags": []
+}

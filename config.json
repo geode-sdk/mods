@@ -1202,6 +1202,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "polsk.boring_delay_info": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
