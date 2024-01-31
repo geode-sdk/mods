@@ -4,3 +4,7 @@ You can change the settings of this mod based on whether or not it should show i
 
 ---
 For Platformer Levels, the text will **stay gold** until you reach the time you completed the Platformer Level.
+
+---
+# Credits
+Made by **Firee**, and idea from **Mud**

@@ -1190,7 +1190,8 @@
         "firee.GoldenBest": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "asaki_zuki.same_dual_color": {

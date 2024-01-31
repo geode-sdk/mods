@@ -1,0 +1,14 @@
+{
+    "commit-author": "FireMario211",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/FireMario211/Golden-Best/releases/download/v1.0.1/firee.GoldenBest.geode",
+        "hash": "6976f7f1e2b81dfab03ac9d6811fb4ef9157dfdb2ca0de819dc66f4e3402e929",
+        "hash256": "d3b1e9a66804dfa73893cac4818e05beaa270ea84460423a195bb9666ea6efd0"
+    },
+    "tags": []
+}
