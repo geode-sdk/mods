@@ -1236,6 +1236,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ninxout.crystal_client": {
+            "verified": false,
+            "versions": [
+                "5.0.0-alpha.1"
+            ]
         }
     }
 }
