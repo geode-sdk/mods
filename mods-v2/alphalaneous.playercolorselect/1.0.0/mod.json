@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "alphalaneous.playercolorselect",
+	"name": "PlayerColorSelect",
+	"developer": "Alphalaneous",
+	"description": "Adds back the P1 and P2 select for Copy Color"
+}

@@ -1242,6 +1242,12 @@
             "versions": [
                 "5.0.0-alpha.1"
             ]
+        },
+        "alphalaneous.playercolorselect": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
