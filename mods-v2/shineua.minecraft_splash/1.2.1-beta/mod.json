@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.2.1-beta",
+	"id": "shineua.minecraft_splash",
+	"name": "Minecraft Splash",
+	"developer": "ShineUA",
+	"description": "Idk what to write. It's my first mod tbh <3",
+	"resources": {
+        "sprites": [
+            "resources/sprites/*.png"
+        ]
+    }
+}
