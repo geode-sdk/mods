@@ -1,0 +1,10 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v0.1.0",
+	"id": "sse2.gj-music-manager",
+	"name": "Music Manager",
+	"developer": "sse2",
+	"description": "Randomize Menu, Shops and Practice Mode music without overwriting files!",
+	"repository": "https://github.com/sse2/gd-music-manager"
+}
