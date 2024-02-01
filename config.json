@@ -1209,7 +1209,8 @@
         "weebify.coins_in_pause_menu": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "legowiifun.unlisted_objects_in_editor": {

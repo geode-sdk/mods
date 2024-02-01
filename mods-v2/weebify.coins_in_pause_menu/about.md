@@ -3,6 +3,6 @@
 Shows the current level's coins in the pause menu
 ![Alt text](weebify.coins_in_pause_menu/ss.png)
 
-## Currently does NOT support Secret Coins in official levels!!
+# For Main levels: Secret Coins in the pause menu only shows how many you have collected
 
-TODO: add official levels support :D
+TODO: main levels stuff
