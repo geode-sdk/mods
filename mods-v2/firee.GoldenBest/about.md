@@ -7,4 +7,4 @@ For Platformer Levels, the text will **stay gold** until you reach the time you 
 
 ---
 # Credits
-Made by **Firee**, and idea from **Mud**
+Made by **Firee**, and idea from **mMudkip**
