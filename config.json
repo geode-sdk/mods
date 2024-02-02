@@ -1278,6 +1278,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ekv.hidePauseMenuHack": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }

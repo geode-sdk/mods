@@ -1,0 +1,12 @@
+{
+    "commit-author": "EKVgd",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/EKVgd/hidePauseMenuHack/releases/download/v1.0.1/ekv.hidePauseMenuHack.geode",
+        "hash": "3500825eb46a58a0a8ae0bc177eeef911dcf6d4249b9247a06750c663a060208",
+        "hash256": "f56f00221a21026773cf03a2f102fae9fb40fa34af4b26a0bc353b524a0d7fb1"
+    },
+    "tags": []
+}
