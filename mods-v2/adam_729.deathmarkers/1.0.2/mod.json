@@ -1,0 +1,61 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.2",
+	"id": "adam_729.deathmarkers",
+	"name": "Death Markers",
+	"developer": "Adam_729",
+	"repository": "https://github.com/Bean0of/deathmarkers",
+	"description": "super mario maker like markers",
+	"resources": {
+		"sprites": [
+			"resources/death-marker.png"
+		]
+	},
+	"settings": {
+		"enable-markers": {
+			"name": "Enable Death Markers",
+			"type": "bool",
+			"default": true
+		},
+		"show-practice": {
+			"name": "Enable in Practice",
+			"type": "bool",
+			"default": false
+		},
+		"show-testmode": {
+			"name": "Enable in Testmode",
+			"type": "bool",
+			"default": false
+		},
+		"animate-markers": {
+			"name": "Fade in markers",
+			"type": "bool",
+			"default": true
+		},
+		"respawn-time": {
+			"name": "Respawn Time",
+			"description": "Time to fade in markers + respawn time",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.0,
+			"max": 10.0,
+			"control": {
+				"slider": true
+			}
+		},
+		"marker-scale": {
+			"name": "Marker Scale",
+			"type": "float",
+			"default": 0.5,
+			"min": 0.1,
+			"max": 2.0,
+			"control": {
+				"slider": true
+			}
+		}
+	}
+}

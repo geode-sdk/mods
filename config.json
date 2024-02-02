@@ -1244,7 +1244,8 @@
         "adam_729.deathmarkers": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.2"
             ]
         },
         "ninxout.crystal_client": {
