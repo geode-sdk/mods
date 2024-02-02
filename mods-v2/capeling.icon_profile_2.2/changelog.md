@@ -1,4 +1,6 @@
 # Icon Profile Changelog
+## v1.1.2
+- Fix Robot and Spider not having any colors
 ## v1.1.1
 - Bump Android Version (2.205)
 ## v1.1.0

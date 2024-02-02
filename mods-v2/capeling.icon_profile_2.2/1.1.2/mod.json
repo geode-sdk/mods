@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.2",
+	"id": "capeling.icon_profile_2.2",
+	"name": "Icon Profile 2.2",
+	"repository": "https://github.com/Capeling/Icon-Profile-2.2",
+	"developer": "Capeling",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"description": "Replaces the Main Menu Profile Sprite with your icon!"
+}
