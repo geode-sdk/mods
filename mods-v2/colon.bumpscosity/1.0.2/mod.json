@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.2",
+	"id": "colon.bumpscosity",
+	"name": "Bumpscosity",
+	"developer": "Colon",
+	"description": "Adds an in-game slider to change bumpscosity"
+}
