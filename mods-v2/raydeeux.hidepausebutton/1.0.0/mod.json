@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "raydeeux.hidepausebutton",
+	"name": "HidePauseButton",
+	"developer": "RayDeeUx",
+	"description": "Hides the pause button, even if \"Show Cursor In-Game\" is enabled.",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Whether the pause button is hidden.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
