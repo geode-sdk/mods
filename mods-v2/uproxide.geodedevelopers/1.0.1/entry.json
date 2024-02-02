@@ -1,0 +1,12 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/GeodeMods/releases/download/gdc1.0.1/uproxide.geodedevelopers.geode",
+        "hash": "c8679d3071e80d06afd8e0da139d8458a2e929dd4c31fa2997fbe00cf6c1adce",
+        "hash256": "105610a47f82968f03b861994138026fef5cd307005130030bd6bd3678b31a9f"
+    },
+    "tags": []
+}

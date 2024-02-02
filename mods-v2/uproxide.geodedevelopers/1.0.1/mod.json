@@ -1,0 +1,22 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "uproxide.geodedevelopers",
+	"name": "Geode Contributors",
+	"developer": "Uproxide",
+	"description": "Displays a Special Badge for Geode Contributors",
+	"repository": "https://github.com/Uproxide/GeodeMods/tree/main/Geode%20Contributors",
+	"resources": {
+		"sprites": [
+			"rec/*.png"
+		]
+	},
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.1.4",
+            "importance": "required"
+        }
+    ]
+}
