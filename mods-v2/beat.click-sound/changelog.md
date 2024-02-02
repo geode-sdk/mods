@@ -1,4 +1,6 @@
 # Changelog
+## Version v1.2.1
+* Removed an extremely long delay in the 'Discord Ping' meme click sound.
 ## Version v1.2.0
 * Randomized sound packs added! (no custom rng sound support, this is intentional and it will never be added.)
 * 'Windows 10 USB' meme randomized sound pack added!
