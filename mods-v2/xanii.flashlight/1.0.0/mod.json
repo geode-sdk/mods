@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "xanii.flashlight",
+	"name": "Flashlight",
+	"developer": "Xanii",
+	"description": "osu flashlight, but for GD",
+	"resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    }
+}
