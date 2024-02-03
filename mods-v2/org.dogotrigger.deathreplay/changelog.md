@@ -1,3 +1,11 @@
+# v1.2.0 Beta 4
+### Gameplay Changes
+ * 'X' sprite is now half visible
+### Techinical Changes
+ * Code is cleaned up a bit
+### Mod Description Changes
+ * Repository link is updated to use proper repo name
+
 # v1.2.0 Beta 3
 ### Gameplay Changes
  * Pressing ESC on removing Death Replay file popup now doesn't do anything (#2)

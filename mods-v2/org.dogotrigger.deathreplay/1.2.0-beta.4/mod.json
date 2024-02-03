@@ -1,0 +1,40 @@
+{
+	"geode": "v2.0.0-beta.12",
+	"version": "v1.2.0-beta.4",
+	"gd": "2.204",
+	"id": "org.dogotrigger.deathreplay",
+	"name": "Death Replay",
+	"developer": "dogotrigger",
+	"repository": "https://github.com/SergeyMC9730/deathreplay",
+	"issues": {
+		"url": "https://github.com/SergeyMC9730/deathreplay/issues",
+		"info": "Any bugs with Death Replay should be reported here."
+	},
+	"description": "Shows all of your level deaths while playing it",
+	"settings": {
+		"show-deaths": {
+			"name": "Show Deaths",
+			"description": "Show deaths while playing levels.",
+			"type": "bool",
+			"default": true
+		},
+		"play-death-sound": {
+			"name": "Play Death Sound",
+			"description": "Plays death sound.",
+			"type": "bool",
+			"default": true
+		},
+		"show-particles": {
+			"name": "Show Particles",
+			"description": "Shows death particles.",
+			"type": "bool",
+			"default": true
+		},
+		"record-practice": {
+			"name": "Record in Practice Mode",
+			"description": "Record all death positions in Practice Mode.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
