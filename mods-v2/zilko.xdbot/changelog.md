@@ -1,3 +1,23 @@
+# v1.3.3
+
+ * Added override macro mode setting.
+ * Fixed labels not disappearing after disabling recording or playing.
+ * Previous version never came out but fixed a crash xd.
+
+# v1.3.2
+
+ * Added version label on the menu.
+ * Saved macros list is now in the correct alphabetical order.
+
+# v1.3.1
+
+ * Fixed rotation bug on input fix and frame fix modes.
+ * Added "Auto-Enable Play" setting.
+ * Speedhack shortcut value now saves after restarting the game.
+ * Fixed frame stepper advancing two frames instead of one.
+ * Added toggleable frame and macro state labels.
+ * Vanilla and Frame Fix settings now also change the way the macro plays.
+
 # v1.3.0
 
  * Removed lock delta (it was useless).
