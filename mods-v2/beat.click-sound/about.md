@@ -19,6 +19,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 9 - Spacebar 1
 - 10 - Up Arrow 2
 - 11 - Up Arrow Click/Release 1
+- 12 - Faze Click/Release (randomized)
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -35,6 +36,8 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 13 - Desk Hit
 - 14 - Windows 10 USB (randomized)
 - 15 - Taco Bell
+- 16 - Bad To The Bone
+- 17 - Huh
 ## Release sounds
 ### Useful release sounds:
 - 0 - Custom sound
@@ -42,6 +45,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 2 - Click/Release 2
 - 3 - Click/Release 3
 - 4 - Up Arrow Click/Release 1
+- 5 - Faze Click/Release (randomized)
 
 ## Credit
 Thank you so much to all of the people listed below for doing whatever they did to help create the mod!

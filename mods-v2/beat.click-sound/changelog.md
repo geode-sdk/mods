@@ -1,4 +1,9 @@
 # Changelog
+## Version v1.2.4
+* 'Faze' randomized click/release sound pack added! (ty fazessz!)
+## Version v1.2.3
+* 'Bad To The Bone' meme click sound added!
+* 'Huh' meme click sound added!
 ## Version v1.2.2
 * Settings can now be changed in the pause menu! (tysm viper i love u, mwah! :3)
 * 'Taco Bell' meme click sound added!
