@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/HidePauseButton/releases/download/v1.1.0/raydeeux.hidepausebutton.geode",
+        "hash": "f23f8168a07b166a0541aee4a81dbe92cd7d839a8af64b6192d71f73d56f6374",
+        "hash256": "370b05307a2b210dcdca959e44758bc3da49228aa6dfdb184379bc6320a0737e"
+    },
+    "tags": []
+}
