@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/hIDe/releases/download/1.0.1/alphalaneous.hide.geode",
+        "hash": "fcdb5749dd29238e0f5e606619ec79f952d6add4c8908a9ec6ddbe01cb1fe281",
+        "hash256": "9b515a62d323e2b4f317042121a0c170194b6e7bf25f73fc651743eaa7f376e0"
+    },
+    "tags": []
+}
