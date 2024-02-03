@@ -1,6 +1,8 @@
 # 1.1.0
 
 - Added Icon Effects (RGB Icons)
+- Added no Wave Trail
+- Removed the text limit bypasses due to crashes, sorry :/
 - Created an official [Discord Server](https://discord.gg/DfQSTEnQKK)
 
 # 1.0.3
