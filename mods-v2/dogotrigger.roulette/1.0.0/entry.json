@@ -1,0 +1,12 @@
+{
+    "commit-author": "SergeyMC9730",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/SergeyMC9730/roulette/releases/download/v1.0.0/dogotrigger.roulette.geode",
+        "hash": "3002392faff8f420cfb7bfd8ec533ac69159688cce7c8c1244309ff2706a5983",
+        "hash256": "ce78f7259218874c07cddf08734cf41f61e7c0b7db7adf7e57cec810abc8f9e8"
+    },
+    "tags": []
+}

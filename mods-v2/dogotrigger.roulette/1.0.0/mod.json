@@ -1,0 +1,23 @@
+{
+	"geode": "2.0.0-beta.12",
+	"version": "v1.0.0",
+	"id": "dogotrigger.roulette",
+	"name": "Roulette",
+	"developer": "dogotrigger",
+	"description": "Random event on every attempt",
+	"gd": "2.204",
+	"repository": "https://github.com/SergeyMC9730/roulette",
+	"issues": {
+		"url": "https://github.com/SergeyMC9730/roulette/issues",
+		"info": "Any bugs with Roulette should be reported here."
+	},
+	"IDK player, do you actually read Geode warnings? If so, make a PR that removes this giant line.": true,
+	"settings": {
+		"crazy-events": {
+			"name": "Crazy Events",
+			"description": "Enables some crazy events.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
