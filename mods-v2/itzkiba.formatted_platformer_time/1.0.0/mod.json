@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.0",
+	"gd": "2.204",
+	"id": "itzkiba.formatted_platformer_time",
+	"name": "Formatted Platformer Time",
+	"developer": "ItzKiba",
+	"description": "Sets the platformer time to HH:MM:SS:mmm format",
+	"settings": {
+		"rainbow-mode": {
+			"name": "Rainbow Timer",
+			"type": "bool",
+			"default": false
+		},
+		"rainbow-speed": {
+			"name": "Hue Shift Speed",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 10,
+			"description": "Changes the hue shift speed of the rainbow timer.\n\n<cg>Lower values = Faster hue shifts</c>"
+		}
+	}
+}
