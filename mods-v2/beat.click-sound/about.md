@@ -20,6 +20,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 10 - Up Arrow 2
 - 11 - Up Arrow Click/Release 1
 - 12 - Faze Click/Release (randomized)
+- 13 - Up Arrow 3
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -38,6 +39,9 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 15 - Taco Bell
 - 16 - Bad To The Bone
 - 17 - Huh
+- 18 - Three, Two, One... Geometry Dash (randomized)
+- 19 - AUGHHH
+- 20 - Car Door Slam
 ## Release sounds
 ### Useful release sounds:
 - 0 - Custom sound
