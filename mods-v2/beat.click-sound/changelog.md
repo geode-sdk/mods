@@ -1,4 +1,7 @@
 # Changelog
+## Version v1.2.2
+* Settings can now be changed in the pause menu! (tysm viper i love u, mwah! :3)
+* 'Taco Bell' meme click sound added!
 ## Version v1.2.1
 * Removed an extremely long delay in the 'Discord Ping' meme click sound.
 ## Version v1.2.0

@@ -33,7 +33,8 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 11 - Hamburger
 - 12 - Geometry Dash Death
 - 13 - Desk Hit
-- 14 - Windows 10 USB (RNG)
+- 14 - Windows 10 USB (randomized)
+- 15 - Taco Bell
 ## Release sounds
 ### Useful release sounds:
 - 0 - Custom sound
