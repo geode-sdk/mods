@@ -1,4 +1,7 @@
 # Changelog
+## Version v1.2.7
+* 'Bloody' useful randomized click/release sound pack added! (ty aceofspadesss!)
+* 160 new carrots added!
 ## Version v1.2.6
 * carrot ^w^
 ## Version v1.2.5

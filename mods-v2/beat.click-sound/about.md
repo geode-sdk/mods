@@ -21,6 +21,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 11 - Up Arrow Click/Release 1
 - 12 - Faze Click/Release (randomized)
 - 13 - Up Arrow 3
+- 14 - Bloody Click/Release (randomized)
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -50,6 +51,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 3 - Click/Release 3
 - 4 - Up Arrow Click/Release 1
 - 5 - Faze Click/Release (randomized)
+- 6 - Bloody Click/Release (randomized)
 
 ## Credit
 Thank you so much to all of the people listed below for doing whatever they did to help create the mod!
@@ -57,6 +59,7 @@ Thank you so much to all of the people listed below for doing whatever they did 
 - [Viper](user:14284530) - Developer, helped me with android support :3
 - [Coop](user:21207551) - Developer, helped make coding the mod more efficient ^w^ 
 - Sicariusblack - Helps with making some click sounds sound good!
+- aceofspadesss - Provided a ton of unique click sounds for the mod! >w<
 - kittykatspaugh - Emotional support
 - kuipurr - Emotional support
 (If you think I forgot to credit you, DM @beat___ on Discord. Credit is not given for asking a sound or feature request.)

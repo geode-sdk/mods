@@ -1,0 +1,14 @@
+{
+    "commit-author": "BeatACVR",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/BeatACVR/geode-clicksound/releases/download/Release-v1.2.7/beat.click-sound.geode",
+        "hash": "6135e773c1d30569775220172a31fa9d334c585da3968a4fceabfc7d1e7c7865",
+        "hash256": "49551fa7815e98a35f70886e158c32082d75326b9923cfb070dd665bf2936a6e"
+    },
+    "tags": []
+}
