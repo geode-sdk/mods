@@ -1,0 +1,12 @@
+{
+    "commit-author": "ItzKiba",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ItzKiba/ThomasEchnical/releases/download/v1.0.0/itzkiba.thomasechnical.geode",
+        "hash": "876952a4a0223d257adc75e1e046352682f83f4403ae387cc97a2a2a72ff97aa",
+        "hash256": "c4fbc8bb85aaf1b76873d6d43e75540a9e303318879099d8405b6edd64364c44"
+    },
+    "tags": []
+}
