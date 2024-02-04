@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "creo.small-gd-mods",
+	"name": "Small Geometry Dash Mods",
+	"developer": "Creo",
+	"description": "Some simple mods to get myself comfortable with modding"
+}
