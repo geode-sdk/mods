@@ -1,0 +1,69 @@
+{
+	"geode": "2.0.0-beta.13",
+	"gd": {"win":"2.204","android":"2.205"},
+	"version": "v1.1.3",
+	"id": "cdc.more-hints",
+	"name": "Hints+",
+	"developer": "cdc",
+	"description": "",
+	"settings": {
+		"more-hints": {
+            "name": "Use Hints+ Hints",
+            "description": "Use <cj>Hints+</c> hints.",
+            "type": "bool",
+            "default": true
+        },
+		"robtop-hints": {
+            "name": "Use Default Hints",
+            "description": "Use Default <cj>Geometry Dash</c> hints.",
+            "type": "bool",
+            "default": false
+        },
+        "custom-hint": {
+            "name": "Use Custom Hint",
+			"description": "Add your own <cy>hint</c> to a <cg>level</c>.",
+            "type": "bool",
+            "default": false
+        },
+		"custom-hint-levelid": {
+            "name": "Custom Hint Level ID",
+			"min":0,
+            "type": "int",
+            "default": 1
+        },
+		"custom-hint-text": {
+            "name": "Custom Hint Text",
+            "type": "string",
+            "default": "Jump!"
+        },
+		"custom-hint-text-scale": {
+            "name": "Custom Hint Text Size",
+            "type": "float",
+			"min":0,
+			"max":2,
+            "default": 0.7
+        },
+		"custom-hint-text-delay": {
+            "name": "Custom Hint Text Delay",
+            "type": "float",
+			"min":2,
+			"max":6,
+            "default": 4
+        },
+        "new-layout": {
+            "name": "Hint Redesign (EXPERIMENTAL)",
+            "type": "bool",
+            "default": false
+        },
+        "require-no-jumps": {
+            "name": "Jump Requirement",
+            "type": "bool",
+            "default": true
+        },
+        "disable-creation-disclaimer": {
+            "name": "Disable Custom Hint Creation Disclaimer",
+            "type": "bool",
+            "default": false
+        }
+    }
+}

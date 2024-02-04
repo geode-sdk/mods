@@ -21,3 +21,10 @@
 - Finished **Hint Redesign**.
 - Changed **ToE** and **Fingerdash** hints.
 - Fixed **Geometrical Dominator** hint scale.
+
+## v1.1.3
+**Create Hint From Pause + Bugfixes**
+- Added the ability to create a **Custom Hint** from **PauseLayer** on levels without a hint.
+- Fixed buttons in **PauseLayer** not being **winSize** dependent.
+- Fixed **Hint Redesign** nodes not being **removed** from PlayLayer.
+- Added **logo.png**.

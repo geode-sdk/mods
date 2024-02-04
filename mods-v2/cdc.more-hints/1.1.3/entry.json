@@ -1,0 +1,14 @@
+{
+    "commit-author": "CdcOnGitHub",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/CdcOnGitHub/more-hints-geode/releases/download/v1.1.3/cdc.more-hints.geode",
+        "hash": "2f559aff279e5a15a02778bcf6d3503f6402addedf6ff93152638371a736db32",
+        "hash256": "5eaf533b04cd32d8a5f68dbe1aaa54608e37685b0a2432034b1c6df9c8b705b0"
+    },
+    "tags": []
+}

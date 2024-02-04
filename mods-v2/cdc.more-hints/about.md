@@ -8,3 +8,5 @@ Adds more **hints** after you die two times in any **official level**.
 # RobTop Hints 
 
 You can also use the **RobTop Hints** which are only on **Back on Track** and **Polargeist**.
+
+Logo by **Erymanthus**.
