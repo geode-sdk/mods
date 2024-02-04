@@ -1,0 +1,12 @@
+{
+    "commit-author": "zohnannor",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/zohnannor/dark-mode-gd/releases/download/v0.1.2/zohnannor.dark_mode.geode",
+        "hash": "b83f0f067386a80e02b086b87b40776c07f04cf551166ad7b87586fedcd19ecb",
+        "hash256": "2f121d44a44b8086da79a0a0c8cbf004b65cd48815737a6a4798c8e755380063"
+    },
+    "tags": []
+}
