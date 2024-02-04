@@ -1,0 +1,12 @@
+{
+    "commit-author": "eloh-mrow",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/eloh-mrow/death-tracker/releases/download/v1.0.0/elohmrow.death_tracker.geode",
+        "hash": "2d385be8aafe6d97c4f0a716c3da78fd88c1530ea8b4d40ed53f67d186e84c96",
+        "hash256": "f42ef7f57f9f661697b07a849e059bcfc987df679af7b3cd4349130d10dec51d"
+    },
+    "tags": []
+}
