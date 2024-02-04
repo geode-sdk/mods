@@ -1,0 +1,15 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.1.0",
+	"id": "elohmrow.death_tracker",
+	"name": "Death Tracker",
+	"developer": "ElohmroW",
+	"description": "Tracks your normal mode deaths at every percentage",
+	"repository": "https://github.com/eloh-mrow/death-tracker",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
