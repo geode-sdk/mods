@@ -1408,6 +1408,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "polsk.level_quests": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "commit-author": "polskidevv",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/polskidevv/Level-Quests/releases/download/1.0.0/polsk.level_quests.geode",
+        "hash": "793d8d85a183a0602901bdca04ec676c4ced58a01f3d5bbd9862d1a9fcf58ce9",
+        "hash256": "8fb3fbec952d4da7fb5c48db5aabd4dedccdfa85001f6f0293ac22b14a1e0df0"
+    },
+    "tags": []
+}
