@@ -1345,6 +1345,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "cdc.more-hints": {
+            "verified": false,
+            "versions": [
+                "1.1.1"
+            ]
         }
     }
 }
