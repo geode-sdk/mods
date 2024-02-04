@@ -1417,6 +1417,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.loadingscreentweaks": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
