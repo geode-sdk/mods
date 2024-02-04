@@ -1242,7 +1242,8 @@
         "legowiifun.unlisted_objects_in_editor": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.2.0"
             ]
         },
         "polsk.boring_delay_info": {
