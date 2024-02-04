@@ -1339,6 +1339,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ekv.save_on_level_page": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

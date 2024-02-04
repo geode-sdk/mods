@@ -1,0 +1,15 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "ekv.save_on_level_page",
+	"name": "Save on level page",
+	"developer": "EKV",
+	"description": "lets you save from the level menu",
+    	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.1.4",
+            "importance": "required"
+        }]
+}

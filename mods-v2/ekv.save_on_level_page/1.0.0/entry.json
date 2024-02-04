@@ -1,0 +1,12 @@
+{
+    "commit-author": "EKVgd",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/EKVgd/saveFromLevelMenu/releases/download/v1.0.1/ekv.save_on_level_page.geode",
+        "hash": "b3bfc303e43fe08446a4dd20a54997d849fc0f3450022cfcd163ab55c5cab14f",
+        "hash256": "cb467a9e3d52157e042c56ef7953ad42a355e4d1d18bf6641d67e71cc04eaf4f"
+    },
+    "tags": []
+}
