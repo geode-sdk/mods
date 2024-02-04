@@ -1402,7 +1402,8 @@
         "creo.small-gd-mods": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "oatmealine.nlw_integration": {

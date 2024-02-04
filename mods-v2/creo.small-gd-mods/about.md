@@ -1,4 +1,8 @@
-# Read this please, it's important to note
+# Changelog:
+
+- Heavily optimized the hide pause menu code because I was too cooked to think correctly when I was making it (87 lines --> 29 lines)
+
+## Read this please, it's important to note
 
 - No, I'm not the Creo you're thinking of. I just happened to join the wrong community for my name
 
