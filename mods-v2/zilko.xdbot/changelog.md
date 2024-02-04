@@ -1,3 +1,10 @@
+# v1.3.4
+
+ * Fixed occasional crash when restarting in practice mode.
+ * Added auto music sync (bad) while playing a macro.
+ * User inputs now are ignored while playing a macro.
+ * You can now add inputs to a macro by recording over it (macro merger soon).
+
 # v1.3.3
 
  * Added override macro mode setting.
