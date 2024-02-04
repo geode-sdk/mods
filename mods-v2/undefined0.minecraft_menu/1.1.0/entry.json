@@ -1,0 +1,14 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/MinecraftMenu/releases/download/v1.1.0/undefined0.minecraft_menu.geode",
+        "hash": "40c2efdf5543e8dce8adb84f0ca226b8e5f537acdc39d3d962b430871ff6e3e5",
+        "hash256": "27ca1038c2574dca52596ad612023edddd0886c2f1ec76aa9c12fe514ce2e7ca"
+    },
+    "tags": []
+}
