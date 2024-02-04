@@ -1321,6 +1321,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "endrei.mappacksbegone2point2": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

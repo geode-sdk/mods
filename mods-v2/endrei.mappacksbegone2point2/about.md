@@ -1,0 +1,3 @@
+# Map Packs Be Gone
+
+NO MORE MAP PACKS RAAHHHHHHHHHH :FIRE:

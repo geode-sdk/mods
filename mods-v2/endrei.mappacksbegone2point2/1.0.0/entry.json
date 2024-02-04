@@ -1,0 +1,12 @@
+{
+    "commit-author": "EnderTheDeveloper",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/EnderTheDeveloper/mappackremover/releases/download/1.10/endrei.mappacksbegone2point2.geode",
+        "hash": "2abb0f200fac10ff18861256d4686ac81a2c6d2649afed4fb8a452da21355976",
+        "hash256": "9f6dae1be4114578edf8d2a29b0eba4ee00b20ad6eb9756e45faf4ef40ad0b78"
+    },
+    "tags": []
+}
