@@ -1,4 +1,6 @@
 # Icon Profile Changelog
+## v1.1.4
+- Robot & Spider are now Animated
 ## v1.1.3
 - Help Update Geode for Users on beta.12
 ## v1.1.2
