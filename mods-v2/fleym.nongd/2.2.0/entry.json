@@ -6,9 +6,9 @@
         "android64"
     ],
     "mod": {
-        "download": "https://github.com/Fleeym/jukebox/releases/download/v2.2.0/fleym.nongd.geode",
-        "hash": "ec0ac96ae40fd1842664cd3bdf625f6ff0f5b7a0a9d47d7d16bc444dda0b838c",
-        "hash256": "511eb27e9119189a0cb5de80bbb3adfecaa2a131d56c07ee26d3e7ed82f98ea1"
+        "download": "https://github.com/Fleeym/jukebox/releases/download/v2.2.1/fleym.nongd.geode",
+        "hash": "1017226bd203607db0ec5042c115aa2416e655d6a89f386c54bc001f902a4f53",
+        "hash256": "9b704d32e48a2fda9f5e78d7f15e2e47c3da2e87795b43ac08d1822fcae6c397"
     },
     "tags": [
         "Music"
