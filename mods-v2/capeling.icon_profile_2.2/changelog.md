@@ -1,4 +1,6 @@
 # Icon Profile Changelog
+## v1.1.3
+- Help Update Geode for Users on beta.12
 ## v1.1.2
 - Fix Robot and Spider not having any colors
 ## v1.1.1
