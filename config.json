@@ -1358,6 +1358,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "zohnannor.dark_mode": {
+            "verified": false,
+            "versions": [
+                "0.1.0"
+            ]
         }
     }
 }

@@ -1,0 +1,100 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v0.1.0",
+	"id": "zohnannor.dark_mode",
+	"name": "Dark Mode",
+	"developer": "zohnannor",
+	"repository": "https://github.com/zohnannor/dark-mode-gd",
+	"issues": {
+		"url": "https://github.com/zohnannor/dark-mode-gd/issues",
+		"info": "Create a new issue describing your problem in details"
+	},
+	"description": "Changes hard-coded colors to a dark-mode-style theme. Inspired by Absolute's Dark Mode Texture Pack Patcher for 2.1.",
+	"settings": {
+		"normal-mode-bar": {
+			"name": "Normal mode bar",
+			"description": "Color for a normal mode bar",
+			"type": "color",
+			"default": "#008000"
+		},
+		"practice-mode-bar": {
+			"name": "Normal mode bar",
+			"description": "Color for a normal mode bar",
+			"type": "color",
+			"default": "#008080"
+		},
+		"icon-set-bg": {
+			"name": "Icon set background",
+			"description": "Background of icon set on profile page",
+			"type": "color",
+			"default": "#222222"
+		},
+		"even-list-item-bg": {
+			"name": "Even list item background",
+			"description": "Background of even-numbered items in lists",
+			"type": "color",
+			"default": "#222222"
+		},
+		"even-list-item-thin-bg": {
+			"name": "Even thin lists item background",
+			"description": "Background of even-numbered items in lists (thin mode)",
+			"type": "color",
+			"default": "#222222"
+		},
+		"comment-bg": {
+			"name": "Comment background",
+			"description": "Background of a comment text",
+			"type": "color",
+			"default": "#000000"
+		},
+		"odd-list-item-bg": {
+			"name": "Odd lists item background",
+			"description": "Background of odd-numbered items in lists",
+			"type": "color",
+			"default": "#333333"
+		},
+		"odd-list-item-thin-bg": {
+			"name": "Odd thin lists item background",
+			"description": "Background of odd-numbered items in lists (thin mode)",
+			"type": "color",
+			"default": "#323232"
+		},
+		"level-search-bg": {
+			"name": "Level search background",
+			"description": "Background of level search bar",
+			"type": "color",
+			"default": "#000000"
+		},
+		"level-search-bar-bg": {
+			"name": "Level search bar background",
+			"description": "Background of level search bar input",
+			"type": "color",
+			"default": "#000000"
+		},
+		"level-search-bar-font": {
+			"name": "Level search bar font",
+			"description": "Placeholder search bar text",
+			"type": "color",
+			"default": "#333333"
+		},
+		"quick-search-bg": {
+			"name": "Quick search background",
+			"description": "Background of quick search buttons",
+			"type": "color",
+			"default": "#000000"
+		},
+		"difficulty-filters-bg": {
+			"name": "Difficulty filters background",
+			"description": "Background of level difficulty filters",
+			"type": "color",
+			"default": "#000000"
+		},
+		"length-filters-bg": {
+			"name": "Length filters background",
+			"description": "Background of level length filters",
+			"type": "color",
+			"default": "#000000"
+		}
+	}
+}
