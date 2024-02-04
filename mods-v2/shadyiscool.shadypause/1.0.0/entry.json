@@ -1,0 +1,12 @@
+{
+    "commit-author": "ShadyIsCool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ShadyIsCool/ShadyPause/releases/download/v1.0.2/shadyiscool.shadypause.geode",
+        "hash": "6d661e02b1345014b170264fb343d3aa8860b0462207781c0e7de73af56be01e",
+        "hash256": "594ff999f45843604834c9cd4b7c17389677dd8b368e09c7b00890370357a9e5"
+    },
+    "tags": []
+}

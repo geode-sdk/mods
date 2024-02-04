@@ -1,0 +1,20 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "shadyiscool.shadypause",
+	"name": "ShadyPause",
+	"developer": "ShadyIsCool",
+	"description": "Lets you toggle the pause menu.",
+	"repository": "https://github.com/ShadyIsCool/ShadyPause",
+	"settings":  
+	{
+		"toggle-enabled": 
+		{
+			"name": "Toggle Enabled (Z)",
+			"description": "Whether the pause menu can be toggled using the Z key.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

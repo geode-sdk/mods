@@ -1333,6 +1333,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "shadyiscool.shadypause": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
