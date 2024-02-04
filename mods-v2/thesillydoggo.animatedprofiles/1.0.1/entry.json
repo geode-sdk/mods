@@ -1,0 +1,16 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/AnimatedProfiles/releases/download/v1.0.1/thesillydoggo.animatedprofiles.geode",
+        "hash": "84ca2305f7cc2e142127c0860276dfb3755ba7df9a76814b32b2e31fc775e5d5",
+        "hash256": "7e66e96cc76dc1a4dfacb48008596947c5c87644ecff6ea7928918ad5ad652da"
+    },
+    "tags": [
+        "Cosmetic"
+    ]
+}

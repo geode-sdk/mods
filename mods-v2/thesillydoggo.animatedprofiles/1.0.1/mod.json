@@ -1,0 +1,22 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"version": "v1.0.1",
+	"id": "thesillydoggo.animatedprofiles",
+	"name": "Animated Profile Icons",
+	"developer": "TheSillyDoggo",
+	"description": "Animates the spider and robot icons on profiles and comment cells",
+	"tags": [
+        "Cosmetic"
+    ],
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.1.4",
+            "importance": "required"
+        }
+    ]
+}
