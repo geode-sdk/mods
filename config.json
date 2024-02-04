@@ -1266,7 +1266,8 @@
         "egg.icon_hack": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.4.0"
             ]
         },
         "adam_729.deathmarkers": {
