@@ -1,4 +1,9 @@
 # Changelog
+## Version v1.3.0
+* 'TikTok' meme release sound added! (ty boofer!)
+* Sounds now play in editor playtesting!
+* Badges now appear next to the names of Click Sound developers on their GD profiles! (ty for letting me steal your code, kot!)
+* [Uproxide/Kot](user:227796112) is a developer now! (luv u kot! <3)
 ## Version v1.2.7
 * 'Bloody' useful randomized click/release sound pack added! (ty aceofspadesss!)
 * 160 new carrots added!
