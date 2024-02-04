@@ -1,0 +1,49 @@
+{
+	"geode": "2.0.0-beta.14",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "doom.doomsutils",
+	"name": "dooms utils",
+	"developer": "doom",
+	"description": "small dooms utils he made for no one",
+	"resources": {
+		"sprites": [
+			"resources/DU_twitterBtn.png"
+		]
+    },
+    "settings": {
+        "icon-hack": {
+            "name": "Icon hack",
+            "description": "Unlocks all icons",
+            "type": "bool",
+            "default": true
+        },
+        "practice-music-hack": {
+            "name": "Practice music hack",
+            "description": "Unlocks music in practice\nMake sure to enable it in the settings.",
+            "type": "bool",
+            "default": true
+        },
+        "music-customizer-hack": {
+            "name": "Music customizer hack",
+            "description": "Unlocks the music customizer.",
+            "type": "bool",
+            "default": true
+        },
+        "main-menu": {
+            "name": "Switch menu button",
+            "description": "If true, switches the 'search' button in the main menu with a 'create' button",
+            "type": "bool",
+            "default": false
+        },
+        "old-twitter-icon": {
+            "name": "Old Twitter Icon",
+            "description": "Toggle on to change the X icon to the twitter icon.",
+            "type": "bool",
+            "default": false
+        }
+    }
+}
