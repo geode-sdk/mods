@@ -1360,7 +1360,8 @@
         "cdc.more-hints": {
             "verified": false,
             "versions": [
-                "1.1.1"
+                "1.1.1",
+                "1.1.2"
             ]
         },
         "elohmrow.death_tracker": {
