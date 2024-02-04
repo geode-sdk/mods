@@ -2,9 +2,13 @@
 
 Automatically tracks your normal mode deaths for every level you play.
 Click the skull button found on the attempts page to see your deaths!
+<cy>~ *Now with color* ~</c>
 
-~ *Now with color* ~
+## Settings
+- Disable death tracking on completed online levels
 
-**Special Thanks:** flame, Alphalaneous
+## Special Thanks
 
-**Assets By:** creo
+**Help w/ coding:** *flame, Alphalaneous, Cvolton*
+
+**Assets By:** *creo*
