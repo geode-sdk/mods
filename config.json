@@ -1391,6 +1391,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "oatmealine.nlw_integration": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

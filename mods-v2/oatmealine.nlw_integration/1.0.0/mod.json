@@ -1,0 +1,26 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "oatmealine.nlw_integration",
+	"name": "NLW Integration",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.1.4",
+			"importance": "required"
+		}
+	],
+	"developer": "oatmealine",
+	"description": "Integrates the Non-Listworthy Extreme Demon spreadsheet into level pages",
+	"resources": {
+		"spritesheets": {
+			"NLW_icons": [
+				"resources/*.png"
+			]
+		}
+	}
+}
