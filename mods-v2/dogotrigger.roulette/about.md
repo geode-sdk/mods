@@ -5,6 +5,15 @@
 **Additional events are the events that more critical to the game than the other ones.** They are disabled by default. Additional events can be enabled in Mod's settings.
 
 # Changelog
+# v1.0.2
+## Gameplay Changes
+ * For stopping Roulette a button is now used instead of pressing Enter key
+ * New setting has been added: `Pernament Effects`
+   * This option makes some gameplay effects to be pernament until level is completed.
+   * This option is off by default.
+## Techincal Changes
+ * Roulette start animation is now capped at 20 FPS
+
 # v1.0.1
 ## Gameplay Changes
  * `Random Mode Every Sec` event has been removed
