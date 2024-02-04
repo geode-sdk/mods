@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.3",
+	"id": "elohmrow.death_tracker",
+	"name": "Death Tracker",
+	"developer": "ElohmroW",
+	"description": "tracks your deaths",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
