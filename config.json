@@ -1454,6 +1454,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "oatmealine.ids_integration": {
+            "verified": false,
+            "versions": [
+                "1.2.0"
+            ]
         }
     }
 }
