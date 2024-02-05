@@ -1,3 +1,7 @@
+# v1.3.6
+
+ * Air update.
+
 # v1.3.5
 
  * Fixed macros saving with "WA" at the end lmao.
