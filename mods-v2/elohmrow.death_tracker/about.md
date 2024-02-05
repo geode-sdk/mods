@@ -10,5 +10,5 @@ Click the skull button found on the attempts page to see your deaths!
 ## Special Thanks
 
 **Help w/ coding:** *flame, Alphalaneous, Cvolton*
-
-**Assets By:** *creo*
+**Ideas:** *creo, Wild*
+**Assets by:** *creo*
