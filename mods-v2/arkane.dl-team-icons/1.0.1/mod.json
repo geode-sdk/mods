@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "arkane.dl-team-icons",
+	"name": "Demon List Team Icons",
+	"developer": "Arkane",
+	"description": "Adds an ingame icon for Demon List team members.",
+	"resources": {
+		"sprites": [
+			"rec/*.png"
+		]
+	},
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.1.4",
+            "importance": "required"
+        }
+    ]
+}
