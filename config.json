@@ -1440,6 +1440,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "spaghettdev.gd-roulette": {
+            "verified": false,
+            "versions": [
+                "1.6.0-beta.2"
+            ]
         }
     }
 }

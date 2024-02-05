@@ -1,0 +1,17 @@
+{
+    "commit-author": "SpaghettDev",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/SpaghettDev/GD-Roulette/releases/download/v1.6.0-beta.2/spaghettdev.gd-roulette.geode",
+        "hash": "57a7a3d4c633fc24ef4048aeebb254652a4d4ce33cbc5227cc529ace3de06678",
+        "hash256": "ea19f16eb94112102bab02615f147b881d9dd442c4b14e5034b1abf747956d93"
+    },
+    "tags": [
+        "level",
+        "roulette"
+    ]
+}
