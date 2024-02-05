@@ -1418,7 +1418,8 @@
             "verified": false,
             "versions": [
                 "1.0.0",
-                "1.1.2"
+                "1.1.2",
+                "1.2.0"
             ]
         },
         "undefined0.minecraft_menu": {
