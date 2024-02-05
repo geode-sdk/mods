@@ -1,0 +1,14 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/NodeIDs/releases/download/v1.2.3/geode.node-ids.geode",
+        "hash": "e3b48ae8c43b80d7f28a3e1007476a225984fa591aee840f0fd12115c096baae",
+        "hash256": "070a19f00cc82276326471f7708ff6334b5b99b4a92608481f26d0b9b24d3ed8"
+    },
+    "tags": []
+}
