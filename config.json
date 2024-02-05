@@ -1447,6 +1447,12 @@
             "versions": [
                 "1.6.0-beta.2"
             ]
+        },
+        "xanii.youtubers": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
