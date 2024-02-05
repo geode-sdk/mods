@@ -28,3 +28,8 @@
 - Fixed buttons in **PauseLayer** not being **winSize** dependent.
 - Fixed **Hint Redesign** nodes not being **removed** from PlayLayer.
 - Added **logo.png**.
+
+## v1.1.4
+**Reworked Custom Hint System**
+- Reworked the **Custom Hint System**
+- Fixed a bug where the **Create Hint** popup crashed with empty **Scale** and **Delay** fields.
