@@ -1,0 +1,12 @@
+{
+    "commit-author": "GDColon",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/GDColon/Gold-User-Coins/releases/download/v1.0.1/colon.gold_user_coins.geode",
+        "hash": "de97720b6aa8038268a98fa1da6202d0d9369d677d4ab3669ec0cceb673a2ab4",
+        "hash256": "07030f37d87d3073e32326f4c3b642198301bb71827b78dbb441eb6b0f2cd9e9"
+    },
+    "tags": []
+}
