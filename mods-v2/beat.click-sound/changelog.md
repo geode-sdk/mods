@@ -1,4 +1,7 @@
 # Changelog
+## Version v1.3.2
+* Updated required Geode version to v2.0.0-beta.15 (if you are below beta.14 on windows, you need to manually reinstall Geode.)
+* Developers are listed now.
 ## Version v1.3.0
 * 'TikTok' meme release sound added! (ty boofer!)
 * Sounds now play in editor playtesting!
