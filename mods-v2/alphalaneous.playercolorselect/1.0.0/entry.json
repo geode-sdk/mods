@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/PlayerColorSelect/releases/download/1.0/alphalaneous.playercolorselect.geode",
+        "hash": "985f5772880c970e422c11643600191a8459e5c5a0308a140286f895dd9e9d25",
+        "hash256": "f79c2bd9b148bcfdc54d1a11a4e5f91a6511c47140ae1b281252aab085657a4b"
+    },
+    "tags": []
+}
