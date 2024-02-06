@@ -1463,6 +1463,12 @@
             "versions": [
                 "1.2.0"
             ]
+        },
+        "colon.gold_user_coins": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
