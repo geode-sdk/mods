@@ -1,0 +1,12 @@
+{
+    "commit-author": "HJfod",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/CustomKeybinds/releases/download/v1.4.0/geode.custom-keybinds.geode",
+        "hash": "f829e04171da8f2e1e363f8663c91ea1170af709964e583926cc1eccbf251227",
+        "hash256": "9496f7b94c2026b82d133240e350522f2690b6c7edf7dbe1663656eff429f846"
+    },
+    "tags": []
+}
