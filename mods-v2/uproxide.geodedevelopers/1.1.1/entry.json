@@ -1,0 +1,15 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/Geode-Contributors/releases/download/v1.1.1/uproxide.geodedevelopers.geode",
+        "hash": "499e3a3bf241283719fd4d8d4498a02e8a119196e69627e82338a8cf11d373a1",
+        "hash256": "b82e2a9e5697640dfec55c860c3cecd1d7b7eaaf873f9470091247fada30c403"
+    },
+    "tags": []
+}
