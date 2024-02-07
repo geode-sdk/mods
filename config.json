@@ -1463,7 +1463,8 @@
         "spaghettdev.gd-roulette": {
             "verified": false,
             "versions": [
-                "1.6.0-beta.2"
+                "1.6.0-beta.2",
+                "1.6.0-beta.4"
             ]
         },
         "xanii.youtubers": {

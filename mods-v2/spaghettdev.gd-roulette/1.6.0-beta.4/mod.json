@@ -1,0 +1,49 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.6.0-beta.4",
+	"id": "spaghettdev.gd-roulette",
+	"name": "GD-Roulette",
+	"developer": "SpaghettDev",
+	"description": "An in-game level roulette.",
+	"repository": "https://github.com/SpaghettDev/GD-Roulette",
+	"issues": {
+		"info": "Report any bugs/suggestions here.",
+		"url": "https://github.com/SpaghettDev/GD-Roulette/issues"
+	},
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": "v1.1.4",
+			"importance": "required"
+		}
+	],
+	"tags": [
+		"level", "roulette"
+	],
+	"settings": {
+		"max-skips": {
+			"name": "Number of skips",
+			"description": "The maximum amount of skips allowed during a round of the roulette.",
+			"type": "int",
+			"control": {
+				"input": true,
+				"arrows": true,
+				"arrow-step": 1,
+				"big-arrows": true,
+				"big-arrow-step": 5
+			},
+			"default": 3,
+			"max": 9999,
+			"min": 0
+		}
+	}
+}
