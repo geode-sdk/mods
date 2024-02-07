@@ -1,0 +1,12 @@
+{
+    "commit-author": "rileythesillyone",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/rileythesillyone/geodemods/releases/download/newgroundsbuttonbegone/riley.nogrounds.geode",
+        "hash": "6589f2451cb1e8fc6eb1d0b01a2b92c33b92b1049bdd99b93f321f42dae07000",
+        "hash256": "9f16b5b21171bd4224a33e721ce5198e61b03d3102d5b436b40ab490fe328c3c"
+    },
+    "tags": []
+}

@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "riley.nogrounds",
+	"name": "NoGrounds",
+	"developer": "Riley and Uproxide",
+	"description": "Removes the NG Button from the menu because it's not very useful.",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.1.4",
+            "importance": "required"
+        }
+    ]
+}
