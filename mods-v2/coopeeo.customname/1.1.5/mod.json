@@ -1,0 +1,35 @@
+{
+  "geode": "v2.0.0-beta.14",
+  "gd": {
+    "android": "2.205",
+    "win": "2.204"
+  },
+  "id": "coopeeo.customname",
+  "name": "Custom Name",
+  "version": "1.1.5",
+  "developers": [
+    "Coop",
+    "Uproxide",
+    "Carrot Devs"
+  ],
+  "repository": "https://github.com/coopeeo/customname-geodemod",
+  "description": "Make yourself have your own name. (Only appears for yourself)",
+  "issues": {
+    "info": "GitHub",
+    "url": "https://github.com/coopeeo/customname-geodemod/issues"
+  },
+  "settings": {
+    "thename": {
+      "name": "Change Name",
+      "description": "Changes your name to what you type into the text box.",
+      "type": "string"
+    }
+  },
+  "dependencies": [
+    {
+        "id": "geode.node-ids",
+        "version": ">=v1.1.4",
+        "importance": "required"
+    }
+  ]
+}
