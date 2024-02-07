@@ -1,0 +1,15 @@
+{
+    "commit-author": "Fleeym",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/NodeIDs/releases/download/v1.3.0/geode.node-ids.geode",
+        "hash": "87a52ce7a19e098eee90cf6af5cfd75119efa56f64bac3577b962d2418ef5c0f",
+        "hash256": "aeeba7bf2c53a7c1c90047cba607ba563b1132f61a678b5c4fb30cb73ec40b4e"
+    },
+    "tags": []
+}
