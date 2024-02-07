@@ -1476,7 +1476,8 @@
         "oatmealine.ids_integration": {
             "verified": false,
             "versions": [
-                "1.2.0"
+                "1.2.0",
+                "1.2.1"
             ]
         },
         "colon.gold_user_coins": {
