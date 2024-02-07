@@ -1,3 +1,7 @@
+# v1.0.5
+- Added an option to search for levels by tier
+- You can find that in the search menu, there's a GDDL button located on the right side
+
 # v1.0.4
 - Added an option to move the tier rating button next to the level name (either on the right or the left side), the placement can be controlled with dedicated settings
   - [feature suggestion by thesuperjepphykiller](https://github.com/B1rtek/Geode-GDDLIntegration/issues/6)

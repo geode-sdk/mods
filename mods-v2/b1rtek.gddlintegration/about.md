@@ -12,18 +12,21 @@ Adds a button on your profile that shows how many demons of each tier you've bea
 
 ![Another example visible only to those who downloaded this mod](b1rtek.gddlintegration/split.png)
 
+You can also search for completed/uncompleted/both levels in the search menu, the button that opens it is located on the search screen on the right side.
+
 ## Known issues
 
 - <cy>Usernames</c> sometimes turn into <cy>`-`</c> after a <cr>failed</c> request, this is just cosmetic though (
   [apparently Rob's fault](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913375319))
 - Opening the *GDDL Demon Split* popup <co>might</c> cause a lag, don't worry about that :)
+- Going back from the *GDDL Search* popup goes back to the creator layer instead of the search layer
 
 If you encounter any other issues, contact me on Discord (<cb>@b1rtek</c>) or on Github
 
 ## Special thanks
 
-<cb>*Code contributions:*</c> <cy>**[Diversion](https://github.com/B1rtek/Geode-GDDLIntegration/pull/3)**</c>
-<cg>*Feature suggestions:*</c> <cy>[MasterGamerY](https://github.com/B1rtek/Geode-GDDLIntegration/issues/1), [Weebifying](https://github.com/B1rtek/Geode-GDDLIntegration/pull/2), [averiee_](https://github.com/B1rtek/Geode-GDDLIntegration/milestone/4), [thesuperjepphykiller](https://github.com/B1rtek/Geode-GDDLIntegration/issues/6)</c>
+<cb>*Code contributions:*</c> <cy>**[Diversion](https://github.com/B1rtek/Geode-GDDLIntegration/pull/3)**</c>  
+<cg>*Feature suggestions:*</c> <cy>[MasterGamerY](https://github.com/B1rtek/Geode-GDDLIntegration/issues/1), [Weebifying](https://github.com/B1rtek/Geode-GDDLIntegration/pull/2), [averiee_](https://github.com/B1rtek/Geode-GDDLIntegration/milestone/4), [TheSuperJepphyKiller](https://github.com/B1rtek/Geode-GDDLIntegration/issues/6), [hoshinekosanti](https://github.com/B1rtek/Geode-GDDLIntegration/issues/11)</c>  
 <cr>*Bug reporters:*</c> <cy>croozington, bllue, [Fleeym](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780380), [matcool](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780699), [Lexicon](https://github.com/B1rtek/Geode-GDDLIntegration/issues/7)</c>
 
 
