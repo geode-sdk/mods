@@ -1490,6 +1490,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "polsk.pause_settings": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

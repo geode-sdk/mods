@@ -1,0 +1,12 @@
+{
+    "commit-author": "polskidevv",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/polskidevv/Pause-Settings/releases/download/1.0.0/polsk.pause_settings.geode",
+        "hash": "7ee56f5e72af770d336cc8ab43b1714fe54daa837be7ae673b62416e7291e3eb",
+        "hash256": "35ba48349d0e8d33283aa23066d62d44077702d8f964a1858cdc975e7e89294a"
+    },
+    "tags": []
+}
