@@ -1479,6 +1479,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "dankmeme.globed2": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
