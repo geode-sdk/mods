@@ -1,0 +1,23 @@
+{
+	"geode": "v2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0-beta.1",
+	"id": "minemaker0430.gddp_integration",
+	"name": "GDDP Integration",
+	"developer": "Minemaker0430",
+	"description": "Adds a new Menu for GDDP Progress",
+	
+	"resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+	
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.2.4",
+            "importance": "required"
+        }
+    ]
+}

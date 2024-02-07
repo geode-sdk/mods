@@ -1496,6 +1496,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "minemaker0430.gddp_integration": {
+            "verified": false,
+            "versions": [
+                "1.0.0-beta.1"
+            ]
         }
     }
 }
