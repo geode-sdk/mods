@@ -1,0 +1,15 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Cvolton/betterinfo-geode/releases/download/v4.0.0-alpha.13/cvolton.betterinfo.geode",
+        "hash": "fd282c302c045caa4efb3cbd868593c350e756e2723fbb67d3a03fe078fc1f79",
+        "hash256": "a9d93896585b1d71c050c1027b554d2c158f9896234394f456936b9871f4df01"
+    },
+    "tags": []
+}
