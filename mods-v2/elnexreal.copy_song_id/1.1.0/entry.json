@@ -1,0 +1,12 @@
+{
+    "commit-author": "elnexreal",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/elnexreal/copy_song_id/releases/download/1.1.0/elnexreal.copy_song_id.geode",
+        "hash": "571c22cd412951b668615a03e9e8046e49233977a90477c7f5815cda9fd407b8",
+        "hash256": "7ddaec1d1dcc2b7693e125bd9e41e1bf1c0f2f2bb0c3e134389b3dba5411fe21"
+    },
+    "tags": []
+}
