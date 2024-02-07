@@ -1503,6 +1503,12 @@
             "versions": [
                 "1.0.0-beta.1"
             ]
+        },
+        "nyakofox.channelviewer": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "commit-author": "NyakoFox",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/NyakoFox/ChannelViewer/releases/download/v1.0.0/nyakofox.channelviewer.geode",
+        "hash": "460b09e09b79075b64e414c56a8fc408e084398c923fa5d4ab1f6533cf755628",
+        "hash256": "b6d6b8c627c7001cef646c97010f23672b1737cc9e8d584829fe81228282d802"
+    },
+    "tags": []
+}
