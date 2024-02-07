@@ -1,0 +1,12 @@
+{
+    "commit-author": "LXanii",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/LXanii/Flashlight-Mod/releases/download/1.0.2/xanii.flashlight.geode",
+        "hash": "f4932cdd8fb4e8b8c3fdb5d5f1506fdcfed35661dc0d5eef38abaf2a4b1b258d",
+        "hash256": "a3babab60da85d5ac06bb581b4109e8350c4da9880c2a955e28e06a2c83fcefa"
+    },
+    "tags": []
+}

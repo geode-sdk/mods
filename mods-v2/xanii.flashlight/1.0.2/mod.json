@@ -1,0 +1,37 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.2",
+	"id": "xanii.flashlight",
+	"name": "Flashlight",
+	"repository": "https://github.com/LXanii/Flashlight-Mod",
+	"developer": "Xanii",
+	"description": "osu! flashlight, but for GD",
+	"resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+	"settings": {
+		"always-dark": {
+			"name": "Always Dark",
+			"description": "Instead of gradually going to full opacity from 0% - max-percent%, it now takes 0% - 3% to get full opacity.",
+			"type": "bool",
+			"default": false
+		},
+		"display-max": {
+			"name": "Display Max Percent",
+			"description": "Displays Max Percent in-game.",
+			"type": "bool",
+			"default": false
+		},
+		"max-percent": {
+            "name": "Max Percent",
+            "description": "Sets the percent that the flashlight gets to full opacity at.",
+            "type": "int",
+            "default": 90,
+            "min": 2,
+            "max": 100
+		}
+	}
+}
