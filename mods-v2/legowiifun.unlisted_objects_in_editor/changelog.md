@@ -1,5 +1,8 @@
+# v1.2.1
+ * Added another unlisted object: A weird looking block that uses a mishmash of textures
+
 # v1.2.0
- * Added more unused objects
+ * Added more unlisted objects
  * Moved the "Start Pos" block to the blocks tab. I disagree in thinking it goes here, but I understand the logic behind it. 
 
 # v1.1.0

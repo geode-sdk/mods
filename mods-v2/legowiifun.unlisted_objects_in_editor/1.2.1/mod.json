@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.2.1",
+	"gd": "2.204",
+	"id": "legowiifun.unlisted_objects_in_editor",
+	"name": "Unlisted Objects in Editor",
+	"developer": "legowiifun",
+	"description": "Adds unlisted objects to the level editor.",
+	"settings": {
+		"activate":{
+			"name":"Activate",
+			"description": "Activate or deactivate the mod without requiring a restart of Geometry Dash",
+			"type": "bool",
+			"default": true
+		},
+		"doNotInclude":{
+			"name":"Do not include unecessary ones",
+			"description": "Only adds objects that cannot be replicated using listed objects",
+			"type":"bool",
+			"default": false
+		}
+	}, 
+	"repository": "https://github.com/legowiifun/Geometry-Dash-Unlisted-Objects-in-Editor"
+}

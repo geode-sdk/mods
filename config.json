@@ -1273,7 +1273,8 @@
             "verified": false,
             "versions": [
                 "1.0.0",
-                "1.2.0"
+                "1.2.0",
+                "1.2.1"
             ]
         },
         "polsk.boring_delay_info": {
