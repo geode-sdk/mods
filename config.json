@@ -1349,7 +1349,8 @@
         "itzkiba.formatted_platformer_time": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.1.0"
             ]
         },
         "endrei.mappacksbegone2point2": {
