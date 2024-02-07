@@ -1,0 +1,12 @@
+{
+    "commit-author": "ItzKiba",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ItzKiba/FormattedPlatformerTime/releases/download/v1.1.1/itzkiba.formatted_platformer_time.geode",
+        "hash": "9d4a4ec8d762199feb0ddb8cbf11f4f82570db1211d6bdc8af968e2c5213fb6e",
+        "hash256": "a356924803f624ddf39d4ed3c84df94afd1a9d634686515a6c968dfe5348e1dd"
+    },
+    "tags": []
+}

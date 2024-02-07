@@ -1,3 +1,7 @@
+# v1.1.1
+
+* Added new setting "Remove Milliseconds."
+
 # v1.1.0
 
 * Added new setting "Show All Zeros" to fill all unused timer characters with zeros. This setting is off by default.
