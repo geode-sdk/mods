@@ -1518,7 +1518,8 @@
         "elnexreal.copy_song_id": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.2.0"
             ]
         },
         "riley.nogrounds": {
