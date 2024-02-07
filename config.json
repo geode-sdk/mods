@@ -1494,7 +1494,8 @@
         "dankmeme.globed2": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.2"
             ]
         },
         "polsk.pause_settings": {
