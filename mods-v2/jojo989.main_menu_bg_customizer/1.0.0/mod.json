@@ -1,0 +1,19 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "jojo989.main_menu_bg_customizer",
+	"name": "menuBG customizer",
+	"developer": "jojo989",
+	"description": "",
+
+	"settings": {
+		"pene": {
+			"name": "disable GD logo",
+			"description": "remove the GD Logo in the main menu",
+			"type": "bool",
+			"default": false
+
+		}
+	}
+}
