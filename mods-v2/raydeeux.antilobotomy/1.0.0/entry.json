@@ -1,0 +1,14 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/AntiLobotomy/releases/download/v1.0.0/raydeeux.antilobotomy.geode",
+        "hash": "1cb526fb6c4aefb2388d43cad81e2692563f19ce875029b08f28375fab117407",
+        "hash256": "b8bf5bb99ef6416f76bf44624b788a344510c81d53e852edb39f69cc896b3712"
+    },
+    "tags": []
+}

@@ -1555,6 +1555,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.antilobotomy": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

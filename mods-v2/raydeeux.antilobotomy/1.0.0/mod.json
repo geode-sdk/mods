@@ -1,0 +1,50 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "raydeeux.antilobotomy",
+	"name": "AntiLobotomy",
+	"developer": "RayDeeUx",
+	"description": "Disables difficulty faces, SFX, and Song triggers from loading in levels related to lobotomies.",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod on levels whose names are related to lobotomies.\nBy default, this does not affect levels with star/moon ratings until you enable the \"Enabled on Rated Levels\" option.",
+			"type": "bool",
+			"default": true
+		},
+		"enableOnRated": {
+			"name": "Enabled on Rated Levels",
+			"description": "Toggles the mod on levels whose names are related to lobotomies and have star/moon ratings.\nRequires previous setting to be enabled.",
+			"type": "bool",
+			"default": false
+		},
+		"disableNormalFace": {
+			"name": "Disable Normal Difficulty Face",
+			"description": "Disables the normal difficulty face decoration on levels related to lobotomies.",
+			"type": "bool",
+			"default": true
+		},
+		"disableAllFaces": {
+			"name": "Disable All Difficulty Faces",
+			"description": "Disables all difficulty face decorations on levels related to lobotomies.\nDoes not require previous setting to be enabled.",
+			"type": "bool",
+			"default": false
+		},
+		"disableSFX": {
+			"name": "Disable SFX triggers",
+			"description": "Disables all SFX triggers on levels related to lobotomies.",
+			"type": "bool",
+			"default": true
+		},
+		"disableSong": {
+			"name": "Disable Song Triggers",
+			"description": "Disables all Song triggers on levels related to lobotomies.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
