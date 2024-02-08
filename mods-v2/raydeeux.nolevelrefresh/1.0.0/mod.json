@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "raydeeux.nolevelrefresh",
+	"name": "NoLevelRefresh",
+	"developer": "RayDeeUx",
+	"description": "[Windows only] Hides the level refresh button if you have TheSillyDoggo's \"More Level Tags\" mod installed, because that one crash has yet to be fixed.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.2.4",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"hideRefreshButton": {
+			"name": "Hide Refresh Button",
+			"description": "Hides the refresh button on a level's page.\nONLY DISABLE THIS IF THE \"MORE LEVEL TAGS\" CRASH HAS BEEN FIXED.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

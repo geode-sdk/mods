@@ -1,0 +1,12 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/NoLevelRefresh/releases/download/v1.0.0/raydeeux.nolevelrefresh.geode",
+        "hash": "6003e3c8b850e315fc88939cae0fe8a715ae406813b6c9ecdfc828bf46187646",
+        "hash256": "62b9bfe52b4e99471d6eb31b7af4b40f2b1c4b0ae27f8a6e887d5793edb2cce6"
+    },
+    "tags": []
+}

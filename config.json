@@ -1570,6 +1570,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.nolevelrefresh": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
