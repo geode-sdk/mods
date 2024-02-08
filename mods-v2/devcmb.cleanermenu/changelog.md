@@ -1,3 +1,15 @@
+# v2.0.0
+Introduced a bunch of new modifications
+
+
+New features
+- Icon kit is moved around a bit with the stats and color button being moved
+- Profile menu buttons along the bottom and sides have been moved to be closed together.
+- Buttons in the creator tab have been categorized based on significance.
+- Search box now has big buttons along the bottom instead of small ones on the side.
+
+**This version is currently un-patched for nightly. The patch will be uploaded upon the release of the beta**
+
 # v1.2.0
 Small update, but an update nontheless.
 

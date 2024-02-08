@@ -1,28 +1,30 @@
 # Clean Menu
 
-Tweaks the geometry dash main menu for better arrangement.
+Tweaks the geometry dash menus for better arrangement.
 
 # Features
 
+## Main Menu
 - Social buttons have been moved and grouped together. RobTop logo remains in the corner while social buttons are centered.
 
 - Account button has been moved and username text is now besides it instead of on top
 
 - Reddit social button displayed with the rest
 
-# Settings
+## Creator Layer
 
-"hideRobtopLogo" - Hides the robtop logo on the main menu
+- Removes the grayed out buttons
+- Moves around the buttons based on usability
 
-"hideSocials" - Hides the social buttons at the bottom of the main menu
+## Search Box
+Replaces the small buttons with larger ones
 
-"hideMoreGames" - Hides the more games button on the main menu
 
-"revertProfileButton" - Puts the account button back where it was
-
-"whichSideProfileButton" - 
+## Profile
+Moves around the buttons for easier ease of access
 
 # Credits
 DevCmbGD - Programming + Final Logo
-
 NibblesGD - First revisions of the logo
+UCrash - UX Redesign of the GD menus (base for all changes)
+Cvolton + fleeym - Assistance in the discord server.
