@@ -1,3 +1,7 @@
+# v1.0.4
+
+ * fixed a small issue with android backup loading not working
+
 # v1.0.3
 
  * fixed my code, UI breaking on different resolutions and auto backups! also added android support!! :D (Importing backups isnt working on android yet)
