@@ -1,0 +1,51 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": {
+            "mac": "2.200",
+            "android": "2.205",
+            "win": "2.204"
+        },
+	"version": "v1.0.0",
+	"id": "raydeeux.fuckglow",
+	"name": "FuckGlow",
+	"developer": "RayDeeUx",
+	"description": "Hides all glow-related objects (including glow from blocks).",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"hideGlowDeco": {
+			"name": "Hide Glow Deco (99%)",
+			"description": "[WINDOWS ONLY]\nHide 99% of glow decorations.\n\n\"But why only 99%?\"\n\nRobTop reuses the \"blockOutline_14_001.png\" and \"blockOutline_15_001.png\" frame names for multiple purposes. Unless if you enable the \"Hide Glow Deco (100%)\" option, these two frame names will not be hidden.",
+			"type": "bool",
+			"default": true
+		},
+		"hideGlowDecoAdvanced": {
+			"name": "Hide Glow Deco (100%)",
+			"description": "[WINDOWS ONLY]\nHide ALL glow decorations. Requires previous setting to be enabled.\nWILL CAUSE FALSE POSITIVES.\nRobTop reuses the \"blockOutline_14_001.png\" and \"blockOutline_15_001.png\" frame names for multiple purposes. Even after Geode comes out of beta, it would still be impossible to differentiate between the frame name being used to texture a decoration object or being attached to a block.\nENABLE THIS AT YOUR OWN RISK.",
+			"type": "bool",
+			"default": false
+		},
+		"hideGlowFromBlocks": {
+			"name": "Hide Glow from Solids",
+			"description": "Hide glow from solid objects.",
+			"type": "bool",
+			"default": true
+		},
+		"hideGlowGameplayElements": {
+			"name": "Hide Glow from Gameplay Elements",
+			"description": "Hide glow from gameplay elements.\nMore specifically: jump orbs, speed portals, and jump pads.",
+			"type": "bool",
+			"default": false
+		},
+		"disableGradientTriggers": {
+			"name": "Hide Glow from Gradient Triggers",
+			"description": "[WINDOWS AND ANDROID ONLY]\nHide glow from gradient triggers.\n\nNot recommended unless if you know what you're doing.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

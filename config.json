@@ -1548,6 +1548,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.fuckglow": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
