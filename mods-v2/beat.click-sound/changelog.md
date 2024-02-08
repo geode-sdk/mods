@@ -1,4 +1,9 @@
 # Changelog
+## Version v1.3.3
+* Requirements: Geode v2.0.0-beta.16 / Node-IDs v1.3.0
+* Added an option to hide the settings button in the pause menu! -m-
+* 'SpaceUK' useful click sound added! (ty fazessz!)
+* 'Spectre' meme click sound added!
 ## Version v1.3.2
 * Updated required Geode version to v2.0.0-beta.15 (if you are below beta.14 on windows, you need to manually reinstall Geode.)
 * Developers are listed now.
