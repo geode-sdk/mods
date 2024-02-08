@@ -5,6 +5,42 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.6.1-beta.3] - 2024-02-07
+
+### Changed
+
+- No longer target any Node-IDs version because that's broken. Instead, target v1.3.0
+
+## [1.6.1-beta.2] - 2024-02-07
+
+### Changed
+
+- Actually target any Node-IDs version that matches or is greater than 1.3.0, previous version targeted v1.1.4
+
+## [1.6.1-beta.1] - 2024-02-07
+
+### Added
+
+- Auto pause option
+- Some IDs to layers that are modified
+
+### Changed
+
+- Target Geode 2.0.0-beta.16
+- Some `static_cast`s to `as`
+- CHANGELOG.md layout to "Added", "Changed" then "Fixed"
+- Target any Node-IDs version that matches or is greater than 1.3.0
+- Changed some for loops to getChildByID
+- Renamed RouletteManager::lastLevelID to currentLevelID
+- Renamed RouletteManager::lastLevelPercentage to currentLevelPercentage
+- Removed Node-IDs dependency in CMakeLists.txt
+- Removed RouletteManager::levelCreatorName
+- Renamed about.md to ABOUT.md
+
+### Fixed
+
+- Goal percentage appearing in a level that isn't the current roulette level
+
 ## [1.6.0-beta.4] - 2024-02-06
 
 ### Fixed
@@ -13,7 +49,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.6.0-beta.3] - 2024-02-04
 
-### Added
+### Changed
 
 - Geode 2.0.0-beta.15 support
 
