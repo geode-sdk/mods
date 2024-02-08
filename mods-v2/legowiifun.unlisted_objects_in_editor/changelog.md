@@ -1,3 +1,6 @@
+# v1.2.2
+ * Added another unlisted object: An early version of the end trigger that does not work
+
 # v1.2.1
  * Added another unlisted object: A weird looking block that uses a mishmash of textures
 
