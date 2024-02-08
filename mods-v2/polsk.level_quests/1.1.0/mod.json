@@ -1,0 +1,29 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": "2.204",
+	"version": "v1.1.0",
+	"id": "polsk.level_quests",
+	"name": "Level Quests",
+	"developer": "polsk",
+	"description": "Adds the Quests button onto the Level page.",
+	"resources": {
+        "sprites": [
+            "resources/challengeButton.png"
+        ]
+    },
+	"settings": {
+        "active": {
+            "name": "Enable Mod",
+            "description": "Decides whether the mod is active or not.",
+            "type": "bool",
+            "default": true
+        }
+    },
+	"dependencies": [
+		{
+		  "id": "geode.node-ids",
+		  "importance": "required",
+		  "version": ">=1.3.0"
+		}
+	  ]
+}
