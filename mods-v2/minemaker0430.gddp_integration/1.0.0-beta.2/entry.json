@@ -1,0 +1,12 @@
+{
+    "commit-author": "Minemaker0430",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Minemaker0430/GDDPIntegration/releases/download/v1-beta.2/minemaker0430.gddp_integration.geode",
+        "hash": "f002104a4fd5f2c95ed720f12da5d6510ae282084fde885c921c5685415f2d3a",
+        "hash256": "96232c62f0ba5380d3d372ebd832da6545a7c77470529913721dfc88e1717171"
+    },
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+	"geode": "v2.0.0-beta.16",
+	"gd": "2.204",
+	"version": "v1.0.0-beta.2",
+	"id": "minemaker0430.gddp_integration",
+	"name": "GDDP Integration",
+	"developer": "Minemaker0430",
+	"description": "Adds a new Menu for GDDP Progression",
+	
+	"resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.3.0",
+			"importance": "required"
+		}
+	],
+
+	"settings": {
+		"alt-button-texture": {
+			"name": "Alternate Button Texture",
+			"description": "Changes the menu button to something less nightmarish.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
