@@ -1,4 +1,6 @@
 # Jumpscare Changelog
+## v1.1.1
+- Fixed a bug where the game crashes when you die while playtesting in the editor
 ## v1.1.0
 - Added 2 new mod settings: 
     - Jumpscare after percentage
