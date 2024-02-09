@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.2.1",
+	"id": "elnexreal.copy_song_id",
+	"name": "Copy song ID",
+	"developer": "elnexreal",
+	"description": "Add the functionality to copy the song ID of a level just by clicking it.",
+	"incompatibilities": [
+		{
+			"id": "fleym.nongd",
+			"importance": "breaking",
+			"version": "*"
+		}
+	]
+}
