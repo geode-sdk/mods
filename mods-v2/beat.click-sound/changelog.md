@@ -1,4 +1,8 @@
 # Changelog
+## Version v1.4.0
+### * Mac support added! (not tested thoroughly, tysm firee!!! :3)
+* 'Npesta' useful click/release sound added!
+* Audio file picker fixes >w<
 ## Version v1.3.3
 * Requirements: Geode v2.0.0-beta.16 / Node-IDs v1.3.0
 * Added an option to hide the settings button in the pause menu! -m-

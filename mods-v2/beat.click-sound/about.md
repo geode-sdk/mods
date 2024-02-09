@@ -23,6 +23,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 13 - Up Arrow 3
 - 14 - Bloody Click/Release (randomized)
 - 15 - SpaceUK Click
+- 16 - Npesta Click/Release
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -54,6 +55,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 4 - Up Arrow Click/Release 1
 - 5 - Faze Click/Release (randomized)
 - 6 - Bloody Click/Release (randomized)
+- 7 - Npesta Click/Release
 ### Meme release sounds (negative number):
 - 1 - TikTok
 
