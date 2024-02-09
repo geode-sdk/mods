@@ -1,0 +1,19 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.3",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"early-load": true,
+	"id": "TheSillyDoggo.Cheats",
+	"name": "QOLMod",
+	"developer": "TheSillyDoggo",
+	"description": "Best Geode Android mod menu!",
+	"resources": {
+        "files": [
+            "resources/fonts/*.ttf",
+			"resources/*.png"
+        ]
+    }
+}
