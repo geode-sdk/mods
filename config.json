@@ -998,7 +998,8 @@
         "adyagd.godlikefaces": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.1.1"
             ]
         },
         "alphalaneous.happy_textures": {

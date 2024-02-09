@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.1",
+	"gd": "2.204",
+	"id": "adyagd.godlikefaces",
+	"name": "GodlikeFaces",
+	"developer": "AdyaGD",
+	"description": "Adds the Mythic Faces concept by robtop ingame\nUnofficial faces by @RobtopGemes on twitter!",
+	"resources": {
+        "spritesheets": {
+			"GodlikeDiffSheet": [
+				"resources/*.png"
+			]
+		}
+    }
+}
