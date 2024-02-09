@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": "2.204",
+	"version": "v1.1.1",
+	"id": "ekv.hidePauseMenuHack",
+	"name": "Hide pause menu hack",
+	"developer": "EKV",
+	"description": "Lets you hide the pause menu.",
+	"settings": {
+        	"x-pos": {
+            		"name": "X Position",
+            		"description": "set the x position of the button on the pause menu",
+           		"type": "int",
+			"min": 0,
+            		"max": 100,
+            		"default": 5
+        	},
+        	"y-pos": {
+            		"name": "Y Position",
+            		"description": "set the y position of the button on the pause menu",
+           		"type": "int",
+			"min": 0,
+            		"max": 100,
+            		"default": 10
+        	}
+	}
+}
