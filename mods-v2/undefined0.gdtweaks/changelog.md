@@ -1,4 +1,12 @@
 # GDTweaks Changelog
+## 1.7.1
+- Update to Node IDs v1.3.0
+- Fix issues with icon kit
+## 1.7.0
+- Added force background and force ground
+- Added remove exit button
+- Added a few more checks
+- Added align daily chest
 ## 1.6.2
 - Fixed a bunch of incompatibilities and added a warning
 ## 1.6.1

@@ -14,4 +14,4 @@ Miscellaneous things to change the game if you want, dunno really:
 - FIRE IN THE HOLE
 
 and more...
-(make sure to use that shiny settings button in the corner)
+(make sure to use that shiny green settings button in the corner)
