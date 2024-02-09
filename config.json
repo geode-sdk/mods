@@ -1585,6 +1585,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ninkaz.blending_glow": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }

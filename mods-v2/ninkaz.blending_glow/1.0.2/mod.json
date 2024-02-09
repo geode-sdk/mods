@@ -1,0 +1,13 @@
+{
+  "geode": "2.0.0",
+  "gd": {
+    "win": "2.204",
+    "android": "2.205"
+  },
+  "version": "v1.0.2",
+  "id": "ninkaz.blending_glow",
+  "name": "Blending Glow",
+  "developer": "NinKaz",
+  "description": "Makes player glow blending.",
+  "repository": "https://github.com/flurrybun/blending-glow"
+}
