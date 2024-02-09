@@ -1,0 +1,12 @@
+{
+    "commit-author": "ArkaneOnline",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ArkaneOnline/dl-team-icons/releases/download/v1.0.2/arkane.dl-team-icons.geode",
+        "hash": "e0462d1d8a43340169960060adc6fbb44d30890a90316e8e28f571e95cb08bff",
+        "hash256": "a842a4013493812d564f8831fef4071443592586f5883c4e425bcc6b696f5733"
+    },
+    "tags": []
+}
