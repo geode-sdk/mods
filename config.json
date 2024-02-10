@@ -1614,6 +1614,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "hjfod.betteredit": {
+            "verified": false,
+            "versions": [
+                "6.0.0"
+            ]
         }
     }
 }
