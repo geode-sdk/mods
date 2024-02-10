@@ -7,6 +7,8 @@ A custom Rich Presence mod for Geode.
 ### Just dont...
 Dont do it...
 
+(funny mode, adds unfunny jokes to the status)
+
 ### Sensitive info
 Reveals information such as un-uploaded level names.
 
