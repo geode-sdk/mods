@@ -1,4 +1,6 @@
 # Demons In Garage 2.2 Changelog
+## v1.1.3
+- Fixed Some Positioning Errors
 ## v1.1.2
 - Fixed Android32 Crash
 ## v1.1.1

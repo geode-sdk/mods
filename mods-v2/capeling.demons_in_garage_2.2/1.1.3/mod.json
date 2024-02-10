@@ -1,0 +1,20 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.3",
+	"id": "capeling.demons_in_garage_2.2",
+	"name": "Demons In Garage 2.2",
+	"developer": "Capeling",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.3.0",
+            "importance": "required"
+        }
+    ],
+	"repository": "https://github.com/Capeling/Demons-In-Garage-2.2",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"description": "Adds your demon count to the garage! Now for 2.2!"
+}
