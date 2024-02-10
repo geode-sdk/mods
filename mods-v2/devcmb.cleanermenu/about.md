@@ -25,6 +25,9 @@ Moves around the buttons for easier ease of access
 
 # Credits
 DevCmbGD - Programming + Final Logo
+
 NibblesGD - First revisions of the logo
+
 UCrash - UX Redesign of the GD menus (base for all changes)
+
 Cvolton + fleeym - Assistance in the discord server.

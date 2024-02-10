@@ -1,3 +1,6 @@
+# v2.0.1
+- Fixed the issue with the social buttons moving due to a new geode update
+
 # v2.0.0
 Introduced a bunch of new modifications
 
