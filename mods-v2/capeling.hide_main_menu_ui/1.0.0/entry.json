@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/Hide-Main-Menu-UI/releases/download/v1.0.0/capeling.hide_main_menu_ui.geode",
+        "hash": "b5f79ad188e7855b3f76bde89f743d2cff6b8be7325c4c3e441363bd1f40773c",
+        "hash256": "cc2d477c6317921d0116a747d0c01029f9723d4425642c66cf5da6689732ae44"
+    },
+    "tags": []
+}

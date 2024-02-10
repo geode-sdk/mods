@@ -1595,6 +1595,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "capeling.hide_main_menu_ui": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

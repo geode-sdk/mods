@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "capeling.hide_main_menu_ui",
+	"name": "Hide Main Menu UI",
+	"developer": "Capeling",
+	"description": "Adds a button to the main menu that hides the UI!",
+	"resources": {
+		"spritesheets": {
+			"EyeSheet": [
+				"resources/eye_closed.png",
+				"resources/eye_open.png"
+			]
+		}
+	}
+}
