@@ -1,4 +1,12 @@
 # Changelog
+## 1.2.2
+* same as 1.2.1
+## 1.2.1
+* Update Node IDs requirement
+* Update latest required Geode version (2.0.0-beta.17)
+* Add a default text to the setting, because of Geode version 2.0.0-beta.17 requiring one (default is `Custom Name`) 
+## 1.2.0
+* MAC SUPPORT
 ## 1.1.5
 * same stuff as 1.1.4
 ## 1.1.4
