@@ -1,4 +1,8 @@
 # Changelog
+## Version v1.4.1
+* 'Congregation Jumpscare' meme click sound added! (499/500 times is osu hit, 1/500 times is congregation jumspcare.)
+* 'Cursed' useful click sound added!
+* 'Beat' mod developer has been hit in the head with a brick and given irreversible brain damage! (ty double!)
 ## Version v1.4.0
 ### * Mac support added! (not tested thoroughly, tysm firee!!! :3)
 * 'Npesta' useful click/release sound added!

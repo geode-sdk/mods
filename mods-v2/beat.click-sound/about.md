@@ -24,6 +24,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 14 - Bloody Click/Release (randomized)
 - 15 - SpaceUK Click
 - 16 - Npesta Click/Release
+- 17 - Cursed Click
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -46,6 +47,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 19 - AUGHHH
 - 20 - Car Door Slam
 - 21 - Spectre / We Live We Love We Lie
+- 22 - Congregation Jumpscare (1/500 chance)
 ## Release sounds
 ### Useful release sounds:
 - 0 - Custom sound
@@ -65,6 +67,7 @@ Thank you so much to all of the people listed below for doing whatever they did 
 - [Viper](user:14284530) - Developer, helped me with android support :3
 - [Coop](user:21207551) - Developer, helped make coding the mod more efficient ^w^ 
 - [Uproxide](user:25397826) - Developer, helped with the developer badge system! OwO
+- Firee - Added mac support, thank you so much!
 - Sicariusblack - Helps with making some click sounds sound good!
 - aceofspadesss - Provided a ton of unique click sounds for the mod! >w<
 - kittykatspaugh - Emotional support
