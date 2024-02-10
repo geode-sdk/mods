@@ -1,0 +1,18 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": {
+		"win": "2.204"
+	},
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.3.0",
+            "importance": "required"
+        }
+    ],
+	"version": "v1.0.0",
+	"id": "capeling.colored_level_info_bg",
+	"name": "Coloured Level Page",
+	"developer": "Capeling",
+	"description": "Colours the level page based off of the level difficulty"
+}

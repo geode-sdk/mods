@@ -1,0 +1,12 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/colored-level-info-bg/releases/download/v1.0.0/capeling.colored_level_info_bg.geode",
+        "hash": "a994994f0af8b01358b47bbdcb795a066993919ae1d8af46f9ae767215d9ec77",
+        "hash256": "4dd0af1066b1c503b1bb24b051ade8a8d2a14e9cd06809c2b596de80f1d9cb8a"
+    },
+    "tags": []
+}
