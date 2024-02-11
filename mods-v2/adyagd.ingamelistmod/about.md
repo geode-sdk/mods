@@ -1,3 +1,3 @@
-# Template Mod
+# IngameListMod
 
-Edit about.md to change this
+Shows you the placement of levels in the demon list, platformer list and challenge list
