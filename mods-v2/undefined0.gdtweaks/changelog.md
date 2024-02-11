@@ -1,4 +1,7 @@
 # GDTweaks Changelog
+## 1.8.0
+- Added "Move daily chest to bottom right" (see issue #3)
+- Added the ability to move the profile to the bottom right
 ## 1.7.1
 - Update to Node IDs v1.3.0
 - Fix issues with icon kit
