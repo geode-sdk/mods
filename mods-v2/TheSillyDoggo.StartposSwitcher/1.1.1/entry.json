@@ -1,0 +1,12 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/Startpos-Switcher/releases/download/asdfsad/TheSillyDoggo.StartposSwitcher.geode",
+        "hash": "e7c6db571fcfd942f4330f0c775ad577f4f1ba6301118d3f4440b4e50c9f6de3",
+        "hash256": "b403500471c4af0352459a3fa389fa0bbc787fea432b0279af0cbdf1a6dbe0bf"
+    },
+    "tags": []
+}

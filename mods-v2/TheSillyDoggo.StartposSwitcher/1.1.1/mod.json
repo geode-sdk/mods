@@ -1,0 +1,20 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.1",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"id": "TheSillyDoggo.StartposSwitcher",
+	"name": "Startpos Switcher",
+	"developer": "TheSillyDoggo",
+	"description": "absolllute in shambles rn",
+	"settings": {
+        "show-ui": {
+            "name": "Show UI",
+            "description": "Show the UI?",
+            "type": "bool",
+            "default": true
+        }
+	}
+}
