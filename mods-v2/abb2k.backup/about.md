@@ -9,4 +9,4 @@ now you will never lose your save again! :D
 
 to use the auto backups you need to go to the settings, enable it and specify how many backups you allow to exist at a time.
 
-note that importing backups isnt working on android yet.
+note that importing backups isnt supported on android yet.

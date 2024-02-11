@@ -1,3 +1,7 @@
+# v1.0.5
+
+ * improved backup exporting and importing stuff (old exported backups will not works anymore) and removed exporting and importing backups from android, this might be supported in the future but idk
+
 # v1.0.4
 
  * fixed a small issue with android backup loading not working

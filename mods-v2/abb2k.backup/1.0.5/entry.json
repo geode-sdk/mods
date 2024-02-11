@@ -1,0 +1,14 @@
+{
+    "commit-author": "abb2k",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/abb2k/Backup/releases/download/Backup_v1.0.5/abb2k.backup.geode",
+        "hash": "cf83db864cc503c29e4251a5c6b90310dd331e434dcc49b0593d09a6045c18f7",
+        "hash256": "d1438d98f60e8fef256f0f5cfe477aefa3d1251e538b5abb024ffc2cbf27d05b"
+    },
+    "tags": []
+}

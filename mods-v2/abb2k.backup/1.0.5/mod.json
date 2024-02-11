@@ -1,0 +1,35 @@
+{
+	"geode": "v2.0.0",
+    "gd": {
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.0.5",
+	"id": "abb2k.backup",
+	"name": "Backup",
+	"developer": "abb2k",
+	"description": "a mod that allows you to easily backup your save file :D",
+
+	"settings": {
+		"Auto_Backup": {
+            "name": "Auto Backup",
+            "description": "Automatically backup the game.",
+            "type": "bool",
+			"default": false
+        },
+        "Max_Auto_Backups": {
+            "name": "Max Auto Backups",
+            "description": "How many backups the mod autosaves before starting to delete old ones for space.",
+            "type": "int",
+            "default": 1,
+			"min": 1,
+            "max": 10
+        },
+        "Button_In_Options_Menu": {
+            "name": "Button In Options Menu",
+            "description": "Moves the button of the mod to the settings menu.",
+            "type": "bool",
+            "default": false
+        }
+    }
+}
