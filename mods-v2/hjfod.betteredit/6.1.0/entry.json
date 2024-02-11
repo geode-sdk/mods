@@ -1,0 +1,14 @@
+{
+    "commit-author": "HJfod",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/HJfod/BetterEdit/releases/download/v6.1.0/hjfod.betteredit.geode",
+        "hash": "7a2bb0f7ad3aecbaf95a74529b58fe0b8a581aed31e2805e95cd0a943ba32450",
+        "hash256": "aa4075dedf4b3ba65a43509d044629d9209aca59df9d6b5f6e9050393a62b129"
+    },
+    "tags": []
+}
