@@ -1,4 +1,23 @@
 # Changelog
+## <cg>v4.0.0</c> (2024-02-12)
+* Fixed demon difficulty filtering in Filtered Search
+* Other bugfixes & improvements
+
+## <cg>v4.0.0-alpha.13</c> (2024-02-04)
+* Added Mac support
+* Fixed Extended Level Stats not working properly for old daily levels
+* Other bugfixes & improvements
+
+## <cg>v4.0.0-alpha.12</c> (2024-02-04)
+* Added a temporary bugfix for a Geode Loader bug
+
+## <cg>v4.0.0-alpha.11</c> (2024-02-03)
+* Minor bugfixes & improvements
+
+## <cg>v4.0.0-alpha.10</c> (2024-02-02)
+* Fixed Legendary & Mythic filters in BI Filtered Search
+* Other bugfixes & improvements
+
 ## <cg>v4.0.0-alpha.9</c> (2024-01-24)
 * Updated for changes in Geode v2.0.0-beta.8
 
