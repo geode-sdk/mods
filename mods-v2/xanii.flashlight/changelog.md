@@ -1,3 +1,8 @@
+# v1.0.3 Changelog
+
+* Added Opacity Slider
+* Added support for Android64 & Android32
+
 # v1.0.2 Changelog
 
 * Fixed bug with opacity not returning as float (dumb i know)
