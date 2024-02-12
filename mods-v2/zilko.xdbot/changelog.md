@@ -1,3 +1,19 @@
+# v1.4.0
+
+ * Added android support.
+ * Slightly improved respawn lag while recording.
+ * Changed the menu button sprite.
+ * Added discord button.
+
+# v1.3.10
+ 
+ * Fixed macros working different when loaded.
+
+# v1.3.9
+
+ * Fixed crash i think xd
+ * You can now add inputs to a macro by recording over it (again).
+
 # v1.3.8
 
  * Fixed occasional crash on restart again.
