@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/JunkHider/releases/download/v1.0.0/raydeeux.junkhider.geode",
+        "hash": "c500ad1e4d08517fc1115376e613c7044078f10da3628988068e9d2b60cb4f4e",
+        "hash256": "d77f2cf19139a6f6e0b417c53baa24334876a488a2c06416309d8e53f07f7ffc"
+    },
+    "tags": []
+}

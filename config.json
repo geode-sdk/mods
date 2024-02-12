@@ -1649,6 +1649,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.junkhider": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

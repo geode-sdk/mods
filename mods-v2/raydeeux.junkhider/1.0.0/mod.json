@@ -1,0 +1,77 @@
+{
+	"geode": "2.0.0-beta.14",
+	"gd": {
+        "mac": "2.200",
+        "ios": "2.205",
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.0.0",
+	"id": "raydeeux.junkhider",
+	"name": "JunkHider",
+	"developer": "RayDeeUx",
+	"description": "Hides specific UI elements across various GD menus that aren't worth hiding as standalone Geode mods.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.1.4",
+			"importance": "suggested"
+		}
+	],
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"hideLevelSelectJunk": {
+			"name": "Hide Level Select Junk",
+			"description": "Hides the dots, ground, and \"Download the Soundtrack\" text from the main level select menu.\nDOES NOT WORK ON MACOS.",
+			"type": "bool",
+			"default": true
+		},
+		"hideProfileHints": {
+			"name": "Hide Profile Hints",
+			"description": "Hides hints from user profiles.",
+			"type": "bool",
+			"default": true
+		},
+		"hideClearSearch": {
+			"name": "Hide Clear Search",
+			"description": "Hides the \"Clear Search\" button from the search bar.\nUseful for Android users whose muscle memory hasn't adjusted to 2.2 yet.",
+			"type": "bool",
+			"default": false
+		},
+		"hideHeaderSprites": {
+			"name": "Hide Header Sprites",
+			"description": "Hides header sprites from the Top Lists and Featured Level menus.",
+			"type": "bool",
+			"default": false
+		},
+		"hideDailyWeeklyTime": {
+			"name": "Hide Time from Daily/Weekly Level",
+			"description": "Hides the redundant countdown text for the next daily/weekly level after claiming the daily/weekly level bonus.\nREQUIRES GEODE TEAM'S \"NODE IDS\" MOD TO WORK.",
+			"type": "bool",
+			"default": false
+		},
+		"hideNG": {
+			"name": "Hide NG from Main Menu",
+			"description": "Disclaimer: For Windows users ONLY.\nDoes not remove this button; only hides it.",
+			"type": "bool",
+			"default": false
+		},
+		"hideAchievements": {
+			"name": "Hide Achievements from Main Menu",
+			"description": "Disclaimer: For Windows users ONLY.\nDoes not remove this button; only hides it.",
+			"type": "bool",
+			"default": false
+		},
+		"hideStats": {
+			"name": "Hide Stats from Main Menu",
+			"description": "Disclaimer: For Windows users ONLY.\nDoes not remove this button; only hides it.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
