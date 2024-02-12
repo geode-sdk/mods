@@ -1,9 +1,12 @@
 # Changelog
 
+## v1.5.1
+ - Fix not being able to hold from respawn in PlayLayer
+
 ## v1.5.0
 
  - Add editor save & load position keybinds
- - Fix a lot of the internal implementations of keybinds to just use GD's implementations, potentially fixing a bunch of inconsistensies in the editor
+ - Fix a lot of the internal implementations of keybinds to just use GD's implementations, potentially fixing a bunch of inconsistencies in the editor
 
 ## v1.4.0
  
