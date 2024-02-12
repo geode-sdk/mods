@@ -1,0 +1,14 @@
+{
+    "commit-author": "Khronophobia",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Khronophobia/More-Settings-Button/releases/download/v1.1.0/khronophobia.more_settings_button.geode",
+        "hash": "697a44af65b5c9a51c40acd9aabaa6731882943c78359910cf01b102b2a85f6b",
+        "hash256": "c3ed0dbabff2cdfdcd519a94a74311f1bd3aa694e529df4035429216b1ec4a27"
+    },
+    "tags": []
+}

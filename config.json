@@ -1655,6 +1655,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "khronophobia.more_settings_button": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }
