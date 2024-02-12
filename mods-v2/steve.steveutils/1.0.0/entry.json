@@ -1,0 +1,12 @@
+{
+    "commit-author": "SpazElectro",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/SpazElectro/gd_steveutils/releases/download/v1.0.0/steve.steveutils.geode",
+        "hash": "efe685387dd0931331bcd9fc67d293ff63e950f6db0bf8f28a90bb639e5acf19",
+        "hash256": "bd10f793869f6384ec2dd213d1e4aa0119c2662208d658fc0f8c8ef8d7a80c5a"
+    },
+    "tags": []
+}
