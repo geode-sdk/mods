@@ -1,3 +1,8 @@
+# 1.1.2
+
+ * New URL for IDs (Self Hosted, will update MUCH faster :rahhhhh:)
+ * New requirements (aka they're gone, only people who has useful contributations!)
+
 # 1.1.1
 
  * MacOS and Android Support
