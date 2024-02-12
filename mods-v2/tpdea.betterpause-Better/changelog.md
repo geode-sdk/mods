@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.5.5
+* Some bugs were fixed.
+* Added Disable Arrow Blink.
+
+## v1.5.4
+* Ported to 2.2
+* Adapted for mods that also modify PauseLayer (a little)
+* Will keep on adding things 
+
 ## v1.5.3
 * Added Future Dash Menu Pause
 * Added Comment Button

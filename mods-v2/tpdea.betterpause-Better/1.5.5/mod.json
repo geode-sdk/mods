@@ -1,0 +1,50 @@
+{
+  "geode": "2.0.0",
+  "gd": "2.204",
+  "version": "v1.5.5",
+  "id": "tpdea.betterpause-Better",
+  "name": "BetterPause",
+  "developer": "Tpdea",
+  "description": "A mod inspired by the collar server, an improvement for the geometry dash pause menu.",
+  "repository": "https://github.com/TpdeaX/BetterPause",
+  "issues": {
+    "info": "Report any issues you have on GitHub issues.",
+    "url": "https://github.com/TpdeaX/BetterPause/issues"
+  },
+  "early-load": false,
+  "settings": {
+    "level-editor-hack": {
+      "name": "Level Editor Hack",
+      "description": "I couldn't adapt the level edit recognition of the mods menus, sorry :(",
+      "type": "bool",
+      "default": true
+    },
+    "show-comment-button": {
+      "name": "Show Comment button",
+      "description": "Displays the level comments button, in general, in the level information and comments button.",
+      "type": "bool",
+      "default": false
+    },
+    "disable-arrow-blink": {
+      "name": "Disable Arrow Blink",
+      "description": "Disable Button List Arrow Blink.",
+      "type": "bool",
+      "default": false
+    }
+  },
+  "resources": {
+    "sprites": [
+      "resources/*.png"
+    ]
+  },
+  "tags": [
+    "Customization"
+  ],
+  "dependencies": [
+    {
+      "id": "geode.node-ids",
+      "version": ">=v1.3.0",
+      "importance": "required"
+    }
+  ]
+}
