@@ -1,4 +1,9 @@
 # Changelog
+## Version v1.4.3
+* Requirements: Geode v2.0.0-beta.17 / Node-IDs v1.3.0
+* 'Click Sound' is now 'Click Sounds'
+* .flac audio support added! (.ogg is still the best audio format to use for custom sounds.)
+* 'Joe Biden Soda' meme click sound added! :3
 ## Version v1.4.2
 * Requirements: Geode v2.0.0-beta.17 / Node-IDs v1.3.0
 * .m4a audio support added! (.ogg is still the best audio format to use for custom sounds.)

@@ -1,4 +1,4 @@
-# Click Sound
+# Click Sounds
 
 Plays a click sound whenever you press a jump button, or a release sound whenever you release a jump button if you want that too.
 If you want a new built-in click sound or feature to be added, join the [discord server](https://discord.gg/RwbRP8ADdc). <3
