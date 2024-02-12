@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.5.0
+
+ - Add editor save & load position keybinds
+ - Fix a lot of the internal implementations of keybinds to just use GD's implementations, potentially fixing a bunch of inconsistensies in the editor
+
+## v1.4.0
+ 
+ - Fix being able to reset levels during level end animation
+ - Remove editor half-move and big-move keybinds, since those are not in the vanilla game and as such should be implemented through mods instead
+
 ## v1.3.3
 
 - Fix editor keybinds
