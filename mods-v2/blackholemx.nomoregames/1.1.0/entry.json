@@ -1,0 +1,15 @@
+{
+    "commit-author": "BlackHoleMX12892",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/BlackHoleMX12892/NoMoreGames/releases/download/v1.1.0/blackholemx.nomoregames.geode",
+        "hash": "dba879028a8b57910a68c2a11c5e989863085e3e293ac495d5365569208a4981",
+        "hash256": "089f34d712355e719541c51ed7d0f31da7f87b37c3d52351038a146cf32e416f"
+    },
+    "tags": []
+}
