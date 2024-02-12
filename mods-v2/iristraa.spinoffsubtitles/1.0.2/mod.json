@@ -1,0 +1,53 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": "2.204",
+	"version": "v1.0.2",
+	"id": "iristraa.spinoffsubtitles",
+	"name": "SpinoffSubtitles",
+	"developer": "iristraa",
+	"description": "Adds spinoff subtexts to the main menu.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.3.0",
+			"importance": "required"
+		}
+	],
+	"resources": {
+		"sprites": [
+			"resources/gj_2point2Logo_001.png"
+		]
+	},
+	"settings": {
+		"subtext-lite": {
+			"name": "Lite Subtext",
+			"description": "Enables the \"Lite\" subtext, as seen in GD Lite.",
+			"type": "bool",
+			"default": false
+		},
+		"subtext-meltdown": {
+			"name": "Meltdown Subtext",
+			"description": "Enables the \"Meltdown\" subtext, as seen in GD Meltdown.",
+			"type": "bool",
+			"default": false
+		},
+		"subtext-world": {
+			"name": "World Subtext",
+			"description": "Enables the \"World\" subtext, as seen in GD World.",
+			"type": "bool",
+			"default": false
+		},
+		"subtext-subzero": {
+			"name": "SubZero Subtext",
+			"description": "Enables the \"SubZero\" subtext, as seen in GD SubZero.",
+			"type": "bool",
+			"default": false
+		},
+		"subtext-2point2": {
+			"name": "2.2 Subtext",
+			"description": "Enables the \"2.2\" subtext, as seen in the GD 2.2 trailer.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
