@@ -1638,6 +1638,12 @@
                 "6.1.0",
                 "6.1.1"
             ]
+        },
+        "elsai.pause_menu_zoom": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
