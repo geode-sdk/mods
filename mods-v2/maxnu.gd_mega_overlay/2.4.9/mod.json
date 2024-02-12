@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204"
+    },
+	"version": "v2.4.9",
+	"id": "maxnu.gd_mega_overlay",
+	"name": "GD Mega Overlay",
+	"developer": "maxnu & SpaghettDev",
+	"description": "Free, feature-rich, gui-integrated geometry dash mod menu",
+	"repository": "https://github.com/maxnut/GDMegaOverlay",
+	"resources": {
+		"files": [
+			"res/hacks/*.json",
+			"res/Style.style",
+			"res/arial.ttf",
+			"res/get_ffmpeg/*",
+			"res/default_windows.json"
+		]
+	}
+}
