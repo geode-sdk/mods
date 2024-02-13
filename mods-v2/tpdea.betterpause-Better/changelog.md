@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.6
+* Fixed some bugs such as crashes in the editor.
+* Buttons showing more objects in the list are now clickable.
+
 ## v1.5.5
 * Some bugs were fixed.
 * Added Disable Arrow Blink.
