@@ -1,0 +1,28 @@
+{
+	"geode": "2.0.0-beta.17",
+	"gd": {
+        "mac": "2.200",
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.0.0",
+	"id": "raydeeux.poofshowbutton",
+	"name": "PoofShowButton",
+	"developer": "RayDeeUx",
+	"description": "Hides the \"Show\" button on comments marked as spam.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.3.0",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

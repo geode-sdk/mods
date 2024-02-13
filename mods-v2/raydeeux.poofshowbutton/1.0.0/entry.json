@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/PoofShowButton/releases/download/v1.0.0/raydeeux.poofshowbutton.geode",
+        "hash": "e75dc1ace4982d5563de77cdb7ce82993ebad568a6b6ead40d124cbf763308e5",
+        "hash256": "7276e79ae2388ccbaa659b1996f44b0d28fe75c3d5c2ece840f9f24a47d0eb95"
+    },
+    "tags": []
+}

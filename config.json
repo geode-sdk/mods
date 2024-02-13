@@ -1690,6 +1690,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.poofshowbutton": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
