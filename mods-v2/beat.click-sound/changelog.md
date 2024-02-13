@@ -1,4 +1,9 @@
 # Changelog
+## Version v1.4.4
+* New Requirements: Geode v2.0.0-beta.19 / Node-IDs v1.4.0
+* 'Water on the hill' meme click sound added!
+* 'Viper Space Bar' useful click sound added! (ty viper!)
+* 'Click/Release 5' useful click sound added! (ty main!)
 ## Version v1.4.3
 * Requirements: Geode v2.0.0-beta.17 / Node-IDs v1.3.0
 * 'Click Sound' is now 'Click Sounds'
