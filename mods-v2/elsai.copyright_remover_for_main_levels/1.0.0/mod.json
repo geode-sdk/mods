@@ -1,0 +1,25 @@
+{
+	"geode": "2.0.0-beta.17",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "elsai.copyright_remover_for_main_levels",
+	"name": "Copyright remover for main levels",
+	"developer": "elSai",
+	"description": "Change the main songs to a piano version",
+	"settings": {
+		"no-copyright": {
+			"name": "No copyright",
+			"description": "Change the main level songs to piano version",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"resources": {
+		"files": [
+			"Assets/*.mp3"
+		]
+	}
+}

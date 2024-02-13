@@ -1682,6 +1682,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "elsai.copyright_remover_for_main_levels": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
