@@ -1,0 +1,67 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+        "mac": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.1",
+	"id": "redlime.statchanges",
+	"name": "Stat Changes",
+	"developer": "RedLime",
+	"description": "Displays changed stats during the specified period in the profile.",
+	"tags": [],
+	"repository": "https://github.com/RedLime/Stat-Changes-Geode",
+	"issues": {
+		"info": "GitHub",
+		"url": "https://github.com/RedLime/Stat-Changes-Geode"
+	},
+	"dependencies": [
+		{
+            "id": "geode.node-ids",
+            "version": ">=v1.1.3",
+            "importance": "required"
+        }
+	],
+	"resources": {
+        "sprites": [
+            "resources/sprites/*.png"
+        ]
+    },
+	"settings": {
+        "weeks": {
+            "name": "Time Weeks Ago",
+            "description": "Set compare stats to how many weeks ago.",
+            "type": "int",
+            "default": 2,
+            "min": 1,
+            "max": 4,
+			"control": {
+                "slider": false,
+				"arrows": true,
+				"arrow-step": 1
+			}
+        },
+        "textScale": {
+            "name": "Changed Stats Scale",
+            "type": "float",
+            "default": 0.8,
+            "min": 0.5,
+            "max": 1.0,
+            "control": {
+                "slider": true,
+				"slider-step": 0.1
+            }
+        },
+        "upArrowColor": {
+            "name": "Up-Arrow Color",
+            "type": "color",
+            "default": "00FF21"
+        },
+        "downArrowColor": {
+            "name": "Down-Arrow Color",
+            "type": "color",
+            "default": "FF0000"
+        }
+    }
+}
