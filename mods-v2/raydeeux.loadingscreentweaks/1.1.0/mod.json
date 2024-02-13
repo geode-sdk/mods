@@ -1,0 +1,40 @@
+{
+	"geode": "2.0.0-beta.17",
+	"gd": {
+        "mac": "2.200",
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.1.0",
+	"id": "raydeeux.loadingscreentweaks",
+	"name": "LoadingScreenTweaks",
+	"developer": "RayDeeUx",
+	"description": "Hides various elements of your choice from Geometry Dash's loading screen.",
+	"early-load": true,
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"hideCocosAndFmod": {
+			"name": "Hide Cocos/FMod Watermarks",
+			"description": "Hides the Cocos Engine and FMod watermarks.",
+			"type": "bool",
+			"default": true
+		},
+		"hideSplashText": {
+			"name": "Hide Splash Text",
+			"description": "Hides the golden splash text.",
+			"type": "bool",
+			"default": true
+		},
+		"hideProgressBar": {
+			"name": "Hide Progress Bar",
+			"description": "Hides the loading progress bar.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

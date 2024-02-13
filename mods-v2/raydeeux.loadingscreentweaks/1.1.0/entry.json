@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/LoadingScreenTweaks/releases/download/v1.1.0/raydeeux.loadingscreentweaks.geode",
+        "hash": "5ae66685ae6c768ca55a1774fbaf35c57004543fcb2d0f7eb8b4143fbcfbb624",
+        "hash256": "aa87d11e9a5e687589b8aeeeffb4f10208fea14e4b3c7a0761a35f30e8df734b"
+    },
+    "tags": []
+}
