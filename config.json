@@ -1617,7 +1617,8 @@
         "ninkaz.blending_glow": {
             "verified": false,
             "versions": [
-                "1.0.2"
+                "1.0.2",
+                "1.1.0"
             ]
         },
         "capeling.hide_main_menu_ui": {

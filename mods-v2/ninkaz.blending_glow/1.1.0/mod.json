@@ -1,0 +1,21 @@
+{
+  "geode": "2.0.0",
+  "gd": {
+    "win": "2.204",
+    "android": "2.205"
+  },
+  "version": "v1.1.0",
+  "id": "ninkaz.blending_glow",
+  "name": "Blending Glow",
+  "developer": "NinKaz",
+  "description": "Makes player glow blending.",
+  "repository": "https://github.com/flurrybun/blending-glow",
+  "settings": {
+    "brighter-glow": {
+      "name": "Brighter Glow",
+      "description": "Increases glow brightness by 1.5x to emulate the glow color pre-2.2.",
+      "type": "bool",
+      "default": false
+    }
+  }
+}
