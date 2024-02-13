@@ -1642,7 +1642,8 @@
         "blueblock6.cleanstartpos": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "hjfod.betteredit": {
