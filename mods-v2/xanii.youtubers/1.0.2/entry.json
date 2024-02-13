@@ -1,0 +1,15 @@
+{
+    "commit-author": "LXanii",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/LXanii/GD-YouTubers/releases/download/1.0.2/xanii.youtubers.geode",
+        "hash": "aa8ce5bf95c07033ca73f78bed25a2f70447fd9799165fac83df83c33d226f9b",
+        "hash256": "a6339e663f6b6039302c7c27c848bdbdfac5f55760a0b2de72da042b8ae986b6"
+    },
+    "tags": []
+}
