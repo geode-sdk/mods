@@ -1,0 +1,12 @@
+{
+    "commit-author": "LXanii",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/LXanii/Freaky-Mode/releases/download/1.0.0/xanii.freaky_mode.geode",
+        "hash": "936ea98f4e1c4e645b4ebd436da0248fa247cb05387906a904be3b5dd2caa166",
+        "hash256": "9076be47512167961fee0e74e4326ba52c568fe6636225a3c1d2dcef8442dd71"
+    },
+    "tags": []
+}

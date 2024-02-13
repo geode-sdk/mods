@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "xanii.freaky_mode",
+	"name": "FREAKY MODE",
+	"developer": "Xanii",
+	"description": ":tounge:",
+	"resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    }
+}

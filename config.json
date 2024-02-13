@@ -1699,6 +1699,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "xanii.freaky_mode": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
