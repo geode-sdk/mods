@@ -1710,6 +1710,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "cvolton.compact_lists": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

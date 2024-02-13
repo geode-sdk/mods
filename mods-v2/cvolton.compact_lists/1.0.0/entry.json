@@ -1,0 +1,15 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Cvolton/compactlists-geode/releases/download/v1.0.0/cvolton.compact_lists.geode",
+        "hash": "485bebffe9421d4798bb1496f01b36d66c6f42d412576256c52c34a95306d4c5",
+        "hash256": "af9eb5ce71c62a90d1904032051ec92aa164c002e5048a6a13fbf55f4c3e9d14"
+    },
+    "tags": []
+}
