@@ -1,3 +1,13 @@
+# v1.0.0-beta.3
+
+* Added Bonus & Monthly Packs (Will Be Available Later)
+* Modified Level Lists and Level Info for GDDP Packs/Levels
+* Added Progress Tracking
+* Added more config options
+* Custom Difficulty Faces will be added in the future when it's compatible with Grandpa Demon
+
+**Thank you guys for 7K Downloads <3**
+
 # v1.0.0-beta.2
 
 * Added Legacy Packs
