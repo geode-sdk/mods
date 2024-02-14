@@ -1,0 +1,14 @@
+{
+    "commit-author": "HJfod",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/HJfod/GMD-API/releases/download/v1.0.5/hjfod.gmd-api.geode",
+        "hash": "3419686d5984bb58584d7c6bb0edff83628c3793f1c6ebbfee65ad1bc02df360",
+        "hash256": "ad24081ee67a6a6ccc01680e88621771a0ee8d93d0f1edfb68227a45ef772a1d"
+    },
+    "tags": []
+}
