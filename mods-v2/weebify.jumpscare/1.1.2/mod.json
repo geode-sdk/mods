@@ -1,0 +1,41 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	},
+	"version": "v1.1.2",
+	"id": "weebify.jumpscare",
+	"name": "Jumpscare",
+	"developer": "Weebify",
+	"description": "Randomly jumpscares you when you die",
+	"resources": {
+		"files": [
+			"resources/background.png",
+			"resources/jumpscare.png",
+			"resources/jumpscareAudio.mp3"
+		]
+	},
+	"settings": {
+		"chance": {
+            "name": "Probability (%)",
+            "type": "float",
+            "default": 10,
+            "min": 0,
+            "max": 100
+		},
+		"from_percent": {
+			"name": "Jumpscare after (%)",
+			"type": "int",
+			"default": 10,
+			"min": 0,
+			"max": 99
+		},
+		"only_from_0": {
+			"name": "Only from 0%",
+			"type": "bool",
+			"description": "The jumpscare won't get triggered if you are in practice or testmode",
+			"default": false
+		}
+	}
+}
