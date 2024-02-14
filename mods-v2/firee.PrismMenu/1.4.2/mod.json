@@ -1,0 +1,45 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.4.2",
+	"gd": {
+		"win": "2.204",
+        "mac": "2.200",
+		"android": "2.205"
+    	},
+	"id": "firee.PrismMenu",
+	"name": "Prism Menu",
+	"developer": "Firee",
+	"description": "A cross-platform mod menu for Geode.",
+    	"early-load": true,
+    	"repository": "https://github.com/FireMario211/Prism-Menu",
+    	"resources": {
+		"files": [
+			"resources/icon.png",
+			"resources/Screenshot1.png",
+            "resources/checkmark.png",
+            "resources/checkmark-hd.png",
+            "resources/checkmark-uhd.png",
+            		"resources/Screenshot2.png",
+            		"resources/PrismMenu.otf",
+            		"resources/Hack-Regular.ttf",
+            		"resources/themes.json",
+            		"resources/hacks/README.md",
+            		"resources/hacks/*.json",
+            		"resources/langs/*.json"
+		],
+        "fonts": {
+            "PrismMenu": {
+                "path": "resources/PrismMenu.otf",
+                "size": 128,
+                "charset": "21-383,507-513,898-1500"
+            }
+        }
+	},
+    	"settings": {
+		"values": {
+			"name": "Hack Values",
+			"description": "NONE",
+			"type": "custom"
+		}
+	}
+}
