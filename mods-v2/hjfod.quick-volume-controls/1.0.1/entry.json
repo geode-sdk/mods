@@ -1,0 +1,12 @@
+{
+    "commit-author": "HJfod",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/HJfod/volume-scroll-wheel/releases/download/v1.0.1/hjfod.quick-volume-controls.geode",
+        "hash": "6d39d7c94271f63a381ada268a70402d9135a2b492e68cfe6893f3b0b87a0d70",
+        "hash256": "7a13f18f20e37948f32875f50c42d8f358edf692101853a4df52bece38759c83"
+    },
+    "tags": []
+}
