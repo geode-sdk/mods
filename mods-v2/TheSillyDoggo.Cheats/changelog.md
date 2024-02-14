@@ -1,3 +1,16 @@
+# 1.1.4
+
+- Added additional borders for npesta texture pack users
+- Fixed RobTop levels with the level edit fix
+- Added Force Object Visibility
+- Added No Glow
+- ~~Added Noclip Deaths and Noclip Accuracy~~ it's delayed because this shits annoying to fix
+- Added Alerts to the text bypasses to let the user know that they can crash
+- Added Instant Restart
+- Added Transition Customizer
+- Fixed Solid Wave Trail white being broken
+- Temporarily removed thicker hitboxes due to lag :(
+
 # 1.1.3
 
 - Fixed Level Edit breaking level page, for anyone who used this before the update: Press the ? button in the levels tab while in the broken level. Do this fast as the button WILL BE REMOVED IN THE FUTURE
