@@ -1728,6 +1728,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "hjfod.quick-volume-controls": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
