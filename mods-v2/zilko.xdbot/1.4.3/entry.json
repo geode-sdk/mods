@@ -1,0 +1,14 @@
+{
+    "commit-author": "ZiLko",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/ZiLko/xdBot/releases/download/v1.4.3/zilko.xdbot.geode",
+        "hash": "f6b99104d1f6672b0bdb826a4319a3747ba0faeb2840e67e83a080fd76b7ad61",
+        "hash256": "67d075f866c621b5f4a3b0b89aa60e2d07baad3b227ea383df2d8fddd58e7be6"
+    },
+    "tags": []
+}

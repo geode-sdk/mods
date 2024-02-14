@@ -1,3 +1,16 @@
+# v1.4.3
+
+ * Re-worked FPS selector.
+ * Fixed frame stepper buttons conflicting with platformer buttons on Android
+ * Fixed incompatibility with BetterPause.
+
+# v1.4.2
+
+ * Added FPS selector to both platforms. Higher FPS might make the game slow down on Android.
+ * Fixed not being able to hold at the beginning of an attempt on Android.
+ * Moved the disable button away from the advance frame one to prevent misclicks on Android.
+ * Removed size macro info because it was too cluttered.
+
 # v1.4.1
 
  * Fixed layering issues with labels and 2.2 shaders.
@@ -5,7 +18,7 @@
  * Fixed Vanilla macros not saving correctly.
  * Fixed Android buttons staying after completing a level.
  * Fixed spider teleport animation not showing on Android.
- 
+
 # v1.4.0
 
  * Added android support.
