@@ -1,0 +1,12 @@
+{
+    "commit-author": "TpdeaX",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TpdeaX/VolumeScrollWheel-Geode/releases/download/Release/tpdea.volume_scroll.geode",
+        "hash": "817c34f4230e067a68f872eb9380b917c696010b99fbe351f740be67433e1f04",
+        "hash256": "d10931ef2752537a568a7719751c4f090bb08ce8ed92bc7a4962801c2fe148ef"
+    },
+    "tags": []
+}

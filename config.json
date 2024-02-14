@@ -1719,6 +1719,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "tpdea.volume_scroll": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
