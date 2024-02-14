@@ -1,0 +1,14 @@
+{
+    "commit-author": "oatmealine",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/oatmealine/nlw-integration/releases/download/v1.3.1/oatmealine.nlw_integration.geode",
+        "hash": "b4f0c72b4cb72c131e436d24ea3beca802aec79df77d3c78fabeaf3b88678dc0",
+        "hash256": "6e79556683a094be9ebc11704546e4bcaaecf36e4c50f4a12875870e74763136"
+    },
+    "tags": []
+}
