@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "mat.reference-image",
+	"name": "Reference Image",
+	"developer": "mat",
+	"description": "An editor tool to display a reference image in the editor.",
+	"tags": ["Editor"],
+	"resources": {
+		"spritesheets": {
+			"EditorImageButton": [
+				"res/button.png"
+			]
+		}
+	},
+	"repository": "https://github.com/matcool/geode-mods"
+}

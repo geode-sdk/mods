@@ -1,0 +1,16 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/reference-image-v1.0.0/mat.reference-image.geode",
+        "hash": "fe751ef1710d3ad38ead307f4b623eea3eb962de1c6325e58494b7ecd64cf2ed",
+        "hash256": "1aa91dac5a8ae6f7d95a6611b331cc60142615fbc197963f53361a142ad2a04b"
+    },
+    "tags": [
+        "Editor"
+    ]
+}
