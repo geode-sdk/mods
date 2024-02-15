@@ -3,7 +3,7 @@
 Plays a click sound whenever you press a jump button, or a release sound whenever you release a jump button if you want that too.
 If you want a new built-in click sound or feature to be added, join the [discord server](https://discord.gg/RwbRP8ADdc). <3
 
-### Uses Geode v2.0.0-beta.17 and Node-IDs v1.3.0
+### Uses Geode v2.0.0-beta.19 and Node-IDs v1.4.0
 Open the mod settings to change the click sound. Set the click sound to '0' to use a custom click sound.
 ## Click sounds:
 ### Useful click sounds (positive number):
@@ -27,8 +27,10 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 17 - Cursed Click
 - 18 - Spacebar Click/Release
 - 19 - Click 3
-- 20 - Viper Spacebar (randomized) (releases too)
+- 20 - Viper Spacebar Click/Release (randomized)
 - 21 - Click/Release 5 (randomized)
+- 22 - Zoink Click
+- 23 - Screen Tap 1
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -65,7 +67,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 6 - Bloody Click/Release (randomized)
 - 7 - Npesta Click/Release
 - 8 - Spacebar Click/Release
-- 9 - Viper Spacebar Release (randomized)
+- 9 - Viper Spacebar Click/Release (randomized)
 - 10 - Click/Release 5 (randomized)
 ### Meme release sounds (negative number):
 - 1 - TikTok
