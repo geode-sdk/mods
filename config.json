@@ -1782,6 +1782,12 @@
             "versions": [
                 "1.0.3"
             ]
+        },
+        "bigmancozmo.hide_profile_button": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }

@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": "2.204",
+	"version": "v1.1.0",
+	"id": "bigmancozmo.hide_profile_button",
+	"name": "Hide Profile Button",
+	"developer": "Bigmancozmo",
+	"description": "Hides the profile button from the main menu",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Whether to hide the profile button or not.",
+			"default": true,
+			"type": "bool"
+		}
+	}
+}
