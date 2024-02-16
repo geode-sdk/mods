@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "tpdea.scroll_any_input",
+	"name": "Scroll Any Input",
+	"developer": "Tpdea",
+	"description": "GD Mod that allows you to use the scroll wheel on any numeric input"
+}

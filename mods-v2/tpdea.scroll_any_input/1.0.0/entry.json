@@ -1,0 +1,12 @@
+{
+    "commit-author": "TpdeaX",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TpdeaX/ScrollAnyInput-Geode/releases/download/Release/tpdea.scroll_any_input.geode",
+        "hash": "cce94b2e8e338bc6db28e1f42c59033f118f15b959db6d18c31eb6cec976ca99",
+        "hash256": "65cec62b266870c1f4d56249ef8233f8dfc895f3a7323f36550d6f9f65a480a7"
+    },
+    "tags": []
+}
