@@ -1,0 +1,12 @@
+{
+    "commit-author": "maxnut",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/maxnut/GDMegaOverlay/releases/download/2.5.1/maxnu.gd_mega_overlay.geode",
+        "hash": "4e681d582c114e7692b26a41619cd77727c3cd68e87044fcc43bd64d1e65089b",
+        "hash256": "f8f850bc60c2e8267bab19162195d0d04f7c2fd806faf34eb5d08b976699102c"
+    },
+    "tags": []
+}
