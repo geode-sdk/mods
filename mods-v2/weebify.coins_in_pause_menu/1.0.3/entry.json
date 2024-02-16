@@ -1,0 +1,14 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/coins-in-pause-menu-geode/releases/download/v1.0.3/weebify.coins_in_pause_menu.geode",
+        "hash": "a0d03858eb9bce53024530f97494ce0751cfde893335c6db0a6aab6a48816343",
+        "hash256": "f7fa56c39c685a9be47d0acd8d2cc76b68921174ec7ce92ed4a9f22109b3d197"
+    },
+    "tags": []
+}
