@@ -1,0 +1,12 @@
+{
+    "commit-author": "bwest1027",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/bwest1027/color-unlock/releases/download/v1.0.0/creo.color_unlock_hack.geode",
+        "hash": "93f8fd4c46a37b18d83e61da5e8f4dcc0be466f6b2fd30174736c4fa9d2d0e04",
+        "hash256": "0c890b0514f8077236f97f045b3e149b365689055ae475de240c2d677e0cb27d"
+    },
+    "tags": []
+}

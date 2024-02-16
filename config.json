@@ -1818,6 +1818,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "creo.color_unlock_hack": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
