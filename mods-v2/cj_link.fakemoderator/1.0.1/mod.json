@@ -1,0 +1,22 @@
+{
+	"geode": "2.0.0-beta.17",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "cj_link.fakemoderator",
+	"name": "FakeModerator",
+	"developers": [
+		"CJ_Link",
+		"Xanii"
+	],
+	"description": "Adds a fake moderator badge and a \"working\" send button",
+	"settings": {
+		"mod-type": {
+			"name": "Mod Type",
+			"description": "0 = No Mod, 1 = Moderator, 2 = Elder Moderator",
+			"type": "int",
+			"default": 1,
+			"min": 0,
+			"max": 2
+		}
+	}
+}

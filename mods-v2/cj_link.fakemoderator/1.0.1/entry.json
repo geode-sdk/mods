@@ -1,0 +1,12 @@
+{
+    "commit-author": "CJL1nk",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/CJL1nk/FakeModerator/releases/download/v1.0.1/cj_link.fakemoderator.geode",
+        "hash": "d373767eede2dba4bcb016ce6ded5daf75845bdcba5ccd2347b858b6ba3f797b",
+        "hash256": "a2de4a56c90ff5ccde21c1bd9993cad2d95489c5976b72c16b5efd811015f74e"
+    },
+    "tags": []
+}
