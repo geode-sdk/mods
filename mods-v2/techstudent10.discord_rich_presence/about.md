@@ -15,9 +15,9 @@ Reveals information such as un-uploaded level names.
 ### Show Timestamps
 Adds the "x:xx elapsed" part to your Discord status in supported areas (Playing and Creating).
 
----
+## Credits
 
-credits to
-- dank_meme for helping fix that one playtesting issue
-- firee/GDUtils for the base of the mod
+- Alphalaneous for the mod logo
+- dank_meme for helping fix an issue with playtesting
+- firee (from GDUtils) for the base of the mod (literally would've been impossible without you)
 - everyone in the GDP server and the Geode server for helping out with my incredibly nooby questions :D
