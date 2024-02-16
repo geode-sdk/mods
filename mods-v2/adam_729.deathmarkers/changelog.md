@@ -1,4 +1,6 @@
 ## Death Markers Changelog
+# v1.1.1
+- Fixed bug when markers are disabled in settings you get respawned twice ([issue #10](https://github.com/Bean0of/deathmarkers/issues/10))
 # v1.1.0
 - Respawn time now doesn't override options trigger respawn time (except for when  total marker time > options respawn time) ([issue #7](https://github.com/Bean0of/deathmarkers/issues/7))
 - Respawn time now isn't affected by the amount of markers on screen
