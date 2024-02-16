@@ -1,3 +1,8 @@
+# Version 1.0.3
+
+- Fixed bug with space in names
+- Added compatibility with Mod badge
+
 # Version 1.0.2
 
 - Added new logo
