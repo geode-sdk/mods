@@ -1,0 +1,35 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+        "mac": "2.200",
+        "ios": "2.205",
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.2.0",
+	"id": "raydeeux.hidepausebutton",
+	"name": "HidePauseButton",
+	"developer": "RayDeeUx",
+	"description": "Hides the pause button, even if \"Show Cursor In-Game\" is enabled.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.4.0",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"enabled": {
+			"name": "Toggle Mod",
+			"description": "Toggles this mod.",
+			"type": "bool",
+			"default": true
+		},
+		"unclickable": {
+			"name": "Make Unclickable",
+			"description": "Whether the pause button is clickable. Requires previous setting to be enabled. Only effective on the Steam version of GD.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
