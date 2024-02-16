@@ -1,0 +1,26 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.3.2",
+	"id": "bigmancozmo.hide_profile_button",
+	"name": "Hide Profile Button",
+	"developer": "Bigmancozmo",
+	"description": "Hides the profile button from the main menu",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Whether to hide the profile button or not.",
+			"default": true,
+			"type": "bool"
+		},
+		"name-only": {
+			"name": "Name Only",
+			"description": "Whether to *only* hide the username. Does not apply on profile.",
+			"default": false,
+			"type": "bool"
+		}
+	}
+}
