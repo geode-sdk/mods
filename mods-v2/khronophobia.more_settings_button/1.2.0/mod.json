@@ -1,0 +1,36 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.2.0",
+	"id": "khronophobia.more_settings_button",
+	"name": "More Settings Button",
+	"developer": "Khronophobia",
+	"description": "Adds the settings button to the custom level page.",
+	"repository": "https://github.com/Khronophobia/More-Settings-Button",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.1.3",
+			"importance": "required"
+		}
+	],
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"settings": {
+		"use-settings-rope": {
+			"name": "Settings rope in Custom Level Select",
+			"description": "Use the rope sprite in Custom Level Select like the Icon Kit button.",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"tags": [
+		"Convenience"
+	]
+}
