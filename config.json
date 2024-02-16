@@ -1824,6 +1824,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "creo.music_unlock_hack": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "commit-author": "bwest1027",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/bwest1027/music-unlock/releases/download/v1.0.0/creo.music_unlock_hack.geode",
+        "hash": "6efcea6071867517b87f0e86294df8193351807823f4062ff76c5be7acfeca7f",
+        "hash256": "c8a6b2b02713ca61a841eb876de00fe9b90dea5278a3d167d2ab30df3fd2df90"
+    },
+    "tags": []
+}
