@@ -1,0 +1,107 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.0",
+	"id": "adam_729.deathmarkers",
+	"name": "Death Markers",
+	"developer": "Adam_729",
+	"repository": "https://github.com/Bean0of/deathmarkers",
+	"description": "super mario maker like markers",
+	"issues": {
+		"url": "https://github.com/Bean0of/deathmarkers/issues",
+		"info": "Report bugs or suggest new features on the github repo"
+	},
+	"resources": {
+		"sprites": [
+			"resources/death-marker.png"
+		]
+	},
+	"settings": {
+		"enable-markers": {
+			"name": "Enable Death Markers",
+			"type": "bool",
+			"default": true
+		},
+		"pause-menu-options": {
+			"name": "Pause Menu Options Button (NODE IDS REQUIRED)",
+			"type": "bool",
+			"default": false
+		},
+		"show-classic": {
+			"name": "Enable in Classic Mode",
+			"type": "bool",
+			"default": true
+		},
+		"show-platformer": {
+			"name": "Enable in Platformer Mode",
+			"type": "bool",
+			"default": true
+		},
+		"show-normal": {
+			"name": "Enable in Normal",
+			"type": "bool",
+			"default": true
+		},
+		"show-practice": {
+			"name": "Enable in Practice",
+			"type": "bool",
+			"default": false
+		},
+		"show-testmode": {
+			"name": "Enable in Testmode",
+			"type": "bool",
+			"default": false
+		},
+		"animate-markers": {
+			"name": "Animate markers",
+			"type": "bool",
+			"default": true
+		},
+		"marker-time": {
+			"name": "Marker Duration",
+			"description": "Amount of time to show markers before respawning.",
+			"type": "float",
+			"default": 0.17,
+			"min": 0.0,
+			"max": 10.0,
+			"control": {
+				"slider": false,
+				"arrows": false
+			}
+		},
+		"marker-anim-time": {
+			"name": "Marker Animation Duration",
+			"description": "The time for all markers to animate in. (use \"Animate Markers\" setting to turn animation off)",
+			"type": "float",
+			"min": 0.1,
+			"default": 0.33,
+			"control": {
+				"slider": false,
+				"arrows": false
+			}
+		},
+		"marker-scale": {
+			"name": "Marker Scale",
+			"type": "float",
+			"default": 0.5,
+			"min": 0.1,
+			"control": {
+				"slider": false,
+				"arrows": false
+			}
+		},
+		"marker-scale-thisdeath": {
+			"name": "This Death Marker Scale Mult",
+			"type": "float",
+			"default": 1.6,
+			"min": 0.1,
+			"control": {
+				"slider": false,
+				"arrows": false
+			}
+		}
+	}
+}
