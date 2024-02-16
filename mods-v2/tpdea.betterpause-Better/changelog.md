@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.6.0
+
+* The mod icon has been changed (thanks RueOfficial :D)
+* More customization options have been added to the mod settings (Select quick settings, disable menu button arrows).
+* Now you can see the creator's name.
+* Improved the separation of external mod buttons in the button list (thanks Weebify :D)
+* Fixed the disabling of the pause menu button when Show Cursor In-Game is activated.
+* Fixed Practice Music Sync activating its toggle.
+* Fixed UI on screens that are not 16:9 (more or less).
+
 ## v1.5.6
 * Fixed some bugs such as crashes in the editor.
 * Buttons showing more objects in the list are now clickable.
