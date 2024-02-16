@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.12",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "naxrin.transparent",
+	"name": "Transparent BG/List",
+	"developer": "Naxrin",
+	"description": "\"A mod to remove the blue effect of background image.\"",
+	"repository":"https://github.com/Naxrin/Transparent-BG-Geode",
+	"dependencies": [
+			{
+				"id": "geode.node-ids",
+				"version": "v1.0.0"			
+			}
+
+	]
+}

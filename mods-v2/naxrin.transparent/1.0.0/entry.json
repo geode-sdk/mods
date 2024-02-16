@@ -1,0 +1,12 @@
+{
+    "commit-author": "Naxrin",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Naxrin/Transparent-BG-Geode/releases/download/stable/naxrin.transparent.geode",
+        "hash": "0249fcfd0a46a2610212f337b304403f6780acc0dda6f78a6560eacfe4c45fbb",
+        "hash256": "f043abb1b41c7dcb2e2a9c6923167272edf12929a5b062818c07fb0d88c5f93a"
+    },
+    "tags": []
+}

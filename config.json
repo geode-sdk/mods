@@ -1830,6 +1830,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "naxrin.transparent": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
