@@ -1,4 +1,9 @@
 # Changelog
+## Version v1.4.6
+* Requirements: Geode v2.0.0-beta.19 / Node-IDs v1.5.1
+* Volume of click sounds has increased! (0.5 -> 2) :3
+* 'Zoink' useful release sound added!
+* 'Zoink' useful click sound fixed!
 ## Version v1.4.5
 * Requirements: Geode v2.0.0-beta.19 / Node-IDs v1.4.0
 * Fix sizing of the settings button and developer badges.
