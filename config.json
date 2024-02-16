@@ -1788,6 +1788,12 @@
             "versions": [
                 "1.1.0"
             ]
+        },
+        "artoree.enhanced_menu": {
+            "verified": false,
+            "versions": [
+                "1.0.0-beta"
+            ]
         }
     }
 }
