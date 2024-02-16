@@ -1,4 +1,7 @@
 # Demons In Garage 2.2 Changelog
+## v1.1.4
+- Changed Demon Texture
+- Added ID's to the Label & Sprite
 ## v1.1.3
 - Fixed Some Positioning Errors
 ## v1.1.2
