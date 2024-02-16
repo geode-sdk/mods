@@ -1,3 +1,17 @@
+## v1.1.1
+
+* Add pages to the online level list (and fix some levels not appearing)
+* Add a Hide Nearby Players setting that allows you to make nearby players transparent
+* Fix some more network related issues (specifically keeping the TCP connection alive)
+* Fix huge lag related to packet limit & fragmentation
+* Fix huge lag when exiting a level
+* Fix some audio related issues
+* Fix the mute button not working immediately in platformer
+* Fix the cube icon being default in levels starting with a non-cube gamemode
+* Allow editing the server name even if the server is offline
+* Fix being able to quit/resume the level while having the user popup opened on the pause menu
+* Fix some lagspikes when recording audio
+
 ## v1.1.0
 
 Globed now uses a different networking protocol (hybrid TCP/UDP instead of just UDP). This should fix **many (but not all!) of the connection related issues**, such as players not loading in a level, or the player list popup taking an infinite amount of time to load.
