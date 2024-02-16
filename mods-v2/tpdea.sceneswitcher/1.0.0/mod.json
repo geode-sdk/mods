@@ -1,0 +1,84 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "tpdea.sceneswitcher",
+	"name": "SceneSwitcher",
+	"developer": "Tpdea",
+	"description": "An Alt + Tab System for GD.",
+
+	"dependencies": [
+		{
+			"id": "geode.custom-keybinds",
+			"version": ">=v1.2.3",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"transition-option": {
+			"name": "Transition Scene",
+			"description": "Change the transition to go to the scene in question (0 for no transition).",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 34,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"transition-speed-option": {
+			"name": "Transition Speed",
+			"description": "Change the transition speed to go to the scene in question (0 for no transition).",
+			"type": "float",
+			"default": 0.5,
+			"min": 0.0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"animation-option": {
+			"name": "Enable Animation Hover",
+			"description": "Enhances buttons with dynamic animations when hovered over.",
+			"type": "bool",
+			"default": true
+		},
+		"animation-speed-option": {
+			"name": "Animation Speed",
+			"description": "Adjusts the speed of dynamic animations applied to buttons when hovered over.",
+			"type": "int",
+			"default": 5,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"size-buttons": {
+			"name": "Size",
+			"description": "Adjusts the dimensions of buttons. Control the size of buttons according to your preference.",
+			"type": "float",
+			"default": 80.0,
+			"min": 10.0,
+			"max": 500.0,
+			"control": {
+				"slider-step": 5,
+				"arrows": true
+			}
+		},
+		"spacing-buttons": {
+			"name": "Spacing",
+			"description": "Controls the distance between buttons. Customize the spacing between buttons to achieve the desired layout.",
+			"type": "float",
+			"default": 90.0,
+			"min": 10.0,
+			"max": 600.0,
+			"control": {
+				"slider-step": 5,
+				"arrows": true
+			}
+		}
+	}
+	
+}

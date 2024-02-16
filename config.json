@@ -1800,6 +1800,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "tpdea.sceneswitcher": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
