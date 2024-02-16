@@ -1,0 +1,14 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/AutoCheckpoint/releases/download/v1.0.0/undefined0.autocheckpoint.geode",
+        "hash": "7221e1814c7a10b682de7a1d80fca709697f7d1b2b5ce29fe920a598a94bebad",
+        "hash256": "af2365907d540869e7d3b78ee4374dbed0114feed02dcb1b3d21e51bf5ce6805"
+    },
+    "tags": []
+}

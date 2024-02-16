@@ -1812,6 +1812,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "undefined0.autocheckpoint": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
