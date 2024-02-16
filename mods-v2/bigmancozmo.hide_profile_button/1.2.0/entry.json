@@ -1,0 +1,12 @@
+{
+    "commit-author": "Bigmancozmo",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Bigmancozmo/Hide-Profile-Button/releases/download/v1.2.0/bigmancozmo.hide_profile_button.geode",
+        "hash": "11439cef28af2b47ab99aedecd7043ea910af0dc1fc033f199dd4106aea8c246",
+        "hash256": "8fd7d4e6572dfa5c9ed9049f5663fad3fad89e1752a9f1b1c1a48efb27bd0ca7"
+    },
+    "tags": []
+}

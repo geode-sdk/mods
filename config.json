@@ -1786,7 +1786,8 @@
         "bigmancozmo.hide_profile_button": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.2.0"
             ]
         },
         "artoree.enhanced_menu": {
