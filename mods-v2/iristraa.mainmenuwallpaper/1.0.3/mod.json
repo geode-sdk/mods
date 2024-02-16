@@ -1,0 +1,35 @@
+{
+	"geode": "2.0.0-beta.17",
+	"gd": "2.204",
+	"version": "v1.0.3",
+	"id": "iristraa.mainmenuwallpaper",
+	"name": "MainMenuWallpaper",
+	"developer": "iristraa",
+	"description": "Sets a wallpaper for MenuLayer.",
+	"resources": {
+		"sprites": [
+			"resources/wallpaper.png"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.texture-loader",
+			"version": ">=v1.5.0",
+			"importance": "recommended"
+		}
+	],
+	"settings": {
+		"wallpaper-fit-type": {
+			"name": "Wallpaper fit type",
+			"description": "Determines the wallpaper fit type.\n\n1: Fill\n2: Fit\n3: Stretch\n4: Center",
+			"type": "int",
+			"default": 3,
+			"min": 1,
+			"max": 4,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		}
+	}
+}

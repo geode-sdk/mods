@@ -1776,6 +1776,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "iristraa.mainmenuwallpaper": {
+            "verified": false,
+            "versions": [
+                "1.0.3"
+            ]
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "commit-author": "iristraa",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/iristraa/MainMenuWallpaper/releases/download/v1.0.3/iristraa.mainmenuwallpaper.geode",
+        "hash": "e61a2f2671b62070596df4b0dfaa3fcb20ec77571bcaab953fac79ccbb355efa",
+        "hash256": "def42e606afa1f28dbd797b653e287db22c8987a5e6ccd15a17edc263a3fdd0c"
+    },
+    "tags": []
+}
