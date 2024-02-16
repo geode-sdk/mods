@@ -1,3 +1,7 @@
+## v1.3.2
+
+- The mod works now lmao
+
 ## v1.3.1
 
 Based on `oatmealine.nlw_integration` v1.3.1:
