@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.0.1",
+	"id": "asaki_zuki.same_dual_color",
+	"name": "Same Dual Color",
+	"developer": "Asaki Zuki",
+	"repository": "https://github.com/asakizuki/Same-Dual-Color",
+	"description": "Make the colors of two players the same in level and editor"
+}

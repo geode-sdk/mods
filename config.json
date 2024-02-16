@@ -1317,7 +1317,8 @@
         "asaki_zuki.same_dual_color": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "weebify.coins_in_pause_menu": {
