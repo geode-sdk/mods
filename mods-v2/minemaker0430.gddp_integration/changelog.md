@@ -1,3 +1,13 @@
+# v1.0.0-beta.5
+
+* Fixed Progression not letting you advance even though you have the required levels
+
+# v1.0.0-beta.4
+
+* Fixed Mobile UI
+* Added a new Bonus Pack
+* Fixed List Disappearing after exiting a Level
+
 # v1.0.0-beta.3
 
 * Added Bonus & Monthly Packs (Will Be Available Later)

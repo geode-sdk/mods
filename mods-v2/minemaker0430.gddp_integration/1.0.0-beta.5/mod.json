@@ -1,0 +1,53 @@
+{
+		"geode": "v2.0.0-beta.19",
+		"gd": {
+			"win": "2.204",
+			"android": "2.205"
+		},
+		"version": "v1.0.0-beta.5",
+		"id": "minemaker0430.gddp_integration",
+		"name": "GDDP Integration",
+		"developer": "Minemaker0430",
+		"description": "Adds a new Menu for GDDP Progression",
+
+		"resources": {
+			"sprites": [
+				"resources/*.png"
+			]
+		},
+
+		"dependencies": [
+			{
+				"id": "geode.node-ids",
+				"version": ">=v1.4.0",
+				"importance": "required"
+			}
+		],
+
+		"settings": {
+			"alt-button-texture": {
+				"name": "Alternate Button Texture",
+				"description": "Changes the menu button to something less nightmarish.",
+				"type": "bool",
+				"default": false
+			},
+			"restore-bg-color": {
+				"name": "Vanilla Background Color",
+				"description": "Changes the background color in the GDDP Menus to the Vanilla Color.",
+				"type": "bool",
+				"default": false
+			},
+			"unlock-all-tiers": {
+				"name": "Unlock All Tiers",
+				"description": "Disables the Locked Tiers so you can Jump Difficulties to your heart's content.",
+				"type": "bool",
+				"default": false
+			},
+			"show-database-version": {
+				"name": "Show Database Version",
+				"description": "Shows what version of the database you're currently on.",
+				"type": "bool",
+				"default": false
+			}
+		}
+	}
