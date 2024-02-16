@@ -1717,7 +1717,8 @@
         "iristraa.spinoffsubtitles": {
             "verified": false,
             "versions": [
-                "1.0.2"
+                "1.0.2",
+                "1.1.0"
             ]
         },
         "elsai.copyright_remover_for_main_levels": {

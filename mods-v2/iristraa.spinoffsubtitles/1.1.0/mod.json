@@ -1,0 +1,53 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": "2.204",
+	"version": "v1.1.0",
+	"id": "iristraa.spinoffsubtitles",
+	"name": "SpinoffSubtitles",
+	"developer": "iristraa",
+	"description": "Adds spinoff subtexts to the main menu.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.3.0",
+			"importance": "required"
+		}
+	],
+	"resources": {
+		"sprites": [
+			"resources/gj_2point2Logo_001.png"
+		]
+	},
+	"settings": {
+		"subtext-type": {
+			"name": "Set Subtext",
+			"description": "Sets the game's subtext.\n\n0: None\n1: Lite\n2: Meltdown\n3: World\n4: SubZero\n5: 2.2",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 5,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"full-ver-btn": {
+			"name": "Full Version button",
+			"description": "Replaces the Editor button with the \"Full Version\" button.",
+			"type": "bool",
+			"default": false
+		},
+		"free-chest-btn": {
+			"name": "Free Chest button",
+			"description": "Replaces the Daily Chest button with the Free Chest button.",
+			"type": "bool",
+			"default": false
+		},
+		"free-lvls-btn": {
+			"name": "Free Levels button",
+			"description": "Replaces the \"More Games\" button with the \"Free Levels\" button.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
