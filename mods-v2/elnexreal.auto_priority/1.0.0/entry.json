@@ -1,0 +1,12 @@
+{
+    "commit-author": "elnexreal",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/elnexreal/autoSetPriority/releases/download/1.0.0/elnexreal.auto_priority.geode",
+        "hash": "7c95290f17ec577d5275f7c58e1eb733beaecae306fc61ae25e03bbf01d38781",
+        "hash256": "f396ef2e7fd95ac3a86aa2693ebe36c12dd37e83fdc521ad712d380d32c867d5"
+    },
+    "tags": []
+}
