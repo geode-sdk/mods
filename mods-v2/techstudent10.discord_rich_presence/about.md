@@ -17,7 +17,7 @@ Adds the "x:xx elapsed" part to your Discord status in supported areas (Playing 
 
 ## Credits
 
-- Alphalaneous for the mod logo
+- Firee for the mod logo
 - dank_meme for helping fix an issue with playtesting
-- firee (from GDUtils) for the base of the mod (literally would've been impossible without you)
-- everyone in the GDP server and the Geode server for helping out with my incredibly nooby questions :D
+- GDUtils for the base of the mod (literally would've been impossible without)
+- Everyone in the GDP server and the Geode server for helping out with my incredibly nooby questions :D
