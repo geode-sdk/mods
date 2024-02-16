@@ -1,3 +1,9 @@
+# v1.1.0
+- The search menu has been replaced by a much better one that allows the user to take full advantage of the GDDL API
+- Results in the GDDL Demon Split displayed in the level list after clicking a tier are now accurate according to the data in the GDDL API (that's why the numbers might not match, as the counts are generated using local cache)
+- The GDDL Search button can be now moved down (look in settings)
+- The GDDL Tier button on the level info page can be replaced again with a label, and it can be moved down (although it might overlap with the diamonds label in gauntlets and weeklies)
+
 # v1.0.5
 - Added an option to search for levels by tier
 - You can find that in the search menu, there's a GDDL button located on the right side

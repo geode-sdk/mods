@@ -1,0 +1,79 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.0",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"id": "b1rtek.gddlintegration",
+	"name": "GDDL Integration",
+	"developer": "B1rtek",
+	"description": "Displays GDDL tiers of demons along with enjoyment ratings",
+	"repository": "https://github.com/B1rtek/Geode-GDDLIntegration",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.1.4",
+			"importance": "required"
+		}
+	],
+	"issues": {
+		"info": "You can submit an <cr>bug report</c>/<cj>feature request</c> directly to the mod's repo here",
+		"url": "https://github.com/B1rtek/Geode-GDDLIntegration/issues/new/choose"
+	},
+	"resources": {
+		"sprites": [
+			"resources/tier.png",
+			"resources/split.png",
+			"resources/search.png",
+			"resources/tiers/*.png"
+		]
+	},
+	"settings": {
+		"move-button-to-level-name": {
+			"name": "Move tier button to level name",
+			"description": "By default, the tier button is situated to the left of the demon face, if this is toggled on it'll be moved right to the level name.",
+			"type": "bool",
+			"default": false
+		},
+		"pos-next-to-level-name": {
+			"name": "Position of the button next to the level name",
+			"description": "According to the slider position (on the left or the right side of the level name), works only if the setting above is ticked.",
+			"type": "int",
+			"default": 1,
+			"min": -1,
+			"max": 1,
+			"control": {
+				"slider": true
+			}
+		},
+		"move-gddl-search-button-down": {
+			"name": "Move GDDL Search button down",
+			"description": "Moves the GDDL Search button down a set number of spots, useful if you have Loquibot or other mods that also place buttons in the search menu which can result in buttons overlapping",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 3,
+			"control": {
+				"slider": true
+			}
+		},
+		"legacy-gddl-tier-label": {
+			"name": "Old GDDL Tier label",
+			"description": "Changes the tier button on the level info page into a clickable label, just like it used to be in the early versions of this mod",
+			"type": "bool",
+			"default": false
+		},
+		"legacy-gddl-tier-offset": {
+			"name": "Old GDDL Tier label offset",
+			"description": "Moves the old tier label down by the specified number of lines, useful if it collides with other objects placed in the same area, -1 puts it above the demon face",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 3,
+			"control": {
+				"slider": true
+			}
+		}
+	}
+}
