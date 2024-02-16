@@ -1,0 +1,110 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204",
+		"macos": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "raydeeux.moveaudiovisualizer",
+	"name": "MoveAudioVisualizer",
+	"developer": "RayDeeUx",
+	"description": "Moves the Audio Visualizer towards the bottom of the screen, or to a position of your choice.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.4.0",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"playLayer": {
+			"name": "Apply changes to Play Layer",
+			"description": "Applies all of the below changes to the Play Layer, where you play(test)/complete levels.",
+			"type": "bool",
+			"default": true
+		},
+		"editorLayer": {
+			"name": "Apply changes to Editor Layer",
+			"description": "Applies all of the below changes to the Editor Layer, where you build/edit levels.",
+			"type": "bool",
+			"default": true
+		},
+		"raydeeuxMode": {
+			"name": "RayDeeUx Mode",
+			"description": "Sets the positions, rotations, and scales of the Music and SFX Visualizers to the developer (RayDeeUx)'s preferences, so that you don't need to tweak the numbers so often.\n\nEnabling this setting WILL override whatever values you have set for all of the following settings.",
+			"type": "bool",
+			"default": true
+		},
+		"musicPositionX": {
+			"name": "Music Visualizer X Position",
+			"description": "Sets the X positon of your Music visualizer.",
+			"type": "int",
+			"default": 425,
+			"min": 5,
+			"max": 1000
+		},
+		"musicPositionY": {
+			"name": "Music Visualizer Y Position",
+			"description": "Sets the Y positon of your Music visualizer.",
+			"type": "int",
+			"default": 15,
+			"min": 5,
+			"max": 1000
+		},
+		"musicScale": {
+			"name": "Music Visualizer Scale",
+			"description": "Sets the scale of your Music visualizer.",
+			"type": "float",
+			"default": 1,
+			"min": 0.01,
+			"max": 1
+		},
+		"musicRotation": {
+			"name": "Music Visualizer Rotation",
+			"description": "Sets the rotation of your Music visualizer.",
+			"type": "int",
+			"default": 270,
+			"min": 0,
+			"max": 360
+		},
+		"sfxPositionX": {
+			"name": "SFX Visualizer X Position",
+			"description": "Sets the X positon of your SFX visualizer.",
+			"type": "int",
+			"default": 5,
+			"min": 5,
+			"max": 1000
+		},
+		"sfxPositionY": {
+			"name": "SFX Visualizer Y Position",
+			"description": "Sets the Y positon of your SFX visualizer.",
+			"type": "int",
+			"default": 20,
+			"min": 5,
+			"max": 1000
+		},
+		"sfxScale": {
+			"name": "SFX Visualizer Scale",
+			"description": "Sets the scale of your SFX visualizer.",
+			"type": "float",
+			"default": 1,
+			"min": 0.01,
+			"max": 1
+		},
+		"sfxRotation": {
+			"name": "SFX Visualizer Rotation",
+			"description": "Sets the rotation of your SFX visualizer.",
+			"type": "int",
+			"default": 90,
+			"min": 0,
+			"max": 360
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/MoveAudioVisualizer/releases/download/v1.0.0/raydeeux.moveaudiovisualizer.geode",
+        "hash": "d5f45d61384b3e509e1fa476d105748348084757a7962278ac6092c5ccd50289",
+        "hash256": "f7ef5704a9d6d846c6623d923bbc10d22d8dab9c26c8f438bd405eaa7451d7d7"
+    },
+    "tags": []
+}
