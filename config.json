@@ -1744,7 +1744,8 @@
         "elsai.copyright_remover_for_main_levels": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "raydeeux.poofshowbutton": {
