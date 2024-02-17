@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.1",
+	"id": "relative.mininextfree",
+	"name": "miniNextFree",
+	"developer": "relative",
+	"description": "",
+	"gd": {
+		"win": "*",
+		"android": "*"
+	}
+}
