@@ -1,0 +1,23 @@
+{
+    "geode": "2.0.0-beta.17",
+    "gd": "2.204",
+    "version": "v1.1.0",
+    "id": "hiimjustin000.integrated_demonlist",
+    "name": "Integrated Demonlist",
+    "developer": "hiimjustin000",
+    "description": "A mod that integrates a list of the top extreme demons, according to aredl.net, into Geometry Dash.",
+    "repository": "https://github.com/hiimjustin000/IntegratedDemonlist",
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+    "settings": {
+        "white-rank": {
+            "name": "White Demon Ranking Text",
+            "description": "Whether or not to display the demon ranking text in white.",
+            "type": "bool",
+            "default": false
+        }
+    }
+}
