@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "thesillydoggo.dialogue_handler",
+	"name": "Dialogue Handler 2.2",
+	"developer": "TheSillyDoggo",
+	"description": "the mod used to make the shopkeepers say gay stuff to each other"
+}

@@ -1858,6 +1858,12 @@
             "versions": [
                 "1.2.0"
             ]
+        },
+        "thesillydoggo.dialogue_handler": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

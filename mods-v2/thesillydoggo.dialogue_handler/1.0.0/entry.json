@@ -1,0 +1,12 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/Dialogue-Handler/releases/download/v1.0.0/thesillydoggo.dialogue_handler.geode",
+        "hash": "aa15f010a4432d92847b3056ba07b32eced12157217189f0da3e3dab6fa93a43",
+        "hash256": "ac5aa046e71dcd3c75cc9ef9155a72f6f19dcaa38bbd7e03068e9a3ee2095bac"
+    },
+    "tags": []
+}
