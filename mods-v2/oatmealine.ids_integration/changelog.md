@@ -1,3 +1,11 @@
+## v1.3.3
+
+Based on `oatmealine.nlw_integration` v1.3.2:
+
+- Send a user agent for requests
+  - **In the future, requests before v1.3.2 may become blocked by `nlw-api`.**
+- Update icon
+
 ## v1.3.2
 
 - The mod works now lmao
