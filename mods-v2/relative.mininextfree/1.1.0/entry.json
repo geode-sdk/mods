@@ -1,0 +1,14 @@
+{
+    "commit-author": "relativemodder",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/miniNextFree/releases/download/noway/relative.mininextfree.geode",
+        "hash": "a72ab286f28fd07e85bdae087f1bb90a1b7705ec2bc5dabe2b5f78e1690f2905",
+        "hash256": "a0770c64deb99eff386d58d41e73db12b7cafbb7d14dac18479c0f95e5f98f1d"
+    },
+    "tags": []
+}
