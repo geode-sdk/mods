@@ -1,4 +1,6 @@
 ## Death Markers Changelog
+# v1.1.2
+- Fixed ANOTHER bug where you get respawned twice ([issue #11](https://github.com/Bean0of/deathmarkers/issues/11))
 # v1.1.1
 - Fixed bug when markers are disabled in settings you get respawned twice ([issue #10](https://github.com/Bean0of/deathmarkers/issues/10))
 # v1.1.0

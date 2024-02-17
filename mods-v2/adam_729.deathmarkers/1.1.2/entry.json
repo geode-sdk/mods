@@ -1,0 +1,14 @@
+{
+    "commit-author": "Bean0of",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Bean0of/deathmarkers/releases/download/v1.1.2/adam_729.deathmarkers.geode",
+        "hash": "1d885c20b77b6d5e5001c291c46b8cd69a85ce0eec37a6f62b0ea31f363c11eb",
+        "hash256": "73b408ca4fcb5e67559db00eb26488ff9ebf7bcdaa8538896e205a9dd4a3c9b5"
+    },
+    "tags": []
+}
