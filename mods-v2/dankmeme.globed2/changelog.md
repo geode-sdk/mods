@@ -1,3 +1,13 @@
+## v1.1.2
+
+* Add player searching in the player list menu
+* Fix lag when activating voice chat
+* Fix rare audio crashes caused by data races
+* Fix crash when changing the Position setting
+* Fix crash when editing a central server
+* Fix robot fire sometimes randomly appearing in a level
+* Fix login failed issue when changing the url of a server
+
 ## v1.1.1
 
 * Add pages to the online level list (and fix some levels not appearing)
@@ -11,6 +21,7 @@
 * Allow editing the server name even if the server is offline
 * Fix being able to quit/resume the level while having the user popup opened on the pause menu
 * Fix some lagspikes when recording audio
+* Fix crash when connecting to an invalid server
 
 ## v1.1.0
 
