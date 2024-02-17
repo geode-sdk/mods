@@ -1421,7 +1421,8 @@
             "versions": [
                 "1.0.0",
                 "1.0.1",
-                "1.0.2"
+                "1.0.2",
+                "1.1.1"
             ]
         },
         "itzkiba.formatted_platformer_time": {

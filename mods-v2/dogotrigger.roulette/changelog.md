@@ -1,3 +1,20 @@
+# v1.1.1
+## Gameplay Changes
+ * Fixed Horror event
+
+# v1.1.0
+**QoL changes and additions for GD YouTubers.**
+## Gameplay Changes
+ * Fixed Cursor bug
+ * Fixed `Giant Cube` event
+ * Added new events: `Lobotomy` and `Horror`
+ * New setting has been added: `Soft Enable`
+## Techincal Changes
+ * `Close the Game` has been renamed to `Close Game` temporarily
+## Mod Description Changes
+ * Additional Events definition has been added
+ * Changelog has been moved from `about.md` into `README.md`
+
 # v1.0.2
 ## Gameplay Changes
  * For stopping Roulette a button is now used instead of pressing Enter key
