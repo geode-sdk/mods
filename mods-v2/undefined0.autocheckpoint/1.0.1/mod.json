@@ -1,0 +1,80 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "undefined0.autocheckpoint",
+	"name": "AutoCheckpoint",
+	"developer": "undefined0",
+	"description": "You'll never need to touch Z again!",
+	"tags": [ "gameplay", "enhancement" ],
+	"incompatibilities": [
+		{
+			"id": "spaghettdev.gd-roulette",
+			"version": ">=1.6.2",
+			"importance": "breaking"
+		}
+	],
+	"settings": {
+		"min-delay": {
+			"name": "Minimum wait",
+			"description": "How long it has to be before a checkpoint can be placed (in seconds).",
+			"type": "float",
+			"default": 3,
+			"min": 0,
+			"max": 10
+		},
+		"max-delay": {
+			"name": "Maximum wait",
+			"description": "How long it has to be before a checkpoint is forced to be placed (in seconds).",
+			"type": "float",
+			"default": 10,
+			"min": 0,
+			"max": 15
+		},
+		"gamemode": {
+			"name": "Checkpoint on gamemode change",
+			"description": "Whether a checkpoint is placed when your gamemode is changed.",
+			"default": true,
+			"type": "bool"
+		},
+		"speed": {
+			"name": "Checkpoint on speed change",
+			"description": "Whether a checkpoint is placed when your speed is changed.",
+			"default": true,
+			"type": "bool"
+		},
+		"size": {
+			"name": "Checkpoint on size change",
+			"description": "Whether a checkpoint is placed when your size is changed.",
+			"default": true,
+			"type": "bool"
+		},
+		"dual": {
+			"name": "Checkpoint on dual change",
+			"description": "Whether a checkpoint is placed when you change between dual or not dual.",
+			"default": true,
+			"type": "bool"
+		},
+		"gravity": {
+			"name": "Checkpoint on gravity change",
+			"description": "Whether a checkpoint is placed when your gravity is changed.",
+			"default": false,
+			"type": "bool"
+		},
+		"direction": {
+			"name": "Checkpoint on direction change",
+			"description": "Whether a checkpoint is placed when your direction is changed.",
+			"default": true,
+			"type": "bool"
+		},
+		"DEBUG": {
+			"name": "DEBUG (logs)",
+			"description": "Whether logs are enabled - leave this off if debugging other mods and actually want to be able to read the logs of other mods.",
+			"default": false,
+			"type": "bool"
+		}
+	}
+}

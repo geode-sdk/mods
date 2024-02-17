@@ -1838,7 +1838,8 @@
         "undefined0.autocheckpoint": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "creo.color_unlock_hack": {
