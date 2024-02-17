@@ -1878,6 +1878,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "relative.mininextfree": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
