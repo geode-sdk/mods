@@ -1,4 +1,7 @@
 # Integrated Demonlist Changelog
+## v1.2.0 (2024-02-17)
+- Moved the demonlist button to the list search menu
+
 ## v1.1.0 (2024-02-16)
 - Added a refresh button to the demonlist page
 - Added an alert when the search fails
