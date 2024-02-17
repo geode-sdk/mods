@@ -1,0 +1,34 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.1",
+	"id": "undefined0.minecraft_menu",
+	"name": "Minecraft Menu",
+	"developer": "undefined0",
+	"description": "geode == fabric basically",
+	"repository": "https://github.com/undefined06855/MinecraftMenu",
+	"tags": [ "interface" ],
+	"dependencies": [
+		{
+			"id": "shineua.minecraft_splash",
+			"version": ">=1.0.0",
+			"importance": "suggested"
+		}
+	],
+
+	"settings": {
+		"scale": {
+			"name": "GUI Scale",
+			"type": "float",
+			"default": 1.5,
+			"min": 0.9,
+			"max": 1.6,
+			"control": {
+				"slider": true
+			}
+		}
+	}
+}
