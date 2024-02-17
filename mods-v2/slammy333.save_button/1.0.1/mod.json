@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "slammy333.save_button",
+	"name": "Editor Save Button",
+	"developer": "slammy333",
+	"description": "Adds a level save button to the editor UI.",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.5.1",
+            "importance": "required"
+        }
+	]
+}

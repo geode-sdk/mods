@@ -1866,6 +1866,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "slammy333.save_button": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
