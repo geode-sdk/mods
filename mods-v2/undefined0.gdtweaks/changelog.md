@@ -1,4 +1,7 @@
 # GDTweaks Changelog
+## 1.8.1
+- Add tags
+- Add android support! (stupid 10 year old stackoverflow post made it not work)
 ## 1.8.0
 - Added "Move daily chest to bottom right" (see issue #3)
 - Added the ability to move the profile to the bottom right

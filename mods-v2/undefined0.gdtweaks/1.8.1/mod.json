@@ -1,0 +1,191 @@
+{
+	"geode": "2.0.0",
+	"gd": { "win": "2.204", "android": "2.205" },
+	"version": "v1.8.1",
+	"id": "undefined0.gdtweaks",
+	"name": "GDTweaks",
+	"developer": "undefined0",
+	"description": "tweak the geometry",
+	"repository": "https://github.com/undefined06855/GDTweaks",
+	"tags": [ "interface", "enhancement" ],
+	"dependencies": [
+		{
+			"id": "geode.texture-loader",
+			"version": "v1.4.1",
+			"importance": "suggested"
+		},
+		{
+			"id": "cvolton.betterinfo",
+			"version": "v4.0.0-alpha.9",
+			"importance": "suggested"
+		},
+		{
+			"id": "geode.node-ids",
+			"version": "v1.3.0",
+			"importance": "required"
+		}
+	],
+
+	"resources": {
+		"files": [
+			"resources/fire.ogg"
+		]
+	},
+
+	"settings": {
+		"title-text": {
+			"name": "Change title text",
+			"description": "Whether the title screen Geometry Dash text gets skewed.",
+			"type": "bool",
+			"default": false
+		},
+		"title-buttons": {
+			"name": "Change title buttons",
+			"description": "Whether the title screen newgrounds button gets replaced by Geode.",
+			"type": "bool",
+			"default": true
+		},
+		"map-packs": {
+			"name": "Remove map packs (HIGHLY RECOMMENDED)",
+			"description": "Whether the map pack button gets removed",
+			"type": "bool",
+			"default": true
+		},
+		"remove-corners": {
+			"name": "Remove corners",
+			"description": "Whether corners gets removed from menus. This doesn't remove corners from the daily / hourly chest opening screen though.",
+			"type": "bool",
+			"default": true
+		},
+		"remove-level-select-top": {
+			"name": "Remove level select topper",
+			"description": "Whether the top bar thingymabob gets removed from the main level select screen.",
+			"type": "bool",
+			"default": false
+		},
+		"fix-joystick-scroll": {
+			"name": "Fix joystick indicator",
+			"description": "Whether the joystick indicator gets moved from behind other buttons.",
+			"type": "bool",
+			"default": true
+		},
+		"move-betterinfo": {
+			"name": "Move BetterInfo button",
+			"description": "Whether the BetterInfo button gets moved into the corner. *BetterInfo must be installed.",
+			"type": "bool",
+			"default": true
+		},
+		"replace-more-games-w-texture": {
+			"name": "Replace \"More Games\" with texture pack",
+			"description": "Whether the More Games button on the title screen gets replaced with the texture pack selector. *Texture Loader must be installed.",
+			"type": "bool",
+			"default": true
+		},
+		"fire-in-the-hole": {
+			"name": "FIRE IN THE HOLE",
+			"description": "Whether the play button on the title screen plays \"FIRE IN THE HOLE\" when clicked.",
+			"type": "bool",
+			"default": false
+		},
+		"garage-bg-remove": {
+			"name": "Remove icon kit's icon selector background",
+			"description": "Whether the background behind the icons in the icon kit should be removed.",
+			"type": "bool",
+			"default": false
+		},
+		"garage-lock-tap-remove": {
+			"name": "Remove \"Tap lock for more info!\" message",
+			"description": "There's no way you actually needed to know what this does.",
+			"type": "bool",
+			"default": true
+		},
+		"fix-main-menu-settings-gamepad": {
+			"name": "Fix the main menu's settings gamepad icon",
+			"description": "Whether the d-pad down gamepad icon on the main menu gets adjusted. Only turn this on if the positioning is broken, else it might make it worse.",
+			"type": "bool",
+			"default": true
+		},
+		"randomise-main-menu-bg": {
+			"name": "Randomise main menu ground + background",
+			"description": "Whether the background and ground of the main menu gets randomised. This doesn't allow the loading screen to be changed. THIS OPTION WILL NOT WORK ON ANDROID!",
+			"type": "bool",
+			"default": true,
+			"platforms": [ "windows" ]
+		},
+		"force-bg": {
+			"name": "Force background ID",
+			"description": "Whether the background should be forced to be a specific one. Set to 0 to disable. THIS OPTION WILL NOT WORK ON ANDROID!",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 55,
+			"control": {
+				"arrows": true,
+				"slider": false
+			},
+			"platforms": [ "windows" ]
+		},
+		"force-ground": {
+			"name": "Force ground ID",
+			"description": "Whether the ground should be forced to be a specific one. Set to 0 to disable.",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 22,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"move-player-to-corner": {
+			"name": "Move account icon into a corner",
+			"description": "Whether your account button is moved into the bottom left (1) or bottom right corner (2). 0 is disabled.",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 2,
+			"control": {
+				"arrows": true,
+				"slider": true
+			}
+		},
+		"remove-player": {
+			"name": "Remove player in the main menu",
+			"description": "Whether the icons in the main menu get removed. Did you really have to click this?",
+			"type": "bool",
+			"default": false
+		},
+		"remove-ground": {
+			"name": "Remove the ground in the main menu",
+			"description": "Whether the ground in the main menu gets removed, like is that really not obvious??",
+			"type": "bool",
+			"default": false
+		},
+		"align-daily": {
+			"name": "Align the daily chest",
+			"description": "This realigns the daily chest because it isn't normally for some reason.",
+			"type": "bool",
+			"default": true
+		},
+		"move-daily": {
+			"name": "Move the daily chest to the bottom right",
+			"description": "ok but what do you think this setting does? just take a wild guess, what do <cy>you think?</c>",
+			"type": "bool",
+			"default": false
+		},
+		"remove-exit-button": {
+			"name": "Remove exit button",
+			"description": "Removes the exit button from the main menu, what did you expect?",
+			"type": "bool",
+			"default": false
+		},
+
+
+		"suppress-warnings": {
+			"name": "Suppress incompatibilty warnings",
+			"description": "This doesn't make GDTweaks magically work with every mod! It just makes it silently fail, instead of showing a warning.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
