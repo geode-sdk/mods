@@ -1,0 +1,12 @@
+{
+    "commit-author": "Watkin81",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Watkin81/UnixSync/releases/download/v1.2.1/creatorcreepy.unixsync.geode",
+        "hash": "69dd2309b47ea5e0e38b95ad9fdf9ecadb7e946b0ba449618c0f344736a17dc4",
+        "hash256": "a202957dfed7ac4f9fba1c489ed41663fa3da5d6a5bc8674877ee6dfacab51c2"
+    },
+    "tags": []
+}
