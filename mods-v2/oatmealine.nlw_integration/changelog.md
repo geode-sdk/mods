@@ -1,3 +1,9 @@
+## v1.3.2
+
+- Send a user agent for requests
+  - **In the future, requests before v1.3.2 may become blocked by `nlw-api`.**
+- Update icon
+
 ## v1.3.1
 
 - No longer is every unplaced level Fuck tier
