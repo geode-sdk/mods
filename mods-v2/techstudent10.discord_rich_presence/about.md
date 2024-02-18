@@ -2,18 +2,24 @@
 
 A custom Rich Presence mod for Geode.
 
-## Options (found by clicking the settings button below)
+### Options (found by clicking the settings button below)
 
-### Just dont...
+#### Just dont...
 Dont do it...
 
 (funny mode, adds unfunny jokes to the status)
 
-### Sensitive info
+#### Sensitive info
 Reveals information such as un-uploaded level names.
 
-### Show Timestamps
+#### Show Timestamps
 Adds the "x:xx elapsed" part to your Discord status in supported areas (Playing and Creating).
+
+#### Show Percent
+
+(Windows Only)
+
+While in a normal mode run, your current percent will be updated in realtime on your profile.
 
 ## Credits
 
