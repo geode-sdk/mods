@@ -1,4 +1,11 @@
 
+## v6.3.0
+
+ * Add Next Free Offset for Group IDs
+ * Add Grid Size controls
+ * Fix being able to click on the layer number to lock it
+ * Fix crash when selecting colors using the new color selector
+
 ## v6.2.1
 
  * Fix crash on mobile when typing in layer number
