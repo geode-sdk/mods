@@ -1,3 +1,8 @@
+# Version 1.0.4
+
+- Added Badge to comments
+- Gave badge owners a special comment color
+
 # Version 1.0.3
 
 - Fixed bug with space in names
