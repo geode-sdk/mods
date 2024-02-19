@@ -1,0 +1,17 @@
+{
+    "commit-author": "NicknameGG",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/NicknameGG/friends-/releases/download/1.0.1/n.friends.geode",
+        "hash": "a4234bf9e347b66bfef5524aaa11f850a6fe4fd0b3142af9fd42d911101e74a1",
+        "hash256": "2f72a5524fa351a744101bc7f752f117cece54d1c24285b4741d5df447b41288"
+    },
+    "tags": [
+        "Enhancement",
+        "Offline"
+    ]
+}

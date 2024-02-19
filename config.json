@@ -1910,7 +1910,8 @@
         "n.friends": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "mat.max-window": {

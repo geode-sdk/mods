@@ -1,0 +1,33 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "n.friends",
+	"name": "Friends!",
+	"developer": "n",
+	"description": "Stop playing GD alone! Play with friends!",
+	"repository": "https://github.com/NicknameGG/friends-",
+	"tags": ["Enhancement", "Offline"],
+	"settings": {
+		"Friend Scale": {
+			"type": "float",
+			"default": 1.0,
+			"description": "Allows you to change the scale of the friends.",
+			"min": 0.1,
+			"max": 2
+		},
+		"Disable In Game": {
+			"type": "bool",
+			"default": true,
+			"description": "Disables the friends in the game."
+		},
+		"Disable In Editor": {
+			"type": "bool",
+			"default": true,
+			"description": "Disables the friends in the editor."
+		}
+	}
+}
