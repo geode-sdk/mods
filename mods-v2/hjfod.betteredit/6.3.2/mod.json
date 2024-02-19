@@ -1,0 +1,116 @@
+{
+	"geode": "2.0.0-beta.20",
+	"version": "v6.3.2",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"id": "hjfod.betteredit",
+	"name": "BetterEdit",
+	"developers": ["HJfod", "TheSillyDoggo", "Fleym", "ninXout", "CattoDev"],
+	"description": "The Ultimate Editor Mod",
+	"repository": "https://github.com/HJfod/BetterEdit",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.6.0",
+            "importance": "required"
+        },
+		{
+			"id": "geode.custom-keybinds",
+			"version": "v1.5.0",
+			"importance": "required",
+			"platforms": ["windows"]
+		}
+    ],
+	"resources": {
+		"spritesheets": {
+			"UISheet": [
+				"resources/*.png"
+			]
+		}
+	},
+	"settings": {
+		"mouse-move-on-zoom": {
+			"type": "bool",
+			"default": true,
+			"name": "Zoom Towards Cursor",
+			"description": "When enabled and while holding down the CTRL key, zooming in the editor with the scroll wheel will be zoomed toward the cursor and not the center of the screen",
+			"platforms": ["windows", "macos"]
+		},
+		"pinch-to-zoom": {
+			"type": "bool",
+			"default": true,
+			"name": "Pinch to Zoom",
+			"description": "When enabled, you can use two fingers to zoom",
+			"platforms": ["android32", "android64"]
+		},
+		"scale-factor": {
+			"type": "float",
+			"default": 1.00,
+			"max": 1.00,
+			"min": 0.6,
+			"name": "Scale Factor",
+			"description": "The factor the UI should be scaled by. <cr>Requires re-entering the editor!</c>",
+			"control": {
+                "slider": true,
+				"slider-step": 0.025
+            }
+		},
+		"scale-pause": {
+			"type": "bool",
+			"default": true,
+			"name": "Scale Pause Menu",
+			"description": "Whether the editor pause menu should be scaled according to the scale factor aswell"
+		},
+		"scale-build-tabs": {
+			"type": "bool",
+			"default": true,
+			"name": "Scale Build Tabs",
+			"description": "Whether the tabs above the object selection area should be scaled according to the scale factor aswell"
+		},
+		"better-font-select": {
+			"type": "bool",
+			"default": true,
+			"name": "New Font Selection Menu",
+			"description": "Replaces the old font select screen with a better one with scrolling"
+		},
+		"new-color-menu": {
+			"type": "bool",
+			"default": true,
+			"name": "New Color Menu",
+			"description": "Changes the object color selection menu to show more channels aswell as previews for colors and special colors"
+		},
+		"larger-color-menu": {
+			"type": "bool",
+			"default": {
+				"win": false,
+				"mac": false,
+				"android": true
+			},
+			"name": "Larger Color Menu",
+			"description": "If you're using the <cr>New Color Menu</c>, this makes the color channel buttons a bit larger"
+		},
+		"show-zoom-text": {
+			"type": "bool",
+			"default": true,
+			"name": "Show Zoom Text",
+			"description": "When enabled, flashes the current zoom level as text when you zoom in / out in the editor"
+		},
+		"grid-size-controls": {
+			"type": "bool",
+			"default": true,
+			"name": "Show Grid Size Controls",
+			"description": "Shows controls in the UI for adjusting the size of the grid. <cr>Requires re-entering the editor!</c>",
+			"platforms": ["windows", "android64"]
+		},
+		"show-grid-on-size-change": {
+			"type": "bool",
+			"default": true,
+			"name": "Show Grid on Size Change",
+			"description": "If the grid is currently hidden and you use the controls to change its size, its toggled on",
+			"platforms": ["windows", "android64"]
+		}
+	}
+}
