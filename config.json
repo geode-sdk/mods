@@ -1919,6 +1919,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "capeling.gamemode_picker": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
