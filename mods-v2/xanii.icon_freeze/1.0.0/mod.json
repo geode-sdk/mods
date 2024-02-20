@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "xanii.icon_freeze",
+	"name": "Icon Freeze",
+	"developer": "Xanii",
+	"description": "Freeze your icon set shown to others."
+}

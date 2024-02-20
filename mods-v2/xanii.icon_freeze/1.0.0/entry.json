@@ -1,0 +1,14 @@
+{
+    "commit-author": "LXanii",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/LXanii/Icon-Freeze/releases/download/1.0.0/xanii.icon_freeze.geode",
+        "hash": "658046188f2fbdf65467da11735fa98b6827dcfaaaf2b700209f66033c8a362c",
+        "hash256": "5191fc5e5be2327be2c631e38f6b9a8538d00a030cb060c317aff6a06c5bb5a5"
+    },
+    "tags": []
+}

@@ -1930,6 +1930,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "xanii.icon_freeze": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
