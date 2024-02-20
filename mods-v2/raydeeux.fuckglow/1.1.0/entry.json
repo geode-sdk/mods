@@ -1,0 +1,14 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/FuckGlow/releases/download/v1.1.0/raydeeux.fuckglow.geode",
+        "hash": "785d52c47fdd397b3c7770430cf3860a3261b82d79a0f061c8ba0a9080307d30",
+        "hash256": "b0c91c10f0ebf4687ac16ecac7b5c2cb2f93e4ed86e201acdbbd3fca79d3abb2"
+    },
+    "tags": []
+}

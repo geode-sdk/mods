@@ -1,0 +1,44 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": {
+            "android": "2.205",
+            "win": "2.204"
+        },
+	"version": "v1.1.0",
+	"id": "raydeeux.fuckglow",
+	"name": "FuckGlow",
+	"developer": "RayDeeUx",
+	"description": "Hides all glow-related objects (including glow from blocks).",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"hideGlowDeco": {
+			"name": "Hide Glow Deco",
+			"description": "Hide 99% of glow decorations.",
+			"type": "bool",
+			"default": true
+		},
+		"hideGlowFromBlocks": {
+			"name": "Hide Glow from Solids",
+			"description": "Hide glow from solid objects.",
+			"type": "bool",
+			"default": true
+		},
+		"hideGlowGameplayElements": {
+			"name": "Hide Glow from Gameplay Elements",
+			"description": "Hide glow from gameplay elements.\nMore specifically: jump orbs, speed portals, and jump pads.",
+			"type": "bool",
+			"default": false
+		},
+		"disableGradientTriggers": {
+			"name": "Hide Glow from Gradient Triggers",
+			"description": "Hide glow from gradient triggers.\n\nNot recommended unless if you know what you're doing.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
