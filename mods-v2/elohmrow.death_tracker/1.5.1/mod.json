@@ -1,0 +1,23 @@
+{
+	"geode": "2.0.0-beta.14",
+	"gd": "2.204",
+	"version": "v1.5.1",
+	"id": "elohmrow.death_tracker",
+	"name": "Death Tracker",
+	"developer": "ElohmroW",
+	"description": "Tracks your normal mode deaths at every percentage",
+	"repository": "https://github.com/eloh-mrow/death-tracker",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"settings": {
+		"disable-tracking-completed-levels": {
+			"name": "Disable Tracking Completed Levels",
+			"description": "Disables death tracking on completed online levels.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
