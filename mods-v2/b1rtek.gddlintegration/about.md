@@ -12,6 +12,10 @@ You can search for levels based on their tier or enjoyment rating, completion st
 
 ![Example of the new search menu](b1rtek.gddlintegration/search.png)
 
+If you prefer, you can switch to a simpler search menu using the green arrow button in the bottom right corner
+
+![Example of the old search menu](b1rtek.gddlintegration/old_search.png)
+
 Adds a button on your profile that shows how many demons of each tier you've beaten
 
 ![Another example visible only to those who downloaded this mod](b1rtek.gddlintegration/split.png)
@@ -29,5 +33,5 @@ If you encounter any other issues, contact me on Discord (<cb>@b1rtek</c>) or on
 ## Special thanks
 
 <cb>*Code contributions:*</c> <cy>**[Diversion](https://github.com/B1rtek/Geode-GDDLIntegration/pull/3)**</c>  
-<cg>*Feature suggestions:*</c> <cy>[MasterGamerY](https://github.com/B1rtek/Geode-GDDLIntegration/issues/1), [Weebifying](https://github.com/B1rtek/Geode-GDDLIntegration/pull/2), [averiee_](https://github.com/B1rtek/Geode-GDDLIntegration/milestone/4), [TheSuperJepphyKiller](https://github.com/B1rtek/Geode-GDDLIntegration/issues/6), [hoshinekosanti](https://github.com/B1rtek/Geode-GDDLIntegration/issues/11),  [epicmushroom.](https://github.com/B1rtek/Geode-GDDLIntegration/issues/15)</c>  
-<cr>*Bug reporters:*</c> <cy>croozington, bllue, [Fleeym](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780380), [matcool](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780699), [Lexicon](https://github.com/B1rtek/Geode-GDDLIntegration/issues/7), [patrick61804](https://github.com/B1rtek/Geode-GDDLIntegration/issues/16)</c>
+<cg>*Feature suggestions:*</c> <cy>[MasterGamerY](https://github.com/B1rtek/Geode-GDDLIntegration/issues/1), [Weebifying](https://github.com/B1rtek/Geode-GDDLIntegration/pull/2), [averiee_](https://github.com/B1rtek/Geode-GDDLIntegration/milestone/4), [TheSuperJepphyKiller](https://github.com/B1rtek/Geode-GDDLIntegration/issues/6), [hoshinekosanti](https://github.com/B1rtek/Geode-GDDLIntegration/issues/11),  [epicmushroom.](https://github.com/B1rtek/Geode-GDDLIntegration/issues/15), [Koble](https://github.com/B1rtek/Geode-GDDLIntegration/issues/21)</c>  
+<cr>*Bug reporters:*</c> <cy>croozington, bllue, [Fleeym](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780380), [matcool](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780699), [Lexicon](https://github.com/B1rtek/Geode-GDDLIntegration/issues/7), [patrick61804](https://github.com/B1rtek/Geode-GDDLIntegration/issues/16), [epicmushroom.](https://github.com/B1rtek/Geode-GDDLIntegration/issues/20)</c>
