@@ -1977,6 +1977,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "uproxide.autosong": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
