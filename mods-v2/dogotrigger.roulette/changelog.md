@@ -1,3 +1,9 @@
+# v1.1.2
+## Gameplay Changes
+ * Fixed level end crash
+## Techinal Changes
+ * Horror event timer has been redone
+
 # v1.1.1
 ## Gameplay Changes
  * Fixed Horror event

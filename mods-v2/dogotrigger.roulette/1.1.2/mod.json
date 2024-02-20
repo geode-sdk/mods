@@ -1,0 +1,43 @@
+{
+	"geode": "2.0.0-beta.13",
+	"version": "v1.1.2",
+	"id": "dogotrigger.roulette",
+	"name": "Roulette",
+	"developer": "dogotrigger",
+	"description": "Random event on every attempt",
+	"gd": "2.204",
+	"repository": "https://github.com/SergeyMC9730/roulette",
+	"issues": {
+		"url": "https://github.com/SergeyMC9730/roulette/issues",
+		"info": "Any bugs with Roulette should be reported here."
+	},
+	"settings": {
+		"crazy-events": {
+			"name": "Crazy Events",
+			"description": "Enables some crazy events.",
+			"type": "bool",
+			"default": false
+		},
+		"soft-enable": {
+			"name": "Soft Enable",
+			"description": "Enables Roulette.",
+			"type": "bool",
+			"default": true
+		},
+		"pernament-effects": {
+			"name": "Pernament Effects",
+			"description": "Sfme gameplay effects will stay enabled until level is completed.",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/audio/horror.mp3",
+			"resources/audio/Tada.mp3"
+		],
+		"sprites": [
+            "resources/Toilet.png"
+        ]
+	}
+}
