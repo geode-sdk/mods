@@ -1,0 +1,12 @@
+{
+    "commit-author": "sofabeddd",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/sofabeddd/Colored-Icon-Kit/releases/download/v1.0.1/sofabeddd.colored_icon_kit.geode",
+        "hash": "e98ed82e2dcf61587ba362bf8e8a8ce295093038f01487934c90b95ea227cee2",
+        "hash256": "1c8c45845ed40c538f2fc072dcadcf57f0c19c1a14af6ac6fc32f06c5d4fc80d"
+    },
+    "tags": []
+}
