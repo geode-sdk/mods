@@ -1,4 +1,7 @@
 # Jumpscare Changelog
+## v1.2.0
+- Added Jumpscare after time for platformer
+- Jumpscare after time and percentage now allow floating point numbers
 ## v1.1.2
 - Fixed jumpscare's randomness (its actually random this time i swear)
 ## v1.1.1

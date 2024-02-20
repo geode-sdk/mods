@@ -10,4 +10,7 @@ To change the **textures and sound** of the jumpscare, press the pencil button n
 
 (**You must restart the game for the change to take place**!)
 
-**For Android:** The pencil button doesn't currently work, please manually go to `/storage/0/Android/media/com.geode.launcher/game/geode/config/weebify.jumpscare`
+## Special thanks to CatXus for testing this mod on Android for me :D
+
+
+<!-- **For Android:** The pencil button doesn't currently work, please manually go to `/storage/0/Android/media/com.geode.launcher/game/geode/config/weebify.jumpscare` -->
