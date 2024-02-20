@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": "2.204",
+	"version": "v1.3.0",
+	"id": "creatorcreepy.unixsync",
+	"name": "UnixSync",
+	"developer": "CreatorCreepy",
+	"description": "Allows for the usage of unix time in gd.",
+	"settings": {
+		"showunix": {
+			"name": "Show Unix",
+			"type": "bool",
+			"default": false,
+			"description": "Shows the current unix time in the corner while in levels."
+		}
+	}
+}

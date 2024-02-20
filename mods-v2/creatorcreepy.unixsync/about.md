@@ -1,13 +1,15 @@
 # Unix Sync
 
-A tiny mod that updates ItemIDs 7501-7513 to be set to current unix, date, and time values.
-This allows for local levels to be synced between players with triggers.
-The functionality of this mod can be enabled per level via level options.
+A small mod that updates ItemIDs 7501-7513 to be set to current unix, date, and time values.
+This allows for events in local levels to be synced between players with triggers.
+
+The functionality of this mod can be enabled by the creator of the level with level options.
+Joining an enabled level will automatically enable the mod's functionality.
 The unix timestamp in the corner of the screen can be removed via mod options.
 
 Credits:
-Massive thank you to <cy>acaruso</c> for help with the bindings and itemID updates.
-Also thank you to Xanii, Firee, TechStudent11 and for their help with the mod.
+Thank you to <cy>acaruso</c> for help with the bindings and itemID updates.
+Also thank you to Xanii, Firee, TechStudent11, and Mat for their help with the mod.
 
 ItemIDs:
 7501 - last 4 digits of unix time
@@ -23,9 +25,5 @@ ItemIDs:
 7511 - current hour (UTC)
 7512 - current minute
 7513 - current second
-
-<cr>Warning:
-Please note that this mod alters ItemIDs in game, and may be considered illegitimate.
-This mod is intended to enabled only on levels that utilize its functionality.</c>
 
 gaming
