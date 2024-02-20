@@ -1,3 +1,11 @@
+# v1.0.0-beta.6
+
+* Added Practice Versions of the Main Tiers. (Will be available later)
+* Added a "+" next to tiers you have the rank for.
+* Completed Packs now use a Gold Font
+* Added Triple Spikes /\\/\\/\\ <3
+* Added Mod Tags
+
 # v1.0.0-beta.5
 
 * Fixed Progression not letting you advance even though you have the required levels
