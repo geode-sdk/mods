@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.2",
+	"id": "relative.mininextfree",
+	"name": "miniNextFree",
+	"developer": "relative",
+	"description": "Adds the ability to set next free group",
+	"repository": "https://github.com/relativemodder/miniNextFree",
+	"gd": {
+		"win": "*",
+		"android": "*"
+	}
+}
