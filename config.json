@@ -1957,6 +1957,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "lexi.visiblecheckpoints": {
+            "verified": false,
+            "versions": [
+                "0.1.3"
+            ]
         }
     }
 }
