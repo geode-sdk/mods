@@ -1,3 +1,8 @@
+# 2.2.0
+
+- Fixed outlines on music / sfx library
+- Fixed Grandpa Demon Incompatibility
+
 # v2.1.0
 
  * Added **ItemInfoPopup**, **ShardsPage**, **CommunityCreditsPage**, **DemonFilterSelectLayer**, **MoreSearchLayer** (Search filter page), **Go to page popup** and **ChallengesPage** (Quests)
