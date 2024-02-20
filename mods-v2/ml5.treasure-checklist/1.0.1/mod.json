@@ -1,0 +1,33 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "ml5.treasure-checklist",
+	"name": "Treasure Checklist",
+	"developer": "ML500",
+	"description": "Adds a checklist of your Treasure Room progress",
+	"repository": "https://github.com/MasterL500/TreasureChecklist-Geode",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.5.0",
+			"importance": "required"
+		}
+	],
+
+	"settings": {
+		"misc-rewards": {
+			"name": "Misc. rewards",
+			"description": "Displays other rewards (like Colors and Death effects) of the treasure room chests.",
+			"type": "bool",
+			"default": true
+		},
+
+		"disable-checkmark": {
+			"name": "Disable checkmark",
+			"description": "Icons aren't greyed out and displayed without the checkmark. If you want to see all the designs.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

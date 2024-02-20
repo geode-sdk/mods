@@ -1970,6 +1970,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ml5.treasure-checklist": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
