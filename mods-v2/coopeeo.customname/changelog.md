@@ -1,4 +1,7 @@
 # Changelog
+## 1.3.0
+* Added Support For Level Info Pages
+* Added Support For Level Search/Browser Pages
 ## 1.2.2
 * same as 1.2.1
 ## 1.2.1
