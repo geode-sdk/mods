@@ -1,0 +1,81 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "elsai.brightness_mod",
+	"name": "Brightness Mod",
+	"developer": "elSai",
+	"description": "Change the brightness of the objects more easier in the editor",
+	"settings": {
+		"min-brightness": {
+			"name": "Min brightness",
+			"type": "float",
+			"default": 0.00,
+			"min": 0.00,
+            		"max": 2.00,
+			"control": {
+				"arrows": false
+			}
+		},
+		"max-brightness": {
+			"name": "Max brightness",
+			"type": "float",
+			"default": 1.00,
+			"min": 0.00,
+            		"max": 2.00,
+			"control": {
+				"arrows": false
+			}
+		},
+		"randomness": {
+			"name": "Randomness",
+			"type": "float",
+			"default": 0.10,
+			"min": 0.00,
+            		"max": 10.00,
+			"control": {
+				"arrows": false
+			}
+		},
+		"invert-brightness": {
+			"name": "Invert brightness",
+			"type": "bool",
+			"default": false
+		},
+		"type": {
+			"name": "Width & height",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 2,
+			"control": {
+				"slider": false
+			}
+		},
+		"what-color": {
+			"name": "What color change",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 2,
+			"control": {
+				"slider": false
+			}
+		}
+	},
+	"resources": {
+		"sprites": [
+			"Assets/*.png"
+		]
+	},
+    	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.5.0",
+            "importance": "suggested"
+        }
+    ]
+}
