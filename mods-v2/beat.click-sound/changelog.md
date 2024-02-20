@@ -1,4 +1,9 @@
 # Changelog
+## Version v1.4.7
+* 'Plate' useful click sound added!
+* 'Riot Quack' meme click sound added!
+* 'FUCK' meme click sound added!
+* Credited Weebify for developing :3 (i luv u weebify <3)
 ## Version v1.4.6
 * Requirements: Geode v2.0.0-beta.19 / Node-IDs v1.5.1
 * Volume of click sounds has increased! (0.5 -> 2) :3
