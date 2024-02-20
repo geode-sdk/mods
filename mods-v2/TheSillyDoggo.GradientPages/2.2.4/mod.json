@@ -1,0 +1,114 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+        "mac": "2.200",
+		"android": "*"
+	},
+	"version": "v2.2.4",
+	"id": "TheSillyDoggo.GradientPages",
+	"name": "Gradient Pages",
+	"developer": "TheSillyDoggo",
+	"description": "Adds Gradients to the back of some popups",
+	"repository": "https://github.com/TheSillyDoggo/Gradient-Pages",
+	"resources": {
+		"spritesheets": {
+			"UISheet": [
+				"resources/*.png"
+			]
+		}
+	},
+	"settings": {
+        "gradient-quality": {
+            "name": "Particle Quality",
+            "description": "The amount of segments in the gradient, dont set this value too high or the game may run out of memory",
+            "type": "int",
+            "default": 128,
+            "min": 1,
+            "max": 512,
+            "platforms": [ "macos" ]
+        },
+        "apply-profiles": {
+            "name": "Apply to Profiles",
+            "description": "Should it apply a gradient to profile pages?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-info-layer": {
+            "name": "Apply to Level Description",
+            "description": "Should it apply a gradient to the level description?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-unlock": {
+            "name": "Apply to Item Unlock Page",
+            "description": "Should it apply a gradient to the popup shown when pressing a lock?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-shards": {
+            "name": "Apply to the Shards Page",
+            "description": "Should it apply a gradient to the shards of power page?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-credits": {
+            "name": "Apply to the Community shop Credits Page",
+            "description": "Should it apply a gradient to Potbor's shop credit page?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-demon": {
+            "name": "Apply to the Demon Filter Page",
+            "description": "Should it apply a gradient to the popup used to select a demon difficulty in the search page?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-filter": {
+            "name": "Apply to the Search Filter Page",
+            "description": "Should it apply a gradient to the Search filter page?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-pagesel": {
+            "name": "Apply to go to page popup",
+            "description": "Should it apply a gradient to the Search / Comment page select popup?",
+            "type": "bool",
+            "default": true
+        },
+		"apply-quests": {
+            "name": "Apply to quests page",
+            "description": "Should it apply a gradient to the quests page",
+            "type": "bool",
+            "default": true
+        },
+		"reverse-order": {
+            "name": "Reverse Order",
+            "description": "Reverses the order of the gradient vertically",
+            "type": "bool",
+            "default": false
+        },
+		"use-custom-colours": {
+            "name": "Use Custom Colours",
+            "description": "Should it use colours of your choice instead of your player colours?",
+            "type": "bool",
+            "default": false
+        },
+		"primary-colour": {
+            "name": "Primary Colour",
+			"description": "The Colour used at the top of pages that aren't profiles",
+            "type": "color",
+            "default": "#7d7cff"
+        },
+		"secondary-colour": {
+            "name": "Secondary Colour",
+			"description": "The Colour used at the bottom of pages that aren't profiles",
+            "type": "color",
+            "default": "#7efeb0"
+        }
+	},
+	"tags":	[
+		"Customization"
+	]
+
+}
