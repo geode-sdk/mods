@@ -1,0 +1,158 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "raydeeux.camerashadertoggles",
+	"name": "CameraShaderToggles",
+	"developer": "RayDeeUx",
+	"description": "Individual toggles for each type of camera/shader trigger during gameplay.",
+	"repository": "https://github.com/RayDeeUx/CameraShaderToggles",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.\nBy default, this does not affect levels with star/moon ratings until you enable the \"Enabled on Rated Levels\" option.",
+			"type": "bool",
+			"default": true
+		},
+		"enableOnRated": {
+			"name": "Enabled on Rated Levels",
+			"description": "Toggles the mod on levels with star/moon ratings.\nRequires previous setting to be enabled.",
+			"type": "bool",
+			"default": false
+		},
+		"disableZoom": {
+			"name": "Disable Zoom Camera",
+			"type": "bool",
+			"default": false
+		},
+		"disableStatic": {
+			"name": "Disable Static Camera",
+			"type": "bool",
+			"default": false
+		},
+		"disableOffset": {
+			"name": "Disable Offset Camera",
+			"type": "bool",
+			"default": false
+		},
+		"disableGPOffset": {
+			"name": "Disable GP Offset Camera",
+			"type": "bool",
+			"default": false
+		},
+		"disableRotate": {
+			"name": "Disable Rotate Camera",
+			"type": "bool",
+			"default": false
+		},
+		"disableEdge": {
+			"name": "Disable Edge Camera",
+			"type": "bool",
+			"default": false
+		},
+		"disableMode": {
+			"name": "Disable Camera Mode",
+			"type": "bool",
+			"default": false
+		},
+		"disableGuide": {
+			"name": "Disable Camera Guide",
+			"type": "bool",
+			"default": false
+		},
+		"disableShader": {
+			"name": "Disable Setup Shader",
+			"description": "Disables the Setup Shader trigger, which, according to the help text in the editor, \"edits how other shader effects work\".",
+			"type": "bool",
+			"default": false
+		},
+		"disableShockWave": {
+			"name": "Disable Shock Wave Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableShockLine": {
+			"name": "Disable Shock Line Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableGlitch": {
+			"name": "Disable Glitch Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableChromatic": {
+			"name": "Disable Chromatic Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableChromaticGlitch": {
+			"name": "Disable Chromatic Glitch Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disablePixelate": {
+			"name": "Disable Pixelate Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableLensCircle": {
+			"name": "Disable Lens Circle Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableRadialBlur": {
+			"name": "Disable Radial Blur Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableMotionBlur": {
+			"name": "Disable Motion Blur Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableBulge": {
+			"name": "Disable Bulge Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disablePinch": {
+			"name": "Disable Pinch Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableGrayscale": {
+			"name": "Disable Grayscale Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableSepia": {
+			"name": "Disable Sepia Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableInvertColor": {
+			"name": "Disable Invert Color Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableHue": {
+			"name": "Disable Hue Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableEditColor": {
+			"name": "Disable Edit Color Shader",
+			"type": "bool",
+			"default": false
+		},
+		"disableSplitScreen": {
+			"name": "Disable Split Screen Shader",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

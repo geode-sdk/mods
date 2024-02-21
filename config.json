@@ -1999,6 +1999,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "raydeeux.camerashadertoggles": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
