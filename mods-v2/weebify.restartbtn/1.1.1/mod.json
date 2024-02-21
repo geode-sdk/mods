@@ -1,0 +1,46 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.1",
+	"id": "weebify.restartbtn",
+	"name": "Restart Buttons",
+	"developer": "Weebify",
+	"description": "Adds a button to quickly restart the game (and a few more)",
+	"resources": {
+		"sprites": [
+			"resources/image.png"
+		]
+	},
+	"settings": {
+		"size": {
+            "name": "Size",
+			"description": "How big the buttons should be.",
+            "type": "float",
+            "default": 1,
+            "min": 1,
+            "max": 2,
+            "control": {
+                "slider": true,
+				"slider-step": 0.01
+			}
+		},
+		"exit": {
+			"name": "Show Exit button",
+			"type": "bool",
+			"default": true
+		},
+		"restart": {
+			"name": "Show Restart button",
+			"type": "bool",
+			"default": true
+		},
+		"reload-textures": {
+			"name": "Show Reload Textures button",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

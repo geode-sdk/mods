@@ -1,4 +1,6 @@
 # Restart Buttons Changelog
+## v1.1.1
+- Added keybinds on Windows (F1 for restart, F2 for reload textures)
 ## v1.1.0
 - Added a button to reload only the textures
 - You can now toggle the buttons in the mod settings menu
