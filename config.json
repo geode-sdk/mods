@@ -2017,6 +2017,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "bulletbot.gamemode_changer": {
+            "verified": false,
+            "versions": [
+                "1.0.3"
+            ]
         }
     }
 }

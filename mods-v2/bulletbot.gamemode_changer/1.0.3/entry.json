@@ -1,0 +1,12 @@
+{
+    "commit-author": "BULL3TB0T",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/BULL3TB0T/gamemode-changer-geode/releases/download/1.0.3/bulletbot.gamemode_changer.geode",
+        "hash": "872c75a32bfb42e70e376e8e92e3a94f1f43277add79f6e3605e0943bfb348db",
+        "hash256": "4df71907b4f53eaaa51b317ed276e3cb3ac42dc21b560271bcaf6442b5dbed60"
+    },
+    "tags": []
+}
