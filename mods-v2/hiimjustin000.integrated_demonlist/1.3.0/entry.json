@@ -1,0 +1,12 @@
+{
+    "commit-author": "hiimjustin000",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/hiimjustin000/IntegratedDemonlist/releases/download/v1.3.0/hiimjustin000.integrated_demonlist.geode",
+        "hash": "854208db7a52524db6152a765c727d5d3ce5e34ba1b69a78a01a47322bcb1687",
+        "hash256": "7a09d97032e8eca1e867d3da1caf741e9dc0bd38277559470a4513613f6119b6"
+    },
+    "tags": []
+}
