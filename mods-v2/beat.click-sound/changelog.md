@@ -1,4 +1,7 @@
 # Changelog
+## Version v1.4.8
+* It is now much more clear that you need to install Node-IDs
+* (somehow it was confusing before?)
 ## Version v1.4.7
 * 'Plate' useful click sound added!
 * 'Riot Quack' meme click sound added!
