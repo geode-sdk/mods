@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/Transparent-Lists/releases/download/1.0.1/alphalaneous.transparent_lists.geode",
+        "hash": "b20e9cab3bf447f1f90eedd8e9144080a131a0a192a2b775d242cf0a4f29fafd",
+        "hash256": "ce70d3f9a611081bf91ad5483cf413e920b6127f22c58288442045e1571e4cf4"
+    },
+    "tags": []
+}

@@ -1989,6 +1989,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "alphalaneous.transparent_lists": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
