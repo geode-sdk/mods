@@ -1,4 +1,11 @@
 
+## v6.3.3
+
+ * Make layer lock button fully hidden on All layer
+ * Fix the new color selector causing crashes and being buggy
+ * Fix Next Free Offset not being remembered
+ * Fix grid size controls not being hidden on playtest
+
 ## v6.3.2
 
  * Disable grid size controls on 32-bit Android as the most likely source of a crash
