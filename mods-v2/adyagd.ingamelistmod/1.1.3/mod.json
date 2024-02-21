@@ -1,0 +1,10 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.3",
+	"gd": "2.204",
+	"id": "adyagd.ingamelistmod",
+	"name": "IngameListMod",
+	"developer": "AdyaGD",
+	"description": "Shows the position of a demon/challenge in the list",
+	"repository": "https://github.com/AdyaGMD/IngameListMod"
+}
