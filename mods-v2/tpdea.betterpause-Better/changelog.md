@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.6.2
+* Available for android!!!
+* Fixed some bugs of bad positioning of objects (ChallengePage, Sliders, etc...)
+* Nothing else xd
+
 ## v1.6.0
 
 * The mod icon has been changed (thanks RueOfficial :D)
