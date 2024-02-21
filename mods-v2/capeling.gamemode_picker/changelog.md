@@ -1,4 +1,10 @@
 # Gamemode Swapper Changelog
+## v1.0.3
+- Added ID to the gamemode editor button
+- Bottom button now is added to a menu, preventing overlapping with the coins in menu mod
+- Removed some leftover logs
+- Added Node IDS as a depencency
+- Added "gameplay" tag
 ## v1.0.2
 - Fixed the platformer UI not appearing on Android
 ## v1.0.1
