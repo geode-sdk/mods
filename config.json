@@ -2005,6 +2005,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "yellowcat98.gdlite": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

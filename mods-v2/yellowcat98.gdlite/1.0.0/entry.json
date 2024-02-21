@@ -1,0 +1,12 @@
+{
+    "commit-author": "YellowCat98",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/YellowCat98/GDLite/releases/download/wgat/yellowcat98.gdlite.geode",
+        "hash": "1d04478f6af117b4b825f28eb957e38c02f83b06b14f26c9a81cbc6d76915113",
+        "hash256": "e6ada44529bfdf42d272a8611d29918a44f32433ebd28b443e2e646e6112996c"
+    },
+    "tags": []
+}
