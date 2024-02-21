@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+        	"mac": "2.200",
+        	"ios": "2.205",
+        	"android": "2.205",
+        	"win": "2.204"
+    	},
+	"version": "v1.0.0",
+	"id": "uproxide.quotes",
+	"name": "Quotes",
+	"developer": "Uproxide",
+	"description": "Gives Quotes!"
+}
