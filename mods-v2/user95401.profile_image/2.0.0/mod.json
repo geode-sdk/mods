@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v2.0.0",
+	"id": "user95401.profile_image",
+	"name": "Profile Image",
+	"developer": "user95401",
+	"description": "ur avatar thingy",
+	"repository": "https://github.com/user95401/ProfileImage",
+	"issues": {
+		"url": "https://discord.gg/89VGJH6QQg",
+		"info": "U can write about it on <cb>user666's discord...</c>"
+	},
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.1.3",
+            "importance": "required"
+        }
+    ]
+}

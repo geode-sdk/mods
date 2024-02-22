@@ -2040,6 +2040,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "user95401.profile_image": {
+            "verified": false,
+            "versions": [
+                "2.0.0"
+            ]
         }
     }
 }
