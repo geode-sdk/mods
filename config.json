@@ -2025,6 +2025,12 @@
             "versions": [
                 "1.0.3"
             ]
+        },
+        "thesillydoggo.icon_kit_switcher": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
