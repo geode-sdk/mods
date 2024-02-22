@@ -1,0 +1,41 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd":{
+        "win": "2.204",
+		"android": "2.205"
+    },
+	"version": "v1.1.0",
+	"id": "ml5.treasure-checklist",
+	"name": "Treasure Checklist",
+	"developer": "ML500",
+	"description": "Adds a checklist of your Treasure Room progress",
+	"repository": "https://github.com/MasterL500/TreasureChecklist-Geode",
+	"tags": ["Convenience"],
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.5.0",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"misc-rewards": {
+			"name": "Misc. rewards",
+			"description": "Displays other rewards (like Colors and Death effects) of the treasure room chests.",
+			"type": "bool",
+			"default": true
+		},
+		"disable-checkmark": {
+			"name": "Disable checkmark",
+			"description": "Icons aren't greyed out and displayed without the checkmark. If you want to see all the designs.",
+			"type": "bool",
+			"default": false
+		},
+		"group-by-chest": {
+			"name": "Group by Chests",
+			"description": "Tier II chest rewards are grouped instead of displaying separately.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

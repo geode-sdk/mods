@@ -1,9 +1,14 @@
 # Treasure Checklist
-Displays a list of the Icon rewards you have collected (or have yet to collect) from each type of Secret Chest in the Treasure Room.
+Displays a list of the Icon rewards you hace collected (or have yet to collect) from each type of Secret Chest in the Treasure Room.
 
-### Settings
-* Show miscellaneous rewards.
+### Options (settings)
+* Show Miscellaneous rewards (Like colors or death effects).
+* Group the rewards of Tier II chests.
 * Disable checkmark.
 
-### Note
-Since this is my first Geode mod, it's unknown if its compatible with any mod that modifies the button layout of the GarageLayer. Will work on compatibility and code optimization when I can.
+### Additional Info
+First Geode mod, getting the hang of programming in GD. To report bugs, crashes or incompatibilities with other mods, create an issue on the Github Page found below.
+
+### Special Thanks
+* Colon - For the JSON file that includes every treasure room chest.
+* Geode - Documentation and tools to program on GD.

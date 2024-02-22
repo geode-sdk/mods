@@ -1990,7 +1990,8 @@
         "ml5.treasure-checklist": {
             "verified": false,
             "versions": [
-                "1.0.1"
+                "1.0.1",
+                "1.1.0"
             ]
         },
         "uproxide.autosong": {
