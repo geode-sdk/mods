@@ -1,4 +1,4 @@
-# FuckGlow
+# FrickGlow
 Ever wondered what Geometry Dash levels would look like without glow? Here you go!
 
 Made with much-appreciated help from:
