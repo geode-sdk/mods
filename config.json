@@ -1917,7 +1917,8 @@
         "thesillydoggo.dialogue_handler": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "slammy333.save_button": {
