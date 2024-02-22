@@ -1,0 +1,14 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/Icon-Kit-Switcher/releases/download/v1.0.1/thesillydoggo.icon_kit_switcher.geode",
+        "hash": "2ce91204959513152788e3c1adaf1333dd32d1cc98d7cebca346f6ab8e076052",
+        "hash256": "0c7cb9cbbd1aee907005333ad4e43fa6cc07f309a759fb4080fa23abb986b52a"
+    },
+    "tags": []
+}
