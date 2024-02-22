@@ -1,0 +1,41 @@
+{
+	"geode": "2.0.0-beta.17",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.4-beta.1",
+	"id": "capeling.gamemode_picker",
+	"name": "Gamemode Swapper",
+	"developer": "Capeling",
+	"description": "Adds a button in the Pause Menu that allows you to change your gamemode!",
+	"repository": "https://github.com/Capeling/gamemode-picker",
+	"tags": [
+		"gameplay"
+	],
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.6.0",
+            "importance": "required"
+        }
+	],
+	"settings": {
+		"topRight": {
+			"type": "bool",
+			"default": false,
+			"name": "Move Button",
+			"description": "Moves the button to the top right and changes the texture to the list edit button"
+		}
+	},
+	"resources": {
+		"spritesheets": {
+			"GamemodeSheet":[
+				"resources/GamemodeSheet/unused/*.png",
+				"resources/GamemodeSheet/speeds/*.png",
+				"resources/GamemodeSheet/player/*.png"
+			]
+		}
+	}
+}

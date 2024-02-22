@@ -1,0 +1,16 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/gamemode-picker/releases/download/v1.0.4/capeling.gamemode_picker.geode",
+        "hash": "20607050239e216db0b0aea81671757532b990a5002a934323f2de037613b057",
+        "hash256": "5ea9eda99d95007c1c73134e35e4f040b0b5f71dc306f05a65bada0685f83c5c"
+    },
+    "tags": [
+        "gameplay"
+    ]
+}
