@@ -1,4 +1,10 @@
 # Gamemode Swapper Changelog
+## v1.0.5
+- Fixed download
+## v1.0.4
+- Added keybinding support
+- Fixed bug with BetterPause (hopefully)
+- Added Node IDS for all GamemodeLayer nodes
 ## v1.0.3
 - Added ID to the gamemode editor button
 - Bottom button now is added to a menu, preventing overlapping with the coins in menu mod
