@@ -1,3 +1,9 @@
+# v0.1.4
+
+ * Reorder internal variables
+ * Fixed deleted checkpoints not resetting crowding limit
+ * Removed insane console logging for releases
+
 # v0.1.3
 
  * Fixed possible random crashes
