@@ -1,0 +1,56 @@
+{
+    "geode": "2.0.0-beta.15",
+    "version": "v1.2.0",
+    "gd": {
+        "win": "2.204",
+        "android": "2.205",
+        "mac": "2.200"
+    },
+    "resources": {
+        "spritesheets": {
+            "globedsheet1": [
+                "resources/menuicon.png",
+                "resources/speaker-icon.png",
+                "resources/speaker-icon-yellow.png",
+                "resources/speaker-icon-red.png",
+                "resources/role-admin.png",
+                "resources/role-helper.png",
+                "resources/role-mod.png",
+                "resources/role-user.png"
+            ]
+        }
+    },
+    "id": "dankmeme.globed2",
+    "name": "Globed",
+    "developer": "dankmeme",
+    "description": "Feature-rich multiplayer mod for Geometry Dash",
+    "dependencies": [
+        {
+            "id": "geode.custom-keybinds",
+            "version": ">=v1.2.3",
+            "importance": "required",
+            "platforms": [
+                "windows"
+            ]
+        }
+    ],
+    "incompatibilities": [
+        {
+            "id": "thesillydoggo.moretags",
+            "importance": "breaking",
+            "version": "*"
+        }
+    ],
+    "repository": "https://github.com/dankmeme01/globed2",
+    "tags": [
+        "Online"
+    ],
+    "settings": {
+        "force-skip-preload": {
+            "default": false,
+            "name": "Skip preload assets",
+            "description": "Skip preloading assets on the loading screen. Enable this only if you are experiencing crashes during loading.",
+            "type": "bool"
+        }
+    }
+}

@@ -1,3 +1,11 @@
+## v1.2.0
+
+* Fix deadlock on packet limit test failure
+* Fix audio stack overflow due to high deltatime
+* Add a geode setting to disable asset preloading (in case the game doesn't launch)
+* Make own icon being above everyone else on the progress bar
+* Server owners now have an advanced admin panel to moderate the server
+
 ## v1.1.2
 
 * Add player searching in the player list menu
