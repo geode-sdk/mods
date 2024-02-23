@@ -2075,6 +2075,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "terma.ambienticons": {
+            "verified": false,
+            "versions": [
+                "1.3.0"
+            ]
         }
     }
 }

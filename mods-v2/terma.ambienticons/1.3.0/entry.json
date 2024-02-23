@@ -1,0 +1,20 @@
+{
+    "commit-author": "Termantita",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Termantita/AmbientIcons/releases/download/v1.3.0/terma.ambienticons.geode",
+        "hash": "c0d71c4e612deb35d766bd3998b4190eb874672c9c7cede07c4caa67322eb6c6",
+        "hash256": "48b27c46488644bc63627c655a0cb26c3b40940108efffbfb2df5e8c73e3e825"
+    },
+    "tags": [
+        "ambient",
+        "icons",
+        "color",
+        "icons color",
+        "PlayLayer",
+        "player",
+        "misc"
+    ]
+}
