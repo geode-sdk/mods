@@ -2057,6 +2057,12 @@
                 "2.0.0",
                 "3.0.0"
             ]
+        },
+        "elsai.a_daily_shop": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
