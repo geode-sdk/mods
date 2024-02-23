@@ -1,0 +1,30 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+        	"mac": "2.200",
+        	"ios": "2.205",
+        	"android": "2.205",
+        	"win": "2.204"
+    	},
+	"version": "v1.1.0",
+	"id": "uproxide.quotes",
+	"name": "Quotes",
+	"developers": [
+		"Uproxide",
+		"Riley",
+		"Coopeeo"
+	],
+	"description": "Gives Quotes!",
+	"settings": {
+        	"refresh-btn": {
+           		"type": "custom"
+        	},
+			"questionable": {
+				"name": "Questionable Quotes",
+				"description": "Shows Quotes that are questionable",
+				"type": "bool",
+				"default": false
+			}
+	
+    	}
+}

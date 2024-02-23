@@ -1,0 +1,15 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/quotes-geode/releases/download/1.1.0/uproxide.quotes.geode",
+        "hash": "277340f5d4e157f13d8412aad716013e7e8885d641d68ef26138a9aa205ec0ae",
+        "hash256": "cc9e1717cb8654f0bee518b27c6bed21253002fdbdb9bd2426364ab5bdb079f7"
+    },
+    "tags": []
+}
