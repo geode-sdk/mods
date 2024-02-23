@@ -2063,6 +2063,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "weebify.high-graphics-android": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,13 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/high-graphics-android-geode/releases/download/v1.0.0/weebify.high-graphics-android.geode",
+        "hash": "d92f183de08e7b5e2a122f506dc013187d7689641e2d8a2651f1e8c6c9f00d37",
+        "hash256": "5dd7e0fb2e3b07e1a566ee85f2abc4910556328e75db2da6bd609a982a5c1702"
+    },
+    "tags": []
+}
