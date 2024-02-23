@@ -1,0 +1,25 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.3.5",
+	"id": "alphalaneous.integratedloquibot",
+	"name": "Integrated Loquibot",
+	"developer": "Alphalaneous",
+	"description": "Interact with the Loquibot Level Request bot in game.",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.1.1",
+            "importance": "required"
+        }
+    ],
+	"resources": {
+        "sprites": [
+			"resources/LB_blockLevelBtn.png",
+			"resources/LB_randomBtn.png",
+			"resources/loqui.png",
+			"resources/levelRequestsLabel.png",
+			"resources/videoBorder.png"
+        ]
+    }
+}
