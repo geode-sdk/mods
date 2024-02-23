@@ -1,0 +1,12 @@
+{
+    "commit-author": "slammy333",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/slammy333/gd-editor-save-button/releases/download/v1.0.2/slammy333.save_button.geode",
+        "hash": "99e71a6673a1315bc026ce685951f868934915dc73a723149cce9a69890d1a84",
+        "hash256": "0c90eb49cef4bc08cd2c96ab9a31a7cc1b156ee8ce7ce24f4cf4822e43d55542"
+    },
+    "tags": []
+}
