@@ -1,0 +1,12 @@
+{
+    "commit-author": "user95401",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/user95401/ProfileImage/releases/download/v3/user95401.profile_image.geode",
+        "hash": "8835e6e098e451f13714c6628f8ac6995e38715cf69d7d274f2c71020945e983",
+        "hash256": "a40f3de6ced2d4cad1c596d943549324688bee8450db6a6d2b612731cb0ad204"
+    },
+    "tags": []
+}
