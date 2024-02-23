@@ -1,0 +1,20 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.0",
+	"id": "shineua.geometrize2gd",
+	"name": "Geometrize2GD",
+	"developer": "ShineUA",
+	"description": "Mod that could convert geometrize json to gd objects",
+	"repository": "https://github.com/ShineUA/geometrize2gd-mod-geode",
+	"resources": {
+		"spritesheets": {
+			"GeometrizeToGDButton": [
+				"resources/spritesheets/geometrize2gd.png"
+			]
+		}
+	}
+}
