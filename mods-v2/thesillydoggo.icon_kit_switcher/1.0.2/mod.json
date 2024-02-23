@@ -1,0 +1,20 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+        "mac": "2.200",
+		"android": "*"
+	},
+	"version": "v1.0.2",
+	"id": "thesillydoggo.icon_kit_switcher",
+	"name": "Icon Save 2.2",
+	"developers": [ "TheSillyDoggo", "Uproxide"],
+	"description": "startpos switcher but icons and not startpos switcher",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.6.1",
+            "importance": "required"
+        }
+    ]
+}
