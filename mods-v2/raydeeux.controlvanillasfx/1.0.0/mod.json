@@ -1,0 +1,42 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "raydeeux.controlvanillasfx",
+	"name": "ControlVanillaSFX",
+	"developer": "RayDeeUx",
+	"description": "Control the volume of SFX from vanilla GD separately from the volume of SFX from a level's SFX triggers.",
+	"repository": "https://github.com/RayDeeUx/ControlVanillaSFX",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"volume": {
+			"name": "Volume",
+			"description": "Set the volume of vanilla SFX (as a percentage).",
+			"type": "int",
+			"default": 50,
+			"min": 0,
+			"max": 100
+		},
+		"volumeBoost": {
+			"name": "Volume Boost",
+			"description": "If your in-game SFX volume is below 10%, the mod will boost the volume of vanilla SFX by the value you set here.\n\nBy using any other value besides the default of 1.0 for this setting, you hold yourself responsible for any resulting damages (including but not limited to hearing loss).",
+			"type": "float",
+			"default": 1,
+			"min": 1,
+			"max": 1.25
+		},
+		"speed": {
+			"name": "Speed",
+			"description": "Set the speed of vanilla SFX (as a percentage).",
+			"type": "int",
+			"default": 100,
+			"min": 100,
+			"max": 200
+		}
+	}
+}

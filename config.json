@@ -2069,6 +2069,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.controlvanillasfx": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
