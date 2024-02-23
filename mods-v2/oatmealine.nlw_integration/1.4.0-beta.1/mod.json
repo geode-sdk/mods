@@ -1,0 +1,36 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"version": "v1.4.0-beta.1",
+	"id": "oatmealine.nlw_integration",
+	"name": "NLW Integration",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.4.0",
+			"importance": "required"
+		}
+	],
+	"developer": "oatmealine",
+	"description": "Integrates the Non-Listworthy Extreme Demon spreadsheet into level pages",
+	"repository": "https://github.com/oatmealine/nlw-integration",
+	"resources": {
+		"spritesheets": {
+			"NLW_icons": [
+				"resources/*.png"
+			]
+		}
+	},
+	"settings": {
+		"use-demon-face": {
+			"name": "Use Demon Face",
+			"description": "Disables the tier text and lets you access the menu by clicking on the demon icon",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

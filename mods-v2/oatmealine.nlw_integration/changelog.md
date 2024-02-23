@@ -1,3 +1,14 @@
+## v1.4.0-beta.1
+
+> **Experimental release**
+
+- Switches over level name / creator name matching to server-side ID fetching
+  - This means all the work is done on the NLW API server rather than the client, but this reverse method of fetching also results in more incorrect guesses
+  - However, this should mean levels not on sheets will not be misrecognized as something that is
+  - This is experimental, and I can't test every level to make sure the matches are correct, so I'm putting out a beta release. Report any issues you find to me!
+- You can now click the tier text to show every level in that tier as a consequence
+  - Some tiers don't work, and I'll work on ironing that out soon
+
 ## v1.3.2
 
 - Send a user agent for requests
