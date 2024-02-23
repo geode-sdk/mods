@@ -1,4 +1,6 @@
 # GDTweaks Changelog
+## v1.9.0
+- Add "Replace Map Packs button with Hall Of Fame" (see issue #4)
 ## 1.8.1
 - Add tags
 - Add android support! (stupid 10 year old stackoverflow post made it not work)
