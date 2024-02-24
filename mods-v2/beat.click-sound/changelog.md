@@ -1,4 +1,7 @@
 # Changelog
+## Version v1.4.9
+* 'Doggie' useful click sound added!
+* 'Neiro' useful click/release sound added!
 ## Version v1.4.8
 * It is now much more clear that you need to install Node-IDs
 * (somehow it was confusing before?)

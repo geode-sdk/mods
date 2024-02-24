@@ -32,6 +32,8 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 22 - Zoink Click/Release
 - 23 - Screen Tap 1
 - 24 - Plate
+- 25 - Neiro Click/Release
+- 26 - Doggie
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -73,6 +75,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 9 - Viper Spacebar Click/Release (randomized)
 - 10 - Click/Release 5 (randomized)
 - 11 - Zoink Click/Release
+- 12 - Neiro Click/Release
 ### Meme release sounds (negative number):
 - 1 - TikTok
 
