@@ -1,0 +1,48 @@
+{
+	"geode": "2.0.0",
+	"version": "v2.8.0",
+	"id": "techstudent10.discord_rich_presence",
+	"name": "Discord Rich Presence",
+	"developer": "TechStudent10",
+	"description": "A Discord Rich Presence mod for Geode",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200"
+	},
+	"settings": {
+		"funny-mode": {
+			"name": "Just, dont...",
+			"description": "Don't do it... you know you shouldn't...",
+			"type": "bool",
+			"default": false
+		},
+		"private-info": {
+			"name": "Show sensitive info",
+			"description": "Allows this mod to show things like level names in the creator tab for the world to see (no not your password)",
+			"type": "bool",
+			"default": false
+		},
+		"show-time": {
+			"name": "Show timestamps",
+			"description": "Will add \"x:xx elapsed\" to your status",
+			"type": "bool",
+			"default": true
+		},
+		"show-percent": {
+			"name": "Show Percent",
+			"description": "This will show your current percent in a level while in a run (only Windows compatible)",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"repository": "https://github.com/TechStudent10/DiscordRPC",
+	"issues": {
+		"info": "Please report issues to the GitHub repository",
+		"url": "https://github.com/TechStudent10/DiscordRPC/issues"
+	},
+	"api": {
+		"include": [
+			"include/*.hpp"
+		]
+	}
+}
