@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.2.3",
+	"id": "elnexreal.copy_song_id",
+	"name": "Copy Song ID",
+	"developer": "elnexreal",
+	"description": "Copy a level's song ID just by clicking it",
+	"repository": "https://github.com/elnexreal/copy_song_id",
+	"tags": [
+		"Utility",
+		"Song"
+	],
+	"incompatibilities": [
+		{
+			"id": "fleym.nongd",
+			"importance": "breaking",
+			"version": "*"
+		}
+	]
+}
