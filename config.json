@@ -2106,6 +2106,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "zeozeozeo.zcblive": {
+            "verified": false,
+            "versions": [
+                "1.0.1-beta.1"
+            ]
         }
     }
 }

@@ -1,0 +1,15 @@
+{
+    "commit-author": "zeozeozeo",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/zeozeozeo/zcblive-geode/releases/download/1.0.1-beta.1/zeozeozeo.zcblive.geode",
+        "hash": "45939463e19301647fe5ecb0c2b8549f6bff838cdf036b66ca21c2f5a214b8b3",
+        "hash256": "2e43b714b4b99904df80f5b6896f84038032292913f8a908e7812090f54fb928"
+    },
+    "tags": [
+        "clickbot",
+        "audio"
+    ]
+}
