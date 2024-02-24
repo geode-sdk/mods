@@ -2128,6 +2128,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "viper.gamemode_only": {
+            "verified": false,
+            "versions": [
+                "0.0.1"
+            ]
         }
     }
 }
