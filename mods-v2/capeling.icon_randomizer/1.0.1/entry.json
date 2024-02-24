@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/icon-randomizer/releases/download/v1.0.1/capeling.icon_randomizer.geode",
+        "hash": "6787e07412bfd510370bf011912b4aa97085beb0766f1c03dd2e5a768ec8d0d5",
+        "hash256": "f8c3765c25d2e4de5410a204a8bffeedbe29e40b83f5dafab57e6f309aec6ad5"
+    },
+    "tags": []
+}
