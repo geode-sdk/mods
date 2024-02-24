@@ -1,0 +1,45 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v0.1.5",
+	"id": "lexi.visiblecheckpoints",
+	"name": "VisibleCheckpoints",
+	"developer": "Lexi",
+	"description": "Makes your checkpoints show up on the progress bar",
+	"repository": "https://git.gay/Lexi/VisibleCheckpoints",
+	"issues": {
+		"info": "When reporting issues, please create a new one on the repository with the correct information, such as a crashlog, what you were doing to cause the issue, screenshots, videos, etc.",
+		"url": "https://git.gay/Lexi/VisibleCheckpoints/issues/new"
+	},
+	"resources": {
+		"sprites": [
+			"Resources/preview1.png"
+		]
+	},
+	"settings": {
+		"progress-bar-opacity": {
+			"name": "Checkpoint Opacity",
+			"description": "Opacity for the checkpoints on the progress bar (in RGBA format).",
+			"type": "int",
+			"default": 100,
+			"min": 0,
+			"max": 255,
+			"control": {
+				"slider": true
+			}
+		},
+		"progress-bar-crowding": {
+			"name": "Prevent Crowding",
+			"description": "Prevents checkpoints from rendering too close to eachother on the progress bar.",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.6.1",
+            "importance": "required"
+        }
+    ]
+}

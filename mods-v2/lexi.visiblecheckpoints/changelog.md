@@ -1,3 +1,6 @@
+# v0.1.5
+ * Fixed GD's checkpoint limit providing inaccurate current checkpoints
+
 # v0.1.4
 
  * Reorder internal variables
