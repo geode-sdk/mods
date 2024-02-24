@@ -1,0 +1,17 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/lvlinfo-in-pause-geode/releases/download/v1.0.3/weebify.level_info_in_pause_menu.geode",
+        "hash": "06a358238c61d07f43936f6f5bc5309e9428b887b72e5a8916505ca4a7309daf",
+        "hash256": "c01f9bdbd4334811d7ee3dc08a4b6176314b0ab0fc4ed3fdcf6c03a03d7d6a07"
+    },
+    "tags": [
+        "Interface",
+        "Utility"
+    ]
+}
