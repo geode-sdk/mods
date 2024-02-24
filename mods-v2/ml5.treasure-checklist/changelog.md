@@ -1,3 +1,7 @@
+# v1.1.1
+
+* Fixed bugs and missing rewards.
+
 # v1.1.0
 
 * Added **"Group Rewards"** feature, applied to Tier II chests only.

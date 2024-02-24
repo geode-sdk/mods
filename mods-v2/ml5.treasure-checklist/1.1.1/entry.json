@@ -1,0 +1,17 @@
+{
+    "commit-author": "MasterL500",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/MasterL500/TreasureChecklist-Geode/releases/download/v1.1.1/ml5.treasure-checklist.geode",
+        "hash": "ec969a2f5aec8d5dd8a0a79c5c910bd43648d87f3abdf2a54e569504fc85208b",
+        "hash256": "eb69a411a64270b54d79ee386a1aedc1da3b5b96697a13cf0a0ebd6b1839c247"
+    },
+    "tags": [
+        "Convenience",
+        "Interface"
+    ]
+}
