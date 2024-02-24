@@ -2112,6 +2112,12 @@
             "versions": [
                 "1.0.1-beta.1"
             ]
+        },
+        "suntle.compactendscreen": {
+            "verified": false,
+            "versions": [
+                "0.1.0"
+            ]
         }
     }
 }
