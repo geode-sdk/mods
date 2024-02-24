@@ -1,0 +1,16 @@
+{
+    "commit-author": "Fleeym",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Fleeym/jukebox/releases/download/v2.5.0/fleym.nongd.geode",
+        "hash": "e849496cfa29cab873dda419337b76843df3eb494a95ea03031317df2091ce07",
+        "hash256": "3455fd6bb74f38adfb14f71e0c57dcf81d6053119b9359d14b928c68eb5ee900"
+    },
+    "tags": [
+        "Music"
+    ]
+}
