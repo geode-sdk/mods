@@ -1,0 +1,68 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"	
+	},
+	"version": "v1.0.0",
+	"id": "khronophobia.shortcuts_menu",
+	"name": "Shortcuts Menu",
+	"developer": "Khronophobia",
+	"description": "Adds a shortcut button that takes you to various parts of the game.",
+	"repository": "https://github.com/Khronophobia/Shortcuts-Menu",
+	"resources": {
+		"spritesheets": {
+			"ShortcutsMenu": [
+				"resources/ShortcutsMenu/*.png"
+			]
+		}
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.2.0",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"hide-spoilers": {
+			"name": "Hide Spoilers",
+			"description": "Hide shortcuts for sections of the game you haven't unlocked. Disabling this does <cr>NOT</c> make them accessible.",
+			"type": "bool",
+			"default": true
+		},
+		"enable-menulayer": {
+			"name": "Enable in MenuLayer",
+			"type": "bool",
+			"default": true
+		},
+		"enable-creatorlayer": {
+			"name": "Enable in CreatorLayer",
+			"type": "bool",
+			"default": true
+		},
+		"enable-editlevellayer": {
+			"name": "Enable in EditLevelLayer",
+			"type": "bool",
+			"default": true
+		},
+		"enable-levelbrowserlayer": {
+			"name": "Enable in LevelBrowserLayer",
+			"type": "bool",
+			"default": true
+		},
+		"enable-levelsearchlayer": {
+			"name": "Enable in LevelSearchLayer",
+			"type": "bool",
+			"default": true
+		},
+		"enable-levelinfolayer": {
+			"name": "Enable in LevelInfoLayer",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"tags": [
+		"Convenience"
+	]
+}
