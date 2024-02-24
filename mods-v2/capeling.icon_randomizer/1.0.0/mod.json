@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.17",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "capeling.icon_randomizer",
+	"name": "Icon Randomizer",
+	"developer": "Capeling",
+	"description": "Adds a button in the Color Selection menu to randomize your icons!"
+}

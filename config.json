@@ -2090,6 +2090,12 @@
             "versions": [
                 "1.1.0"
             ]
+        },
+        "capeling.icon_randomizer": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
