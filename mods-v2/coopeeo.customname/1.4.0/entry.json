@@ -1,0 +1,15 @@
+{
+    "commit-author": "coopeeo",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/coopeeo/customname-geodemod/releases/download/1.4.0/coopeeo.customname.geode",
+        "hash": "93b9e85e5beb031e28ce61657768681d2b21babc6700c0e08847d14891d486e0",
+        "hash256": "8180e634fbde3d1c04d5b08ba1e02b150cf1fcc28aaedeabc7e35a3e0e5f2249"
+    },
+    "tags": []
+}

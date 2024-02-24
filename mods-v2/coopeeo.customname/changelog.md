@@ -1,9 +1,12 @@
 # Changelog
+## 1.4.0
+* Added Support For Level Comments (InfoLayer and CommentCell)
+* Added Support For Icon Kit (Garage/GJGarageLayer)
 ## 1.3.1
 * Fixed Crashing
 ## 1.3.0
-* Added Support For Level Info Pages
-* Added Support For Level Search/Browser Pages
+* Added Support For Level Info Pages (LevelInfoLayer)
+* Added Support For Level Search/Browser Pages (LevelCell)
 ## 1.2.2
 * same as 1.2.1
 ## 1.2.1
