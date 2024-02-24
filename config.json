@@ -2122,7 +2122,8 @@
         "suntle.compactendscreen": {
             "verified": false,
             "versions": [
-                "0.1.0"
+                "0.1.0",
+                "0.1.1"
             ]
         },
         "alphalaneous_raydeeux.changefont19": {

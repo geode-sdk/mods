@@ -1,0 +1,17 @@
+{
+    "commit-author": "MuhXd",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Suntle/Compact-Endscreen/releases/download/V0.1.1/suntle.compactendscreen.geode",
+        "hash": "37e8dd03e07e6d2b39b6015893980154351826a8a0aa6027da889fefa7f46b56",
+        "hash256": "cbf81ad00f93a32af27b34fbcc3828235a6abf001c3d1ef79726215c655d5b65"
+    },
+    "tags": [
+        "Customization"
+    ]
+}
