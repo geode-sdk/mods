@@ -2164,6 +2164,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "saumondeluxe.rainbow_icon": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,19 @@
+{
+	"geode": "2.0.0-beta.19",
+	"version": "v1.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"id": "saumondeluxe.rainbow_icon",
+	"name": "Rainbow Icon",
+	"developer": "SaumonDeLuxe",
+	"description": "Makes your icons look incredibly",
+	"settings": {
+		"enable":{
+			"name": "Enable Rainbow Icon",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
