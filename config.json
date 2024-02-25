@@ -1409,7 +1409,8 @@
             "verified": false,
             "versions": [
                 "1.1.0",
-                "1.4.0"
+                "1.4.0",
+                "1.5.0"
             ]
         },
         "adam_729.deathmarkers": {
