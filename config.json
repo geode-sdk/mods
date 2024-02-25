@@ -2012,7 +2012,8 @@
         "elsai.brightness_mod": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "ml5.treasure-checklist": {
