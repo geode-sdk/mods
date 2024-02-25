@@ -1,0 +1,15 @@
+{
+    "commit-author": "coopeeo",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/BeatACVR/geode-clicksound/releases/download/Release-v1.5.0/beat.click-sound.geode",
+        "hash": "d52acc6ba8db41839dc2ddb6042e0d2a14c7deeca003e25a10cf947c23bc0151",
+        "hash256": "f1a6ca3ac1a9c49b259ee0ae448df1f746895fe5a2bf7fbf862aa54f24527cc8"
+    },
+    "tags": []
+}

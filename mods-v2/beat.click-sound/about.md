@@ -34,6 +34,8 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 24 - Plate
 - 25 - Neiro Click/Release
 - 26 - Doggie
+- 27 - Trusta
+- 28 - Gazonk
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -61,6 +63,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 24 - Water on the Hill
 - 25 - Riot Quack
 - 26 - FUCK
+- 27 - Gravity Coil
 ## Release sounds
 ### Useful release sounds:
 - 0 - Custom sound
@@ -81,12 +84,13 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 
 ## Credit
 Thank you so much to all of the people listed below for doing whatever they did to help create the mod!
-- [Beat](https://github.com/BeatACVR) - This is me! I made the mod.
-- [Viper](https://github.com/MuhXd) - Developer, helped me with android support :3
-- [Coop](https://github.com/coopeeo) - Developer, helped make coding the mod more efficient ^w^
+- [Beat](user:13873867) - This is me! I made the mod.
+- [Viper](user:14284530) - Developer, helped me with android support :3
+- [Coop](user:21207551) - Developer, helped make coding the mod more efficient ^w^
 - [Weebify](https://github.com/Weebifying) - Developer :3
-- [Uproxide](https://github.com/umbroxide) - Developer, helped with the developer badge system! OwO
-- Firee - Added mac support, thank you so much!
+- [Uproxide](user:25397826) - Developer, helped with the developer badge system! OwO
+- [Firee](user:6253758) - Added mac support, thank you so much! GDUtils Notification Test Button
+- [Jouca](user:7026949) - GDUtils Notification Test Button
 - Sicariusblack - Helps with making some click sounds sound good!
 - aceofspadesss - Provided a ton of unique click sounds for the mod! >w<
 - kittykatspaugh - Emotional support
