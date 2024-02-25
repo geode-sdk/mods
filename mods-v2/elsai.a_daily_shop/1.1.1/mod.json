@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.1.1",
+	"id": "elsai.a_daily_shop",
+	"name": "A daily shop",
+	"developer": "elSai",
+	"description": "New shop is added that changes daily",
+	"resources": {
+		"sprites": [
+			"Assets/*.png"
+		]
+	}
+}
