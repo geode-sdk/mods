@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.6.9",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200"
+	},
+	"id": "thesillydoggo.entersearch",
+	"name": "Enter Search",
+	"developer": "TheSillyDoggo",
+	"description": "Allows you to press enter to search in the search layer"
+}
