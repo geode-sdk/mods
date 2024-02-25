@@ -1,0 +1,14 @@
+{
+    "commit-author": "SaiOwO",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/SaiOwO/Pause-menu-zoom/releases/download/rr/elsai.pause_menu_zoom.geode",
+        "hash": "348d12686c20c1cff4716ffa0a290d79c44e27b97f2740549d4de48a7e1bc6f3",
+        "hash256": "9dbc439d30f7fef741e557f6917569194ab202e81f0cc80242952119c840f483"
+    },
+    "tags": []
+}
