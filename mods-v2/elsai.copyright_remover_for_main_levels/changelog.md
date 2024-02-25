@@ -1,3 +1,5 @@
+# v1.0.3
+    - Removed dev logs
 # v1.0.2
     - Fixed android
 # v1.0.1

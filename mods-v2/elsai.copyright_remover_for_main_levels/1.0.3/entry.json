@@ -1,0 +1,14 @@
+{
+    "commit-author": "SaiOwO",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/SaiOwO/Copyright-remover-for-main-levels/releases/download/rr/elsai.copyright_remover_for_main_levels.geode",
+        "hash": "549a584a1ee5792cf75d2ddf60405831d448646239483586629b73afed3ab842",
+        "hash256": "63709082a742f0cde47f5b679478999fd076d4199c713f316f6024e3a2bc9e0e"
+    },
+    "tags": []
+}
