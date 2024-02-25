@@ -1,0 +1,12 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/max-window-v1.0.1/mat.max-window.geode",
+        "hash": "14ef4e17aac3d2aa868a2c325d562689b4c5f096d2263e01bd0db2ff12f2a764",
+        "hash256": "b97b7a7cee063fe6accec4f2c3b575c969b5683cb494b9a2a992a549640976ca"
+    },
+    "tags": []
+}

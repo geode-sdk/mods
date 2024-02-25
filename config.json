@@ -1981,7 +1981,8 @@
         "mat.max-window": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "capeling.gamemode_picker": {

@@ -1,0 +1,26 @@
+{
+	"geode": "v2.0.0-beta.19",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.0.1",
+	"id": "mat.max-window",
+	"name": "Window Resize",
+	"developer": "mat",
+	"description": "Allows you to freely resize the window, and to maximize the GD window.",
+	"repository": "https://github.com/matcool/geode-mods",
+	"settings": {
+		"free-resize": {
+			"name": "Free Window Resize",
+			"description": "Allows the window to be resized freely, instead of being locked to an aspect ratio.",
+			"type": "bool",
+			"default": true
+		},
+		"start-maximized": {
+			"name": "Start Game Maximized",
+			"description": "Maximizes the game window at startup.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
