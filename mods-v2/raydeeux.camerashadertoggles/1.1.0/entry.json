@@ -1,0 +1,14 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/CameraShaderToggles/releases/download/v1.1.0/raydeeux.camerashadertoggles.geode",
+        "hash": "8b152a387ea2cda4c60659f0d9ed0cd3875909e1c42971db14e6aeef6e3da4b4",
+        "hash256": "878dbc34bd55ad623c16678a1b36f8cd64118b14af20f4af607591e52c213d7b"
+    },
+    "tags": []
+}
