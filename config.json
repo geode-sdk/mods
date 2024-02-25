@@ -2140,6 +2140,12 @@
                 "0.0.1",
                 "1.0.0"
             ]
+        },
+        "thesillydoggo.comment_emojis": {
+            "verified": false,
+            "versions": [
+                "1.0.0-beta.1"
+            ]
         }
     }
 }
