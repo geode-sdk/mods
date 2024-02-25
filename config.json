@@ -2146,6 +2146,12 @@
             "versions": [
                 "1.0.0-beta.1"
             ]
+        },
+        "uproxide.accupracatt": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

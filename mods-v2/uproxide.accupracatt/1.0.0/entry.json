@@ -1,0 +1,14 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/accurate-practice-attempts/releases/download/1.0.0/uproxide.accupracatt.geode",
+        "hash": "afd9ed73767574ef088f83025de5586820b719dae097edb61fa112980c3b603c",
+        "hash256": "a3b4a111aab924e11e9367c91526b17dc06be8ac7121856871e5136ad0d19cae"
+    },
+    "tags": []
+}
