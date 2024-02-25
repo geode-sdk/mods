@@ -1,8 +1,13 @@
 # OpenHack
-A free and open source Geometry Dash modded client for version 2.2 with many features.
+A free and open source collection of hacks for Geometry Dash version 2.2.
+
+## How to use
+1. Press `Tab` to open the menu.
+2. Activate the hacks you want to use.
+3. Have fun! :D
 
 ## About
-Official port of [OpenHack](https://github.com/Prevter/GDOpenHack) for Geode loader (Windows only). Has almost everything you'll need, with features being constantly added.
+OpenHack is a free and open source collection of hacks for Geometry Dash version 2.2. It is designed to be easy to use and highly customizable, with a wide range of features to enhance the game experience.
 
 Please visit the [issues](https://github.com/prevter/gdopenhack/issues) page for known issues and planned features (and feel free to leave your own suggestions).
 
@@ -15,8 +20,7 @@ Please visit the [issues](https://github.com/prevter/gdopenhack/issues) page for
 
 ## Links
 - [Discord server](https://discord.gg/HaHn7RSJ4Q)
-- [GitHub repository (main branch)](https://github.com/Prevter/GDOpenHack)
-- [GitHub repository (geode branch)](https://github.com/Prevter/GDOpenHack/tree/geode)
+- [GitHub repository](https://github.com/Prevter/GDOpenHack)
 
 ## License
 OpenHack is licensed under the [MIT License](https://github.com/prevter/gdopenhack/blob/main/LICENSE).
