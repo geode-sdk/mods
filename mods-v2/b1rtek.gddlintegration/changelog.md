@@ -1,3 +1,8 @@
+# v1.1.2
+- Going back from search results goes back to the right place (finally!)
+- Added a missing alert saying that the rating is still loading (while it's actually loading)
+- Updated the search menu to be compatible with the new GDDL API version
+
 # v1.1.1
 - The old search menu can be opened with a click on a green arrow on the bottom right of the search popup
 - Android users can finally input the correct amount of characters into text fields
