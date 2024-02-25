@@ -1,0 +1,83 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v2.1.0",
+	"id": "devcmb.cleanermenu",
+	"name": "Cleaner Menu",
+	"developer": "DevCmb",
+	"description": "Improves the GD menus.",
+	"settings": {
+		"hideRobtopLogo": {
+			"name": "Hide RobTop Logo",
+			"description": "Hide the robtop logo on the main menu",
+			"type": "bool",
+			"default": true
+		},
+		"hideSocials": {
+			"name": "Hide Social Icons",
+			"description": "Hide the many social icons on the main menu",
+			"type": "bool",
+			"default": false
+		},
+		"hideMoreGames": {
+			"name": "Hide More Games",
+			"description": "Hide the more games button on the main menu | Disabling this will revert the position of the profile button back",
+			"type": "bool",
+			"default": true
+		},
+		"revertProfileButton": {
+			"name": "Revert Profile Button",
+			"description": "Revert the position of the profile button back to the original position",
+			"type": "bool",
+			"default": false
+		},
+		"whichSideProfileButton": {
+			"name": "Profile Button Side",
+			"description": "Determines which side of the screen the profile button will be on | The more games button and robtop button settings must be changed appropriately.",
+			"type": "float",
+			"default": 1,
+			"min": 0,
+			"max": 1,
+			"control": {
+				"slider": true,
+				"arrows": false,
+				"input": false,
+				"slider-step": 1.0
+			}
+		},
+		"revertCreatorPageChanges": {
+			"name": "Revert creator page changes",
+			"description": "Revert the changes made to the creator page",
+			"type": "bool",
+			"default": false
+		},
+		"revertSearchPageChanges":{
+			"name": "Revert Search Page Changes",
+			"description": "Revert changes made to the search menu",
+			"type": "bool",
+			"default": false
+		},
+		"revertIconKitChanges": {
+			"name": "Revert Icon Kit Changes",
+			"description": "Revert changes made to the icon kit menu",
+			"type": "bool",
+			"default": false
+		},
+		"revertProfileChanges": {
+			"name": "Revert profile changes",
+			"description": "Revert changes made to the profile page",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"repository": "https://github.com/29cmb/CleanMenu",
+	"issues": {
+		"info": "Report issues to the github repository",
+		"url": "https://github.com/29cmb/CleanMenu/issues"
+	}
+}

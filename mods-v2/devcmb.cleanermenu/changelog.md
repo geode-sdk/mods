@@ -1,3 +1,8 @@
+# v2.1.0
+- Now uses layouts to control the button positioning (compatibility!!!!)
+- Added demons in garage support by moving them with the other bois
+- Fixed reddit sprite positioning
+
 # v2.0.1
 - Fixed the issue with the social buttons moving due to a new geode update
 
