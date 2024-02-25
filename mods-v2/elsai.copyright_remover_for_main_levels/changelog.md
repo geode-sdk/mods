@@ -1,3 +1,5 @@
+# v1.0.2
+    - Fixed android
 # v1.0.1
     - Replaced LevelTools to FMODAudioEngine
     - Fixed songs for Android
