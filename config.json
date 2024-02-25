@@ -2117,7 +2117,8 @@
         "shineua.geometrize2gd": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.1.1"
             ]
         },
         "capeling.icon_randomizer": {
