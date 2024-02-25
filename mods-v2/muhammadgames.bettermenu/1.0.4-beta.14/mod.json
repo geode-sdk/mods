@@ -1,0 +1,100 @@
+{
+	"geode": "2.0.0-beta.8",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.4-beta.14",
+	"id": "muhammadgames.bettermenu",
+	"name": "Better Menu",
+	"developer": "Viper",
+	"repository": "https://github.com/MuhXd/BetterMenuMod",
+	"description": "This mod is used for a better menu for the game. This Mod aim is to have a better experience on the menus",
+	"tags": [
+        "Customization"
+    ],
+	"settings": {
+	"exit-heading": {
+		"type": "custom"
+	 },
+	 "RunMainMenu": {
+		"name": "Main Menu Modifications",
+		"description": "This settings Enables the main menu (Note: This will be for other menus when i am finished)",
+		"type": "bool",
+		"default": true
+	},
+	"EnableExitGameButton": {
+		"name": "Exit Button",
+		"description": "Makes the game be able to close",
+		"type": "bool",
+		"default": true
+	},
+	"HideName": {
+		"name": "Hide Username",
+		"description": "This setting Hides the players name from the main menu",
+		"type": "bool",
+		"default": true
+	},
+	"replacename": {
+		"name": "Hide Real Username",
+		"description": "This replaces your Username with 'Streamer'",
+		"type": "bool",
+		"default": true
+	},
+	"Shortcuts-heading": {
+		"type": "custom"
+	 },
+	"ShortcutMyLevel": {
+		"name": "My Levels Shortcut",
+		"description": "Adds my Levels to the Shortcuts location",
+		"type": "bool",
+		"default": true
+	},
+	"ShortcutSavedLevels": {
+		"name": "Saved levels Shortcut",
+		"description": "Adds saved Levels to the Shortcuts location",
+		"type": "bool",
+		"default": true
+	},
+	"ShortcutSearch": {
+		"name": "Search Shortcut",
+		"description": "Removes More games and replaces it with Search button",
+		"type": "bool",
+		"default": true
+	},
+	"ShortcutDaily": {
+		"name": "Daily Shortcut",
+		"description": "Adds Daily button to Shortcuts",
+		"type": "bool",
+		"default": true
+	},
+	"ShortcutWeekly": {
+		"name": "Weekly Shortcut",
+		"description": "Adds Weekly button to Shortcuts",
+		"type": "bool",
+		"default": true
+	},
+	"MenuPos-heading": {
+		"type": "custom"
+	 },
+	"MoveMenuPos": {
+		"name": "Move Bottom Menu to left",
+		"description": "Moves the Bottom side menu to the right and moves the left side menu to the bottom",
+		"type": "bool",
+		"default": true
+	},
+	"MoveMenuPosFlip": {
+		"name": "Flip Bottom Menu",
+		"description": "Flips the menu (left to right or below to above)",
+		"type": "bool",
+		"default": true
+	},
+	"RightSide": {
+		"name": "Right Menu to Shortcuts",
+		"description": "Moves the right menu near the Shortcuts",
+		"type": "bool",
+		"default": false
+	}
+}
+}
