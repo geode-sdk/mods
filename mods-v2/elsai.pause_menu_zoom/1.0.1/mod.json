@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "elsai.pause_menu_zoom",
+	"name": "Pause menu zoom",
+	"developer": "elSai",
+	"description": "Zoom the level when you are in the pause menu",
+	"repository": "https://github.com/SaiOwO/Pause-menu-zoom"
+}
