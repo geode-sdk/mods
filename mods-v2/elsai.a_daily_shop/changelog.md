@@ -1,3 +1,12 @@
+# v1.3.0
+    - Cubes added
+    - More velocity when you change page
+    - 5 items per page
+    - Now have 7 pages of items
+    - Probabilities of jetpack reduced
+    - Free icons are free in daily shop (twitch etc...)
+    - Meltdown, World and Subzero icons are free too
+    - Purchase animation
 # v1.2.0
     - Preview for death effects & colors
 # v1.1.1
