@@ -1,0 +1,16 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/soggy-mod/releases/download/v1.0.1/capeling.soggy-mod.geode",
+        "hash": "a92d6f9efb9359dc3d0f0ff14473c57bd00f26c660ce6aca83483be45c366180",
+        "hash256": "c63c4559d8468f9a98317eb08608a314a8d9e1feea9b846f9d4cbb1a78329047"
+    },
+    "tags": [
+        "soggy"
+    ]
+}
