@@ -1,0 +1,97 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": { "win": "2.204" },
+	"version": "v1.1.0",
+	"id": "undefined0.autocheckpoint",
+	"name": "AutoCheckpoint",
+	"developer": "undefined0",
+	"description": "You'll never need to touch Z again!",
+
+	"resources": {
+		"files": [ "logo.png" ]
+	},
+
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": "v1.6.0",
+			"importance": "required"
+		}
+	],
+
+	"repository": "https://github.com/undefined06855/AutoCheckpoint",
+	"tags": [ "gameplay", "enhancement" ],
+
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"type": "bool",
+			"default": true,
+			"description": "ok but genuinely what on earth do you think this option does?? like what on earth why did you click on the I there is no reason because you and i both know what this option does it's literally called \"Enabled\"?? like what on earth :sob:"
+		},
+		"min-delay": {
+			"name": "Minimum wait",
+			"description": "How long it has to be before a checkpoint can be placed (in seconds).",
+			"type": "float",
+			"default": 3,
+			"min": 0,
+			"max": 10
+		},
+		"max-delay": {
+			"name": "Maximum wait",
+			"description": "How long it has to be before a checkpoint is forced to be placed (in seconds). Setting this to 0 places a checkpoint every frame.",
+			"type": "float",
+			"default": 10,
+			"min": 0,
+			"max": 15
+		},
+		"dash": {
+			"name": "Block checkpoints while dashing",
+			"description": "Whether checkpoints are not placed while dashing",
+			"default": true,
+			"type": "bool"
+		},
+		"death": {
+			"name": "Block checkpoints while dying",
+			"description": "Whether checkpoints are not placed while dying",
+			"default": true,
+			"type": "bool"
+		},
+		"gamemode": {
+			"name": "Checkpoint on gamemode change",
+			"description": "Whether a checkpoint is placed when your gamemode is changed.",
+			"default": true,
+			"type": "bool"
+		},
+		"speed": {
+			"name": "Checkpoint on speed change",
+			"description": "Whether a checkpoint is placed when your speed is changed.",
+			"default": true,
+			"type": "bool"
+		},
+		"size": {
+			"name": "Checkpoint on size change",
+			"description": "Whether a checkpoint is placed when your size is changed.",
+			"default": true,
+			"type": "bool"
+		},
+		"dual": {
+			"name": "Checkpoint on dual change",
+			"description": "Whether a checkpoint is placed when you change between dual or not dual.",
+			"default": true,
+			"type": "bool"
+		},
+		"gravity": {
+			"name": "Checkpoint on gravity change",
+			"description": "Whether a checkpoint is placed when your gravity is changed.",
+			"default": false,
+			"type": "bool"
+		},
+		"direction": {
+			"name": "Checkpoint on direction change",
+			"description": "Whether a checkpoint is placed when your direction is changed.",
+			"default": true,
+			"type": "bool"
+		}
+	}
+}
