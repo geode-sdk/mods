@@ -2189,6 +2189,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "capeling.soggy-mod": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
