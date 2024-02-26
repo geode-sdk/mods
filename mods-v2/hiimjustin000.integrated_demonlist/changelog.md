@@ -1,4 +1,10 @@
 # Integrated Demonlist Changelog
+## v1.4.0 (2024-02-25)
+- Added Enter as a keyboard shortcut to search for a demon in the demonlist page
+- Disabled the page jump buttons when the demonlist is loading or when there is only one page
+- Searching with the same query will not return to the first page
+- Searching with a different query will now refresh the demonlist
+
 ## v1.3.2 (2024-02-25)
 - Moved the demonlist button to the level search menu
 
