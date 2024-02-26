@@ -1,3 +1,5 @@
+# v1.3.1
+    - Bug fix
 # v1.3.0
     - Cubes added
     - More velocity when you change page

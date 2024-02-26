@@ -1,0 +1,14 @@
+{
+    "commit-author": "SaiOwO",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/SaiOwO/A-Dailty-Shop/releases/download/rrrrrr/elsai.a_daily_shop.geode",
+        "hash": "9a4f4a65d322b8b9a91e837493948692b33d70dbb92c53b36ee8dc5cd222207d",
+        "hash256": "9593567459ab8be58a204352934c0ff92936299245fd60210a38930b55a372c4"
+    },
+    "tags": []
+}
