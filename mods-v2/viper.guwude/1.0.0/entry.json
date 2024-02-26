@@ -1,0 +1,15 @@
+{
+    "commit-author": "MuhXd",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/MuhXd/guwude/releases/download/V1.0.0/viper.guwude.geode",
+        "hash": "4d3a92ffa306f109f93feca0bdfb227f4cfd5fcd5ec3d3a8f0a2b74c6e3f4baa",
+        "hash256": "32d5ea11c9a62e8c1763027e3e04586aabc40258be8923ac9b46454a8ab99725"
+    },
+    "tags": []
+}

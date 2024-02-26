@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"android": "2.205",
+        "win": "2.204",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "viper.guwude",
+	"name": "guwude",
+	"developer": "Viper",
+	"resources": {
+		"sprites": ["resources/*.png"]
+	},
+	"description": "Make guwude"
+}
