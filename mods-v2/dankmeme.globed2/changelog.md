@@ -1,3 +1,14 @@
+## v1.2.3
+
+* Add an option for proximity voice in non-platformer mode
+* Add a player count to main levels
+* Add player counts to the level browser
+* Make it harder to accidentally close an error/notice popup
+* Fix dual icon still being visible after exiting dual mode
+* Slightly fix the layout of the voice chat overlay cells
+* Fix the robot fire staying in the air after death
+* Add name searching to admin panel
+
 ## v1.2.2
 
 * Add a voice overlay to show who's currently speaking
