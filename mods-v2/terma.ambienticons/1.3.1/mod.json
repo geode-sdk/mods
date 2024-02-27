@@ -1,0 +1,88 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.3.1",
+	"id": "terma.ambienticons",
+	"name": "Ambient Icons",
+	"developer": "Terma",
+	"description": "The color of the icons syncs with the color of the level you are playing!",
+	"tags": ["player"],
+	"settings": {
+		"change-main-color": {
+			"name": "Change main color",
+			"description": "Makes main color go <cp>ambient</c>",
+			"type": "bool",
+			"default": true
+		},
+		"change-secondary-color": {
+			"name": "Change secondary color",
+			"description": "Makes secondary color go <cp>ambient</c>",
+			"type": "bool",
+			"default": false
+		},
+		"change-main-color-dual": {
+			"name": "Change dual main color",
+			"description": "Makes dual main color go <cp>ambient</c>",
+			"type": "bool",
+			"default": true
+		},
+		"change-secondary-color-dual": {
+			"name": "Change dual secondary color",
+			"description": "Makes dual secondary color go <cp>ambient</c>",
+			"type": "bool",
+			"default": false
+		},
+		"change-wave-trail": {
+			"name": "Change wave trail color",
+			"description": "Makes wave trail color go <cp>ambient</c> (having ambient glow active makes this option useless)",
+			"type": "bool",
+			"default": true
+		},
+		"change-glow-color": {
+			"name": "Change glow color",
+			"description": "Makes glow color go <cp>ambient</c>",
+			"type": "bool",
+			"default": false
+		},
+		"render-x-pos": {
+			"name": "Set X",
+			"description": "Set where in the X axis take the colors",
+			"type": "float",
+			"default": 0,
+			"min": 0,
+			"max": 1,
+			"control": {
+				"slider-step": 0.1,
+				"slider": true,
+				"arrows": false
+			}
+		},
+		"render-y-pos": {
+			"name": "Set Y",
+			"description": "Set where in the Y axis take the colors",
+			"type": "float",
+			"default": 0.5,
+			"min": 0,
+			"max": 1,
+			"control": {
+				"slider-step": 0.1,
+				"slider": true,
+				"arrows": false
+			}
+		},
+		"update-time": {
+			"name": "Update time (ms)",
+			"description": "Increase the value if there are too many flashing colors (after v1.3.1 fps issues should no longer exist)",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 1000
+		},
+		"player-flash": {
+			"name": "Show Player Flash",
+			"description": "Show player flashes in dash orbs, spider orbs, teleports and spider dashes (it may cause update color bugs when is enabled without 0ms update time)",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
