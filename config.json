@@ -2223,7 +2223,8 @@
         "viper.guwude": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "m336.levelinfo": {

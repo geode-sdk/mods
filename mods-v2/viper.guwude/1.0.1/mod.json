@@ -1,0 +1,30 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"android": "2.205",
+        "win": "2.204",
+		"mac": "2.200"
+	},
+	"version": "v1.0.1",
+	"id": "viper.guwude",
+	"name": "guwude",
+	"developer": "Viper",
+	"tags": [
+        "MenuLayer"
+    ],
+	"settings": {
+		 "SFX": {
+			"name": "SFX",
+			"description": "Enable the Sound effects from the mod",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/*.mp3"
+		],
+		"sprites": ["resources/*.png"]
+	},
+	"description": "Make guwude"
+}
