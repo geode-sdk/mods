@@ -1,4 +1,6 @@
 # ChangeLog
+### BetterMenu V2-beta.1
+* Fixed crash when on the main menu
 ## BetterMenu V2
 * Setting to Move the menu position remade
 * Fixed the Right side to shortcuts overlapping bug
