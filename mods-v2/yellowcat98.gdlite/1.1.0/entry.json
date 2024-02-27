@@ -1,0 +1,13 @@
+{
+    "commit-author": "YellowCat98",
+    "platforms": [
+        "windows",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/YellowCat98/GDLite/releases/download/v1.1.0/yellowcat98.gdlite.geode",
+        "hash": "61c1c5f942209b208a77a41a8cf5c855d83b4e73a281b0077ec7943716d66ecb",
+        "hash256": "b669282977d2e6ca442433e3504e968fa0bcf07cd2d5cb265c1cf2f11b043854"
+    },
+    "tags": []
+}

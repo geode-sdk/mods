@@ -1,0 +1,38 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.0",
+	"id": "yellowcat98.gdlite",
+	"name": "GDLite",
+	"developer": "YellowCat98",
+	"description": "This mod turns Geometry dash into Geometry Dash Lite, purely cosmetic, doesn't actually restrict you from any Full Version features.",
+	"repository": "https://github.com/YellowCat98/GDLite/",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.6.1"
+		}
+	],
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"settings": {
+		"hide-lite-spr": {
+			"name": "Hide Lite Sprite",
+			"description": "Hides the Lite Sprite from MenuLayer",
+			"type": "bool",
+			"default": false
+		},
+		"hide-gdlite-watermark": {
+			"name": "Hide the GDLite watermark",
+			"description": "Hides the 'GDLite, Free Trial' watermark from PlayLayer.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
