@@ -3,4 +3,4 @@ It is meant to be used by people programming tools to generate levels by code.
 
 **This mod opens a websocket server and is constantly checking for messages, it is recommended to have the mod disabled if you will not be using it actively!**
 
-Go to the [README.md](https://github.com/iAndyHD3/WSLiveEditor) on github to learn more
+Go to the [wiki](https://github.com/iAndyHD3/WSLiveEditor/wiki) to see use case and usage.

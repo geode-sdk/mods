@@ -1,0 +1,23 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.0.2",
+	"id": "iandyhd3.wsliveeditor",
+	"name": "WSLiveEditor",
+	"developer": "iAndyHD3",
+	"description": "WebSocket server to interact with the editor",
+	"repository": "https://github.com/iAndyHD3/WSLiveEditor",
+	"issues": {
+		"url": "https://github.com/iAndyHD3/WSLiveEditor/issues",
+		"info": "If you encounter issues (like crashes) please report it to the GitHub issues page."
+	},
+	"tags": [
+   	 "Devlopement",
+	 "Tool",
+	 "External",
+	 "Utility",
+	 "Editor"
+  	]
+}
