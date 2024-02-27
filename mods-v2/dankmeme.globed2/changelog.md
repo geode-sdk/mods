@@ -1,3 +1,10 @@
+## v1.2.5
+
+* Fix crash when browsing levels
+* Fix player count label being shown in lists (in a silly place)
+* Fix audio test in settings being broken
+* Hide player count on levels with no people
+
 ## v1.2.4
 
 * Add name colors to player list
