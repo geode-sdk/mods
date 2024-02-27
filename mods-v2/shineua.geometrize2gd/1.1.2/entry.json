@@ -1,0 +1,14 @@
+{
+    "commit-author": "ShineUA",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/ShineUA/geometrize2gd-mod-geode/releases/download/v1.1.2/shineua.geometrize2gd.geode",
+        "hash": "2801d1ea2db89f859f45120684a26697051539c5ba2c247f5f9cedb148348043",
+        "hash256": "dc1ab93ca562d05d2a9ad9e484ca4d251b078844393c16fd71575591c967eb2e"
+    },
+    "tags": []
+}

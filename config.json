@@ -2140,7 +2140,8 @@
             "verified": false,
             "versions": [
                 "1.1.0",
-                "1.1.1"
+                "1.1.1",
+                "1.1.2"
             ]
         },
         "capeling.icon_randomizer": {
