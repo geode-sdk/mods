@@ -1,0 +1,43 @@
+{
+	"geode": "2.0.0-beta.19",
+	"version": "v1.0.2",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"id": "saumondeluxe.rainbow_icon",
+	"name": "Rainbow Icon",
+	"developer": "SaumonDeLuxe",
+	"description": "Makes your icons look incredibly",
+	"settings": {
+		"enable":{
+			"name": "Enable Rainbow Icon",
+			"type": "bool",
+			"description": "Enable or disable the rainbow effect on your icons.",
+			"default": true
+		},
+		"speed":{
+			"name": "Rainbow Speed",
+			"type": "float",
+			"default": 5,
+			"min": 1,
+			"max": 10,
+			"control": {
+				"slider-step": 1
+			},
+			"description": "The speed of the rainbow effect (1 is the slowest, 10 is the fastest)."
+		},
+		"saturation":{
+			"name": "Rainbow Saturation",
+			"type": "float",
+			"default": 100,
+			"min": 0,
+			"max": 100,
+			"control": {
+				"slider-step": 1
+			},
+			"description": "The saturation of the rainbow effect (0 is the lowest, 100 is the highest)."
+		}
+	},
+	"repository": "https://github.com/shadowforce78/Rainbow-Icon"
+}
