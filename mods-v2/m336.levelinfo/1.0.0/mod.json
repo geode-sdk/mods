@@ -1,0 +1,46 @@
+{
+	"geode": "2.0.0-beta.17",
+	"version": "v1.0.0",
+    	"gd": {
+        	"win": "2.204",
+        	"android": "2.205",
+        	"mac": "2.200"
+    	},
+	"id": "m336.levelinfo",
+	"name": "Level Info",
+	"developer": "M336",
+	"description": "A QoL mod that displays stats about levels",
+    "repository": "https://github.com/M336G/LevelInfo",
+	"settings": {
+		"show-requested-stars": {
+            "name": "Requested Stars",
+            "description": "Displays the star difficulty requested by the creator",
+            "type": "bool",
+            "default": true
+        },
+		"show-featured-rank": {
+            "name": "Featured Rank",
+            "description": "Displays the featured rank of the level",
+            "type": "bool",
+            "default": true
+        },
+		"show-object-count": {
+            "name": "Object Count",
+            "description": "Indicates how many objects are in the level",
+            "type": "bool",
+            "default": true
+        },
+		"show-two-player-mode": {
+            "name": "2 Player mode",
+            "description": "Indicates if the level is 2 player mode",
+            "type": "bool",
+            "default": true
+        },
+		"show-level-version": {
+            "name": "Level Version",
+            "description": "Displays the current version of a level",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
