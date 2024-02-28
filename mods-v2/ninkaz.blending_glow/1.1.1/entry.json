@@ -1,0 +1,14 @@
+{
+    "commit-author": "flurrybun",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/flurrybun/blending-glow/releases/download/v1.1.1/ninkaz.blending_glow.geode",
+        "hash": "3c70d9c0fe8b9faa0974669c4b1213418280a6938f8e5f54dd35a72e131b035c",
+        "hash256": "1aa28e9bd620446d43232efbf4709f2febc200bfbac2f46b0a605b1bced17c07"
+    },
+    "tags": []
+}

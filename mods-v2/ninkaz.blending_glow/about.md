@@ -4,4 +4,5 @@ Doesn't work on the robot and spider due to technical limitations, but those two
 
 ## Options
 
-- Brighter glow: increases the brightness of the glow to emulate the glow color pre-2.2.
+- Blending glow: enable/disable blending glow without needing to restart
+- Brighter glow: increases glow brightness by 1.5x to emulate the glow color pre-2.2
