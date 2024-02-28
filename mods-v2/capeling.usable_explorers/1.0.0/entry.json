@@ -1,0 +1,12 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/Usable-Explorers/releases/download/v1.0.0/capeling.usable_explorers.geode",
+        "hash": "1f64692f18170dbf7171bc7b913c543c7667b72418763d416784a7d0f503bf6e",
+        "hash256": "3827f3dfe3cb3eb9fc1989f15e1f28f047ea9d4ebc96f2b123588069c52c296d"
+    },
+    "tags": []
+}

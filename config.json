@@ -2232,6 +2232,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "capeling.usable_explorers": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
