@@ -1,0 +1,17 @@
+{
+    "commit-author": "tastyForReal",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/tastyForReal/google-translate-gd-mod/releases/download/2024.229.0/tastyforreal.google-translate.geode",
+        "hash": "e892262d91663bb0c444157de029c915e7987506cd063f49d5bc372ec19b3bcb",
+        "hash256": "799031c030baae9a314038669ea6cbdfbf15d45719ae83f8c6469fb47ffecade"
+    },
+    "tags": [
+        "Utility"
+    ]
+}

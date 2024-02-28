@@ -2251,6 +2251,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "tastyforreal.google-translate": {
+            "verified": false,
+            "versions": [
+                "2024.229.0"
+            ]
         }
     }
 }

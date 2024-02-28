@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v2024.229.0",
+	"id": "tastyforreal.google-translate",
+	"name": "Google Translate",
+	"developer": "tastyForReal",
+	"description": "Translate any text to a desired language with a click of a button using Google Translate.",
+	"tags": ["Utility"],
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.7.1",
+			"importance": "required"
+		}
+	],
+	"resources": {
+		"sprites": ["resources/translateButton.png", "resources/translateButton_small.png"]
+	}
+}
