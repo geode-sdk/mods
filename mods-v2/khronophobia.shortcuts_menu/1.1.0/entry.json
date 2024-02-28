@@ -1,0 +1,16 @@
+{
+    "commit-author": "Khronophobia",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Khronophobia/Shortcuts-Menu/releases/download/v1.1.0/khronophobia.shortcuts_menu.geode",
+        "hash": "2910f0d9dcefb50005133a867352946242062e2871e7cb942364cf754145b223",
+        "hash256": "06f9cfa887036c8cc42e852c26db30b64b3fa9db2bdaf0a11e9002b57e7648c8"
+    },
+    "tags": [
+        "Enhancement"
+    ]
+}
