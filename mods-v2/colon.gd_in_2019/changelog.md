@@ -1,3 +1,6 @@
+# 2.0.3
+- improved support for non-16:9 aspect ratios
+
 # 2.0.2
 - added missing versus button
 

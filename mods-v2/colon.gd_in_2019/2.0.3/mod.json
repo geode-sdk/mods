@@ -1,0 +1,25 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	}, 
+	"version": "v2.0.3",
+	"id": "colon.gd_in_2019",
+	"name": "Geometry Dash in 2019",
+	"developer": "Colon",
+	"description": "this will be geometry dash in 2019 (adds way too many extra buttons to the creator layer)",
+	"repository": "https://github.com/GDColon/gd-in-2019",
+	"resources": {
+		"sprites": [
+			"resources/reference.png"
+		]
+	},
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.7.0",
+            "importance": "required"
+        }
+    ]
+}

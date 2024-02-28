@@ -1,0 +1,14 @@
+{
+    "commit-author": "GDColon",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/GDColon/gd-in-2019/releases/download/v2.0.3/colon.gd_in_2019.geode",
+        "hash": "041bc5450de0573c5d14bed78dae9509e675dbd73d586fa498bb7f857ae20916",
+        "hash256": "5513fe8fb6bec11c761859ec5ad62b42f7aecab09c0e06ecd6091b1bae6bde56"
+    },
+    "tags": []
+}
