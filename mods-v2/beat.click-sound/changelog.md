@@ -1,4 +1,6 @@
 # Changelog
+## Version v1.5.2
+* Added headings in the settings menu! (ty coop and viper :3)
 ## Version v1.5.1
 * Added tags for the Geode downloads page
 ## Version v1.5.0
