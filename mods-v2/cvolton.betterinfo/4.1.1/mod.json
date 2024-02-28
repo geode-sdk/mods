@@ -1,0 +1,69 @@
+{
+	"geode": "2.0.0-beta.20",
+	"version": "v4.1.1",
+    "gd": {
+        "win": "2.204",
+        "android": "2.205",
+        "mac": "2.200"
+    },
+	"id": "cvolton.betterinfo",
+	"name": "BetterInfo",
+	"developer": "Cvolton",
+	"description": "betterinfo geode real (not fake)",
+    "repository": "https://github.com/cvolton/betterinfo-geode",
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.7.1",
+            "importance": "required"
+        }
+    ],
+	"settings": {
+        "show-comment-ids": {
+            "name": "Show comment IDs",
+            "description": "Whether comment IDs should be shown in comment cells",
+            "type": "bool",
+            "default": false
+        },
+        "level-info": {
+            "name": "Enable Extended Level Info",
+            "description": "Whether the custom level info dialog from BI should be used",
+            "type": "bool",
+            "default": true
+        },
+        "fix-green-users": {
+            "name": "Fix broken usernames",
+            "description": "Whether destroyed green usernames no longer returned by the servers should be fixed using data from the GDHistory project",
+            "type": "bool",
+            "default": true
+        },
+        "alt-button": {
+            "name": "Alternative button texture",
+            "description": "BI :)",
+            "type": "bool",
+            "default": false
+        },
+        "auto-submit": {
+            "name": "Auto submit to leaderboards",
+            "description": "Automatically submits your level score to the level leaderboards upon exiting a level",
+            "type": "bool",
+            "default": false
+        },
+        "white-id": {
+            "name": "White Level ID text",
+            "description": "Displays level IDs in level search white instead of grey. Useful if you have transparent lists",
+            "type": "bool",
+            "default": false
+        }
+    },
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ],
+		"spritesheets": {
+            "SearchButtons-410": [
+                "resources/searchbuttons-410/*.png"
+            ]
+        }
+    }
+}
