@@ -2251,7 +2251,8 @@
         "nytelyte.wave_trail_drag_fix": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "tastyforreal.google-translate": {
