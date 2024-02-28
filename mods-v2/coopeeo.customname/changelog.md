@@ -1,5 +1,7 @@
 # Changelog
 ## 1.4.0
+* Updated Requirements! (geode: 2.0.0-beta.21 and node ids: 1.6.1)
+## 1.4.0
 * Added Support For Level Comments (InfoLayer and CommentCell)
 * Added Support For Icon Kit (Garage/GJGarageLayer)
 ## 1.3.1
