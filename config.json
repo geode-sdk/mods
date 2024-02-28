@@ -2245,6 +2245,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "nytelyte.wave_trail_drag_fix": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
