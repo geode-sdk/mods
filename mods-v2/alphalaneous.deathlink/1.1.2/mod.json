@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.2",
+	"id": "alphalaneous.deathlink",
+	"name": "DeathLink",
+	"developer": "Alphalaneous",
+	"description": "Link your deaths with another player"
+}
