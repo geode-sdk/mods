@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.12",
+	"version": "v1.0.1",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"id": "techstudent10.hide_locks",
+	"name": "Hide Locks",
+	"developer": "TechStudent10",
+	"description": "Hides the locks in the Icon Kit",
+	"repository": "https://github.com/TechStudent10/HideLocks"
+}
