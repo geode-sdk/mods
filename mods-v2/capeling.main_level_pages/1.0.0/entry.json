@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/main-level-pages/releases/download/v1.0.0/capeling.main_level_pages.geode",
+        "hash": "2ccf5a3c5a7c2065f146147e90d40f44ba19648ca64939765d3a593c7da8c8c4",
+        "hash256": "a084f5a110b81ea23f6188ef9cdc5dd92277c4810ee171391f2b494aecb348a7"
+    },
+    "tags": []
+}

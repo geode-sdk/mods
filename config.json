@@ -2264,6 +2264,12 @@
             "versions": [
                 "2024.229.0"
             ]
+        },
+        "capeling.main_level_pages": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
