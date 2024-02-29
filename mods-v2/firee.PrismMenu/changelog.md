@@ -1,3 +1,21 @@
+# v1.5.0
+    - Added Auto Safe Mode.
+    - Added No Shaders.
+    - Added Uncomplete Level.
+    - Allowed changing "percent digits".
+    - Added Show Hitboxes.
+    - Added Hitbox Stroke.
+    - Added Show Hitboxes on Death.
+    - Added Suicide.
+    - Added Disable Camera Effects.
+    - Added Turkish Translations.
+    - Added Vietnamese Translations.
+    - Fixed "Solid Wave Trail" not working for Mac OS.
+    - Fixed "No Transition" not working for Mac OS.
+    - Fixed bug with Jump Hack not working when upside down.
+    - Fixed issue with "Show Graphic Options" not working on ImGui.
+    - Fixed issue with Accurate Percentage not working sometimes in Test Mode.
+    - Fixed issue where if you erase all numbers in an input, it will crash on Android.
 # v1.4.2
     - Fixed bug with No Mirror Transition & Instant Mirror Portal if "No Effect" is applied.
     - Fixed speedhack not syncing with gameplay correctly.
