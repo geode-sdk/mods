@@ -1,0 +1,134 @@
+{
+	"geode": "2.0.0-beta.8",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v2.0.1-beta.2",
+	"id": "muhammadgames.bettermenu",
+	"name": "Better Menu",
+	"developer": "Viper",
+	"repository": "https://github.com/MuhXd/BetterMenuMod",
+	"description": "This mod is used for a better menu for the game. This Mod aim is to have a better experience on the menus",
+	"tags": [
+        "Customization",
+		"MenuLayer"
+    ],
+	"resources": {
+		"files": [
+			"resources/*.mp3"
+		],
+		"sprites": ["resources/*.png"]
+	},
+	"settings": {
+	"exit-heading": {
+		"type": "custom",
+		"mode" : "Heading",
+		"text": "Remove / Disable"
+	 },
+	 "RunMainMenu": {
+		"name": "Main Menu Modifications",
+		"description": "This settings Enables the main menu (Note: This will be for other menus when i am finished)",
+		"type": "bool",
+		"default": true
+	},
+	"EnableExitGameButton": {
+		"name": "Exit Button",
+		"description": "Makes the game be able to close",
+		"type": "bool",
+		"default": true
+	},
+	"HideName": {
+		"name": "Hide Username",
+		"description": "This setting Hides the players name from the main menu",
+		"type": "bool",
+		"default": true
+	},
+	"replacename": {
+		"name": "Hide Real Username",
+		"description": "This replaces your Username with 'Streamer'",
+		"type": "bool",
+		"default": true
+	},
+	"MenuPos-heading": {
+		"type": "custom",
+		"mode" : "Heading",
+		"text": "Menu Manipulation"
+	 },
+	 "MenuPos-pos": {
+		"type": "custom",
+		"mode" : "Hardcoded"
+	 },
+	 "MenuMovement": {
+		"name": "Bottom Menu load Animation",
+		"description": "This setting makes the bottom menu move when loading (less compatible on macos)",
+		"type": "bool",
+		"default": true
+	},
+	"RightSide": {
+		"name": "Right Menu to Shortcuts",
+		"description": "Moves the right menu near the Shortcuts",
+		"type": "bool",
+		"default": false
+	},
+	"Shortcuts-heading": {
+		"type": "custom",
+		"mode" : "Heading",
+		"text": "Shortcuts"
+	 },
+	"ShortcutMyLevel": {
+		"name": "My Levels Shortcut",
+		"description": "Adds my Levels to the Shortcuts location",
+		"type": "bool",
+		"default": true
+	},
+	"ShortcutSavedLevels": {
+		"name": "Saved levels Shortcut",
+		"description": "Adds saved Levels to the Shortcuts location",
+		"type": "bool",
+		"default": true
+	},
+	"ShortcutSearch": {
+		"name": "Search Shortcut",
+		"description": "Removes More games and replaces it with Search button",
+		"type": "bool",
+		"default": true
+	},
+	"ShortcutDaily": {
+		"name": "Daily Shortcut",
+		"description": "Adds Daily button to Shortcuts",
+		"type": "bool",
+		"default": true
+	},
+	"ShortcutWeekly": {
+		"name": "Weekly Shortcut",
+		"description": "Adds Weekly button to Shortcuts",
+		"type": "bool",
+		"default": true
+	},
+	"Joke-Features": {
+		"type": "custom",
+		"mode" : "Heading",
+		"text": "Joke Settings"
+	 },
+	 "SFX": {
+		"name": "SFX",
+		"description": "Enable the Sound effects from the mod",
+		"type": "bool",
+		"default": true
+	},
+	 "Uwugeode": {
+		"name": "Uwu geode",
+		"description": "Makes the geode button uwuifyed",
+		"type": "bool",
+		"default": false
+	},
+	"Merp": {
+		"name": "Merp",
+		"description": "Plays a merp when pressing spacebar",
+		"type": "bool",
+		"default": false
+	}
+}
+}

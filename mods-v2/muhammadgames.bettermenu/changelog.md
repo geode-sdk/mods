@@ -1,4 +1,7 @@
 # ChangeLog
+### BetterMenu V2-beta.2
+* New option to make the bottom menu play a moving animation
+* Disable main menu modifications bug fix 
 ### BetterMenu V2-beta.1
 * Fixed crash when on the main menu
 ## BetterMenu V2
