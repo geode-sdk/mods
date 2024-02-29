@@ -1,9 +1,9 @@
 # Click Sounds
 
-Plays a click sound whenever you press a jump button, or a release sound whenever you release a jump button if you want that too.
+Plays a click sound whenever you press a jump button, or (optionally) a release sound whenever you release a jump button.
 If you want a new built-in click sound or feature to be added, join the [discord server](https://discord.gg/RwbRP8ADdc). <3
 
-### Uses Geode v2.0.0-beta.19 and Node-IDs v1.5.1
+### Uses Geode v2.0.0-beta.20 and Node-IDs v1.6.1
 Open the mod settings to change the click sound. Set the click sound to '0' to use a custom click sound.
 ## Click sounds:
 ### Useful click sounds (positive number):
@@ -36,6 +36,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 26 - Doggie
 - 27 - Trusta
 - 28 - Gazonk
+- 29 - Sayo Device (randomized)
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -79,6 +80,7 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 10 - Click/Release 5 (randomized)
 - 11 - Zoink Click/Release
 - 12 - Neiro Click/Release
+- 13 - Sayo Device (randomized)
 ### Meme release sounds (negative number):
 - 1 - TikTok
 
