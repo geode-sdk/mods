@@ -10,6 +10,9 @@
 
 - You can also change the saturation of the rainbow effect in the settings.
 
+# Warning
+<cr>THIS MOD DON'T WORK PROPERLY WITH THE "AmbientIcons" OR "Same Dual Color" ENABLED</cr>
+
 # Credits
 
 - Thanks [availax](https://linktr.ee/availaxmusic) for the new mod icon.

@@ -1,0 +1,18 @@
+{
+    "commit-author": "shadowforce78",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/shadowforce78/Rainbow-Icon/releases/download/1.0.3/saumondeluxe.rainbow_icon.geode",
+        "hash": "7955a06e46a7a1182c2113e36e58b9d92ff403b5bd8f93f54c055787e87ce593",
+        "hash256": "de2ac330440c2fce199427f0d22036119654cc7eeef0654ae733b4552aaa94c9"
+    },
+    "tags": [
+        "icon",
+        "rainbow",
+        "glow"
+    ]
+}

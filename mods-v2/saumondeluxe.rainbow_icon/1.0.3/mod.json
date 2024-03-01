@@ -1,0 +1,76 @@
+{
+	"geode": "2.0.0-beta.19",
+	"version": "v1.0.3",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"id": "saumondeluxe.rainbow_icon",
+	"name": "Rainbow Icon",
+	"developer": "SaumonDeLuxe",
+	"description": "Makes your icons look incredibly",
+	"tags": [
+		"icon",
+		"rainbow",
+		"glow"
+	],
+	"settings": {
+		"enable": {
+			"name": "Enable Rainbow Icon",
+			"type": "bool",
+			"description": "Enable or disable the rainbow effect on your icons.",
+			"default": true
+		},
+		"sync": {
+			"name": "Sync Rainbow",
+			"type": "bool",
+			"description": "Enable or disable the sync rainbow effect between the color1 and color2.",
+			"default": true
+		},
+		"glow": {
+			"name": "Rainbow Glow",
+			"type": "bool",
+			"description": "Enable or disable the glow effect on the rainbow.",
+			"default": true
+		},
+		"preset": {
+			"name": "Rainbow Preset",
+			"type": "int",
+			"description": "0 = Only Glow(if enabled), 1 = All enabled, 2 = Only the color1 rainbow effect, 3 = Only the color2 rainbow effect",
+			"default": 1,
+			"max": 3,
+			"min": 0,
+			"control": {
+				"big-arrow-step": 1
+			}
+		},
+		"speed": {
+			"name": "Rainbow Speed",
+			"type": "float",
+			"default": 5,
+			"min": 1,
+			"max": 10,
+			"control": {
+				"slider-step": 1
+			},
+			"description": "The speed of the rainbow effect (1 is the slowest, 10 is the fastest)."
+		},
+		"saturation": {
+			"name": "Rainbow Saturation",
+			"type": "float",
+			"default": 100,
+			"min": 0,
+			"max": 100,
+			"control": {
+				"slider-step": 1
+			},
+			"description": "The saturation of the rainbow effect (0 is the lowest, 100 is the highest)."
+		}
+	},
+	"repository": "https://github.com/shadowforce78/Rainbow-Icon",
+	"resources": {
+		"sprites": [
+			"resources/btnSprite.png"
+		]
+	}
+}
