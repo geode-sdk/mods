@@ -1,0 +1,89 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "coopeeo.hideplus",
+	"name": "Hide+",
+	"developer": "Cooper",
+	"description": "The ultimate hiding mod! Replaces other mods with one customizable mod.",
+	"repository": "https://github.com/coopeeo/HideAnything/",
+	"settings": {
+		"hideplus-section": {
+			"name": "Hide+",
+			"type": "custom"
+		},
+		"hideplus-enable": {
+			"name": "Enable Mod",
+			"type": "bool",
+			"default": true
+		},
+		"menulayer-section": {
+			"name": "Main Menu",
+			"type": "custom"
+		},
+		"menulayer-achievements": {
+			"name": "Achievements",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-stats": {
+			"name": "Stats",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-newgrounds": {
+			"name": "Newgrounds",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-social": {
+			"name": "Social Media",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-title": {
+			"name": "Title",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-moregames": {
+			"name": "More Games",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-profile": {
+			"name": "Profile",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-username": {
+			"name": "Username",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-daily": {
+			"name": "Daily Chests",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-garage": {
+			"name": "Icon Kit (Garage)",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-build": {
+			"name": "Online (Create, Saved, etc)",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-play": {
+			"name": "Play Button",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

@@ -2307,6 +2307,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "coopeeo.hideplus": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
