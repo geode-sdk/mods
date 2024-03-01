@@ -1,3 +1,7 @@
+# v1.0.2
+
+- fix interaction with slopes
+
 # v1.0.1
 
 - fix a glitch on the dual wave
