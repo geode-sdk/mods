@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v0.5.0",
+	"id": "zalphalaneous.minecraft",
+	"name": "Minecraft!",
+	"developer": "Alphalaneous",
+	"description": "Makes GD turn into Minecraft",
+	"early-load" : true,
+	"resources": {
+		"files": [
+			"assets/sounds/*",
+			"assets/fonts/*",
+			"assets/textures/*",
+			"assets/texts/*",
+			"assets/panorama/*",
+			"assets/shaders/*"
+        ]
+    },
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.6.1",
+            "importance": "required"
+        }
+    ]
+}
