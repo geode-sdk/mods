@@ -1,0 +1,34 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.0-beta.5",
+	"gd": {
+		"win": "2.204",
+        "mac": "2.200",
+		"android": "*"
+	},
+	"id": "thesillydoggo.comment_emojis",
+	"name": "Emojis in Comments",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.6.1",
+            "importance": "required"
+        }
+    ],
+	"resources": {
+		"spritesheets": {
+			"GJ_EmojiSheet": [
+				"emojis/discord/*.png"
+			],
+			"GJ_EmojiSheet02": [
+				"emojis/other/*.png"
+			],
+			"GJ_EmojiUISheet": [
+				"resources/*.png"
+			]
+		}
+	},
+	"developer": "TheSillyDoggo",
+	"description": "geometry dash sex real ?! (not faek)",
+	"repository": "https://github.com/TheSillyDoggo/Comment-Emojis"
+}
