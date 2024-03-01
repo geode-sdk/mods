@@ -1,5 +1,7 @@
 # Changelog
-## 1.4.2
+## 1.4.4
+* Remove debug crap
+## 1.4.3
 * Renamed myself to coopeeo (for something coming real soon -geode devs)
 * for other mods like click sound i still go under Coop for right now
 ## 1.4.2
