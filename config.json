@@ -2299,6 +2299,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "cdc.level_thumbnails": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

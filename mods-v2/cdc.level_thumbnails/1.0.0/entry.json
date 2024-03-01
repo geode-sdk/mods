@@ -1,0 +1,14 @@
+{
+    "commit-author": "cdc-sys",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/cdc-sys/level-thumbs-mod/releases/download/v1.0.0/cdc.level_thumbnails.geode",
+        "hash": "c8ec61f01d21ea89ea1bbf28994260d7940dcea90b07b3da9bc53219fdb208a0",
+        "hash256": "8127390b580029a910b5bc5928e75118f9940ee04ba3ec0d6eb9defc9b47ff8d"
+    },
+    "tags": []
+}
