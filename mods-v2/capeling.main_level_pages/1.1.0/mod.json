@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.0",
+	"id": "capeling.main_level_pages",
+	"name": "Main Level Pages",
+	"developer": "Capeling",
+	"description": "Changes the level pages to jump to a modified online level page that allows you to copy the level, change settings (disabling shake, ldm) and favouriting the level.",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.6.1",
+            "importance": "required"
+        }
+    ]
+}
