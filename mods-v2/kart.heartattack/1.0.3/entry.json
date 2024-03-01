@@ -1,0 +1,16 @@
+{
+    "commit-author": "KarterIsEpic",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/KarterIsEpic/HeartAttack/releases/download/v1.0.3/kart.heartattack.geode",
+        "hash": "e91c6496ae8e2bda2a0cc48c46c04a2c52b5384d94e89cd3236a1c9f795510d4",
+        "hash256": "08468f75826bb4b6decff842f8f87d8461fff736a1ea9f936ef29833ae0eac99"
+    },
+    "tags": [
+        "gameplay"
+    ]
+}

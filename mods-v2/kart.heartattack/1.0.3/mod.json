@@ -1,0 +1,34 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204",
+        	"android": "2.205"
+    	},
+	"version": "v1.0.3",
+	"id": "kart.heartattack",
+	"name": "Heart Attack",
+	"developer": "kart.cs",
+	"description": "Gives the player a chance to die of a heart attack.",
+	"tags": [
+		"gameplay"
+	],
+	"settings": {
+		"hac":{
+			"name": "Heart attack chance",
+			"description": "The chance (out of 100) that the player dies of a heart attack. Setting this to 0 essentially disables the mod.",
+			"type": "int",
+			"default": 10,
+			"min": 0,
+			"max": 100,
+			"control": {
+				"input": true
+			}
+		},
+		"enabled":{
+			"name": "Enable heart attacks",
+			"description": "Toggle ON to enable heart attacks.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
