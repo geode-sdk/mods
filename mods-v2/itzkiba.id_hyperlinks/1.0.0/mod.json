@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.0",
+	"gd": "2.204",
+	"id": "itzkiba.id_hyperlinks",
+	"name": "ID Hyperlinks",
+	"developer": "ItzKiba",
+	"description": "Allows you to click on a GD message text with a level ID to go to that level."
+}
