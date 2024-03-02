@@ -1,0 +1,14 @@
+{
+    "commit-author": "MuhXd",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/MuhXd/New-best-comments/releases/download/v1.0.2/viper.newbestcomments.geode",
+        "hash": "757a43117f6a2c00e7b35394c86bddbe10f8cdfd381ec5879fae44615c549085",
+        "hash256": "8408a07e1d31f727b49bc22dc40ff35a0bc7b0fad3085703a1b6597280336558"
+    },
+    "tags": []
+}
