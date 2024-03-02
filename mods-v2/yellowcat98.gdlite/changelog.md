@@ -9,3 +9,7 @@
 # 1.2.0
 - Ability to remove More games menu modification (to fix compatibility with other mods)
 - Android32 support
+
+# 1.2.1
+- Change GDLite watermark position
+- Removed "Hide GDLite watermark" option. can be hiden by setting GDLite watermark position to 0.
