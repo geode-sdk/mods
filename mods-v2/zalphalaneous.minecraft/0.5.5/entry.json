@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/Minecraft-UI-in-GD/releases/download/0.5.5/zalphalaneous.minecraft.geode",
+        "hash": "8e4ae44abadc335ed8afdc2ecf54df923a3db8c89fd616fe365974162b124007",
+        "hash256": "efb2238ef05a38b7c808f814caccdb21e1097181c94ce4905a42e01eed77bc1c"
+    },
+    "tags": []
+}
