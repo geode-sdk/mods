@@ -1,0 +1,32 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "viper.newbestcomments",
+	"name": "New best comment",
+	"developer": "Viper",
+	"settings": {
+		"Death": {
+			"name": "Always on death",
+			"description": "Sends a comment if you die and got a new best",
+			"type": "bool",
+			"default": false
+		},
+		"difficulty": {
+			"name": "Min comment level difficulty",
+			"description": "Change what levels can be commented on your profile",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 17,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		}
+	},
+	"description": "Comments on your profile your new best on a level"
+}
