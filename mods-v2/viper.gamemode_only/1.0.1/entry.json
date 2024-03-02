@@ -1,0 +1,14 @@
+{
+    "commit-author": "MuhXd",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/MuhXd/Gamemode-only/releases/download/v1.0.1/viper.gamemode_only.geode",
+        "hash": "bc967c8c8f562e3defc5ad57268dc56ca413e651ecd4f6ab8fb8bdb9514557f4",
+        "hash256": "2238216d488eb8edbc749bd0da46cccb51b91fa1868351145e267db9c171ed2f"
+    },
+    "tags": []
+}
