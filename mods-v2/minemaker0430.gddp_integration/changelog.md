@@ -1,3 +1,14 @@
+# v1.0.0-beta.7
+
+**This mod is now an official part of the GDDP. Thank you for your support! <3**
+
+* Main Pack Completions now show the Plus Sprite like they should've been
+* Legacy Packs are now locked behind Main Ranks (can be toggled off)
+* Better Progress Evaluation (might fix mobile crashes)
+* Rewrote the "plus" name display (Demons + -> + Demons)
+* Fixed the Loading Circle showing up on the Creator Menu instead of the GDDP Menu
+* Modified the Custom List Menu
+
 # v1.0.0-beta.6
 
 * Added Practice Versions of the Main Tiers. (Will be available later)
