@@ -1,8 +1,8 @@
-# Level Info
+# LevelInfo
 
 A QoL mod that displays stats about levels
 
-Pretty much every stats are toggleable
+Pretty much every stat is toggleable, even the text color!
 
 ----------
 ### Why did you make this?
@@ -12,4 +12,5 @@ I was bored, so I made this for fun. I also wanted to learn a bit about C++, sin
 ----------
 ### Special Thanks
 
-Thanks to dankmeme for helping me figuring out some mistakes I made in my code.
+Thanks to dankmeme for helping me figure out some mistakes I made in my code.
+Thanks freadfries for the logo!
