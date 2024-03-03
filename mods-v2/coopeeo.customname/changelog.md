@@ -1,6 +1,9 @@
 # Changelog
+## 1.5.0
+* Add support for BetterPause v1.6.6 (Not accepted on Index as of the time of this mod updating)
+* Add support for Profile comments!
 ## 1.4.4
-* Remove debug crap
+* Remove debug stuff
 ## 1.4.3
 * Renamed myself to coopeeo (for something coming real soon -geode devs)
 * for other mods like click sound i still go under Coop for right now
