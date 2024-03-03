@@ -1,3 +1,7 @@
+# v1.0.0-beta.8
+
+* Fixed Compatibility Issues (thanks SpaghettDev for your help)
+
 # v1.0.0-beta.7
 
 **This mod is now an official part of the GDDP. Thank you for your support! <3**
