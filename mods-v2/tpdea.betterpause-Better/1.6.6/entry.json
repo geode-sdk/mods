@@ -1,0 +1,18 @@
+{
+    "commit-author": "TpdeaX",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TpdeaX/BetterPause-Geode/releases/download/release_5/tpdea.betterpause-Better.geode",
+        "hash": "0d5f2c8c2c25d6bd38acec28c9e8f083f2187a2fa93a7097d877e88ae514a153",
+        "hash256": "2abe8fcdd45961c61496ecce124fb96a766c0a97cb49a2aecc09cf72956a8154"
+    },
+    "tags": [
+        "Customization",
+        "Interface",
+        "Enhancement"
+    ]
+}

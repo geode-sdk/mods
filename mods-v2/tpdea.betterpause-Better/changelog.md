@@ -1,12 +1,18 @@
 # Changelog
 
+## v1.6.6
+* Fixes for various bugs and incompatibilities with other mods.
+* Maximum aspect ratio correction
+* Added button touch tolerance settings to the button list and more customisation settings
+* Fixed android bug (I think)
+* Added SimplePauseMenu and ClassicPauseMenu
+
 ## v1.6.2
 * Available for android!!!
 * Fixed some bugs of bad positioning of objects (ChallengePage, Sliders, etc...)
 * Nothing else xd
 
 ## v1.6.0
-
 * The mod icon has been changed (thanks RueOfficial :D)
 * More customization options have been added to the mod settings (Select quick settings, disable menu button arrows).
 * Now you can see the creator's name.
