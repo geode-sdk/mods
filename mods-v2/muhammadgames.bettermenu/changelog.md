@@ -1,4 +1,7 @@
 # ChangeLog
+### BetterMenu V2.02
+* New games button setting
+* Newgrounds button remover setting
 ### BetterMenu V2-beta.2
 * New option to make the bottom menu play a moving animation
 * Disable main menu modifications bug fix 
