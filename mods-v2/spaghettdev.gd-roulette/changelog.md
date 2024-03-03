@@ -5,6 +5,82 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.0] - 2024-03-01
+
+GD-Roulette commit everything at once challenge (mildly possible)
+
+Notable changes:
+
+- MacOS support
+- GD Lists option
+- Ability to pause when in a round of roulette
+- Bugs & crashes
+
+### Added
+
+- rtrp library, that parses Geometry Dash's server responses, made by yours truly
+- MacOS support
+- `RLDemonSelectLayer`, a layer that lets you select a demon difficulty (appears when clicking the demon plus button)
+- `IntegerInputInfo::show_arrows` bool
+- `RLDifficultyNode`, a custom node that's basically `GJDifficultySprite` but better IMO
+- `ListFetcher::level_pair_t`, an `std::pair` of a LevelObject and a CreatorObject
+- `ListFetcher::getRandomGDListLevel`
+- `ListFetcher::GJ_SECRET`, `ListFetcher::GJ_LEVELS_URL`, `ListFetcher::GJ_LISTS_URL`, `ListFetcher::GJ_LEN_QUERY`, `ListFetcher::DEMONLIST_URL`, `ListFetcher::CHALLENGELIST_URL`, `ListFetcher::m_cDemonDiffToFilter`, `ListFetcher::m_cachedGDListID`, `ListFetcher::m_cachedGDListLevelIDs`, `ListFetcher::getDifficultyQuery(GJDifficulty)`
+- `RWDI_MODE` macro when compiling in RelWithDebInfo
+- GD Lists as a list option
+- Info icons to list checkboxes in `RLRouletteInfoLayer`
+- Visual indicator of selected list (except GD List)
+- Node IDs to RLRouletteInfoLayer
+- Node IDs to RLRouletteLayer
+- Ability to Pause or Quit when closing RLRouletteLayer
+- `RLRouletteLayer::getDifficultyButton`, `RLRouletteLayer::setDifficultyButtonColor`
+- JSON arrays are checked on launch in `RouletteManager`'s ctor
+- `RouletteManager::isPaused`, `RouletteManager::gdListID`, `RouletteManager::previousDifficulty`, `RouletteManager::previousDemonDifficulty`, `RouletteManager::getDifficultyFromSaveContainer()`
+- `rl::constants` namespace
+- `rl::utils::createLevelFromResponse()`, `rl::utils::getCreatorFromLevelResponse()`, `rl::utils::getDifficultyFromResponse()`
+- Geode 2.0.0-beta.21 support
+- Some missing node IDs to `RLRouletteLayer`
+- Some colors to some layers
+
+### Changed
+
+- Rely on Geometry Dash's servers instead of GDBrowser's API (this was long overdue)
+- Renamed `BaseCustomLayer` to `BaseCustomAlertLayer`
+- Prefixed all custom layers/nodes with `RL`
+- Renamed `ConfirmationAlertInfo::onYes` to `RLConfirmationAlertInfo::onBtn1`
+- Renamed `ConfirmationAlertInfo::onNo` to `RLConfirmationAlertInfo::onBtn2`
+- Renamed `RLRouletteLayer::onDifficultyChosen` to `RLRouletteLayer::onDifficultyButton`
+- Renamed `roulette` namespace to `rl`
+- Pass `ConfirmationAlertInfo` into the `create` method instead of `setup`
+- `IntegerInputInfo::starting_value` is now an `std::optional<int>`
+- rouletteButton `CreatorLayer`'s CCMenu is now positioned based on the window's size
+- All `as` back to `static_cast`s because yes
+- Renamed `ListFetcher::normalListMaxPage` to `ListFetcher::m_cNormalListMaxPage`
+- Updated `ListFetcher::m_cNormalListMaxPage`
+- All `ListFetcher`'s methods take a `ListFetcher::level_pair_t` instead of a `matjson::Value`
+- `ListFetcher::getRandomNormalListLevel` is passed a GJDifficulty instead of an int
+- How `RLRouletteLayer::onDifficultyButton` handles stuff
+- `RLRouletteLayer::getRandomListLevel` is passed a GJDifficulty instead of an int
+- How coins are positioned in `RLRouletteLayer` (they're now based on the difficulty node's position)
+- Some info about the info icons in ABOUT.md
+- How touch priority is handled in BaseCustomAlertLayer
+- No longer use `geode::cocos::handleTouchPriority`
+
+### Fixed
+
+- Made the rouletteButton a bit better code-wise (still sucks)
+- Potential crash when modifying `LevelInfoLayer` of a platformer level
+- Potential crash when modifying `PauseLayer` of a platformer level
+- Invalid page when searching for a level in `ListFetcher::getRandomNormalListLevel`
+- Dev macro (RWDI_MODE)
+- Demon plus button visible in Demon List and Challenge List modes
+- Weird static variable swap stuff in `RLConfirmationAlertLayer` and `RLIntegerInputLayer`
+- Odd way of resetting all `CCMenuItemToggler`s after being toggled
+- Clicking the level's name/creator/id not copying it to the clipboard
+- Potential crash if `RLRouletteLayer::m_level` is empty (highly situational)
+- Geode invalid tags
+- Touch Prio on android :heart:
+
 ## [1.6.2] - 2024-02-09
 
 ### Fixed
