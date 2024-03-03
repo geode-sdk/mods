@@ -5,6 +5,7 @@ Very customizable!
 
 ## Layers Supported
 * Main Menu (MenuLayer)
+* Creator Menu (CreatorLayer)
 
 
 ## Credits

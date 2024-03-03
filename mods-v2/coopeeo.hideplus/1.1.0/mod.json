@@ -1,0 +1,178 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"version": "v1.1.0",
+	"id": "coopeeo.hideplus",
+	"name": "Hide+",
+	"developer": "Cooper",
+	"description": "The ultimate hiding mod! Replaces other mods with one customizable mod.",
+	"repository": "https://github.com/coopeeo/HideAnything/",
+	"settings": {
+		"hideplus-section": {
+			"name": "Hide+",
+			"type": "custom"
+		},
+		"hideplus-enable": {
+			"name": "Enable Mod",
+			"type": "bool",
+			"default": true
+		},
+		"menulayer-section": {
+			"name": "Main Menu",
+			"type": "custom"
+		},
+		"menulayer-achievements": {
+			"name": "Achievements",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-stats": {
+			"name": "Stats",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-newgrounds": {
+			"name": "Newgrounds",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-social": {
+			"name": "Social Media",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-title": {
+			"name": "Title",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-moregames": {
+			"name": "More Games",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-profile": {
+			"name": "Profile",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-username": {
+			"name": "Username",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-daily": {
+			"name": "Daily Chests",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-garage": {
+			"name": "Icon Kit (Garage)",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-build": {
+			"name": "Creator Button (Create, Saved, etc)",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-play": {
+			"name": "Play Button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-section": {
+			"name": "Creator Layer",
+			"type": "custom"
+		},
+		"creatorlayer-background": {
+			"name": "Background",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-leftcorner": {
+			"name": "Left Corner",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-featured": {
+			"name": "Featured button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-lists": {
+			"name": "Lists button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-paths": {
+			"name": "Paths button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-mappacks": {
+			"name": "Map Packs",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-search": {
+			"name": "Search button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-map": {
+			"name": "Map button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-daily": {
+			"name": "Daily button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-weekly": {
+			"name": "Weekly button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-event": {
+			"name": "Event button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-gauntlets": {
+			"name": "Gauntlets button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-create": {
+			"name": "Create button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-saved": {
+			"name": "Saved button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-scores": {
+			"name": "Scores button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-quests": {
+			"name": "Quests button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-versus": {
+			"name": "Versus button",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
