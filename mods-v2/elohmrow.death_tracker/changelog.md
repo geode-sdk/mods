@@ -1,4 +1,9 @@
 # Changelog
+## v1.7.1
+- added platformer per-checkpoint new bests
+- added session new bests
+- added death pass rates
+
 ## v1.6.1
 - added a setting for customizing session length
 - added a setting to disable death tracking from startpos

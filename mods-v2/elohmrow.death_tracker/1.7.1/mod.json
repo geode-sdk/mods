@@ -1,0 +1,38 @@
+{
+	"geode": "2.0.0-beta.14",
+	"gd": "2.204",
+	"version": "v1.7.1",
+	"id": "elohmrow.death_tracker",
+	"name": "Death Tracker",
+	"developer": "ElohmroW",
+	"description": "Tracks your normal mode deaths at every percentage",
+	"repository": "https://github.com/eloh-mrow/death-tracker",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"tags": ["Utility", "Interface"],
+	"settings": {
+		"disable-tracking-completed-levels": {
+			"name": "Disable Tracking Completed Levels",
+			"description": "Disables death tracking on completed online levels.",
+			"type": "bool",
+			"default": false
+		},
+		"disable-startpos-tracking": {
+			"name": "Disable StartPos Tracking",
+			"description": "Disables death tracking when playing from a StartPos. Deaths will still track from 0% in normal mode on a StartPos level.",
+			"type": "bool",
+			"default": false
+		},
+		"session-length": {
+			"name": "Session Length",
+			"description": "Allows a session to continue if entering a level before this duration (in seconds) has passed since exiting the level.\n\nA value of -2 means the session will end when you exit the level (default).\n\nA value of -1 means the session will end when you exit the game.",
+			"type": "int",
+			"default": -2,
+			"min": -2,
+			"max": 86400
+		}
+	}
+}
