@@ -2,11 +2,8 @@
 Customize your profile with a new and interesting interface!
 
 
-## **Fixes**
-- Disable info button fix
-
-## **Android Support!**
-- Now the customizations are available on android!
+## **Android and Mac Support!**
+- Now the customizations are available on android and mac!
 
 ## **Features**
 
@@ -20,7 +17,7 @@ Customize your profile with a new and interesting interface!
 **- Windows**
 To customize your profile you have to go to the gray options button found in your profile, there you will have all the options to add or remove from the profile.
 
-**- Android**
-The customizations are in the mod settings! They work exclusively for android
+**- Android and Mac**
+The customizations are in the mod settings! They work only for android and mac
 #
 ## **And that's it! I hope you have fun using it <3**

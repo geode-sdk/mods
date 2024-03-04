@@ -1,0 +1,72 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.6",
+	"id": "bitz.customprofiles",
+	"name": "CustomProfiles",
+	"developer": "BitZ",
+	"description": "My first mod to geode, a port for the original CustomProfiles now available with new features!",
+	"gd": {
+		"android": "2.205",
+		"mac" : "2.200",
+		"win": "2.204"
+	},
+	"settings": {
+		"Disable-info-button": {
+			"name": "Disable-info-button",
+			"description": "This hide the info button from profile",
+			"type": "bool",
+			"default": false
+		},
+		"Round-corners": {
+			"name": "Round-corners",
+			"description": "Profiles will now have round corners",
+			"type": "bool",
+			"default": false
+		},
+		"Square-corners": {
+			"name": "Square-corners",
+			"description": "Profiles will now have square corners",
+			"type": "bool",
+			"default": false
+		},
+		"No-corners": {
+			"name": "No-corners",
+			"description": "The profiles will now not have squares",
+			"type": "bool",
+			"default": false
+		},
+
+		"Animate-colors": {
+			"name": "Animate-colors",
+			"description": "You will have an animation in the colors of your profile",
+			"type": "bool",
+			"default": false
+		},
+
+		"Invert-Colors": {
+			"name": "Invert-Colors",
+			"description": "The colors of the gradient will be shown inverted",
+			"type": "bool",
+			"default": false
+		},
+		"Normal-colors": {
+			"name": "Normal-colors",
+			"description": "The gradient will be displayed in the normal order",
+			"type": "bool",
+			"default": true
+		}
+
+	},
+	"repository": "https://github.com/iArtie/CustomProfiles",
+	"issues": {
+		"info": "Post your issues on the <cp>Issue tracking repository</c>.",
+		"url": "https://github.com/iArtie/CustomProfiles/issues/new/choose"
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.1.4",
+			"importance": "required"
+		}
+	]
+}
