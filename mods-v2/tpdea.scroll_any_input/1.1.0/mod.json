@@ -1,0 +1,68 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": "2.204",
+	"version": "v1.1.0",
+	"id": "tpdea.scroll_any_input",
+	"name": "Scroll Any Input",
+	"developer": "Tpdea",
+	"description": "GD Mod that enables smooth and customizable scrolling using the mouse wheel on numeric input fields.",
+	"tags": [ "Utility" ],
+	"settings": {
+		"scroll-speed": {
+			"name": "Scroll Speed",
+			"description": "Adjusts the speed of scrolling when using the mouse wheel over an input field.",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 10.0,
+			"control": {
+				"slider": true
+			}
+		},
+		"scroll-reverse": {
+			"name": "Reverse Scroll Direction",
+			"description": "Inverts the direction of scrolling when using the mouse wheel over an input field.",
+			"type": "bool",
+			"default": false
+		},
+		"scroll-boundaries": {
+			"name": "Scroll Boundaries",
+			"description": "Specifies whether scrolling should stop at the boundaries of the input field.",
+			"type": "bool",
+			"default": true
+		},
+		"scroll-smoothness": {
+			"name": "Scroll Smoothness",
+			"description": "Adjusts the smoothness of scrolling.",
+			"type": "float",
+			"default": 0.5,
+			"min": 0.1,
+			"max": 1.0,
+			"control": {
+				"slider": true
+			}
+		},
+		"scroll-step-size": {
+			"name": "Scroll Step Size",
+			"description": "Specifies the step size of scrolling.",
+			"type": "float",
+			"default": 20.0,
+			"min": 1.0,
+			"max": 100.0,
+			"control": {
+				"slider": true
+			}
+		},
+		"scroll-acceleration": {
+			"name": "Scroll Acceleration",
+			"description": "Adjusts the acceleration of scrolling.",
+			"type": "float",
+			"default": 0.1,
+			"min": 0.01,
+			"max": 1.0,
+			"control": {
+				"slider": true
+			}
+		}
+	}
+}
