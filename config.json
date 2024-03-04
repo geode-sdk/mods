@@ -1942,7 +1942,8 @@
         "tpdea.sceneswitcher": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.1.0"
             ]
         },
         "tpdea.scroll_any_input": {

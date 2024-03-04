@@ -1,0 +1,233 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": "2.204",
+	"version": "v1.1.0",
+	"id": "tpdea.sceneswitcher",
+	"name": "SceneSwitcher",
+	"developer": "Tpdea",
+	"description": "An Alt + Tab System for GD.",
+
+	"dependencies": [
+		{
+			"id": "geode.custom-keybinds",
+			"version": ">=v1.2.3",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"transition-option": {
+			"name": "Transition Scene",
+			"description": "Change the transition to go to the scene in question (0 for no transition).",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 34,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"transition-speed-option": {
+			"name": "Transition Speed",
+			"description": "Change the transition speed to go to the scene in question (0 for no transition).",
+			"type": "float",
+			"default": 0.5,
+			"min": 0.0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"animation-option": {
+			"name": "Enable Animation Hover",
+			"description": "Enhances buttons with dynamic animations when hovered over.",
+			"type": "bool",
+			"default": true
+		},
+		"animation-speed-option": {
+			"name": "Animation Speed",
+			"description": "Adjusts the speed of dynamic animations applied to buttons when hovered over.",
+			"type": "int",
+			"default": 5,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"size-buttons": {
+			"name": "Size",
+			"description": "Adjusts the dimensions of buttons. Control the size of buttons according to your preference.",
+			"type": "float",
+			"default": 80.0,
+			"min": 10.0,
+			"max": 500.0,
+			"control": {
+				"slider-step": 5,
+				"arrows": true
+			}
+		},
+		"spacing-buttons": {
+			"name": "Spacing",
+			"description": "Controls the distance between buttons. Customize the spacing between buttons to achieve the desired layout.",
+			"type": "float",
+			"default": 90.0,
+			"min": 10.0,
+			"max": 600.0,
+			"control": {
+				"slider-step": 5,
+				"arrows": true
+			}
+		},
+		"enabled-animation-popup": {
+			"name": "Enable animation on popup layers",
+			"description": "Option to enable/disable animation effects on popup layers.",
+			"type": "bool",
+			"default": true
+		},
+		"title-seccion-layers-selection": {
+			"name": "Layers Selection",
+			"description": "This part of the settings is for you to choose which layers will be added to the SceneSwitcher.",
+			"type": "custom",
+			"scale": 300,
+			"posX": 80
+		},
+		"enabled-mainMenu": {
+			"name": "Main Menu",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-iconKit": {
+			"name": "Icon Kit",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-officialLevels": {
+			"name": "Official Levels",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-myLevels": {
+			"name": "My Levels",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-onlineLevels": {
+			"name": "Online Levels",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-savedLevels": {
+			"name": "Saved Levels",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-mapPacks": {
+			"name": "Map Packs",
+			"type": "bool",
+			"default": false
+		},
+
+		"enabled-theChallenge": {
+			"name": "The Challenge",
+			"type": "bool",
+			"default": false
+		},
+
+		"enabled-featured": {
+			"name": "Featured",
+			"type": "bool",
+			"default": false
+		},
+		"enabled-gauntlets": {
+			"name": "Gauntlets",
+			"type": "bool",
+			"default": false
+		},
+
+		"enabled-leaderboards": {
+			"name": "Leaderboards",
+			"type": "bool",
+			"default": false
+		},
+
+		"enabled-search": {
+			"name": "Search",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-daily": {
+			"name": "Daily",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-weekly": {
+			"name": "Weekly",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-last": {
+			"name": "Last Scene",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-lastLevel": {
+			"name": "Last Level",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-settings": {
+			"name": "Settings",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-moreOptions": {
+			"name": "More Options",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-profile": {
+			"name": "Profile",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-quests": {
+			"name": "Quests",
+			"type": "bool",
+			"default": false
+		},
+
+		"enabled-theTower": {
+			"name": "The Tower",
+			"type": "bool",
+			"default": true
+		},
+
+		"enabled-lists": {
+			"name": "Lists",
+			"type": "bool",
+			"default": false
+		},
+
+		"enabled-paths": {
+			"name": "Paths",
+			"type": "bool",
+			"default": false
+		}
+
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "commit-author": "TpdeaX",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TpdeaX/SceneSwitcher-Geode/releases/download/Release_1/tpdea.sceneswitcher.geode",
+        "hash": "893f5294a0f7e40dc1b180dbe06a4655bf1949eada17bd4008f4831d4b591c96",
+        "hash256": "523ae948c55f6c5f7ca0f7c4b03342ab3d955b02e385af4564365fc56d8c3040"
+    },
+    "tags": []
+}
