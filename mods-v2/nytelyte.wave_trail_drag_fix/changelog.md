@@ -1,3 +1,19 @@
+# v1.1.2
+
+- fix trail being drawn in non-wave gamemode
+
+# v1.1.1
+
+- fix teleport portal bug
+
+# v1.1.0
+
+- recode everything using a different algorithm, hopefully correct in more cases
+
+# v1.0.3
+
+- fix slant issue
+
 # v1.0.2
 
 - fix interaction with slopes
