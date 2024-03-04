@@ -1,4 +1,6 @@
 # Changelog
+## Version v1.6.0
+* A new logo has been added! (ty rue!)
 ## Version v1.5.3
 * 'Sayo Device' useful randomized click/release sound added! (ty slxyer!)
 * Sayo Device includes 8 clicks and 8 releases (tats alot!! >w<)

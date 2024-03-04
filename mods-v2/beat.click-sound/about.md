@@ -86,15 +86,13 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 
 ## Credit
 Thank you so much to all of the people listed below for doing whatever they did to help create the mod!
-- [Beat](user:13873867) - This is me! I made the mod.
-- [Viper](user:14284530) - Developer, helped me with android support :3
-- [Coop](user:21207551) - Developer, helped make coding the mod more efficient ^w^
+- [Beat](https://github.com/BeatACVR) - This is me! I made the mod.
+- [Viper](https://github.com/MuhXd) - Developer, helped me with android support :3
+- [Coop](https://github.com/coopeeo) - Developer, helped make coding the mod more efficient ^w^
+- [Firee](https://github.com/FireMario211) - Added mac support, thank you so much!
 - [Weebify](https://github.com/Weebifying) - Developer :3
-- [Uproxide](user:25397826) - Developer, helped with the developer badge system! OwO
-- [Firee](user:6253758) - Added mac support, thank you so much! GDUtils Notification Test Button
-- [Jouca](user:7026949) - GDUtils Notification Test Button
-- Sicariusblack - Helps with making some click sounds sound good!
+- [Uproxide](https://github.com/uproxide) - Developer, helped with the developer badge system! OwO
+- [Jouca](https://github.com/Jouca) - Helped with the preview button
+- Rue - Made the icon of v1.6.0 >w<
 - aceofspadesss - Provided a ton of unique click sounds for the mod! >w<
-- kittykatspaugh - Emotional support
-- kuipurr - Emotional support
 (If you think I forgot to credit you, DM @beat___ on Discord. Credit is not given for asking a sound or feature request.)
