@@ -1,6 +1,8 @@
 # Changelog
+## 1.5.1
+* Add support for comment button thingy
 ## 1.5.0
-* Add support for BetterPause v1.6.6 (Not accepted on Index as of the time of this mod updating)
+* Add support for BetterPause v1.6.6
 * Add support for Profile comments!
 ## 1.4.4
 * Remove debug stuff
