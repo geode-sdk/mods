@@ -1,0 +1,81 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.4",
+	"id": "viper.newbestcomments",
+	"name": "New best comment",
+	"developer": "Viper",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.6.1",
+            "importance": "required"
+        }
+    ],
+	"settings": {
+		"Enabled": {
+			"name": "Enabled Mod",
+			"description": "Enable the mod",
+			"type": "bool",
+			"default": true
+		},
+		"ID": {
+			"name": "ID",
+			"description": "It Sends the id when sending the comment",
+			"type": "bool",
+			"default": false
+		},
+		"Death": {
+			"name": "Always on death",
+			"description": "Sends a comment if you die and got a new best",
+			"type": "bool",
+			"default": false
+		},
+		"Notify": {
+			"name": "Notify when you send a comment",
+			"description": "Gives you a message when you comment",
+			"type": "bool",
+			"default": false
+		},
+		"ratedlevels": {
+			"name": "only rated levels",
+			"description": "Sends a comment if level is rated only",
+			"type": "bool",
+			"default": false
+		},
+		"unlisted": {
+			"name": "allow unlisted levels",
+			"description": "allows sending comments in level is unlisted",
+			"type": "bool",
+			"default": false
+		},
+		"difficulty": {
+			"name": "Min comment level difficulty",
+			"description": "Change what levels can be commented on your profile",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 14,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"PracticeOffset": {
+			"name": "Practice Death Offset",
+			"description": "Change the % offset that can comment for example if set to 30 then\n 6-10 will not be sent but 50-100 will \nthis is because 10-6 = 4 and 4 is less then 30!",
+			"type": "int",
+			"default": 15,
+			"min": 0,
+			"max": 100,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		}
+	},
+	"description": "Comments on your profile your new best on a level"
+}
