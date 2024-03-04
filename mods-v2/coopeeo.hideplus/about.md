@@ -6,6 +6,7 @@ Very customizable!
 ## Layers Supported
 * Main Menu (MenuLayer)
 * Creator Menu (CreatorLayer)
+* Search Menu (LevelSearchLayer)
 
 
 ## Credits

@@ -1,4 +1,6 @@
 # Hide+
+## v1.2.0
+* Added LevelBrowserLayer (#2 by Viper)
 ## v1.1.0
 * Added CreatorLayer (#1 by Viper)
 ## v1.0.1
