@@ -1,3 +1,5 @@
+# v1.0.3
+    - Bug fix
 # v1.0.2
     - Brightness fix
 # v1.0.1

@@ -1,0 +1,14 @@
+{
+    "commit-author": "SaiOwO",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/SaiOwO/Brightness-Mod/releases/download/rrr/elsai.brightness_mod.geode",
+        "hash": "37d0ce90f6ae026296ce2cf4355c5b221a7b8c69a0cf59cea36c9ef77f00964d",
+        "hash256": "1d867e6b04949e5cdb83bb069ed5d4608db8a3f0e1546f8bf974f9a4d0497744"
+    },
+    "tags": []
+}
