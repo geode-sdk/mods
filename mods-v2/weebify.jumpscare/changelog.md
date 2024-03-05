@@ -1,4 +1,7 @@
 # Jumpscare Changelog
+## v1.2.1
+- Small bugfix
+- Added an option to play the jumpscare sound at full volume or not
 ## v1.2.0
 - Added Jumpscare after time for platformer
 - Jumpscare after time and percentage now allow floating point numbers
