@@ -4,6 +4,6 @@ This a mod that imports objects from [Geometrize Web Demo](https://www.samcodes.
 
 ### [Tutorial to use this mod](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/README.md)
 
-## Changelog v1.1.2
+## Changelog v1.1.3
 
-- Fixed "Objects: " string.
+- Migrated to JSON Library by nlohmann. It may fix some issues.
