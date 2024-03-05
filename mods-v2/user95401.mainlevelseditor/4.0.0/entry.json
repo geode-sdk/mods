@@ -1,0 +1,24 @@
+{
+    "commit-author": "user95401",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/user95401/MainLevelsEditor/releases/download/v4/user95401.mainlevelseditor.geode",
+        "hash": "1562b5db51d731e825a569588e9878eefa14627df06a855a73189d608a2a8a2f",
+        "hash256": "fbe62e02396fffe123c74b367d304d3da38064d85f10547780a7185e5b8b3d1b"
+    },
+    "tags": [
+        "Song",
+        "Music",
+        "color",
+        "Interface",
+        "interface",
+        "Utility",
+        "Customization",
+        "Cheats",
+        "audio",
+        "Cosmetic",
+        "level"
+    ]
+}

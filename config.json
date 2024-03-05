@@ -2377,6 +2377,12 @@
             "versions": [
                 "0.1.1"
             ]
+        },
+        "user95401.mainlevelseditor": {
+            "verified": false,
+            "versions": [
+                "4.0.0"
+            ]
         }
     }
 }
