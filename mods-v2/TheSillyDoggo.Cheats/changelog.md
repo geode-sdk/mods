@@ -1,3 +1,24 @@
+# 1.2.0
+
+- Added auto song download
+- Fixed Crash Opening Mod menu
+- Fixed Instant Restart being broken on android 32
+- Added No reverse portal
+- Fixed input nodes
+- Added full options menu
+- Added hide player
+- Added no respawn blink
+- Added All modes platformer (windows only)
+- Added level uncomplete
+- Added show hitboxes and show hitboxes on death
+- Added no static camera
+- Added scale button slider
+- Removed fps bypass since it was VERY broken, replaces with full options menu
+- Fixed Spider and Robot with icon effects
+- Added <cl>Gradient Pages</c> integration
+- Added TAB + Insert hotkeys to open the mod menu
+- Added Replay Bot (beta)
+
 # 1.1.4
 
 - Added additional borders for npesta texture pack users
