@@ -1,4 +1,8 @@
 # Changelog
+## Version v1.7.0
+* Volume is now seperate from SFX! (thank you weebify, very cool :thumbs_up:)
+* Previewing sounds now works while in the pause menu (thank you weebify, very cool :thumbs_up:)
+* Sounds will no longer play twice in dual mode (thank you weebify, very cool :thumbs_up:)
 ## Version v1.6.0
 * A new logo has been added! (ty rue!)
 ## Version v1.5.3
