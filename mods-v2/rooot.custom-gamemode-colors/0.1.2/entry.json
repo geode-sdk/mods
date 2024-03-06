@@ -1,0 +1,18 @@
+{
+    "commit-author": "RoootTheFox",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RoootTheFox/custom-gamemode-colors/releases/download/v0.1.2/rooot.custom-gamemode-colors.geode",
+        "hash": "2f21a94fca530154ae1cc3385321c6775284d92a1cfc2a27d0e7ddb4dcdf32b0",
+        "hash256": "bcc34e135a123e03231e3154228a9157af33eb0f4200d7e8998aa06f158777c5"
+    },
+    "tags": [
+        "customization",
+        "gameplay",
+        "interface"
+    ]
+}

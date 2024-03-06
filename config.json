@@ -2382,7 +2382,8 @@
         "rooot.custom-gamemode-colors": {
             "verified": false,
             "versions": [
-                "0.1.1"
+                "0.1.1",
+                "0.1.2"
             ]
         },
         "user95401.mainlevelseditor": {
