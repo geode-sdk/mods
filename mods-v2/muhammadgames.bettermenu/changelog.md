@@ -1,4 +1,7 @@
 # ChangeLog
+### BetterMenu V2.03
+* Cleaner Code
+* bug fixes
 ### BetterMenu V2.02
 * New games button setting
 * Newgrounds button remover setting
