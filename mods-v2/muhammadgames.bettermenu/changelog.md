@@ -1,4 +1,6 @@
 # ChangeLog
+### BetterMenu V2.04-beta.1
+* bug fix on menu
 ### BetterMenu V2.03
 * Cleaner Code
 * bug fixes
