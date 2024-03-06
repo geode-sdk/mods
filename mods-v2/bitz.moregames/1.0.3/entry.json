@@ -1,0 +1,12 @@
+{
+    "commit-author": "iArtie",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/iArtie/FreeGames/releases/download/v1.0.3/bitz.moregames.geode",
+        "hash": "5726321a8f8b50b4e9133d995981dda800d8f95a4b33f6aaf79164f4f56bbf4a",
+        "hash256": "fc60629effd33ec88b6b4a1620dc64c6915b17576c5584a8568aa582cc8907f6"
+    },
+    "tags": []
+}

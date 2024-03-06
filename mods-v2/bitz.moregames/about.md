@@ -1,5 +1,8 @@
 # More Games!
 
+## **Ultimate Achievements Fix!**
+- This fix was done by [iristraa](https://github.com/iristraa)
+# Description
 Have you ever thought that the "More Games" button was completely useless? WELL NOT ANYMORE
 
 This mod brings all 3 fully playable Geometry Dash spinoffs into one mod!
