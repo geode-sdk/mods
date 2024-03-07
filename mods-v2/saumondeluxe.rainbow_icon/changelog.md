@@ -1,3 +1,9 @@
+# 1.0.5
+- Fixed the spider color bug
+- Remade the cast system
+- Remade the sync system
+- Changed the shortcut button to fix globed issues
+
 # 1.0.4
 - Added the discord link to the mod description
 - Added the possibility to change the color of the progress bar (Thanks to Firee)
