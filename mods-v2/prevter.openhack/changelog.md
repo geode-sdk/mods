@@ -1,4 +1,21 @@
-## v.2.0.1
+## v2.1.0
+**New**:
+* Reimplemented "Discord RPC" with x4 more features
+* Added "Click Teleport"
+* Added "Uncomplete Level"
+* Added "Labels"
+* Added "Noclip Limit"
+* Added "RGB Icons"
+* Re-added search bar
+
+**Fixes**:
+* Fixed tooltips going off the screen
+* Fixed saving settings for non-English languages
+* Disabled "Speedhack" on game launch to prevent softlocks
+* Various bug fixes
+* *[Vanilla]* Fixed label colors for "StartPos Switcher"
+
+## v2.0.1
 * Fixed a crash during the game launch if you've unfocused the game window
 * Fixed a crash for GDPS users, if executable name is not "GeometryDash.exe"
 
