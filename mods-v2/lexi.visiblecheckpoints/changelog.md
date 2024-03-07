@@ -1,3 +1,8 @@
+# v0.1.6
+ * Added measures to prevent immediate crashes with MegaHack's frame stepper
+ * Added a warning on startup if MegaHack is detected
+ * <cy>v0.2.0</c> is coming soon with new and better features, stay on the lookout!
+
 # v0.1.5
  * Fixed GD's checkpoint limit providing inaccurate current checkpoints
 
