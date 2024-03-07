@@ -1,4 +1,8 @@
 # Changelog (what a suprise)
+## v1.1.2
+- Add anticheat disclosure
+## v1.1.1
+- "Fixed" pause menu settings button by hardcoding the position
 ## v1.1.0
 - Added "Block checkpoints while dying"
 - Added "...               while dashing"
