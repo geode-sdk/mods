@@ -1,0 +1,40 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v0.5.10",
+	"id": "zalphalaneous.minecraft",
+	"name": "Minecraftify!",
+	"developer": "Alphalaneous",
+	"description": "Makes GD turn into Minecraft",
+  "early-load": true,
+
+  "resources": {
+    "files": [
+      "assets/sounds/*",
+      "assets/fonts/*",
+      "assets/textures/*",
+      "assets/texts/*",
+      "assets/panorama/*",
+      "assets/shaders/*",
+      "assets/logo.ico"
+    ]
+  },
+
+  "dependencies": [
+    {
+      "id": "geode.node-ids",
+      "version": "v1.7.1",
+      "importance": "required"
+    }
+  ],
+
+  "incompatibilities": [
+    {
+      "id": "muhammadgames.bettermenu",
+      "importance": "breaking",
+      "version": "*"
+    }
+  ]
+}
