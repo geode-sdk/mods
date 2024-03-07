@@ -2352,7 +2352,8 @@
         "cdc.level_thumbnails": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "coopeeo.hideplus": {
