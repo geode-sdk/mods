@@ -1,3 +1,7 @@
+# Version 1.2.1
+- Optimized the code for many things: Feature state, Object count and Game version (Thanks VolcaroCham!)
+- Levels before 1.7 will be labeled "Pre-1.7"
+
 # Version 1.2.0
 - Added the game version settings/stats
 - Added GitHub issues
