@@ -1,3 +1,7 @@
+# v1.1.3
+
+- fix the trail being invisible for main menu players
+
 # v1.1.2
 
 - fix trail being drawn in non-wave gamemode
