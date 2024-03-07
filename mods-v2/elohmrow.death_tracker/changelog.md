@@ -1,4 +1,7 @@
 # Changelog
+## v1.7.2
+- fixed an incompatibility with xdBot
+
 ## v1.7.1
 - added platformer per-checkpoint new bests
 - added session new bests
