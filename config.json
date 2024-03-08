@@ -2468,6 +2468,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "acaruso.slope": {
+            "verified": false,
+            "versions": [
+                "0.1.2"
+            ]
         }
     }
 }
