@@ -2451,6 +2451,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "elsai.easing_preview": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

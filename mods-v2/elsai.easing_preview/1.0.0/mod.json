@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "elsai.easing_preview",
+	"name": "Easing preview",
+	"developer": "elSai",
+	"description": "You can see a preview for the easing animations"
+}
