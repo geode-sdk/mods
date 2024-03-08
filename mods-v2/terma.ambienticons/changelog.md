@@ -1,12 +1,29 @@
 # Ambient Icons Changelog
 
+## v1.4.2
+
+- <cy>Added</c> `Node IDs` as a dependency
+- <cy>Added</cy> conflicting mod incompatibilities in mod.json
+
+## v1.4.1
+
+- <cy>Fixed</c> Ambient Icons v1.4.0 (mainly pick BG feature)
+- <cy>Added</c> support for `Node IDs` when picking colors from BG
+- <cy>Fixed</c> picking color from BG don't working with GD 2.2 shaders
+
+## v1.4.0
+
+- <cy>Added</c> integration with Globed Progressbar self-icon
+- <cy>Added</c> an option for picking the color only from the BG (big thanks to elnexreal) - Doesn't work on LevelEditorLayer (Level editor)
+- <cy>Improved</c> code for better implementations
+
 ## v1.3.2
 
 - <cy>Added</c> link to *GitHub* Repo
-- <cy>Added</c> incompatibility warning with Rainbow Icon in mod's info
-- <cy>Added</c> incompatibility warning with Blending Glow in ambient glow option info (both items thanks to Erymanthus)
-- <cy>Added</c> - Now the mod doesn't pick colors if all changing options are disabled (except Player Flash)
 - <cy>Added</c> performance warning with Globed in mod's info
+- <cy>Added</c> incompatibility warning with Rainbow Icon in mod's info
+- <cy>Added</c> incompatibility warning with Blending Glow in ambient glow's info (both items thanks to Erymanthus)
+- <cy>Added</c> - Now the mod doesn't pick colors if all changing options are disabled (except Player Flash)
 
 ---
 
