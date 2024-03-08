@@ -1,0 +1,16 @@
+{
+    "commit-author": "sofabeddd",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/sofabeddd/Geometry-Dash/releases/download/v1.0.2/sofabeddd.geometry_dash.geode",
+        "hash": "0df680a2f0e1ee31d6a288266903a6d5730429ddcc4eda28fbd776f7014ebf21",
+        "hash256": "bf7e8a184b0e6bd241ed9e7988825b7e6903a9793c481e3c574a43eab7e21834"
+    },
+    "tags": [
+        "Cosmetic"
+    ]
+}
