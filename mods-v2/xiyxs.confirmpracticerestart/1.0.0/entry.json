@@ -1,0 +1,12 @@
+{
+    "commit-author": "xiyxs",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/xiyxs/Confirm-Practice-Restart/releases/download/v1.0.0/xiyxs.confirmpracticerestart.geode",
+        "hash": "70d355781082da8025f91969c1a1477c18d7fa36bc1612228c734b516bf89037",
+        "hash256": "a7abe476952165023805980c47ab8a67228d55972e4134d1d62739c6d68538d7"
+    },
+    "tags": []
+}
