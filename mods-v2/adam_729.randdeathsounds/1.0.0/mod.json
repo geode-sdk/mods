@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "adam_729.randdeathsounds",
+	"name": "Death Sound Randomizer",
+	"developer": "Adam_729",
+	"description": "Death sound randomizer from mhv5 made in geode",
+	"repository": "https://github.com/Bean0of/randdeathsounds",
+	"issues": {
+		"url": "https://github.com/Bean0of/randdeathsounds/issues",
+		"info": "Report bugs or suggest new features on the github repo"
+	},
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

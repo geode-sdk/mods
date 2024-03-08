@@ -1,0 +1,12 @@
+{
+    "commit-author": "Bean0of",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Bean0of/randdeathsounds/releases/download/v1.0.0/adam_729.randdeathsounds.geode",
+        "hash": "618181cd3c0f0970b3c8eb6ba2d1c502136e6a1efe3b73f319e099c71b72dab5",
+        "hash256": "b3e791eab8e8872c44ebc95522a18e9b90c8c95a80d14bf0fc4f43941bb465ef"
+    },
+    "tags": []
+}

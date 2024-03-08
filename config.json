@@ -2427,6 +2427,12 @@
             "versions": [
                 "1.1.0"
             ]
+        },
+        "adam_729.randdeathsounds": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
