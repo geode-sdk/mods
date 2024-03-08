@@ -1,0 +1,14 @@
+{
+    "commit-author": "Naxrin",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Naxrin/Garage-in-Editor/releases/download/v1.1.0/naxrin.garage_in_editor.geode",
+        "hash": "793f130da93be079f41ca813ceac2a537ccb242d2dac530aea67e7bf552f6323",
+        "hash256": "7454cd0e7cecc66093b8762b2252629f51d7b28befe1a7af4bdb9c5cfbd92261"
+    },
+    "tags": [
+        "performance"
+    ]
+}
