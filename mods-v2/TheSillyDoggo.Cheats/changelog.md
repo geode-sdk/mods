@@ -1,3 +1,9 @@
+# 1.2.1
+
+- Fixed Speedhack
+- Added Verify Hack
+- Improved Safe Mode
+
 # 1.2.0
 
 - Added auto song download
