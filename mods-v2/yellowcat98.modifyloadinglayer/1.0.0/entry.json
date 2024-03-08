@@ -1,0 +1,12 @@
+{
+    "commit-author": "YellowCat98",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/YellowCat98/ModifyLoadingLayer/releases/download/1.0.0/yellowcat98.modifyloadinglayer.geode",
+        "hash": "022c334be4f3ac384ce0bf840b2b502fbba8ea6c8033a406baf01bd9e06df82e",
+        "hash256": "6963621e52556906a2840224f92b25292a1ac112bf31f2dfcb6a5e43752b1d1e"
+    },
+    "tags": []
+}

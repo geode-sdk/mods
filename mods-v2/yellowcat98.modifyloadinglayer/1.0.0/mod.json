@@ -1,0 +1,15 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "yellowcat98.modifyloadinglayer",
+	"name": "ModifyLoadingLayer",
+	"developer": "YellowCat98",
+	"description": "This mod lets you modify LoadingLayer however you want. and save it.",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"early-load": true
+}
