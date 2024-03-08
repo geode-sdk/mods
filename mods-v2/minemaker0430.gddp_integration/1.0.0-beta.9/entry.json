@@ -1,0 +1,18 @@
+{
+    "commit-author": "Minemaker0430",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Minemaker0430/GDDPIntegration/releases/download/v1-beta.9/minemaker0430.gddp_integration.geode",
+        "hash": "fbbb32d39a74a3be8fa07238100eebf4c32b4dc9544491e95619e9eba0b0604f",
+        "hash256": "7da459f0c24f17cc1f8d5b73bf116203abc1ab5849c369e3a9fa1477f62e3eb3"
+    },
+    "tags": [
+        "Gameplay",
+        "Convenience",
+        "Integration"
+    ]
+}

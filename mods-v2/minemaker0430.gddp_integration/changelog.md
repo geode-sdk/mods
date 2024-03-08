@@ -1,3 +1,18 @@
+# v1.0.0-beta.9
+
+* Added Custom Difficulty Faces (finally)
+	* Only applied to Main/Legacy Levels (for now)
+	* Grandpa Demon Support w/ Included Config Options
+* Heavily Optimized Textures
+* Added Setting Sections
+* Added Compact Menu Button
+
+Known Issues:
+* Due to the way the Grandpa Demon compatibility works currently, when using Disable Effects...
+	* Projected Stars particles may be hidden
+	* Some effects may not be hidden on some levels
+* The wrong difficulty will show while viewing Non-GDDP Levels in the GDDP Menus (unless custom difficulty faces are off)
+
 # v1.0.0-beta.8
 
 * Fixed Compatibility Issues (thanks SpaghettDev for your help)
