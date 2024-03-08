@@ -1,3 +1,7 @@
+# v1.1.4
+
+- fix the wave trail suddenly appearing when ending a level sometimes
+
 # v1.1.3
 
 - fix the trail being invisible for main menu players
