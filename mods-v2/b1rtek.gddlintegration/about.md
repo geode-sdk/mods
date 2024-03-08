@@ -1,4 +1,6 @@
 # <cr> GDDL Integration </c>
+Integration with [Geometry Dash Demon Ladder](https://gdladder.com/)  
+GDDL Discord server: https://discord.gg/gddl
 
 ## Features
 - Displays <cr>GDDL ratings</c> of demon levels, click on the <cb>button</c> to see more info about the level
@@ -23,5 +25,5 @@ If you encounter an <cy>issue</c> with the mod, [open an issue in the mod's GitH
 ## Special thanks
 
 <cb>*Code contributions:*</c> <cy>**[Diversion](https://github.com/B1rtek/Geode-GDDLIntegration/pull/3)**</c>  
-<cg>*Feature suggestions:*</c> <cy>[MasterGamerY](https://github.com/B1rtek/Geode-GDDLIntegration/issues/1), [Weebifying](https://github.com/B1rtek/Geode-GDDLIntegration/pull/2), [averiee_](https://github.com/B1rtek/Geode-GDDLIntegration/milestone/4), [TheSuperJepphyKiller](https://github.com/B1rtek/Geode-GDDLIntegration/issues/6), [hoshinekosanti](https://github.com/B1rtek/Geode-GDDLIntegration/issues/11),  [epicmushroom.](https://github.com/B1rtek/Geode-GDDLIntegration/issues/15), [Koble](https://github.com/B1rtek/Geode-GDDLIntegration/issues/21)</c>  
-<cr>*Bug reporters:*</c> <cy>croozington, bllue, [Fleeym](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780380), [matcool](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780699), [Lexicon](https://github.com/B1rtek/Geode-GDDLIntegration/issues/7), [patrick61804](https://github.com/B1rtek/Geode-GDDLIntegration/issues/16), [epicmushroom.](https://github.com/B1rtek/Geode-GDDLIntegration/issues/20)</c>
+<cg>*Feature suggestions:*</c> <cy>[MasterGamerY](https://github.com/B1rtek/Geode-GDDLIntegration/issues/1), [Weebifying](https://github.com/B1rtek/Geode-GDDLIntegration/pull/2), [averiee_](https://github.com/B1rtek/Geode-GDDLIntegration/milestone/4), [TheSuperJepphyKiller](https://github.com/B1rtek/Geode-GDDLIntegration/issues/6), [hoshinekosanti](https://github.com/B1rtek/Geode-GDDLIntegration/issues/11),  [epicmushroom.](https://github.com/B1rtek/Geode-GDDLIntegration/issues/15), [Koble](https://github.com/B1rtek/Geode-GDDLIntegration/issues/21), [Diversion](https://github.com/B1rtek/Geode-GDDLIntegration/issues/25)</c>  
+<cr>*Bug reporters:*</c> <cy>croozington, bllue, [Fleeym](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780380), [matcool](https://github.com/geode-sdk/indexer/issues/557#issuecomment-1913780699), [Lexicon](https://github.com/B1rtek/Geode-GDDLIntegration/issues/7), [patrick61804](https://github.com/B1rtek/Geode-GDDLIntegration/issues/16), [epicmushroom.](https://github.com/B1rtek/Geode-GDDLIntegration/issues/20), [GlassesCatandsteve](https://github.com/B1rtek/Geode-GDDLIntegration/issues/27)</c>

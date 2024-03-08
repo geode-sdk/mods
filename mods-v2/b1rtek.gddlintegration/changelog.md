@@ -1,3 +1,10 @@
+# v1.1.3
+- Replaced the search interface switching button with a better one
+- Added links to GDDL in the mod description and in level details
+- The tier search in the simple search UI doesn't overwrite full search interface settings anymore
+- Fixed crashes caused by putting invalid tier and enjoyment ratings search criteria
+- Possibly fixed the ["typing into a text box that's no longer there" crash](https://github.com/B1rtek/Geode-GDDLIntegration/issues/27)
+
 # v1.1.2
 - Going back from search results goes back to the right place (finally!)
 - Added a missing alert saying that the rating is still loading (while it's actually loading)
