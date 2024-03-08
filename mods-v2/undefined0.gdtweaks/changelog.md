@@ -1,4 +1,6 @@
 # GDTweaks Changelog
+## v1.9.3
+- Fix v1.9.1 which I thought I fixed in v1.9.3
 ## v1.9.2
 - Fix incompatibility with "Move BetterInfo button"
 ## v1.9.1
