@@ -14,4 +14,3 @@ Can cause performance issues with <cy>Globed</c>.
 - Ambient mode for wave trail and glow
 - Adjust where to pick the colors in the mod's settings (X and Y axes)
 - Pick the color from the BG wihout objects affecting the ambient mode (not working in editor yet)
-- Globed integration with progressbar

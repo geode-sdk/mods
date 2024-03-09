@@ -1,5 +1,9 @@
 # Ambient Icons Changelog
 
+## v1.4.3
+
+- <cy>Removed</c> integration with Globed Progressbar self-icon (sadly was buggy, thanks Node IDs)
+
 ## v1.4.2
 
 - <cy>Added</c> `Node IDs` as a dependency
