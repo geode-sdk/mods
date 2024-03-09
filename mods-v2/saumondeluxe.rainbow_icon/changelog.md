@@ -1,3 +1,11 @@
+# 1.0.6
+- Fixed the mod not working with the new update
+- Added node's ID to dependencies to avoid crashes
+- Changed the shortcut button to get proper render for every resolution screen
+- Fix vehicle's color not changing when the rainbow effect is enabled
+- Added support.md and discord link to the mod page
+
+
 # 1.0.5
 - Fixed the spider color bug
 - Remade the cast system
