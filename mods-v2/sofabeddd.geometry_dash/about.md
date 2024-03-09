@@ -7,11 +7,12 @@ The Geometry Dash Mod turns the game title into a clickable button. When clicked
 Have feedback or encountered a bug? Report it [here](https://github.com/sofabeddd/Geometry-Dash/issues/new).
 
 ## Latest Changes
-- Removed hard-coded values to make the mod work on all resolutions.
+- Changed the mod icon to match others on the index.
 
 ## Credits
-**Sound Effect:** [MDK](https://www.youtube.com/@MDKOfficialYT)  
-**Mod Testing:** [RayDeeUx](https://github.com/RayDeeUx)
+**Mod Icon:** [RueOfficial](user:26528871)  
+**Mod Testing:** [RayDeeUx](https://github.com/RayDeeUx)  
+**Sound Effect:** [MDK](https://www.youtube.com/@MDKOfficialYT)
 
 ---
 ## Shameless Promotion

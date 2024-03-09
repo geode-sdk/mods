@@ -1,0 +1,26 @@
+{
+	"description": "Makes the game title a clickable button that plays the \"Geometry Dash\" before the drop in dash.",
+	"developer": "sofabeddd",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"importance": "required",
+			"version": ">=v1.5.1"
+		}
+	],
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"resources": {
+		"files": ["resources/audio/*.ogg"]
+	},
+	"tags": [
+		"Cosmetic"
+	],
+	"geode": "2.0.0-beta.21",
+	"id": "sofabeddd.geometry_dash",
+	"name": "Geometry Dash",
+	"repository": "https://github.com/sofabeddd/Geometry-Dash",
+	"version": "v1.0.3"
+}

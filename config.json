@@ -2435,7 +2435,8 @@
         "sofabeddd.geometry_dash": {
             "verified": false,
             "versions": [
-                "1.0.2"
+                "1.0.2",
+                "1.0.3"
             ]
         },
         "naxrin.garage_in_editor": {

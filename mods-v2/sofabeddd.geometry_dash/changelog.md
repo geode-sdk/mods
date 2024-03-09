@@ -7,3 +7,6 @@
 
 ## v1.0.2
 - Removed hard-coded values to make the mod work on all resolutions.
+
+## v1.0.3
+- Changed the mod icon to match others on the index.
