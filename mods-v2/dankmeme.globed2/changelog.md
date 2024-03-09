@@ -1,3 +1,18 @@
+## v1.3.2
+
+* **Improve loading times** - Asset preloading is now up to **3-5 times faster** on Windows (not as fast on other platforms, but still slightly faster)
+* Fix rare crash when exiting a level
+* Fix some crashes in the level browser on android
+* Improve the platformer squish animation slightly
+* Make the "outdated client" message more straightforward
+* Add player counts to tower levels (**requires** Node IDs mod to be installed first to work)
+* Fix progressbar icons having wrong glow when the Colored Icon Kit mod is installed
+* Try to fix progressing in levels with startpos (again)
+* Try to fix crashes when using a Level Edit hack
+* Hide loopback devices from audio settings
+* Add a way to manually set packet limit
+* Fix players not appearing in a level until you move away from the spawn position
+
 ## v1.3.1
 
 * Fix being unable to join a room on some Android devices (due to room ID input being limited to 5 characters)
@@ -9,7 +24,7 @@
 * Remove voice chat hints on Mac and Android (since you can't really press V there)
 * Disable audio device setting on Mac and Android
 * Added a report button in the user list that redirects to the Globed Discord
-* Server level lists now show 30 levels by default, with a new option being added to increase it back to 100
+* Server level lists now show up to 30 levels by default, with a new option being added to increase it back to 100
 
 ## v1.3.0
 
