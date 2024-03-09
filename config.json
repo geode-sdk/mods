@@ -2486,6 +2486,12 @@
             "versions": [
                 "0.1.2"
             ]
+        },
+        "azurebluet.azure_utils": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }

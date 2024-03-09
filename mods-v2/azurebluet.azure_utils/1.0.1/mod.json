@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0-beta.21",
+		"dependencies": [
+			{
+				"id": "geode.custom-keybinds",
+				"version": "v1.1.0",
+				"importance": "required"
+			}
+		],
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "azurebluet.azure_utils",
+	"name": "Azure Utils",
+	"developer": "AzureBluet",
+	"description": ""
+}

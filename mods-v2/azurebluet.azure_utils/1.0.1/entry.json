@@ -1,0 +1,12 @@
+{
+    "commit-author": "zkayns",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/zkayns/Azure-Utils/releases/download/1.0.1/azurebluet.azure_utils.geode",
+        "hash": "8952ff1d9ee4541319478f3bb4b0e591417c465ccc1ce722496dd974f8bf5f2f",
+        "hash256": "275cbae5b43b5ee2a03c24b5a754d090663fdfc581ca5ed77dee163337db36d0"
+    },
+    "tags": []
+}
