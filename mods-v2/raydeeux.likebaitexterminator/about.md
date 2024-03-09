@@ -11,3 +11,5 @@ Thanks to TechStudent10 and TheSillyDoggo for finding the right hooks and member
 Mod name vaguely inspired by Hazbin Hotel.
 
 (There *can and will* be false positives [likely] and false negatives [not too likely].)
+
+This Geode mod is licensed under LGPLv2.
