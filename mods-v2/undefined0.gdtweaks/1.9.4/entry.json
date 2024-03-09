@@ -1,0 +1,17 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/GDTweaks/releases/download/v1.9.4/undefined0.gdtweaks.geode",
+        "hash": "417e7d91515d962a9c46889b62ee2a22f8eceebfacaf4ab00442739f17b5d9e4",
+        "hash256": "58ef3fc2771a9c23a25db6f85186b65911f3d24c5c72a86ae0da5005c4354145"
+    },
+    "tags": [
+        "interface",
+        "enhancement"
+    ]
+}

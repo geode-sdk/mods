@@ -1,6 +1,9 @@
 # GDTweaks Changelog
+## v1.9.4
+- Fix v1.9.3's changelog
+- "Fix" random background always using uhd
 ## v1.9.3
-- Fix v1.9.1 which I thought I fixed in v1.9.3
+- Fix v1.9.1 which I thought I fixed in v1.9.2
 ## v1.9.2
 - Fix incompatibility with "Move BetterInfo button"
 ## v1.9.1
