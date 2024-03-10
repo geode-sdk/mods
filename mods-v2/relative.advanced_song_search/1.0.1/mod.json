@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.1",
+	"id": "relative.advanced_song_search",
+	"name": "Advanced Song Search",
+	"developer": "relative",
+	"description": "Mod that allows you to search music in your downloaded songs library.",
+	"gd": {
+		"win": "*",
+		"android": "*"
+	},
+	"links": {
+		"homepage": "https://discord.gg/wfDRrksKA3"
+	},
+	"repository": "https://github.com/relativemodder/advanced-song-search"
+}

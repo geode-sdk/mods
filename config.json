@@ -2511,7 +2511,8 @@
         "relative.advanced_song_search": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         }
     }
