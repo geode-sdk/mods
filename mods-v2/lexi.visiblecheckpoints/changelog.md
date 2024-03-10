@@ -1,3 +1,6 @@
+# v0.1.8
+ * Fixed issues with start positions and platformer checkpoints
+
 # v0.1.7
  * Fixed issues with frame steppers and startpos switchers
  * Remove MegaHack warning
