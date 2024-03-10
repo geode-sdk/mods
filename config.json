@@ -2518,7 +2518,8 @@
         "relative.custom_endscreen_text": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         }
     }
