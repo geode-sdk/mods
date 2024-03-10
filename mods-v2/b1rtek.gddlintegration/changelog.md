@@ -1,3 +1,11 @@
+# v1.1.4
+- Fixed [the bug that prevented players from using the simple search UI](https://github.com/B1rtek/Geode-GDDLIntegration/issues/29)
+- The local ratings cache updates downloaded from the API are now saved, so the GDDL Split should be even more accurate now
+- Added a button showing completed unrated levels in the GDDL Demon Split screen
+- Fixed searching for unrated levels
+- Fixed crashes related to putting invalid numbers as tier/enjoyment rating in the full search UI on Android
+- Fixed a bug that would cause the search to be called more times than necessary if the search button was clicked twice or more (or to stop working until you reopen it)
+
 # v1.1.3
 - Replaced the search interface switching button with a better one
 - Added links to GDDL in the mod description and in level details
