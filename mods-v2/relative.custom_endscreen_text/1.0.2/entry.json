@@ -1,0 +1,14 @@
+{
+    "commit-author": "relativemodder",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/custom-endscreen-text/releases/download/v1.0.2/relative.custom_endscreen_text.geode",
+        "hash": "73c52c138e66781be21c7209d0c9fecf4fc32d500c4ccebbbf1033ab90ec0194",
+        "hash256": "a50d0b2eef818b3e9fed14e6fe98f57930f2c93d3de3f413cab1a475820acc62"
+    },
+    "tags": []
+}

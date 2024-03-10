@@ -1,0 +1,33 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.2",
+	"id": "relative.custom_endscreen_text",
+	"name": "Custom Endscreen Text",
+	"developer": "relative",
+	"description": "",
+	"repository": "https://github.com/relativemodder/custom-endscreen-text",
+	"settings": {
+		"static-text": {
+			"name": "Static text",
+			"description": "Allows you to change endscreen text to your own",
+			"type": "string",
+			"default": "Change endscreen text in mod settings"
+		},
+		"static-text-scale": {
+			"name": "Static text scale",
+			"description": "Allows you to change endscreen text scale",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 2.0,
+			"control": {
+				"slider": true,
+				"input": true
+			}
+		}
+	},
+	"gd": {
+		"win": "2.204",
+		"android": "*"
+	}
+}
