@@ -1,0 +1,15 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/NodeIDs/releases/download/v1.8.0/geode.node-ids.geode",
+        "hash": "f63805ffc60075f4a33bfd95d5af866a16e9d85707186507ef92e2b78169bc3c",
+        "hash256": "d24da544b0c2394511ec6e66893d4665faf5536c3e384b06e8442a5174296a0b"
+    },
+    "tags": []
+}
