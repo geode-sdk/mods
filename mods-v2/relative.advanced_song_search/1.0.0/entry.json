@@ -1,0 +1,14 @@
+{
+    "commit-author": "relativemodder",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/advanced-song-search/releases/download/Release/relative.advanced_song_search.geode",
+        "hash": "81617561f7c793201913b8c188e2bfaa2b199eda886ab154537a675879c130d0",
+        "hash256": "684d30ac4aedb1ecd3336bec0b8560d45b8e3f3a99d5f33c98e49dd72d1a5497"
+    },
+    "tags": []
+}
