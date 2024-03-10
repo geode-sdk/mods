@@ -1,0 +1,15 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/DeathLink-Geode/releases/download/1.2.8/alphalaneous.deathlink.geode",
+        "hash": "86fca84073a78cc1b1fcc20640d05354c279a88c6849df4cc103c17d636e8eff",
+        "hash256": "6fa4ff7352fe37b76bbc84fb93a9d0bff77d573ec32f264d8e058d3582300530"
+    },
+    "tags": []
+}
