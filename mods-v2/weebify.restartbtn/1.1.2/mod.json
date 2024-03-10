@@ -1,0 +1,55 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.1.2",
+	"id": "weebify.restartbtn",
+	"name": "Restart Buttons",
+	"developer": "Weebify",
+	"description": "Adds a button to quickly restart the game (and a few more)",
+	"repository": "https://github.com/Weebifying/restartbutton-geode",
+	"tags": ["Interface", "Utility"],
+	"resources": {
+		"sprites": [
+			"resources/image.png"
+		]
+	},
+	"settings": {
+		"size": {
+            "name": "Size",
+			"description": "How big the buttons should be.",
+            "type": "float",
+            "default": 1,
+            "min": 1,
+            "max": 2,
+            "control": {
+                "slider": true,
+				"slider-step": 0.01
+			}
+		},
+		"keybind_anywhere": {
+			"name": "Keybind works anywhere",
+			"description": "...except the editor",
+			"type": "bool",
+			"default": false
+		},
+		"exit": {
+			"name": "Show Exit button",
+			"type": "bool",
+			"default": true
+		},
+		"restart": {
+			"name": "Show Restart button",
+			"type": "bool",
+			"default": true
+		},
+		"reload-textures": {
+			"name": "Show Reload Textures button",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
