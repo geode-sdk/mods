@@ -1,0 +1,39 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+		},
+	"version": "v1.0.0-beta.2",
+	"id": "xanii.super_expert",
+	"name": "Super Expert",
+	"developers": [
+		"Xanii",
+		"AdyaGD"
+	],
+	"description": "Mario Maker's 'Super Expert Run' in Geometry Dash!",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.7.0",
+            "importance": "required"
+        }
+    ],
+	"resources": {
+        "sprites": [
+            "resources/*.png"
+        ],
+		"files": [
+			"resources/*.mp3"
+		]
+    },
+	"repository": "https://github.com/LXanii/Super-Expert",
+	"settings": {
+		"level-info": {
+			"name": "Level Info",
+			"description": "Opens the level page instead of sending straight into the level (useful for downloading songs)",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

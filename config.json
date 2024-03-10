@@ -2508,7 +2508,8 @@
         "xanii.super_expert": {
             "verified": false,
             "versions": [
-                "1.0.0-beta.1"
+                "1.0.0-beta.1",
+                "1.0.0-beta.2"
             ]
         },
         "relative.advanced_song_search": {
