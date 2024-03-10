@@ -2486,7 +2486,8 @@
         "acaruso.slope": {
             "verified": false,
             "versions": [
-                "0.1.2"
+                "0.1.2",
+                "0.1.4"
             ]
         },
         "azurebluet.azure_utils": {

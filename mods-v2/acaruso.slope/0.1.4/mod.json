@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v0.1.4",
+	"id": "acaruso.slope",
+	"name": "Endless Challenge",
+	"developer": "acaruso",
+	"description": "Endless challenge mode for Geometry Dash",
+	"resources": {
+		"sprites": [ "resources/*.png" ],
+		"files": [
+			"resources/*.json",
+			"resources/*.mp3",
+			"resources/*.ogg"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.7.1",
+			"importance": "required"
+		}
+	]
+}
