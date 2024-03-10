@@ -1,0 +1,23 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"android": "2.205",
+        "win": "2.204",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "viper.project-oppenheimer",
+	"name": "Oppenheimer",
+	"developer": "Viper",
+	"resources": {
+		"sprites": ["resources/*.png"],
+		"spritesheets": {
+			"ButtonsSpread": [
+				"resources/Buttons/*.png"
+			],"EndScreenSheet": [
+				"resources/EndScreen/*.png"
+			]
+		}
+	},
+	"description": "Oppenheimer the mod menu"
+}

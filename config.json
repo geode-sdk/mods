@@ -2536,6 +2536,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "viper.project-oppenheimer": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
