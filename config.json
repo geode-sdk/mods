@@ -2494,6 +2494,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "xanii.super_expert": {
+            "verified": false,
+            "versions": [
+                "1.0.0-beta.1"
+            ]
         }
     }
 }
