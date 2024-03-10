@@ -1,3 +1,7 @@
+# v1.1.5
+
+- fix interaction with show/hide player triggers
+
 # v1.1.4
 
 - fix the wave trail suddenly appearing when ending a level sometimes
