@@ -1,0 +1,12 @@
+{
+    "commit-author": "KontrollFreek",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://git.gay/Lexi/VisibleCheckpoints/releases/download/v0.1.7/lexi.visiblecheckpoints.geode",
+        "hash": "66570a4119a22e9058b47f97c4cab6216c32b53ae32334cf1c32f3a42bf1c20c",
+        "hash256": "d0c886026b010f7e5c2b91c5b228cd89eccc9cc3bc7b4cf1a8f72e257eb2cec8"
+    },
+    "tags": []
+}

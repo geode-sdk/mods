@@ -1,3 +1,8 @@
+# v0.1.7
+ * Fixed issues with frame steppers and startpos switchers
+ * Remove MegaHack warning
+ * Add measures to prevent race conditions
+
 # v0.1.6
  * Added measures to prevent immediate crashes with MegaHack's frame stepper
  * Added a warning on startup if MegaHack is detected
