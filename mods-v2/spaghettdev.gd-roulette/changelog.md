@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.3] - 2024-03-09
+
+### Changed
+
+- No longer use `geode::Notification`, now use `rl::utils::createNotificationToast`
+- How levelIDs are stored when in LevelInfoLayer (they no longer are)
+
+### Fixed
+
+- Weird 5th arg in `TextAlertPopup::create`
+
 ## [2.0.2] - 2024-03-06
 
 ### Added

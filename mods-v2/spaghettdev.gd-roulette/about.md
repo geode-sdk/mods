@@ -26,3 +26,7 @@ You can currently select 1 of 4 options: Normal List, Demon List, Challenge List
 Info about these lists can be found by clicking the corresponding info icon next to the list's button.
 
 And that's pretty much it! Have fun rouletting!
+
+## Contact
+
+You can contact me through my personal [Discord server](https://discord.gg/WPcqK3Yt).
