@@ -2557,6 +2557,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "relative.newgrounds_proxy": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
