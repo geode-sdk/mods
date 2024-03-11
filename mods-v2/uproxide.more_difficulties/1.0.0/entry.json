@@ -1,0 +1,20 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/more-difficulties/releases/download/1.0.0/uproxide.more_difficulties.geode",
+        "hash": "77c27cc32f526c9aa44b35f90240c1231a201f6dd0c8a67f59121a721b00b6f6",
+        "hash256": "5dd585a2d9cf89de98c0769a073a85d8eb73faea4df72384481688a4cf31b68f"
+    },
+    "tags": [
+        "Customization",
+        "Difficulties",
+        "LevelInfoLayer",
+        "LevelCell"
+    ]
+}

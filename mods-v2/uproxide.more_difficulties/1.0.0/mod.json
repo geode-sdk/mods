@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "uproxide.more_difficulties",
+	"name": "More Difficulties",
+	"developer": "Uproxide",
+	"description": "Adds New Difficulties to the Game!",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"repository": "https://github.com/Uproxide/more-difficulties",
+	"issues": {
+		"info": "Any Issues or Suggestions? [Join the Discord!](https://discord.gg/gy4BrxmWrF)"
+	},
+	"tags": [
+		"Customization", "Difficulties", "LevelInfoLayer", "LevelCell"
+	]
+}
