@@ -11,6 +11,7 @@ Fixes several bugs in Geometry Dash. Doesn't affect gameplay at all.
 - <cj>Profiles</c> showing <cr>old/broken</c> usernames
 - <cj>"My Lists" Search</c> showing <cr>incorrect usernames</c>
 - <cj>Basement monster</c> <cr>softlock</c>
+- <cj>CCMenuItem::activate</c> <cr>crash</c> [(explanation)](https://twitter.com/HJfod/status/1760076909663158588)
 - A <cr>crash</c> caused by <cj>refreshing and liking</c> <co>comments</c> at the same time
 - <cr>"12 days left"</c> timer bug
 Also includes the <co>4 GB patch</c> on <cj>Windows</c>.

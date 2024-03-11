@@ -1,0 +1,23 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.1.0",
+	"gd": {
+        "win": "2.204",
+        "android": "2.205",
+        "mac": "2.200"
+    },
+	"id": "cvolton.misc_bugfixes",
+	"name": "Misc Bugfixes",
+	"developer": "Cvolton",
+	"description": "Fixes various issues with the game",
+    "tags": ["bugfix"],
+    "repository": "https://github.com/Cvolton/miscbugfixes-geode",
+	"settings": {
+		"skip-4gb-patch-check": {
+            "name": "Skip 4GB Patch check",
+            "description": "Skips the 4GB Patch check on startup",
+            "type": "bool",
+            "default": false
+        }
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Cvolton/miscbugfixes-geode/releases/download/v1.1.0/cvolton.misc_bugfixes.geode",
+        "hash": "f5e31ceecac781301b2d50aa087480a3e6cc9665bf82b6bf58bff123549b9fc0",
+        "hash256": "76f57bdfb92a4128bed581fe9b15ec1b1343f08db647ec046579519efed68f3d"
+    },
+    "tags": [
+        "bugfix"
+    ]
+}
