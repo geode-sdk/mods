@@ -1,0 +1,14 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/AutoSong-Geode/releases/download/1.1.0/uproxide.autosong.geode",
+        "hash": "e600a9f6c2521f606a47095666dc337d5a113394d2c429017539d19252fba25b",
+        "hash256": "e16b92cd4ed3682c937e36d4a09cb89cca071f23144ec6c789b3ef86fb597797"
+    },
+    "tags": []
+}
