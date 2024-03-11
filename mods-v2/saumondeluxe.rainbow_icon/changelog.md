@@ -1,3 +1,8 @@
+# 1.1.0
+- Added QOLMOD as incompatible (breaking)
+- Fixed every gamemode not working with the mod
+- Fixed shortcut button position
+
 # 1.0.6
 - Fixed the mod not working with the new update
 - Added node's ID to dependencies to avoid crashes
