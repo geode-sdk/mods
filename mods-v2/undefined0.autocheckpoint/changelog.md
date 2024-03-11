@@ -1,4 +1,6 @@
 # Changelog (what a suprise)
+## v1.1.3
+- Fixed pause menu texture
 ## v1.1.2
 - Add anticheat disclosure
 ## v1.1.1
