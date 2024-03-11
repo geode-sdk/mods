@@ -1,0 +1,12 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/ControlVanillaSFX/releases/download/v1.2.0/raydeeux.controlvanillasfx.geode",
+        "hash": "946caef18f0e23048c7a09ba4ff20eac10daec8568d3659f52c2cf5391cecb10",
+        "hash256": "0c66fff895e81e44a47b2f5447122b884fdcda0d19020a0a7e4ef6b0d0ec1d1f"
+    },
+    "tags": []
+}
