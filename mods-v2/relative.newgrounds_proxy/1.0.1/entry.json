@@ -1,0 +1,14 @@
+{
+    "commit-author": "relativemodder",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/newgrounds-proxy/releases/download/v1.0.1-indicator/relative.newgrounds_proxy.geode",
+        "hash": "d2f1e763f6f7d8452e25f3a744e33647a2bd190dbc10cdc7f840b334b7366716",
+        "hash256": "bf9d7dad401d65ccdaf2e777344626b219b726058ef4452ff0ca105e97abf742"
+    },
+    "tags": []
+}
