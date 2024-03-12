@@ -1,3 +1,12 @@
+# v1.5.1 
+    - Made the Prism Button hidden if you are in the Editor.
+    - Fixed bug with progress saving even in Test Mode.
+    - Fixed the ordering of the buttons for "Uncomplete Level".
+    - Fixed bug with Prism Button not working when using "Uncomplete Level".
+    - Updated Portuguese Translations.
+    - Updated Czech Translations.
+    - Fixed No Spikes.
+    - Fixed No Solids.
 # v1.5.0
     - Added Auto Safe Mode.
     - Added No Shaders.
