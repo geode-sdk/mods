@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.3",
+	"id": "relative.newgrounds_proxy",
+	"name": "Newgrounds Proxy",
+	"developer": "relative",
+	"description": "Tries to apply Cloudflare's cache while downloading songs from Newgrounds via self-hosted server.",
+	"gd": {
+		"android": "*",
+		"win": "2.204"
+	},
+	"repository": "https://github.com/relativemodder/newgrounds-proxy"
+}
