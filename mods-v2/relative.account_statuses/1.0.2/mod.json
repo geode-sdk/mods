@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.2",
+	"id": "relative.account_statuses",
+	"name": "Account Statuses",
+	"developer": "relative",
+	"description": "Online, Idle, DND, Invisible",
+	"gd": {
+		"android": "*",
+		"win": "2.204"
+	},
+	"repository": "https://github.com/relativemodder/account_statuses"
+}

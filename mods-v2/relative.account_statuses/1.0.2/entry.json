@@ -1,0 +1,14 @@
+{
+    "commit-author": "relativemodder",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/account_statuses/releases/download/v1.0.2/relative.account_statuses.geode",
+        "hash": "fd2be24a4344ce25803d12c175aebf62158723320ae3199ee17b4caa99da412d",
+        "hash256": "59e9150c25473df5744e1fcda845726c7f87de58b8f85b0ff6247f68cf784489"
+    },
+    "tags": []
+}
