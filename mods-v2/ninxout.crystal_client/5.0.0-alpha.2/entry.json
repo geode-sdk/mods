@@ -1,0 +1,12 @@
+{
+    "commit-author": "ninXout",
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/ninXout/Crystal-Client/releases/download/v5.0.0-alpha.2/ninxout.crystal_client.geode",
+        "hash": "e5d970853773a0450d77b24af8986d40fcd209693cc58b30e3acd591210dec94",
+        "hash256": "cb0c69114f8641ca486350446001ff08314263465987cfc20af05f6be0c6669c"
+    },
+    "tags": []
+}
