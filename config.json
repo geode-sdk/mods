@@ -2564,6 +2564,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "relative.account_statuses": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
