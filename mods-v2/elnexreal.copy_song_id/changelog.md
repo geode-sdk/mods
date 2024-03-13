@@ -1,3 +1,7 @@
+# v1.3.1
+
+- Updated Android target version to `2.205`
+
 # v1.3.0
 
 - Added Jukebox support `(doesn't work with custom songs... can't be fixed)`

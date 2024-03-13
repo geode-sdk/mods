@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.3.1",
+	"id": "elnexreal.copy_song_id",
+	"name": "Copy Song ID",
+	"developer": "elnexreal",
+	"description": "Copy a level's song ID just by clicking it",
+	"repository": "https://github.com/elnexreal/copy_song_id",
+	"tags": [
+		"Utility",
+		"Music"
+	]
+}
