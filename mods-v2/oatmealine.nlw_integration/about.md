@@ -9,6 +9,8 @@ Every non-listworthy extreme demon placed on the spreadsheet will recieve clicka
 the tier its in, an enjoyment rating from [EDEL](https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/edit#gid=0), a short description blurb and
 if the level works in 2.2. _Pending levels with not enough difficulty opinions will only recieve a range_, and sometimes no range at all if a level severely lacks opinions.
 
+_(New!)_ Clicking on the tier text will let you browse every demon in that tier.
+
 **Levels on the Demon List or projected to place on the Demon List will not have any information.**.
 
 Alternatively, you can enable an option which will remove the NLW tier text, instead letting you click the demon face in order to access the same info.

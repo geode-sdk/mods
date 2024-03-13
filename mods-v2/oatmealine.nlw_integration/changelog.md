@@ -1,3 +1,10 @@
+## v1.4.0-beta.2
+
+> **Experimental release**
+
+- Swap the popout from using `init` to `initAnchored`. Maybe fixes mobile alignment issues?
+- Exploring some tiers still do not work. It is a complete mystery to me as to why! This is the last thing preventing this from being a stable release ATM
+
 ## v1.4.0-beta.1
 
 > **Experimental release**
