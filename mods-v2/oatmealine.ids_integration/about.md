@@ -8,6 +8,8 @@ with [nlw-api](https://nlw.oat.zone/) to query tiers, skillsets and descriptions
 Every insane demon placed on the spreadsheet will recieve clickable text showing its IDS tier above its demon icon. Clicking on it will show you the creators,
 the tier its in, a short description blurb and if the level works in 2.2. If a level doesn't have the text, it's likely pending.
 
+_(New!)_ Clicking on the tier text will let you browse every demon in that tier.
+
 Alternatively, you can enable an option which will remove the IDS tier text, instead letting you click the demon face in order to access the same info.
 
 ## Credit

@@ -1,0 +1,14 @@
+{
+    "commit-author": "oatmealine",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/oatmealine/nlw-integration/releases/download/ids-integration-v1.4.0-beta.1/oatmealine.ids_integration.geode",
+        "hash": "c82f91f53f82526eccfa257407d95c09a39529b4376201b1c66379b4faccc484",
+        "hash256": "f92403163888ce80426e1304eaf8b15c2177b46c42b9ceff0bb6b13666fd1d0d"
+    },
+    "tags": []
+}
