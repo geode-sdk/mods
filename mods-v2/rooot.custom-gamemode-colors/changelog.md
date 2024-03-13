@@ -1,3 +1,9 @@
+# v0.1.3
+
+* NodeIDs update! requires Node IDs 1.8.0, removes smelly bad code
+* new logo!
+* fix a crash with Weebify's Separate Dual Icons mod (they're still not fully compatible)
+
 # v0.1.2
 
 * Globed support! (fixes players having your colors)
