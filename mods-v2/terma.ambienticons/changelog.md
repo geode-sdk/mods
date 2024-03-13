@@ -1,13 +1,25 @@
 # Ambient Icons Changelog
 
+## v1.4.4
+
+- <cy>Added</c> bg picker feature to the editor (thanks Cvolton :3)
+- <cy>Updated</c> to Geode Beta 22
+- <cy>Added:</c> Now it requires Node IDs >=v1.8.0
+
+---
+
 ## v1.4.3
 
 - <cy>Removed</c> integration with Globed Progressbar self-icon (sadly was buggy, thanks Node IDs)
+
+---
 
 ## v1.4.2
 
 - <cy>Added</c> `Node IDs` as a dependency
 - <cy>Added</cy> conflicting mod incompatibilities in mod.json
+
+---
 
 ## v1.4.1
 
@@ -15,11 +27,15 @@
 - <cy>Added</c> support for `Node IDs` when picking colors from BG
 - <cy>Fixed</c> picking color from BG don't working with GD 2.2 shaders
 
+---
+
 ## v1.4.0
 
 - <cy>Added</c> integration with Globed Progressbar self-icon
 - <cy>Added</c> an option for picking the color only from the BG (big thanks to elnexreal) - Doesn't work on LevelEditorLayer (Level editor)
 - <cy>Improved</c> code for better implementations
+
+---
 
 ## v1.3.2
 
