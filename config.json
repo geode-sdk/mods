@@ -2564,7 +2564,8 @@
         "weebify.separate_dual_icons": {
             "verified": false,
             "versions": [
-                "1.0.1"
+                "1.0.1",
+                "1.0.2"
             ]
         },
         "viper.project-oppenheimer": {

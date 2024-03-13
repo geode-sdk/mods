@@ -1,0 +1,18 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/separate-dual-icons-geode/releases/download/v1.0.2/weebify.separate_dual_icons.geode",
+        "hash": "d81ea2838744f30c1bc8941f28c8cef6beefb0a2c5b68477998b4ada05b5ba20",
+        "hash256": "327a0ec5d03a4f904fe337b86d85cad071645741ce5576c8de7869e8136387d5"
+    },
+    "tags": [
+        "Gameplay",
+        "Interface",
+        "Customization"
+    ]
+}
