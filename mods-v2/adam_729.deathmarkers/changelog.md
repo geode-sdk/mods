@@ -1,4 +1,6 @@
 ## Death Markers Changelog
+# v1.1.3
+- Fixed bug with markers not showing with QOLMod "Hide Death Effect" ([discord msg](https://discord.com/channels/911701438269386882/911701440022585386/1217319874435743784))
 # v1.1.2
 - Fixed ANOTHER bug where you get respawned twice ([issue #11](https://github.com/Bean0of/deathmarkers/issues/11))
 # v1.1.1
