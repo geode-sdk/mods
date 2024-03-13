@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.6.8
+
+* Fixed several bugs such as incompatibility with BetterInfo (touch issues with some buttons) and percentage input in level editing, not editor.
+* Added level info and coins viewer (it's highly recommended to use the existing mods).
+* Added view button in the other pause modes.
+* Added star request info (thx RayDeeUx).
+* Added confirm pop-ups.
+* Added "Remove exit hotkey".
+* Added "I button comment change".
+
 ## v1.6.6
 * Fixes for various bugs and incompatibilities with other mods.
 * Maximum aspect ratio correction
