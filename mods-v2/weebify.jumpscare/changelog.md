@@ -1,4 +1,8 @@
 # Jumpscare Changelog
+## v1.3.0
+- Added MacOS support
+- Added the ability to have multiple jumpscares play randomly
+- Added an option to disable the jumpscare's blinking effect
 ## v1.2.1
 - Small bugfix
 - Added an option to play the jumpscare sound at full volume or not
