@@ -1,3 +1,6 @@
+# v0.1.9
+ * Fixed crashing when restarting a level for the first time with the progress bar disabled
+
 # v0.1.8
  * Fixed issues with start positions and platformer checkpoints
 
