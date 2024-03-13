@@ -1,0 +1,17 @@
+{
+    "commit-author": "user95401",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/user95401/MainLevelsEditor/releases/download/v5-release/user95401.mainlevelseditor.geode",
+        "hash": "a9b679c8545679af3bf58009f7f83043bc07df44b568c0f28a75cac1480e93fe",
+        "hash256": "45fa2375cfb889c8de24d6e9d32e4f3c12bdc06658ad30364aa604a50094a8b9"
+    },
+    "tags": [
+        "Interface",
+        "Utility",
+        "Customization",
+        "Cheats"
+    ]
+}
