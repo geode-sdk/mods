@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.4] - 2024-03-13
+
+### Added
+
+- `RLLoadingCircle`, a better LoadingCircle lol
+
+### Changed
+
+- Cleaned up `#include`s in header files
+
+### Fixed
+
+- 5 Character limit in `RLIntegerInputLayer`
+- `LoadingCircle` in wrong position on Android
+
 ## [2.0.3] - 2024-03-09
 
 ### Changed
