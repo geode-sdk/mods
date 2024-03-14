@@ -1,0 +1,14 @@
+{
+    "commit-author": "LXanii",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/LXanii/Super-Expert/releases/download/beta4/xanii.super_expert.geode",
+        "hash": "c09dfce6d577e9e94604043ac1b810d4e367303158443f0c40b2cd789479434b",
+        "hash256": "fe8570d6eeb0a08650c4ae4c8bf7167a196e6664d83d2c63994c941b3e667121"
+    },
+    "tags": []
+}
