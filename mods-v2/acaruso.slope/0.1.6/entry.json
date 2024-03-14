@@ -1,0 +1,14 @@
+{
+    "commit-author": "acaruso-xx",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/acaruso-xx/slope-geode/releases/download/v0.1.6/acaruso.slope.geode",
+        "hash": "def756a00346637f060d862ba00af4deac2b753dd74267a1eeeb0e5716f95ac9",
+        "hash256": "e3ae986ea46660c5404f34da10bd55da13a4e2993a963fafb03f4eb6cefe2dca"
+    },
+    "tags": []
+}
