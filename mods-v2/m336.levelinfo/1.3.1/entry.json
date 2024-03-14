@@ -1,0 +1,18 @@
+{
+    "commit-author": "M336G",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/M336G/LevelInfo/releases/download/v1.3.1/m336.levelinfo.geode",
+        "hash": "e9b52be090d481c8287e3e77e773ee421627ca4617843501d075268ebfd6448b",
+        "hash256": "fc020dd07476052c7825f45d8e1aea8a641fbd327f5b2444788ef0e0e5440442"
+    },
+    "tags": [
+        "Utility",
+        "Interface"
+    ]
+}

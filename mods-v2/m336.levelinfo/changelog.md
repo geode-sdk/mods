@@ -1,3 +1,8 @@
+# Version 1.3.1
+- Code optimization
+- Added a string ID to the label
+- Improved the mod's description in the README.md, the about.md and the mod.json files
+
 # Version 1.3.0
 - Added the editor time setting
 - Added the editor time (+copies) setting
