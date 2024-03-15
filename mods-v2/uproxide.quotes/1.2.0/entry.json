@@ -1,0 +1,15 @@
+{
+    "commit-author": "coopeeo",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/quotes-geode/releases/download/1.2.0/uproxide.quotes.geode",
+        "hash": "546f3cdc00768f38d2f48ed69d1347d8d1cfdf168306c7773c6bb5dfa7bd8fd8",
+        "hash256": "5704e401022cfc666d9d100ef538c76b6d455c848a74e26c7944146800ce72d9"
+    },
+    "tags": []
+}
