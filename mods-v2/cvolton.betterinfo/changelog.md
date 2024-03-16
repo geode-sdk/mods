@@ -1,4 +1,7 @@
 # Changelog
+## <cg>v4.1.5</c> (2024-03-16)
+* <cg>Fixed</c> some filters not working properly in <cj>Filtered Search</c>
+
 ## <cg>v4.1.4</c> (2024-03-16)
 * <cg>Fixed</c> potential <co>startup</c> <cr>crash and lag issues</c>
 * <cg>Optimized</c> <cj>Filtered Search</c>
