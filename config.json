@@ -2648,6 +2648,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "bigmancozmo.skip_editor_save_confirm": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

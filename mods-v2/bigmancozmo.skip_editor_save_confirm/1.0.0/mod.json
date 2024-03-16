@@ -1,0 +1,25 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "bigmancozmo.skip_editor_save_confirm",
+	"name": "Skip Editor Save Confirm",
+	"developer": "Bigmancozmo",
+	"description": "Allows you to skip the confirm save popup in the editor",
+	"settings": {
+        "skip-popup": {
+            "name": "Skip Save Popup",
+            "type": "bool",
+            "default": true
+        },
+		"resume-on-save": {
+            "name": "Resume After Save",
+			"description": "Optionally resume after saving",
+            "type": "bool",
+            "default": true
+        }
+    }
+}

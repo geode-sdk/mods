@@ -1,0 +1,14 @@
+{
+    "commit-author": "Bigmancozmo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Bigmancozmo/Skip-Editor-Save-Confirm/releases/download/v1.0.0/bigmancozmo.skip_editor_save_confirm.geode",
+        "hash": "13d756eb21c3a06cad06238fbfdd8811ddd6ee0558815966d1d402eee3d8833c",
+        "hash256": "faccd45abe3feccde33b98a8c79c0e812416747adaf58a7c906ddbf1519b3513"
+    },
+    "tags": []
+}
