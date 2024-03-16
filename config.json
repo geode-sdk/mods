@@ -2662,6 +2662,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "capeling.coloured-wave-trail": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

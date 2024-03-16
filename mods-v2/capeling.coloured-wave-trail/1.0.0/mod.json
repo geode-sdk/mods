@@ -1,0 +1,36 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "capeling.coloured-wave-trail",
+	"name": "Customizable Wave Trail",
+	"developer": "Capeling",
+	"description": "Allows you to easily customize the your wave trail through the mod settings.",
+	"settings": {
+		"colour": {
+			"type": "color",
+			"default": [255, 0, 0],
+			"name": "Player 1 wave trail colour"
+		},
+		"colour2": {
+			"type": "color",
+			"default": [255, 0, 0],
+			"name": "Player 2 wave trail colour"
+		},
+		"colourEnabled": {
+			"type": "bool",
+			"default": true,
+			"name": "Change wave trail colour"
+		},
+		"solid": {
+			"type": "bool",
+			"default": false,
+			"name": "Solid wave trail"
+		},
+		"noWave": {
+			"type": "bool",
+			"default": false,
+			"name": "No wave trail"
+		}
+	}
+}

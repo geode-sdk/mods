@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/coloured-wave-trail/releases/download/v1.0.0/capeling.coloured-wave-trail.geode",
+        "hash": "ab1ef5c013d682d9df29d125322c033865233117a1d4ee7e5283a0fff1fcf5e3",
+        "hash256": "2bb13e61de3e3db1161b81dd6246131ae7042a4861d64f4fd57b0d6d2b2f4b88"
+    },
+    "tags": []
+}
