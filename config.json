@@ -2630,6 +2630,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "hiimjustin000.more_object_info": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
