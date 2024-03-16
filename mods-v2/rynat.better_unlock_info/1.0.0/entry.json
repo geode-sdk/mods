@@ -1,0 +1,15 @@
+{
+    "commit-author": "Rynat86",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Rynat86/Better-Unlock-Info/releases/download/v1.0.0/rynat.better_unlock_info.geode",
+        "hash": "0e43aba197a86b792a8a6be3db30ba6e9328694aa4302b5b64bc7e2e56a67f48",
+        "hash256": "42d6b97417857a42ea21a057614c904d534bad3c2eb8f61ae9982873665005ba"
+    },
+    "tags": [
+        "enhancement",
+        "interface"
+    ]
+}

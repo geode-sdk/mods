@@ -2624,6 +2624,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "rynat.better_unlock_info": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
