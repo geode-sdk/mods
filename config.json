@@ -2618,6 +2618,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "user95401.window-name": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

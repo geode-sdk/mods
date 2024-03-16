@@ -1,0 +1,12 @@
+{
+    "commit-author": "user95401",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/user95401/window-name/releases/download/v1/user95401.window-name.geode",
+        "hash": "7adcd81672adcca46f6f24d5bbaa262e50c386806669e79ce075f69906d626f3",
+        "hash256": "a3493143f420964353375ea47390bfc48ba838bf7f6d0b3b7e8b639a42f14279"
+    },
+    "tags": []
+}
