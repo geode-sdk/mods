@@ -2612,6 +2612,12 @@
                 "1.0.1",
                 "1.0.2"
             ]
+        },
+        "kynex7510.lockwindowsize": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

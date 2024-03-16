@@ -1,0 +1,12 @@
+{
+    "commit-author": "kynex7510",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/kynex7510/gd_nwr/releases/download/v1.0.0/kynex7510.lockwindowsize.geode",
+        "hash": "e7740e2bd2f7ad4949815ab1fcea4e1020f881f9ca037d40055761ca6673c63a",
+        "hash256": "35ddf33aae3aef7cc2f5341d4cba59e74796e4a797155062f2b3b13ea4ab9683"
+    },
+    "tags": []
+}

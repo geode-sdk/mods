@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "kynex7510.lockwindowsize",
+	"name": "Lock Window Size",
+	"developer": "Kynex7510",
+	"description": "Disable manual window resize"
+}
