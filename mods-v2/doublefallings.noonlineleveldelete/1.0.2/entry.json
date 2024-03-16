@@ -1,0 +1,15 @@
+{
+    "commit-author": "DoublefallingS",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/DoublefallingS/NoOnlineLevelDelete/releases/download/v1.0.2/doublefallings.noonlineleveldelete.geode",
+        "hash": "4c497380e66e6a22cf82453e10519623dc9f44cdee31ee8d52b589f0e17bf2cb",
+        "hash256": "4b0edcfeb9008815bbea0a42c0ffbb60f8ab934f1f2da7e54f430333b9627e36"
+    },
+    "tags": []
+}

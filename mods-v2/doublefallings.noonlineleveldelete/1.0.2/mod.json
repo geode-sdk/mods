@@ -1,0 +1,21 @@
+{
+	"geode": "v2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.2",
+	"id": "doublefallings.noonlineleveldelete",
+	"name": "NoOnlineLevelDelete",
+	"developer": "DoubleFallingS",
+	"description": "Hides the button to delete your online levels to prevent accidents.",
+	"settings": {
+        "moderator-button-disabled": {
+            "name": "Mod Button Disabled",
+            "description": "Whether or not the delete button for moderators should be disabled.",
+            "type": "bool",
+            "default": true
+        }
+    }
+}

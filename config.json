@@ -2654,6 +2654,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "doublefallings.noonlineleveldelete": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }
