@@ -1,0 +1,209 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "tpdea.wavetrailglowy",
+	"name": "Wave Trail Glowy",
+	"developer": "Tpdea",
+	"description": "glowy epic wave",
+	"settings": {
+		"glowy-enabled": {
+			"name": "Enabled Mod",
+			"type": "bool",
+			"default": true
+		},
+		"glowy-on-death": {
+			"name": "Glowy On Death",
+			"type": "bool",
+			"default": false
+		},
+		"const-size": {
+			"name": "Const Size",
+			"description": "",
+			"type": "bool",
+			"default": false
+		},
+		"opacity-glowy-wave-trail": {
+			"name": "Opacity",
+			"type": "float",
+			"default": 0.2,
+			"min": 0.0,
+			"max": 1.0,
+			"control": {
+				"arrows": true,
+				"slider": true
+			}
+		},
+		"size-glowy-wave-trail": {
+			"name": "Size",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"title-seccion-p1-custom": {
+			"name": "P1 Custom",
+			"type": "custom",
+			"description": "This P1 Custom.",
+			"scale": 300,
+			"posX": 80
+		},
+		"custom-color-trail-p1": {
+			"name": "Custom Color",
+			"type": "bool",
+			"default": false
+		},
+		"color-trail-p1": {
+			"name": "Color Custom P1 Glow",
+			"type": "color",
+			"default": [ 255, 255, 255 ]
+		},
+		"rainbow-glowy-p1": {
+			"name": "Rainbow Glowy",
+			"type": "bool",
+			"default": false
+		},
+		"rainbow-glowy-p1-speed": {
+			"name": "Rainbow Glowy Speed",
+			"type": "float",
+			"default": 1.0,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"rainbow-pastel-glowy-p1": {
+			"name": "Rainbow Pastel Glowy",
+			"type": "bool",
+			"default": false
+		},
+		"rainbow-pastel-glowy-p1-speed": {
+			"name": "Rainbow Pastel Speed",
+			"type": "float",
+			"default": 1.0,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"fade-color-glowy-p1": {
+			"name": "Fade Color Glowy",
+			"type": "bool",
+			"default": false
+		},
+		"fade-color-glowy-p1-initial": {
+			"name": "Fade Color Initial",
+			"type": "color",
+			"default": [ 255, 255, 255 ]
+		},
+		"fade-color-glowy-p1-final": {
+			"name": "Fade Color Final",
+			"type": "color",
+			"default": [ 255, 255, 255 ]
+		},
+		"fade-color-glowy-p1-speed": {
+			"name": "Fade Color Speed",
+			"type": "float",
+			"default": 1.0,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"const-effect-color-p1": {
+			"name": "Const Effect Color",
+			"type": "bool",
+			"default": true
+		},
+		"title-seccion-p2-custom": {
+			"name": "P2 Custom",
+			"type": "custom",
+			"description": "This P2 Custom.",
+			"scale": 300,
+			"posX": 80
+		},
+		"custom-color-trail-p2": {
+			"name": "Custom Color",
+			"type": "bool",
+			"default": false
+		},
+		"color-trail-p2": {
+			"name": "Color Custom P2 Glow",
+			"type": "color",
+			"default": [ 255, 255, 255 ]
+		},
+		"rainbow-glowy-p2": {
+			"name": "Rainbow Glowy",
+			"type": "bool",
+			"default": false
+		},
+		"rainbow-glowy-p2-speed": {
+			"name": "Rainbow Glowy Speed",
+			"type": "float",
+			"default": 1.0,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"rainbow-pastel-glowy-p2": {
+			"name": "Rainbow Pastel Glowy",
+			"type": "bool",
+			"default": false
+		},
+		"rainbow-pastel-glowy-p2-speed": {
+			"name": "Rainbow Pastel Glowy Speed",
+			"type": "float",
+			"default": 1.0,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"fade-color-glowy-p2": {
+			"name": "Fade Color Glowy",
+			"type": "bool",
+			"default": false
+		},
+		"fade-color-glowy-p2-initial": {
+			"name": "Fade Color Initial",
+			"type": "color",
+			"default": [ 255, 255, 255 ]
+		},
+		"fade-color-glowy-p2-final": {
+			"name": "Fade Color Final",
+			"type": "color",
+			"default": [ 255, 255, 255 ]
+		},
+		"fade-color-glowy-p2-speed": {
+			"name": "Fade Color Speed",
+			"type": "float",
+			"default": 1.0,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false
+			}
+		},
+		"const-effect-color-p2": {
+			"name": "Const Effect Color",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"dependencies": [
+			{
+				"id": "geode.node-ids",
+				"version": ">=v1.3.0",
+				"importance": "required"
+			}
+		]
+	}

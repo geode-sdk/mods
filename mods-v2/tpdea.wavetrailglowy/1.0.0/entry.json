@@ -1,0 +1,12 @@
+{
+    "commit-author": "TpdeaX",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TpdeaX/WaveTrailGlowy/releases/download/release/tpdea.wavetrailglowy.geode",
+        "hash": "bce5dfcc39cddc26e50429e6199248b7400c135f5d7708a26cdf981342d5a9d5",
+        "hash256": "3df63c2ae4a2af66d60961ced7b9ef3e9166188f5920180f50d05ce794d8894d"
+    },
+    "tags": []
+}

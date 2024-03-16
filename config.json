@@ -2636,6 +2636,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "tpdea.wavetrailglowy": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
