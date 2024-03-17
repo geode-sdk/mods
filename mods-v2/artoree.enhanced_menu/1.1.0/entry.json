@@ -1,0 +1,12 @@
+{
+    "commit-author": "Artoree",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Artoree/Enhanced-menu-mod-GD/releases/download/v1.1.0/artoree.enhanced_menu.geode",
+        "hash": "2a3bd9eff5cb6294e5b2928ee0aa973253b996bfcc550e215575768bbddd280b",
+        "hash256": "e2467f46faf3890cd1bb37d1c9109facbeb3ec35a02a052711fe67dc100ff2ff"
+    },
+    "tags": []
+}

@@ -1,0 +1,10 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": "2.204",
+	"version": "v1.1.0",
+	"id": "artoree.enhanced_menu",
+	"name": "enhanced menu",
+	"developer": "Artoree",
+	"description": "Makes the main menu look a little bit better!",
+	"repository": "https://github.com/Artoree/Enhanced-menu-mod-GD--Source-code"
+}

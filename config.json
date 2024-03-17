@@ -2006,7 +2006,8 @@
         "artoree.enhanced_menu": {
             "verified": false,
             "versions": [
-                "1.0.0-beta"
+                "1.0.0-beta",
+                "1.1.0"
             ]
         },
         "cj_link.fakemoderator": {
