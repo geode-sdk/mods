@@ -1,0 +1,46 @@
+{
+    "geode":"2.0.0-beta.22",
+    "gd":
+    {
+        "win": "2.204"
+    },
+    "version":"v1.0.1",
+    "id":"rynat.better_unlock_info",
+    "name":"Better Unlock Info",
+    "developer":"Rynat",
+    "description":"Shows how to unlock icons that someone is using and more info about them",
+    "tags": ["enhancement", "interface"],
+    "dependencies":
+    [
+        {
+            "id":"geode.node-ids",
+            "version":">=v1.7.0",
+            "importance":"required"
+        }
+    ],
+    "settings":
+    {
+        "jetpackToggle":
+        {
+            "name":"Show Jetpack On Profile Page",
+            "description":"Will put the currently used Jetpack next to the other icons on Profile Page",
+            "type":"bool",
+            "default":true
+        },
+        "deathEffectToggle":
+        {
+            "name":"Show Death Effect On Profile Page",
+            "description":"Will put the currently used Death Effect next to the other icons on Profile Page",
+            "type":"bool",
+            "default":false
+        }
+    },
+    "resources":
+    {
+        "files":["resources/jsons/*.json"],
+        "spritesheets": 
+        {
+            "Mics":["resources/spritesheets/misc/*.png"]
+        }
+    }
+}
