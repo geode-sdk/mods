@@ -1,3 +1,9 @@
+# v1.1.6
+
+- fix the trail showing up in the editor when the player reverses direction
+- fix the trail not showing as soon as you switch direction
+- refactor code and account for cumulative error on smooth transitions
+
 # v1.1.5
 
 - fix interaction with show/hide player triggers
