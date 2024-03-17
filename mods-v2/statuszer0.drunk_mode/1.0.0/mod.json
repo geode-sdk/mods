@@ -1,0 +1,11 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "statuszer0.drunk_mode",
+	"name": "Drunk Mode",
+	"developer": "StatusZer0",
+	"description": "A mod that makes the player drunk"
+}

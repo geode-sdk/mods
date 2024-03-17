@@ -1,0 +1,12 @@
+{
+    "commit-author": "StatusZer0",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/StatusZer0/DrunkMode/releases/download/Release/statuszer0.drunk_mode.geode",
+        "hash": "66855c40fce80d9ab1b68cba5482b83302bff5ab4061a663b2d2051a5983d325",
+        "hash256": "8340dc36317011b5b1d0ecaf070f085411b13d483d87799b2fba6be82c1ee77f"
+    },
+    "tags": []
+}

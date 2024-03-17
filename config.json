@@ -2677,6 +2677,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "statuszer0.drunk_mode": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
