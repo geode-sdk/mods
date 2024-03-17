@@ -2671,6 +2671,12 @@
                 "1.0.1",
                 "1.0.2"
             ]
+        },
+        "jojo989.geometwy_dash": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "commit-author": "jojo989",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/jojo989/geometwy-dash/releases/download/v1/jojo989.geometwy_dash.geode",
+        "hash": "1537178e90895eae6802bc35dd17c1805a92707d804c5d81a0181fd03c89810b",
+        "hash256": "93dbecac6bf6c86853dcb9d28b9d0f1979143595a50fd44b8797cc870e22c8f1"
+    },
+    "tags": []
+}
