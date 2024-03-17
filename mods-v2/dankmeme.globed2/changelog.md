@@ -1,3 +1,16 @@
+## v1.3.3
+
+* Speed up asset preloading even more (death effects now don't preload if they are disabled or if Default death effects is enabled)
+* Add a way to hide specific players
+* Add an option to load assets when first joining an online level instead of on the loading screen (for Colon)
+* Add an option that shows your own name above your icon
+* Add ability to copy room IDs by pressing the title
+* Death effects and spider animations of other players now play while paused
+* Some player animations are now paused when that player is also paused
+* Fix some (but not all) crashes related to asset preloading and texture packs
+* Fix platformer squish animation looking wrong when jumping sideways from a wall
+* Fix (yet again) progressing in levels with start positions
+
 ## v1.3.2
 
 * **Improve loading times** - Asset preloading is now up to **3-5 times faster** on Windows (not as fast on other platforms, but still slightly faster)
