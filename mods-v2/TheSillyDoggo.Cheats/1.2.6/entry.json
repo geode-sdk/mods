@@ -1,0 +1,14 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/GeodeMenu/releases/download/v1.2.6/TheSillyDoggo.Cheats.geode",
+        "hash": "8bbb76da3e95ac77d1387347ac81dd812b9e77c8bf54590f97b44b8610373140",
+        "hash256": "3dd8ca7021ca22a9a70fca7e33ae3d3cfd3627cf7ef4905ca0022c18606c1d9e"
+    },
+    "tags": []
+}
