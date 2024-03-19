@@ -1,3 +1,8 @@
+# 1.2.7
+
+- Added Hitbox Trail
+- Added Quests in Pause
+
 # 1.2.6
 
 - Added Show Triggers in normal mode
