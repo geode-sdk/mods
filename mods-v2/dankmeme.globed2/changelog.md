@@ -1,3 +1,10 @@
+## v1.3.4
+
+* Fix player collision being broken in the editor
+* Fix crash when opening player list
+* Fix crash when quickly closing the level browser on Android
+* Make the icons above players change their opacity too when changing player opacity
+
 ## v1.3.3
 
 * Speed up asset preloading even more (death effects now don't preload if they are disabled or if Default death effects is enabled)
