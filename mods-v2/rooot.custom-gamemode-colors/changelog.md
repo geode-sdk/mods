@@ -1,3 +1,9 @@
+# v0.1.4
+
+* More descriptive messages to avoid confusion with the UI
+* new internal data structure to declutter code a tiny bit (migrates automatically)
+* remove a lot of not needed hooks (may improve performance very slightly)
+
 # v0.1.3
 
 * NodeIDs update! requires Node IDs 1.8.0, removes smelly bad code

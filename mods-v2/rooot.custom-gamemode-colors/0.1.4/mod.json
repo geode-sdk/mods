@@ -1,0 +1,25 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v0.1.4",
+	"id": "rooot.custom-gamemode-colors",
+	"name": "Custom Gamemode Colors",
+	"developer": "rooot",
+	"description": "Set custom player colors for each gamemode!",
+	"repository": "https://github.com/RoootTheFox/custom-gamemode-colors",
+	"tags": [
+		"customization",
+		"gameplay",
+		"interface"
+	],
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.8.0",
+			"importance": "required"
+		}
+	]
+}
