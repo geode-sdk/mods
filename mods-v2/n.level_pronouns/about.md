@@ -35,6 +35,8 @@ In addition to traditional pronouns, this mod introduces neopronouns for a more 
 
 We understand that not everyone may want to use neopronouns. That's why we give you the power to decide. You can enable or disable neopronouns in the Geode Settings menu for this mod.
 
+In case you want the text from the Level Cell to be white, you can enable the "White Text" option in the Geode Settings menu for this mod.
+
 ## Probability
 
 To maintain balance and diversity, the mod randomly assigns pronouns to levels. We aim for a more inclusive and representative gaming experience, so the probability of neopronouns being assigned to a level is set at 20%.
