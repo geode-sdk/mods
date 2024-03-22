@@ -1,0 +1,15 @@
+{
+    "commit-author": "TechStudent10",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TechStudent10/ButtonSFX/releases/download/v1.1.0/techstudent10.button_sfx.geode",
+        "hash": "c7fd60781ffe74bdc4a0eb2a7f902191fa875059db139e54fbf5c309425088ed",
+        "hash256": "e2d232b90fc8827a8b61de9d5bb99705164632b5f7685fa113eb6e92a06daa6e"
+    },
+    "tags": []
+}
