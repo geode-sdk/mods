@@ -2700,6 +2700,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "capeling.geometry-dash-lunar": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
