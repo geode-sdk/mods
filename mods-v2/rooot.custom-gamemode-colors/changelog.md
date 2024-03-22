@@ -1,3 +1,8 @@
+# v0.1.5
+
+* **MacOS support!** huge thanks to dankmeme for telling me what functions have inlined flashPlayer <3
+* the overrides for the small cube inside of the ship/ufo are now toggleable!
+
 # v0.1.4
 
 * More descriptive messages to avoid confusion with the UI
