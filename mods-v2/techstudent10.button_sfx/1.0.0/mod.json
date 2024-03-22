@@ -1,0 +1,38 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "techstudent10.button_sfx",
+	"name": "Button SFX",
+	"developer": "TechStudent10",
+	"description": "Plays a sound effect whenever a button is clicked!",
+	"settings": {
+		"sfx": {
+			"type": "path",
+			"name": "SFX",
+			"description": "The SFX sound file",
+			"default": "sfsdfsdg",
+			"control": {
+				"filters": [
+					{
+						"description": "Sound Files",
+						"files": [
+							"mp3",
+							"ogg"
+						]
+					}
+				]
+			}
+		},
+		"in-editor": {
+			"type": "bool",
+			"default": false,
+			"description": "Should play in the editor",
+			"name": "Play in editor"
+		}
+	}
+}
