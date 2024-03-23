@@ -1,3 +1,8 @@
+# v1.1.5
+- Fixed a bug that would cause the game to crash if the level cache was for some reason not a valid json
+- The "couldn't cache" popup shouldn't pop up every single time when there's no connection anymore on the title screen
+- Fixed a bug which caused the weekly full cache refresh to not work due to overwriting the initial cache time value
+
 # v1.1.4
 - Fixed [the bug that prevented players from using the simple search UI](https://github.com/B1rtek/Geode-GDDLIntegration/issues/29)
 - The local ratings cache updates downloaded from the API are now saved, so the GDDL Split should be even more accurate now
