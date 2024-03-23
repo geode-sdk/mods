@@ -6,9 +6,7 @@ Wallpaper image is stored at "iristraa.mainmenuwallpaper" in texture packs,...
 or "[GD Installation folder]/geode/unzipped/iristraa.mainmenuwallpaper/resources/iristraa.mainmenuwallpaper".
 
 ### TODO:
- - Android support
  - "Tile" fit type
- - Cool new mod icon :D
 
 ## Different fit types
 1. Fill: Image is scaled (aspect ratio maintained) to fill the entire screen.
