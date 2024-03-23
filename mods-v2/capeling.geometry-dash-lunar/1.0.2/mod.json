@@ -1,0 +1,64 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.2",
+	"id": "capeling.geometry-dash-lunar",
+	"name": "Geometry Dash: Lunar",
+	"developers": [
+		"GenaMorphosis",
+		"Capeling"
+	],
+	"description": "",
+	"resources": {
+		"files": [
+			"resources/levels/*.txt",
+			"resources/songs/*.mp3"
+		],
+		"spritesheets": {
+			"LunarSheet":[
+				"resources/LunarSheet/GJL_secretDoor_001.png",
+				"resources/LunarSheet/GJL_creditsBtn_001.png",
+				"resources/LunarSheet/GJL_lunarLogo_001.png"
+			],
+			"IconSheet":[
+				"resources/icons/IconSheet/player_05_001.png",
+				"resources/icons/IconSheet/player_05_2_001.png",
+				"resources/icons/IconSheet/player_05_extra_001.png",
+				"resources/icons/IconSheet/player_05_glow_001.png",
+				"resources/icons/IconSheet/player_06_001.png",
+				"resources/icons/IconSheet/player_06_2_001.png",
+				"resources/icons/IconSheet/player_06_extra_001.png",
+				"resources/icons/IconSheet/player_06_glow_001.png",
+				"resources/icons/IconSheet/player_07_001.png",
+				"resources/icons/IconSheet/player_07_2_001.png",
+				"resources/icons/IconSheet/player_07_extra_001.png",
+				"resources/icons/IconSheet/player_07_glow_001.png",
+				"resources/icons/IconSheet/player_08_001.png",
+				"resources/icons/IconSheet/player_08_2_001.png",
+				"resources/icons/IconSheet/player_08_glow_001.png",
+				"resources/icons/IconSheet/player_09_001.png",
+				"resources/icons/IconSheet/player_09_2_001.png",
+				"resources/icons/IconSheet/player_09_glow_001.png",
+				"resources/icons/IconSheet/player_10_001.png",
+				"resources/icons/IconSheet/player_10_2_001.png",
+				"resources/icons/IconSheet/player_10_glow_001.png",
+				"resources/icons/IconSheet/player_11_001.png",
+				"resources/icons/IconSheet/player_11_2_001.png",
+				"resources/icons/IconSheet/player_11_extra_001.png",
+				"resources/icons/IconSheet/player_11_glow_001.png",
+				"resources/icons/IconSheet/player_12_001.png",
+				"resources/icons/IconSheet/player_12_2_001.png",
+				"resources/icons/IconSheet/player_12_glow_001.png"
+			]
+		}
+	},
+	"settings": {
+		"nocopyright": {
+			"type": "bool",
+			"default": false,
+			"description": "Uses non copyrighted remixes for copyrighted songs",
+			"name": "Use Song Remixes"
+		}
+	},
+	"early-load": true
+}
