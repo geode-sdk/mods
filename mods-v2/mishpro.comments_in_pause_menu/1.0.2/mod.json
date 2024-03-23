@@ -1,0 +1,25 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204",
+		"ios": "2.205"
+	},
+	"version": "v1.0.2",
+	"id": "mishpro.comments_in_pause_menu",
+	"name": "Comments in Pause menu",
+	"developer": "mishpro",
+	"description": "",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.7.1",
+			"importance": "required"
+		}
+	],
+	"repository": "https://github.com/mishpro-programm/infoinpause",
+	"issues": {
+		"info": "Create an issue in github repository",
+		"url": "https://github.com/mishpro-programm/infoinpause/issues"
+	}
+}
