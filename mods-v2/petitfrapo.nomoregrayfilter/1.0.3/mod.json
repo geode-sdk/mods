@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.3",
+	"id": "petitfrapo.nomoregrayfilter",
+	"name": "NoMoreGrayFilter",
+	"developer": "PetitFrapo",
+	"description": "Removes the filthy gray filter from the Event, Map and Versus button. Should be compatible with any mod, but please report any issue on the GitHub repo. Cosmetic only, of course.",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.8.1",
+            "importance": "required"
+        }
+    ],
+	"incompatibilities": [
+		{
+			"id": "capeling.goodbye_unnecessary_buttons",
+			"version": "*",
+			"importance": "breaking"
+		}
+	],
+	"repository": "https://github.com/petitfrapo/nomoregrayfilter"
+}
