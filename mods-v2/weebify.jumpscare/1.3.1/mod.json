@@ -1,0 +1,90 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.3.1",
+	"id": "weebify.jumpscare",
+	"name": "Jumpscare",
+	"developer": "Weebify",
+	"description": "Randomly jumpscares you when you die",
+	"repository": "https://github.com/Weebifying/jumpscare-geode",
+	"tags": ["Gameplay"],
+	"resources": {
+		"files": [
+			"resources/background.png",
+			"resources/jumpscare.png",
+			"resources/jumpscareAudio.mp3",
+			"resources/image.png"
+		],
+		"sprites": [
+			"resources/GJ_jumpscareBtn_001.png"
+		]
+	},
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.8.0",
+            "importance": "required"
+        }
+    ],
+	"settings": {
+		"randomize": {
+			"name": "Randomize jumpscares",
+			"description": "If enabled, the jumpscare will be randomized between the available ones",
+			"type": "bool",
+			"default": true
+		},
+		"jumpscare_in_use": {
+			"name": "Jumpscare in use",
+            "type": "custom"
+        },
+		"chance": {
+            "name": "Probability (%)",
+            "type": "float",
+            "default": 10,
+            "min": 0,
+            "max": 100
+		},
+		"from_percent": {
+			"name": "Jumpscare after (%)",
+			"description": "Only triggers the jumpscare after a certain percentage",
+			"type": "float",
+			"default": 10,
+			"min": 0,
+			"max": 100
+		},
+		"from_time": {
+			"name": "Jumpscare after (s)",
+			"description": "Only triggers the jumpscare after a certain time",
+			"type": "float",
+			"default": 30,
+			"min": 0
+		},
+		"only_from_0": {
+			"name": "Only from 0%",
+			"type": "bool",
+			"description": "If enabled, the jumpscare won't get triggered if you are in practice or testmode",
+			"default": false
+		},
+		"full_volume": {
+			"name": "Full volume",
+			"type": "bool",
+			"description": "If enabled, the jumpscare's audio will play at full volume",
+			"default": false
+		},
+		"disable_blink": {
+			"name": "Disable blinking effect",
+			"type": "bool",
+			"default": false
+		},
+		"button": {
+			"name": "Show button in pause menu",
+			"type": "bool",
+			"description": "If enabled, a button that opens this settings page will appear in the pause menu",
+			"default": false
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/jumpscare-geode/releases/download/v1.3.1/weebify.jumpscare.geode",
+        "hash": "b9407fe3298e432f2db735bb99ae0279836ddc95bc47ecf8279b36c369ef8ba5",
+        "hash256": "d07f4dfaace77a142e618e043b7225093e07b3896d26fdd66d6ca688550f163e"
+    },
+    "tags": [
+        "Gameplay"
+    ]
+}
