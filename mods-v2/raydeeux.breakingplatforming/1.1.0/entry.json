@@ -1,0 +1,14 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/BreakingPlatforming/releases/download/v1.1.0/raydeeux.breakingplatforming.geode",
+        "hash": "ec97306661004e62cc403b58cd22aa7040c54a437e4b0a6a3947027d57c10aea",
+        "hash256": "c829a797a5a090529701e7e0f10fc4de3eb1cc0c4bae61fb5d4b2578ff8a48d5"
+    },
+    "tags": []
+}

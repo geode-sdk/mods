@@ -1,0 +1,160 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.1.0",
+	"id": "raydeeux.breakingplatforming",
+	"name": "BreakingPlatforming",
+	"developer": "RayDeeUx",
+	"description": "\"Platformer level creators hate this one simple trick!\"",
+	"repository": "https://github.com/RayDeeUx/BreakingPlatforming",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"noCheckpointsNotify": {
+			"name": "Notify if No Checkpoints",
+			"description": "Notifies you if a platformer level has no checkpoints.",
+			"type": "bool",
+			"default": true
+		},
+		"numCheckpointsNotify": {
+			"name": "Notify Number of Checkpoints",
+			"description": "Notifies you of the number of checkpoints in a platformer level.\n\nDoes not require previous setting (\"Notify if No Checkpoints\") to be enabled.",
+			"type": "bool",
+			"default": false
+		},
+		"notifDura": {
+			"name": "Checkpoint Notifications Duration",
+			"description": "Set the duration (in seconds) of the notification showing the number of checkpoints in a platformer level.\n\nIf \"Notify if No Checkpoints\" is enabled, the notification for levels without checkpoints will last twice of what's set here (example: setting this option to \"10\" would you a notification that lasts for at most 20 seconds in platformer levels without checkpoints).",
+			"type": "float",
+			"default": 2.5,
+			"min": 1.0,
+			"max": 10.0,
+			"control": {
+                "slider-step": 0.1
+            }
+		},
+		"enableOnRated": {
+			"name": "Enable Below on Rated Levels",
+			"description": "Toggles all settings below this one on rated levels.",
+			"type": "bool",
+			"default": false
+		},
+		"ignoreHazardHitboxes": {
+			"name": "Ignore Hitboxes on Hazards",
+			"description": "Ignores hitboxes from all hazards. (Enabling this option will break the mod's \"ExtraSticky\" and \"ScaleStick\" options)\n\n<cy>By enabling this option, you agree to hold harmless the developer (RayDeeUx) and all Geode lead developers for any resulting damages, including potential in-game bans of any extent.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"passableBlock": {
+			"name": "Mark Blocks As Passable",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option forces blocks to be <cp>passable</c>. This particular setting applies to <cj>solid blocks</c>.\n\n <cj>Slopes</c> <cr>cannot</c> be marked <cp>passable</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"breakableBlockPassable": {
+			"name": "Mark Breakables As Passable",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option forces blocks to be <cp>passable</c>. This particular setting applies to <cj>breakable blocks</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"multiActivate": {
+			"name": "Mark All MultiActivate",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>allows</c> all <cj>gameplay elements</c> to be <cp>activated multiple times</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"gripSlope": {
+			"name": "Mark All GripSlope",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>increases</c> the <cp>grip</c> the player has on <cj>all slopes</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"dontBoostX": {
+			"name": "Mark All DontBoostX",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>prevents</c> the player from having its <cp>motion</c> <cg>boosted</c> on the <cp>X axis</c> by <cj>objects</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"dontBoostY": {
+			"name": "Mark All DontBoostY",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>prevents</c> the player from having its <cp>motion</c> <cg>boosted</c> on the <cp>Y axis</c> by <cj>objects</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"nonStickX": {
+			"name": "Mark All NonStickX",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>prevents</c> the player from <cp>moving along</c> with <cj>objects</c> on the <cp>X axis</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"nonStickY": {
+			"name": "Mark All NonStickY",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>prevents</c> the player from <cp>moving along</c> with <cj>objects</c> on the <cp>Y axis</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"extraSticky": {
+			"name": "Mark All ExtraSticky",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>forces</c> <cj>downward-moving objects</c> to be <cp>extra sticky</c> to the player.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"scaleStick": {
+			"name": "Mark All ScaleStick",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>forces</c> the player to <cp>move away</c> or <cp>closer to</c> the <cp>center</c> of a <cj>scaling object</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"extendColl": {
+			"name": "Mark All Extended Collision",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>re-calculates</c> the <cp>hitboxes</c> of <cj>all objects scaled larger than 6x</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"iceBlock": {
+			"name": "Mark All IceBlock",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>enables</c> <cp>ice physics</c> from <cj>all objects</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		},
+		"audioScale": {
+			"name": "Mark No Audio Scale",
+			"description": "According to the <cb>GD Editor Guide</c> by <cy>ViPriN</c> + <co>AutoNick</c>,\nthis option <cr>prevents</c> all <cj>pulsing objects and orbs</c> from <cp>pulse</c> with <cp>background music/SFX</c>.\n\n<cr>-1</c>: Mark this as <cr>false</c> on <cj>relevant objects</c>.\n <cy>0</c>: Leave this option <cy>untouched</c>.\n <cg>1</c>: Mark this as <cg>true</c> on <cj>relevant objects</c>.",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1
+		}
+	}
+}

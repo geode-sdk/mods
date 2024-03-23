@@ -2732,6 +2732,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.breakingplatforming": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }
