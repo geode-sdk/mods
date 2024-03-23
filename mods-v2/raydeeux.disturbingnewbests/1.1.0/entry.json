@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/DisturbingNewBests/releases/download/v1.1.0/raydeeux.disturbingnewbests.geode",
+        "hash": "5322afd20199b7cebd0e06a942c4695b0c9c17b7b07e660425d35af2779293c2",
+        "hash256": "1e551af61babe590296746e9d153c202f94039763aa4fb3ad6edb770e560d4a7"
+    },
+    "tags": []
+}
