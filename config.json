@@ -2726,6 +2726,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "grian.art_importer": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
