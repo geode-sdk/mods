@@ -1,0 +1,19 @@
+{
+    "commit-author": "sofabeddd",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/sofabeddd/Colored-Icon-Kit/releases/download/v1.1.0/sofabeddd.colored_icon_kit.geode",
+        "hash": "ea64d1446cbcde5fb19cacf531b1d7100cfa1712d34d06448fda9fd93982174d",
+        "hash256": "373307f9d61fb5fb9a68438ff0b9843a0ffc2873b79b648915e7c047aa5aaa3f"
+    },
+    "tags": [
+        "Cosmetic",
+        "Customization",
+        "Enhancement"
+    ]
+}
