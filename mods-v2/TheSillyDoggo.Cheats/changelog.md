@@ -1,3 +1,11 @@
+# 1.2.9
+
+- Added hitbox colour customizer
+- Fixed hitboxes in mirror portal mode
+- Added no particles on android
+- Added Kill at % (also supports time for platformer)
+- Added Noclip tint on death
+
 # 1.2.8
 
 - Fixed practice hitboxes being broken
@@ -5,6 +13,7 @@
 - Readded thicker hitboxes
 - Added fill hitboxes
 - Made hitbox trail work for 2 player
+- Show Hitboxes is now considered a cheat
 
 # 1.2.7
 
