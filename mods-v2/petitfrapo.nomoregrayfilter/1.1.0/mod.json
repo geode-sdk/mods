@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+        "mac": "2.200",
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.1.0",
+	"id": "petitfrapo.nomoregrayfilter",
+	"name": "NoMoreGrayFilter",
+	"developer": "PetitFrapo",
+	"description": "Removes the gray filter from the Event, Map and Versus buttons. Cosmetic only, of course.",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.8.1",
+            "importance": "required"
+        }
+    ],
+	"repository": "https://github.com/petitfrapo/nomoregrayfilter"
+}

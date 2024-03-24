@@ -1,0 +1,12 @@
+{
+    "commit-author": "PetitFrapo",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/PetitFrapo/NoMoreGrayFilter/releases/download/v1.1.0/petitfrapo.nomoregrayfilter.geode",
+        "hash": "e1870b8c3d6d1956bd4079905337cf339f3a45ab81e9553d2c1cd63a98b90528",
+        "hash256": "917f2a4e725270b00d9780d74282dc76e5e9f2d44d0c145aa0fa58747063ff34"
+    },
+    "tags": []
+}
