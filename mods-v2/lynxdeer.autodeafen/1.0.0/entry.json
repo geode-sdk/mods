@@ -1,0 +1,12 @@
+{
+    "commit-author": "Lynxdeer",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Lynxdeer/AutoDeafen/releases/download/release/lynxdeer.autodeafen.geode",
+        "hash": "3b563ff48bf77d07d4c420e9f89bd1fa995dcb417cbb0d2e53b6f4f60a323202",
+        "hash256": "9372c4f569f52889d963bd61eb788313ab671ea8a1848dbf3254ecd967a08be8"
+    },
+    "tags": []
+}

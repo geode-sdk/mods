@@ -2772,6 +2772,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "lynxdeer.autodeafen": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
