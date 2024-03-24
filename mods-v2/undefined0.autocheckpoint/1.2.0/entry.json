@@ -1,0 +1,15 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/AutoCheckpoint/releases/download/v1.2.0/undefined0.autocheckpoint.geode",
+        "hash": "e54be032b3d409ef2bbdd4d001a3c24994092d03e836775c0b6cbd975a98bd1f",
+        "hash256": "4f0261a33cd212690f30f4ecb9715f0cfd84216633e05b7e239e1ee3876a8342"
+    },
+    "tags": [
+        "gameplay",
+        "enhancement"
+    ]
+}

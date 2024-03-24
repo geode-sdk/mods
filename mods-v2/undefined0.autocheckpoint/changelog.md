@@ -1,4 +1,7 @@
 # Changelog (what a suprise)
+## v1.2.0
+- Used m_fields and moved stuff to PlayerObject (in english: bugfixes)
+- Added rotation option
 ## v1.1.3
 - Fixed pause menu texture
 ## v1.1.2
