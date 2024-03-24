@@ -2766,6 +2766,12 @@
                 "1.0.3",
                 "1.1.0"
             ]
+        },
+        "elnexreal.auto_deafen": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }
