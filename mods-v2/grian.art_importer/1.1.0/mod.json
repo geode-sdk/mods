@@ -1,0 +1,19 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {	
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.0",
+	"id": "grian.art_importer",
+	"name": "Art importer",
+	"developer": "Grian",
+	"description": "This will import pixel art from an image file into the level editor",
+	"resources": {
+		"spritesheets":{
+			"ImageButton": [
+				"res/pixelArtToolBtn.png"
+			]
+		}
+	}
+}
