@@ -2788,6 +2788,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "acaruso.horn": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

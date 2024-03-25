@@ -1,0 +1,23 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "acaruso.horn",
+	"name": "Underrated Non-Demons",
+	"developer": "acaruso",
+	"description": "Underrated non-demons list integration",
+
+	"resources": {
+		"spritesheets": {
+			"HornSheet": [
+				"resources/*.png"
+			]
+		}
+	},
+
+	"settings": {
+		"refresh": {
+			"type": "custom"
+		}
+	}
+}

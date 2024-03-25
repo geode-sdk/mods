@@ -1,0 +1,12 @@
+{
+    "commit-author": "acaruso-xx",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/acaruso-xx/horn-geode/releases/download/v1.0.0/acaruso.horn.geode",
+        "hash": "de0c00aea9d62cea83408e6b5a0579f0c8d660b7678b3a3e07d06b4cb2678e23",
+        "hash256": "9c938bdfc800e74e4a373d257232da1c191d7c0e892ab9f03e3f2e8e73e3eb9d"
+    },
+    "tags": []
+}
