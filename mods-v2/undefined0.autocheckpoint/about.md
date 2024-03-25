@@ -19,5 +19,3 @@ And more!
 Just make sure to hit that shiny settings button down there (once downloaded) to customise the settings to your liking.
 
 Happy Checkpointing!
-
-(the anticheat triggering even in normal mode is a known issue!!)
