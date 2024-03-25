@@ -1,0 +1,12 @@
+{
+    "commit-author": "IceCubeDePenguin",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/IceCubeDePenguin/GD-Trailer-Button/releases/download/1.0.0/ghrt55.trailer.geode",
+        "hash": "a71fbf12ef9c8723904e374cb343054066da50aa63dfd8d63d085cb8d4c75e7e",
+        "hash256": "5280acab2909f36692ef22f5fe60a44fbb50552b22def86d487cb69f930aef31"
+    },
+    "tags": []
+}

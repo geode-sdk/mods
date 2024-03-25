@@ -2782,6 +2782,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "ghrt55.trailer": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

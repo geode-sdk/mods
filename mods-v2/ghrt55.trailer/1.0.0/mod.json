@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "ghrt55.trailer",
+	"name": "GD Trailer",
+	"developers": [ "Ghrt55", "Cvolton" ],
+	"description": "Adds a cool button"
+}
