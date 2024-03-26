@@ -1,4 +1,6 @@
 # Changelog (what a suprise)
+## v1.2.2
+- Change build from nightly to latest
 ## v1.2.1
 - Remove anticheat disclosure
 - Fixed android and anticheat! (have to bump version so it updates)
