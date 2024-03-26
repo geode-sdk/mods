@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/WholesomeEndTexts/releases/download/v1.1.1/raydeeux.wholesomeendtexts.geode",
+        "hash": "d7e21bc90b71dffcbef823ac5a39b89265b82fb4e4b70c43ba6cf81295b1298b",
+        "hash256": "a4d55c6467b2d875c36101a8548b58ad5401432729295ba9507809415f3c0624"
+    },
+    "tags": []
+}

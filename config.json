@@ -2811,6 +2811,12 @@
             "versions": [
                 "0.0.0-beta.4"
             ]
+        },
+        "raydeeux.wholesomeendtexts": {
+            "verified": false,
+            "versions": [
+                "1.1.1"
+            ]
         }
     }
 }
