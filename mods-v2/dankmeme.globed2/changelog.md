@@ -1,3 +1,13 @@
+## v1.3.5
+
+* Fix crashes and other weird behavior when opening profiles of others when in a level
+* ^ also makes it impossible to open another level while already in a level
+* Fix issues with zip file texture packs
+* Fix own name setting not working on Mac
+* Fix crash when having the confirm quit menu open without a visible pause menu and trying to quit the level (yes this is very specific and there's like 1 person who ever encountered this)
+* Fix rare crash when exiting a level
+* Fix rare crash when exiting the game
+
 ## v1.3.4
 
 * Fix player collision being broken in the editor
