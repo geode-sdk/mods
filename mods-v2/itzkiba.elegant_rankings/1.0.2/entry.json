@@ -1,0 +1,12 @@
+{
+    "commit-author": "ItzKiba",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ItzKiba/ProfileRankings/releases/download/v1.0.2/itzkiba.elegant_rankings.geode",
+        "hash": "a22a52f2e242629d01d21bf1bace741c9e48143220905c6ef587cff5a950367a",
+        "hash256": "fdea4233eb06499309c16a5c4abe80db9b34dce8bedfff3755cc1127c3c4256b"
+    },
+    "tags": []
+}
