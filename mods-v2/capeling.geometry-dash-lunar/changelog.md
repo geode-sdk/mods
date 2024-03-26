@@ -1,4 +1,6 @@
 # Geometry Dash: Lunar Changelog
+## v1.0.4
+- Fixed Earthsplitter playing the incorrect song (no remix and remix were swapped)
 ## v1.0.3
 - Moved the credit user into a seperate node
 - Changed the dialogue that shows up when you try to go into the creator screen
