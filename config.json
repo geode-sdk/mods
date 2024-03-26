@@ -2805,6 +2805,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ruhax.indecreaseicons": {
+            "verified": false,
+            "versions": [
+                "0.0.0-beta.4"
+            ]
         }
     }
 }
