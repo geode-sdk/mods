@@ -1,3 +1,7 @@
+# v1.1.1
+
+* Adjusted the scale of the buttons to work with any resolution.
+
 # v1.1.0
 
 * Merged RayDeeUx's pull request to optimize the code and add cross-platform.
