@@ -2824,6 +2824,12 @@
             "versions": [
                 "1.1.1"
             ]
+        },
+        "avscs.noshake": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

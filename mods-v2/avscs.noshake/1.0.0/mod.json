@@ -1,0 +1,9 @@
+{
+    "geode": "2.0.0-beta.22",
+    "gd": "2.204",
+    "version": "v1.0.0",
+    "id": "avscs.noshake",
+    "name": "NoShake",
+    "developer": "MetaGG2",
+    "description": "Disables shake for all levels similar to enable LDM in the default settings"
+}

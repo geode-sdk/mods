@@ -1,0 +1,12 @@
+{
+    "commit-author": "MetaGG2",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/MetaGG2/NoShake/releases/download/v1.0.0/avscs.noshake.geode",
+        "hash": "a4f29b71d91bd85cdf01215591f6270d75d7031d8111d1448670b8f70069e791",
+        "hash256": "4ed3840e20eb7d1a5b8fff000bb608cfc1d1febbf7b6cf187a308e845350c408"
+    },
+    "tags": []
+}
