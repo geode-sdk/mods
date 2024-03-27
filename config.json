@@ -2812,7 +2812,8 @@
         "ruhax.indecreaseicons": {
             "verified": false,
             "versions": [
-                "0.0.0-beta.4"
+                "0.0.0-beta.4",
+                "0.0.0-beta.5"
             ]
         },
         "raydeeux.wholesomeendtexts": {

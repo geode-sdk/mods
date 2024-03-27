@@ -1,0 +1,126 @@
+{
+	"geode": "2.0.0",
+	"gd": {"win": "2.204"},
+	"version": "v0.0.0-beta.5",
+	"id": "ruhax.indecreaseicons",
+	"name": "InDeCreaseIcons",
+	"developers": [ "RuHax Team", "user95401", "zGuschin" ],
+	"description": "Increase icons in gd 2.2!!! asd",
+	"repository": "https://github.com/user95401/InDeCreaseIcons",
+	"settings": {
+		"Cube": {
+			"name": "Cube",
+			"description": "max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 484,
+			"control": { "slider": false }
+		},
+		"Ship": {
+			"name": "Ship",
+			"description": "max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 169,
+			"control": { "slider": false }
+		},
+		"Ball": {
+			"name": "Ball",
+			"description": "max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 118,
+			"control": { "slider": false }
+		},
+		"Ufo": {
+			"name": "Ufo",
+			"description": "max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 149,
+			"control": { "slider": false }
+		},
+		"Wave": {
+			"name": "Wave",
+			"description": "max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 96,
+			"control": { "slider": false }
+		},
+		"Robot": {
+			"name": "Robot",
+			"description": "<cr>CANT_LOAD_NEW_RES</c>. max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 68,
+			"control": { "slider": false }
+		},
+		"Spider": {
+			"name": "Spider",
+			"description": "<cr>CANT_LOAD_NEW_RES</c>. max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 69,
+			"control": { "slider": false }
+		},
+		"Swing": {
+			"name": "Swing",
+			"description": "max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 43,
+			"control": { "slider": false }
+		},
+		"Jetpack": {
+			"name": "Jetpack",
+			"description": "max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 5,
+			"control": { "slider": false }
+		},
+		"DeathEffect": {
+			"name": "DeathEffect",
+			"description": "<cr>NO_PATCH</c>. max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 20,
+			"control": { "slider": false }
+		},
+		"Special": {
+			"name": "Special",
+			"description": "<cr>NO_PATCH</c>. max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 7,
+			"control": { "slider": false }
+		},
+		"ShipFire": {
+			"name": "ShipFire",
+			"description": "<cr>NO_PATCH</c>. max count of",
+			"type": "int",
+			"min": 0,
+			"max": 9999,
+			"default": 9,
+			"control": { "slider": false }
+		},
+		"LoadCustomSpritesheet": {
+			"name": "LoadCustomSpritesheet",
+			"description": "load frames via \"icons/_IconsSheet.plist\" and \"_IconsSheet.plist\"",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "commit-author": "user95401",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/user95401/InDeCreaseIcons/releases/download/v0.0.0-beta.5/ruhax.indecreaseicons.geode",
+        "hash": "77ec1d39d4498b2cd1563a80d834308487889e790226b5b477c09ec9c5ddb69c",
+        "hash256": "44926e87f2596e2fd77c39af82295923aa985c707f95116c2e3359307d71d098"
+    },
+    "tags": []
+}
