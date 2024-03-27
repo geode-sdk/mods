@@ -2830,6 +2830,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "tpdea.checkpoint_switcher": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

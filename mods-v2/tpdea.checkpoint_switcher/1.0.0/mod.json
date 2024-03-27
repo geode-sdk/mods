@@ -1,0 +1,53 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "tpdea.checkpoint_switcher",
+	"name": "Checkpoint Switcher",
+	"developer": "Tpdea",
+	"description": "StartPosSwitcher but Checkpoints(?)",
+	"settings": {
+		"enable-mod": {
+			"name": "Enable Mod",
+			"description": "Enable Mod",
+			"type": "bool",
+			"default": true
+		},
+		"show-percentage-mod": {
+			"name": "Show Position Checkpoint",
+			"description": "Shows the percentage of nearby and current checkpoints",
+			"type": "bool",
+			"default": true
+		},
+		"disable-interface-switch": {
+			"name": "Disable Interface",
+			"description": "Disable the switcher interface",
+			"type": "bool",
+			"default": false
+		},
+		"hide-interface-switch": {
+			"name": "Hide Interface",
+			"description": "Hide the switcher interface when you switchover",
+			"type": "bool",
+			"default": false
+		},
+		"switch-after-reset": {
+			"name": "Switch After Reset",
+			"description": "Switchea after death and restarting the level",
+			"type": "bool",
+			"default": false
+		}
+	},
+		"dependencies": [
+			{
+				"id": "geode.custom-keybinds",
+				"version": ">=v1.2.3",
+				"importance": "required"
+			},
+			{
+				"id": "geode.node-ids",
+				"version": ">=v1.3.0",
+				"importance": "required"
+			}
+		]
+	}

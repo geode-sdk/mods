@@ -1,0 +1,12 @@
+{
+    "commit-author": "TpdeaX",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/TpdeaX/CheckpointSwitcher/releases/download/release/tpdea.checkpoint_switcher.geode",
+        "hash": "e286afd679d888e00804316e2c1dc16e1d2188ffacae0a11b83465376d037911",
+        "hash256": "e423d1a87b3627e401499078d815b42994734a6877514566e8978024b48d9005"
+    },
+    "tags": []
+}
