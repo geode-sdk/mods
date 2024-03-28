@@ -1,0 +1,16 @@
+{
+    "commit-author": "Prevter",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Prevter/OpenHack/releases/download/2.2.0/prevter.openhack.geode",
+        "hash": "31d62459c719a763afc2ebf9d24d3ae04ff1c9cc011fc532ab478f76b7f3c88e",
+        "hash256": "4979e19388d8ed22be97d9c26404e235f6b13793edf9966b78ad3afdd59a60e9"
+    },
+    "tags": [
+        "Universal",
+        "Gameplay",
+        "Cheats"
+    ]
+}

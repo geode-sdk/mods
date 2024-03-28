@@ -1,3 +1,38 @@
+## v2.2.0
+**New**:
+* Added "TPS Bypass"
+* Added "Zephyrus" (replays)
+* Added "Show Hitboxes" + "on Death"
+* Added "Frame Stepper"
+* Added "Random Seed"
+* Added "Respawn Delay"
+* Added "Main Menu Gameplay"
+* Added "Auto Deafen"
+* Added "Smart StartPos"
+* Added API for mod developers
+* Added 2 new themes (Modern and Gruvbox)
+
+**Fixes**:
+* Fixed "StartPos Switcher" default index being maxed out
+* Fixed rare crash when loading a corrupted config file
+* Fixed windows getting stuck at the edge of the screen while animating
+* Fixed windows spawning in the same spot on the first open
+* Fixed search bar width being too big
+* Fixed "RGB Icons" not working properly sometimes
+* Fixed missing keybind initializer for VSync
+* Fixed build errors when building the project with "BUILD_STANDALONE=OFF"
+* Fixed "Noclip Accuracy" counting after death/level completion
+* Fixed "Verify Hack" not working properly in some cases
+* Fixed "Force Platformer" saving level type
+* Fixed incompatibility with "Separate Dual Icons" mod when using "Unlock All Icons"
+
+**Other**:
+* Improved menu close/open animations
+* You can now add custom `.ttf` fonts to `geode/config/prevter.openhack/fonts` folder
+* Added keybind/tooltip for toggles with settings
+* Added UI scaling for different display resolutions
+* Mouse cursor now hides while playing a level
+
 ## v2.1.0
 **New**:
 * Reimplemented "Discord RPC" with x4 more features
