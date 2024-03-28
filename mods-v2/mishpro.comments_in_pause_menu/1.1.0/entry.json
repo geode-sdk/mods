@@ -1,0 +1,15 @@
+{
+    "commit-author": "mishpro-programm",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/mishpro-programm/infoinpause/releases/download/v1.1.0/mishpro.comments_in_pause_menu.geode",
+        "hash": "562e895818fd0745f37dbbe24e6f7a2fd7bd0e4894c6b300c564a6f00b7664ec",
+        "hash256": "4df3792220b22ba46b2d625e364b4571d3aba6ed115a675dbee7cb9a2c7e5896"
+    },
+    "tags": []
+}
