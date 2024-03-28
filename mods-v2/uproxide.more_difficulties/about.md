@@ -1,3 +1,5 @@
+# JOIN THE [Discord](https://discord.gg/gy4BrxmWrF)
+
 # More Difficulties
 
 Adds 3 New Difficulties to the Game!
@@ -6,9 +8,7 @@ Adds 3 New Difficulties to the Game!
  * Tough (7*)
  * Cruel (9*)
 
-## Self Promotion!1!
-
-[Youtube](https://www.youtube.com/watch?v=S5m9vxMLaVs)
-[Discord (Suggest Stuff Here)](https://discord.gg/gy4BrxmWrF)
-
+## Credits
+ * Brift (Difficulty Sprites)
+ * Uproxide (Code)
 
