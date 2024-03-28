@@ -1,0 +1,14 @@
+{
+    "commit-author": "ZiLko",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/ZiLko/FPS_Counter/releases/download/v1.0.0/zilko.fps_counter.geode",
+        "hash": "00425526aa3c69f89ec8035f9f45d6297e009e26d57d26ec1b10e22f66cabf59",
+        "hash256": "d938b44ec327f8c8c2d870ed0ceee74222a70219b2c34452af6f537c7ac41e7c"
+    },
+    "tags": []
+}

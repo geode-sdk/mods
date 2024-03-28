@@ -2842,6 +2842,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "zilko.fps_counter": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
