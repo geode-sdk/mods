@@ -1,4 +1,9 @@
 # Changelog
+## <cg>v1.1.2</c> (2024-03-28)
+* <cg>Made</c> <cj>restarting</c> after applying <co>4GB Patch</c> <cy>safer</c>
+* <cg>Fixed</c> a possible startup <cr>crash</c>
+* <cg>Enabled</c> <cj>early-load</c> for the mod
+
 ## <cg>v1.1.1</c> (2024-03-15)
 * <cg>Improved</c> <cj>CCMenuItem::activate</c> <cr>crash</c> fix
 
