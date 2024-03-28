@@ -1,5 +1,4 @@
-# Changelog
-## v2.0.0-beta.1
+# v2 Roadmap
 
 <---------- DONE ---------->
 
@@ -21,6 +20,17 @@
 - <co>per-level and global customization settings</c>
 - <co>custom save data folder path</c>
 - <co>import/export save data</c>
+
+# Changelog
+## v2.0.0-beta.2
+- fixed a crash on android
+
+## v2.0.0-beta.1
+- added android support
+- code rewrite
+- added scrolling
+- added multi-session tracking
+- added run tracking
 
 ## v1.7.2
 - fixed an incompatibility with xdBot
