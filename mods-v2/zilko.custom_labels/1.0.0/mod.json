@@ -1,0 +1,28 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "zilko.custom_labels",
+	"name": "Custom Labels",
+	"developer": "Zilko",
+	"description": "Add fully customizable labels to your screen!",
+	"repository": "https://github.com/ZiLko/Custom_Labels",
+	"resources": {
+		"sprites": [
+			"resources/button.png"
+		]
+	},
+	"tags": [
+		"Utility",
+		"Gameplay"
+	],
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.8.1",
+			"importance": "required"
+		}
+	]
+}

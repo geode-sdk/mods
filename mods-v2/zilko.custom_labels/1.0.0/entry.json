@@ -1,0 +1,15 @@
+{
+    "commit-author": "ZiLko",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ZiLko/Custom_Labels/releases/download/v1.0.00/zilko.custom_labels.geode",
+        "hash": "35b2a2998f0b35cd363e0fda547211fcc325ecc83e02a24e57e575909ff81e06",
+        "hash256": "d252f9ba91e66732156002b5e9d5e2cd85c5a2e54e650632ce490de262183f7c"
+    },
+    "tags": [
+        "Utility",
+        "Gameplay"
+    ]
+}

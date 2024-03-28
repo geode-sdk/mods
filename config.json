@@ -2856,6 +2856,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "zilko.custom_labels": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
