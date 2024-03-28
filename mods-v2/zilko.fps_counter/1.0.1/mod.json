@@ -1,0 +1,101 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"settings": {
+		"enabled":{
+			"name": "Enable",
+			"description": "Enable the FPS Counter.",
+			"type": "bool",
+			"default": true
+		},
+		"color": {
+			"name": "Color",
+			"description": "The color of the counter.",
+			"type": "rgb",
+			"default": "#FFFFFF"
+		},
+		"font": {
+			"name": "Font",
+			"description": "The font of the counter",
+			"type": "int",
+			"default": 1,
+			"min": 1,
+            "max": 60
+		},
+		"size": {
+            "name": "Size",
+			"description": "The size of the counter.",
+            "type": "float",
+            "default": 0.5,
+            "min": 0,
+            "max": 3,
+            "control": {
+                "slider": true
+            }
+        },
+		"opacity": {
+            "name": "Opacity",
+			"description": "The opacity of the counter.",
+            "type": "float",
+            "default": 0.35,
+            "min": 0,
+            "max": 1,
+            "control": {
+                "slider": true
+            }
+        },
+		"position": {
+			"name": "Position",
+			"description": "Top Left, Top Right, Down Left, or Down Right",
+			"type": "int",
+			"default": 1,
+			"min": 1,
+            "max": 4,
+			"control": {
+                "slider": false
+            }
+		},
+		"no_text": {
+			"name": "No FPS Text",
+			"description": "Removes the FPS text",
+			"type": "bool",
+			"default": false
+		},
+		"offset_x": {
+            "name": "X Offset",
+			"description": "Move the counter in the X axis.",
+            "type": "int",
+            "default": 0,
+            "min": -300,
+            "max": 300,
+            "control": {
+                "slider": true
+            }
+        },
+		"offset_y": {
+            "name": "Y Offset",
+			"description": "Move the counter in the Y axis.",
+            "type": "int",
+            "default": 0,
+            "min": -300,
+            "max": 300,
+            "control": {
+                "slider": true
+            }
+        }
+	},
+	"id": "zilko.fps_counter",
+	"name": "FPS Counter",
+	"developer": "Zilko",
+	"description": "Add a customizable FPS Counter to your screen!",
+	"tags": [
+		"Utility",
+		"Gameplay",
+		"Enhancement"
+	],
+	"repository": "https://github.com/ZiLko/FPS_Counter"
+}
