@@ -1,0 +1,16 @@
+{
+    "commit-author": "Termantita",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Termantita/AmbientIcons/releases/download/v1.5.0/terma.ambienticons.geode",
+        "hash": "766bf6e2cfb418a5c6835e9268fd1c38b986718072e01b27ba98fb678ba65d1a",
+        "hash256": "3a54a1bb5fd024aea2bf8cfe83b584f8c7cd381a0f332c808ae476f3941409ef"
+    },
+    "tags": [
+        "Customization"
+    ]
+}

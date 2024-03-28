@@ -11,4 +11,5 @@ Can cause performance issues with <cy>Globed</c>.
 - Ported to Android (<cy>opaque colors</c> issue - for some reason colors aren't like in PC)
 - Ambient mode for main color, secondary color, dual color, wave trail and glow
 - Adjust where to pick the colors in the mod's settings (X and Y axes)
-- Pick the color from the BG wihout objects affecting the color
+- **BG color picker** - Pick the color from the BG wihout objects affecting the picked color
+- **Player follow color picker** - Autoadjust by following the player where to pick the colors
