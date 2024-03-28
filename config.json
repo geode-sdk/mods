@@ -2836,6 +2836,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "weebify.disable_black_glow": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

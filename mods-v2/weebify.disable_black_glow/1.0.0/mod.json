@@ -1,0 +1,15 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "weebify.disable_black_glow",
+	"name": "No Force Glow",
+	"developer": "Weebify",
+	"description": "Disable the forced glow when the primary color is black",
+	"tags": ["Gameplay", "Utility"],
+	"repository": "https://github.com/Weebifying/disable-blackglow-geode"
+}

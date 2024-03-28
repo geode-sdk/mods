@@ -1,0 +1,18 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/disable-blackglow-geode/releases/download/v1.0.0/weebify.disable_black_glow.geode",
+        "hash": "b7bf49e4ced6c738c179d7021ce9eb24f0309eb55ed4da9f98569038977d618a",
+        "hash256": "9b1598aa51f4a4f0c6d464964ed9e72edec9ff7529ceb00807e32bfc0b8c4761"
+    },
+    "tags": [
+        "Gameplay",
+        "Utility"
+    ]
+}
