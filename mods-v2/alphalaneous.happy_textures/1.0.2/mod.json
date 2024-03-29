@@ -1,0 +1,29 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.2",
+	"id": "alphalaneous.happy_textures",
+	"name": "Happy Textures :3",
+	"developer": "Alphalaneous",
+	"description": "Fixes texture pack annoyances",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.1.1",
+            "importance": "required"
+        }
+    ],
+	"resources": {
+        "files": [
+			"resources/bigFont.png",
+			"resources/bigFont-hd.png",
+			"resources/bigFont-uhd.png",
+			"resources/bigFont.fnt",
+			"resources/bigFont-hd.fnt",
+			"resources/bigFont-uhd.fnt"
+        ]
+    }
+}
