@@ -5,8 +5,10 @@
     ],
     "mod": {
         "download": "https://github.com/zohnannor/dark-mode-gd/releases/download/v0.1.2/zohnannor.dark_mode.geode",
-        "hash": "b83f0f067386a80e02b086b87b40776c07f04cf551166ad7b87586fedcd19ecb",
-        "hash256": "2f121d44a44b8086da79a0a0c8cbf004b65cd48815737a6a4798c8e755380063"
+        "hash": "05353acb2f8267e201e8c7b46896828ac7e212653993707554612818de0bae24",
+        "hash256": "6b4eb5d264b75bc9467158be2642567d29e6dc2b7a54571e699ef068ec8ecee9"
     },
-    "tags": []
+    "tags": [
+        "customization"
+    ]
 }

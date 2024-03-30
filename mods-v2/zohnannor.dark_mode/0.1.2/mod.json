@@ -1,5 +1,5 @@
 {
-	"geode": "2.0.0",
+	"geode": "2.0.0-beta.22",
 	"gd": "2.204",
 	"version": "v0.1.2",
 	"id": "zohnannor.dark_mode",
@@ -14,10 +14,18 @@
 		{
 			"id": "geode.node-ids",
 			"importance": "required",
-			"version": "v1.1.4"
+			"version": "v1.8.1"
 		}
 	],
 	"description": "Changes hard-coded colors to a dark-mode-style theme with an option of customization. Inspired by Absolute's DarkMode Patcher for 2.1.",
+	"tags": [
+		"customization"
+	],
+	"resources": {
+		"sprites": [
+			"resources/*.jpg"
+		]
+	},
 	"settings": {
 		"floating-settings-button": {
 			"name": "Floating settings button",
@@ -108,6 +116,48 @@
 			"description": "Background of level length filters",
 			"type": "color",
 			"default": "#000000"
+		},
+		"reward-shine-yellow-cw": {
+			"name": "Opened daily chest shine (clockwise)",
+			"description": "The object that rotates clockwise inside the opened daily chest",
+			"type": "color",
+			"default": "#FF9600"
+		},
+		"reward-shine-yellow-ccw": {
+			"name": "Opened daily chest shine (counterclockwise)",
+			"description": "The object that rotates counterclockwise inside the opened daily chest",
+			"type": "color",
+			"default": "#FFC800"
+		},
+		"reward-shine-blue": {
+			"name": "Opened secret chest shine",
+			"description": "The object that rotates inside the opened secret chest",
+			"type": "color",
+			"default": "#0096FF"
+		},
+		"reward-chest-bg": {
+			"name": "Chest reward background",
+			"description": "Background textures behind the opened chest",
+			"type": "color",
+			"default": "#334499"
+		},
+		"chest1-platform": {
+			"name": "Tier 1 chest reward platforms",
+			"description": "Platforms under tier 1 chests in the basement",
+			"type": "color",
+			"default": "#646464"
+		},
+		"chest2-platform": {
+			"name": "Tier 2 chest reward platforms",
+			"description": "Platforms under tier 2 chests in the basement",
+			"type": "color",
+			"default": "#646464"
+		},
+		"milestone-chest-platform": {
+			"name": "Milestone chest reward platforms",
+			"description": "Platforms under milestone chests in the basement",
+			"type": "color",
+			"default": "#646464"
 		}
 	}
 }
