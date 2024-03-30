@@ -1,3 +1,7 @@
+# v1.0.3
+
+ * Added GitHub repository button to the mod
+
 # v1.0.2
 
  * Changed author's name to DoubleFallingS
