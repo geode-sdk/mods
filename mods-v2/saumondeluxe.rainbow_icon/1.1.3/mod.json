@@ -1,0 +1,183 @@
+{
+	"geode": "2.0.0-beta.19",
+	"version": "v1.1.3",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"id": "saumondeluxe.rainbow_icon",
+	"name": "Rainbow Icon",
+	"developer": "SaumonDeLuxe",
+	"description": "Makes your icons look incredibly",
+	"links": {
+		"community": "https://discord.gg/F4phpWrtnd"
+	},
+	"early-load": true,
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"importance": "required",
+			"version": ">=1.7.1"
+		}
+	],
+	"incompatibilities": [
+		{
+			"id": "TheSillyDoggo.Cheats",
+			"importance": "breaking",
+			"version": "*"
+		},
+		{
+			"id": "ninkaz.blending_glow",
+			"importance": "conflicting",
+			"version": "*"
+		},
+		{
+			"id": "weebify.separate_dual_icons",
+			"importance": "conflicting",
+			"version": "*"
+		}
+	],
+	"tags": [
+		"enhancement",
+		"customization",
+		"utility"
+	],
+	"settings": {
+		"enable": {
+			"name": "Enable Rainbow Icon",
+			"type": "bool",
+			"description": "Enable or disable the rainbow effect on your icons.",
+			"default": true
+		},
+		"editorEnable": {
+			"name": "Enable Rainbow Icon in Editor",
+			"type": "bool",
+			"description": "Enable or disable the rainbow effect on your icons in the editor.",
+			"default": true
+		},
+		"shortcut": {
+			"name": "Rainbow Shortcut",
+			"type": "bool",
+			"description": "Enable or disable shortcut button on the pause menu",
+			"default": true
+		},
+		"sync": {
+			"name": "Sync Rainbow",
+			"type": "bool",
+			"description": "Enable or disable the sync rainbow effect between the color1 and color2.",
+			"default": true
+		},
+		"glow": {
+			"name": "Rainbow Glow",
+			"type": "bool",
+			"description": "Enable or disable the glow effect on the rainbow.",
+			"default": true
+		},
+		"particle": {
+			"name": "Rainbow Particle",
+			"type": "bool",
+			"description": "Enable or disable the particle effect on the rainbow.",
+			"default": true
+		},
+		"wave": {
+			"name": "Rainbow Wave Trail",
+			"type": "bool",
+			"description": "Enable or disable the wave effect on the rainbow.",
+			"default": true
+		},
+		"offset_color_p1": {
+			"type": "int",
+			"name": "Rainbow Offset Color Player 1",
+			"description": "The color of the offset effect on the rainbow for player 1.",
+			"default": 0,
+			"min": 0,
+			"max": 360,
+			"control": {
+				"slider-step": 1
+			}
+		},
+		"offset_color_p2": {
+			"type": "int",
+			"name": "Rainbow Offset Color Player 2",
+			"description": "The color of the offset effect on the rainbow for player 2.",
+			"default": 0,
+			"min": 0,
+			"max": 360,
+			"control": {
+				"slider-step": 1
+			}
+		},
+		"bar": {
+			"name": "Rainbow Bar",
+			"type": "bool",
+			"description": "Enable or disable the bar effect on the rainbow.",
+			"default": true
+		},
+		"preset": {
+			"name": "Rainbow Preset",
+			"type": "int",
+			"description": "0 = Only Glow(if enabled), 1 = All enabled, 2 = Only the color1 rainbow effect, 3 = Only the color2 rainbow effect",
+			"default": 1,
+			"max": 3,
+			"min": 0,
+			"control": {
+				"arrows": true,
+				"slider": false,
+				"input": false
+			}
+		},
+		"playerPreset": {
+			"name": "Rainbow Player Preset",
+			"type": "int",
+			"description": "1 = Both player 1 and are rainbow, 2 = Only player 1 is rainbow, 3 = Only player 2 is rainbow",
+			"default": 1,
+			"max": 3,
+			"min": 1,
+			"control": {
+				"arrows": true,
+				"slider": false,
+				"input": false
+			}
+		},
+		"speed": {
+			"name": "Rainbow Speed",
+			"type": "float",
+			"default": 5,
+			"min": 1,
+			"max": 10,
+			"control": {
+				"slider-step": 1
+			},
+			"description": "The speed of the rainbow effect (1 is the slowest, 10 is the fastest)."
+		},
+		"saturation": {
+			"name": "Rainbow Saturation",
+			"type": "float",
+			"default": 100,
+			"min": 0,
+			"max": 100,
+			"control": {
+				"slider-step": 1
+			},
+			"description": "The saturation of the rainbow effect (0 is the lowest, 100 is the highest)."
+		},
+		"brightness": {
+			"name": "Rainbow Brightness",
+			"type": "float",
+			"default": 100,
+			"min": 0,
+			"max": 100,
+			"control": {
+				"slider-step": 1
+			},
+			"description": "The brightness of the rainbow effect (0 is the lowest, 100 is the highest)."
+		}
+	},
+	"repository": "https://github.com/shadowforce78/Rainbow-Icon",
+	"resources": {
+		"sprites": [
+			"resources/btnSprite.png"
+		]
+	}
+}
