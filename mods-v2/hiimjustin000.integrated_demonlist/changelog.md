@@ -1,4 +1,7 @@
 # Integrated Demonlist Changelog
+## v1.4.3 (2024-03-29)
+- Tweaked AREDL preload
+
 ## v1.4.2 (2024-03-08)
 - Fixed the randomize button on the demonlist page
 

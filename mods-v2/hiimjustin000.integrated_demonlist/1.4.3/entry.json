@@ -1,0 +1,15 @@
+{
+    "commit-author": "hiimjustin000",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/hiimjustin000/IntegratedDemonlist/releases/download/v1.4.3/hiimjustin000.integrated_demonlist.geode",
+        "hash": "bacf693de9fee5803b6bf77e4d782c904d74d5792064649bedeebadd174fb330",
+        "hash256": "50e3eaf968d229c854fadfc190ab5c67916a129bf9065ef951de53fdf38a4b8f"
+    },
+    "tags": []
+}
