@@ -2,7 +2,6 @@
 
 Disables shake for all levels similar to `Enable LDM` in the default settings.
 
-### DISCLAIMER
+## What is changed?
 
-Shake cannot be turned on at all. The in-game `Disable Shake` option has absolutely no effect.
-This will be fixed in a later update.
+The default `Disable Shake` option is now a global setting. By default this global setting is enabled. You can change this global setting in the **Geode Settings** menu. If this is on, shake triggers have no effect and the `Disable Shake` option cannot be toggled off. If this is off, then `Disable Shake` will function like it normally does.
