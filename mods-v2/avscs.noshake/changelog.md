@@ -1,3 +1,7 @@
+# v1.1.2
+
+Actually hooks the shake functions.
+
 # v1.1.1
 
 Fixed functionality of the toggle.
