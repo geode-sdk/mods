@@ -1,0 +1,47 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.1",
+	"id": "weebify.congregation_jumpscare",
+	"name": "Congregation Jumpscare",
+	"developer": "Weebify",
+	"description": "Congregation Jumpscare",
+	"tags": ["Gameplay"],
+	"resources": {
+		"files": [
+			"res/895761.mp3"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.8.0",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"chance": {
+            "name": "Probability (%)",
+            "type": "float",
+            "default": 1,
+            "min": 0,
+            "max": 100
+		},
+		"drop": {
+			"name": "Jumpscare at Drop",
+			"description": "Whether you will be thrown at the beginning or the drop",
+			"type": "bool",
+			"default": true
+		},
+		"hide": {
+            "name": "Hide UI in jumpscare",
+			"description": "Try its best to hide the UIs that can reveal the surprise",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
