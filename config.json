@@ -2918,6 +2918,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "zilko.literal_level_lengths": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

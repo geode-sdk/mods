@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Enable literal level lengths.",
+			"type": "bool",
+			"default": true
+		},
+		"unit": {
+			"type": "custom"
+		}
+	},
+	"id": "zilko.literal_level_lengths",
+	"name": "Literal Level Lengths",
+	"developer": "Zilko",
+	"description": "Shows the literal length of levels.",
+	"repository": "https://github.com/ZiLko/Literal_Level_Lengths"
+}
