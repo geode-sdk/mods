@@ -16,5 +16,6 @@
         "enhancement",
         "interface",
         "utility"
-    ]
+    ],
+    "featured": true
 }
