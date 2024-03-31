@@ -10,5 +10,6 @@
         "hash": "494c74f4c72dd862cc4df3c90bff55c9ca67fca82cd920c5598cb75f53539752",
         "hash256": "4b35c1561ec45f8aba6083ed58b6896c2c452ccfeae46660f97f5848681d4009"
     },
-    "tags": []
+    "tags": [],
+    "featured": true
 }
