@@ -1,0 +1,45 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.1.0",
+	"id": "zilko.custom_labels",
+	"name": "Custom Labels",
+	"developer": "Zilko",
+	"description": "Add fully customizable labels to your screen!",
+	"repository": "https://github.com/ZiLko/Custom_Labels",
+	"settings": {
+		"labels_enabled": {
+			"name": "Show Labels",
+			"description": "Shows all labels that you have added.",
+			"type": "bool",
+			"default": true
+		},
+		"button_enabled": {
+			"name": "Show Button",
+			"description": "Shows the Labels Menu Button on the pause menu.",
+			"type": "bool",
+			"default": true
+		},
+		"button_menu": {
+			"type": "custom"
+	 	}
+	},
+	"resources": {
+		"sprites": [
+			"resources/button.png"
+		]
+	},
+	"tags": [
+		"Utility",
+		"Gameplay"
+	],
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.8.1",
+			"importance": "required"
+		}
+	]
+}
