@@ -1,4 +1,7 @@
 # Integrated Demonlist Changelog
+## v1.4.4 (2024-03-31)
+- Fixed a bug where the back button would not work on Android
+
 ## v1.4.3 (2024-03-29)
 - Tweaked AREDL preload
 
