@@ -2881,6 +2881,12 @@
                 "1.0.0",
                 "1.1.0"
             ]
+        },
+        "uproxide.user_reviews": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
