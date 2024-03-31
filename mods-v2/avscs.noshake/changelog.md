@@ -1,3 +1,8 @@
+# v1.1.1
+
+Fixed functionality of the toggle.
+Added clarification to about.md.
+
 # v1.1.0
 
 `Disable Shake` is a global option.

@@ -1,0 +1,24 @@
+{
+    "geode": "2.0.0-beta.22",
+    "gd": {
+        "win": "2.204",
+        "android": "2.205"
+    },
+    "version": "v1.1.1",
+    "id": "avscs.noshake",
+    "name": "NoShake",
+    "developer": "MetaGG2",
+    "description": "Disables shake for all levels by making it a global option.",
+    "issues": {
+        "info": "Report issues in the github repository",
+        "url": "https://github.com/MetaGG2/NoShake/issues"
+    },
+    "repository": "https://github.com/MetaGG2/NoShake",
+    "settings": {
+        "enabled": {
+            "name": "Disable Shake",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
