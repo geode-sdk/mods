@@ -1,0 +1,46 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"mac": "2.200",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "alvy.movecommentdown",
+	"name": "Lower Add Comment",
+	"developer": "Alvy",
+	"description": "yuh",
+	"settings": {
+        "offset": {
+            "name": "Offset",
+            "description": "there's like no reason for you to change this from the default",
+            "type": "float",
+            "default": 150,
+            "min": 0,
+            "max": 300,
+            "control": {
+                "slider": true
+            }
+        },
+        "xoffset": {
+            "name": "Horizontal Offset",
+            "description": "set this to like -86 if you're using comment emojis",
+            "type": "float",
+            "default": 0,
+            "min": -100,
+            "max": 100,
+            "control": {
+                "slider": true
+            }
+        },
+        "bg-alpha": {
+            "name": "Background Opacity",
+            "type": "int",
+            "default": 150,
+            "min": 0,
+            "max": 255,
+            "control": {
+                "slider": true
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit-author": "AlvyDaGreat",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/AlvyDaGreat/gd-movecommentdown/releases/download/Release/alvy.movecommentdown.geode",
+        "hash": "1555ffcd27a2ac37acef4093770640560de89ae2e0273dde92f034010ce6394f",
+        "hash256": "59aee6e163366bb9d3be98625b32821043d834af6a07184f12c757faec9eaeba"
+    },
+    "tags": []
+}
