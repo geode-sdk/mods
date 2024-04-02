@@ -1,0 +1,55 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "zilko.always_april_fools",
+	"name": "Always April Fools",
+	"developer": "Zilko",
+	"description": "Its always april fools and everywhere",
+	"tags": [
+		"Fun"
+	],
+	"repository": "https://github.com/ZiLko/Always_April_Fools",
+	"settings": {
+		"enabled": {
+			"name": "Enable",
+			"description": "Enables april fools.",
+			"type": "bool",
+			"default": true
+		},
+		"random_colors": {
+			"name": "Colors Always Random",
+			"description": "Colors arent determined by account ID anymore.",
+			"type": "bool",
+			"default": false
+		},
+		"random_names": {
+			"name": "Names Always Random",
+			"description": "Names arent determined by account ID anymore.",
+			"type": "bool",
+			"default": false
+		},
+		"always_repeat": {
+			"name": "Always Repeat Colors",
+			"description": "Makes it so it always repeats the same color for every comment on that page.",
+			"type": "bool",
+			"default": false
+		},
+		"never_repeat": {
+			"name": "Never Repeat Colors",
+			"description": "Makes it so it never repeats the same color for every comment on that page.",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.8.1",
+			"importance": "required"
+		}
+	]
+}

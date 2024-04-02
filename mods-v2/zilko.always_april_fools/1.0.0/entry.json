@@ -1,0 +1,16 @@
+{
+    "commit-author": "ZiLko",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/ZiLko/Always_April_Fools/releases/download/v1.0.0/zilko.always_april_fools.geode",
+        "hash": "503b3fac9f6c2fdead0946fa349e325f0dfc1e1cf94deac96cc244c817879c8c",
+        "hash256": "d58ec672b0aefa3a1d0338b94df546778628282c3cbbec69937f1332fe805ed0"
+    },
+    "tags": [
+        "Fun"
+    ]
+}
