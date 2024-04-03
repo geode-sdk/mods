@@ -11,5 +11,8 @@ https://www.patreon.com/uproxide/membership
 
 # Credits
 
+ * Uproxide, Cooper (Code)
  * Brift (Icon)
- * Uproxide (Code)
+ * cdc (Page Concept)
+ * Riley (giving me their cold hard cash)
+ * Catto_, Tech (Did nothing just asked to be here)
