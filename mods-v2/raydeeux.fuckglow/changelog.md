@@ -1,4 +1,6 @@
 # FrickGlow Changelog
+## v1.3.2
+- Fix a conflict with Weebify's Coins in Pause Menu mod, and hopefully all other mods in the future.
 ## v1.3.1
 - *Finally* manage to resolve the incredibly rare incompat with Capeling's Gamemode Swapper mod. If anyone was curious what it was, FrickGlow would sometimes mistakenly hide the player if a level started with a mini-sized player (regardless of Testmode status). Sorry for putting you through the update fatigue!
 ## v1.3.0
