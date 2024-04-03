@@ -1,0 +1,17 @@
+{
+    "commit-author": "Naxrin",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Naxrin/Garage-in-Editor/releases/download/v1.2.0/naxrin.garage_in_editor.geode",
+        "hash": "32f77dd3ce1291fef1c3d11d3dedf2804bfda7a77b07d6e8f1471f5fa8ee6d37",
+        "hash256": "81c80335eb09d72398ecdb1409196224626618af44528915f86f285a428164d9"
+    },
+    "tags": [
+        "cosmetic"
+    ]
+}
