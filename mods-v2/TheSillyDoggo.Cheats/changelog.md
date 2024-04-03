@@ -1,3 +1,14 @@
+# 1.3.4
+
+- Added customizable message label
+- Temporarily removed show layout because of editor crashes
+- Added Show Trajectory (Beta)
+- Added Instant Fade (Makes the mod menu button instantly disappear instead of slowly fading)
+- Safe Mode Kicks you out of the level now instead of showing the end screen, it was really broken
+- Removed Debug Button from Speedhack
+- Added Speedhack Presets
+- Added Speedhack transition fixes
+
 # 1.3.3
 
 - Fixed windows not being able to open the mod menu, sorry
