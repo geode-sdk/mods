@@ -1,0 +1,10 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "bingy3.auto_delete",
+	"name": "Auto delete",
+	"developer": "Bingy3",
+	"description": "Automaticly deletes levels after you press the back button",
+	"repository": "https://github.com/Bingy3/gd-auto-delete"
+}

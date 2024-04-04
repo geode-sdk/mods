@@ -1,0 +1,12 @@
+{
+    "commit-author": "Bingy3",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Bingy3/gd-auto-delete/releases/download/v1.0.2/bingy3.auto_delete.geode",
+        "hash": "6a43851dddc37ab060217ca97e49dfb4f9634a86e32ecf94ac3f9ce446600f46",
+        "hash256": "8601fcd4617ed48f9a10c61b6bcd1f69258c0502b3f2e1b459daf1b3e837c928"
+    },
+    "tags": []
+}

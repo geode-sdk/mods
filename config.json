@@ -2956,6 +2956,12 @@
             "versions": [
                 "1.0.7"
             ]
+        },
+        "bingy3.auto_delete": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
