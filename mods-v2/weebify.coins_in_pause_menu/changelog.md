@@ -1,4 +1,6 @@
 # Coins in Pause Menu Changelog
+## v1.1.3
+- Fixed an issue with BetterPause on non 16:9 screens
 ## v1.1.2
 - Fixed an issue with blinking coin effect not working correctly in platformer levels
 ## v1.1.1
