@@ -1,4 +1,7 @@
 # Better Icon Randomizer Changelog
+## v1.1.0 (2024-04-03)
+- Replaced randomize all button and randomize color button with a popup menu to select which modes to randomize
+
 ## v1.0.2 (2024-03-31)
 - Fixed more bugs pertaining to icon selection after randomization
 
