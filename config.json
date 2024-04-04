@@ -2950,6 +2950,12 @@
             "versions": [
                 "1.1.0"
             ]
+        },
+        "the_bearodactyl.gay-wave-trail": {
+            "verified": false,
+            "versions": [
+                "1.0.7"
+            ]
         }
     }
 }

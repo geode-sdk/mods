@@ -1,0 +1,51 @@
+{
+  "geode": "2.0.0-beta.22",
+  "gd": {
+    "win": "2.204",
+    "mac": "2.200",
+    "android": "2.205"
+  },
+  "version": "v1.0.7",
+  "id": "the_bearodactyl.gay-wave-trail",
+  "name": "Gay Wave Trail",
+  "developer": "The Bearodactyl",
+  "description": "make your wave trail a raging homosexual >:3",
+  "settings": {
+    "enable": {
+      "name": "Enable the G A E",
+      "type": "bool",
+      "description": "what this does is self explanitory",
+      "default": true
+    },
+    "speed": {
+      "name": "How fast is your wave trail?",
+      "type": "float",
+      "default": 10,
+      "min": 1,
+      "max": 20,
+      "control": {
+        "slider-step": 1
+      },
+      "description": "The speed of the alphabet mafia"
+    },
+    "saturation": {
+      "name": "How fruity is your wave trail?",
+      "type": "float",
+      "default": 100,
+      "min": 0,
+      "max": 100,
+      "control": {
+        "slider-step": 1
+      },
+      "description": "The larger the number, the better"
+    }
+  },
+  "repository": "https://github.com/TheBearodactyl/gay-wave-trail",
+  "incompatibilities": [
+    {
+      "id": "TheSillyDoggo.Cheats",
+      "importance": "breaking",
+      "version": "*"
+    }
+  ]
+}
