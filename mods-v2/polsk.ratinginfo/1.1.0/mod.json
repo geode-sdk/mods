@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+	    "win": "2.204",
+	    "android": "2.205",
+	    "mac": "2.200"
+	},
+	"version": "v1.1.0",
+	"id": "polsk.ratinginfo",
+	"name": "Rating Info",
+	"developer": "polsk",
+	"description": "Adds info for ratings.",
+	"settings": {
+		"unrated": {
+			"name": "Enable Unrated Info",
+			"description": "Shows requested stars and unrated info.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

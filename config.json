@@ -2944,6 +2944,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "polsk.ratinginfo": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }

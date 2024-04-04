@@ -1,0 +1,15 @@
+{
+    "commit-author": "polskidevv",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/polskidevv/RatingInfo/releases/download/1.1.6/polsk.ratinginfo.geode",
+        "hash": "77da75b43a818a5d05485beb0f4ad07f72167f52f7ead7dd70523b46da296805",
+        "hash256": "f70504c1c91e5f66345302760f73680440a3bed4027cf850707b6433e2bd6ec1"
+    },
+    "tags": []
+}
