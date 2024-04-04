@@ -2962,6 +2962,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "ninkaz.editor_utils": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

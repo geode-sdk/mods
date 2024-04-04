@@ -1,0 +1,18 @@
+{
+    "commit-author": "flurrybun",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/flurrybun/ninkaz-editor-utils/releases/download/v1.0.0/ninkaz.editor_utils.geode",
+        "hash": "5b1eea72ed25d9366e6d40bfe7b92346336dc898954594522938bd710485aa93",
+        "hash256": "c98d4cd84e86fc1dffa051907f843b59aeb92b85e9dc198ecc0d5fdbe5ae7ff5"
+    },
+    "tags": [
+        "Editor",
+        "Interface",
+        "Utility"
+    ]
+}
