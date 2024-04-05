@@ -1,0 +1,14 @@
+{
+    "commit-author": "ZiLko",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ZiLko/Better_Screenshots/releases/download/v1.0.0/zilko.better_screenshots.geode",
+        "hash": "1fec06e67b6015d6fe10577d3ca3bd2ee736b112158e26913f7144e64a55e58a",
+        "hash256": "6c36ef72ce564548ce662f5ac831cee1f2f50c20c8476d99b10930d840e99bae"
+    },
+    "tags": [
+        "Utility"
+    ]
+}

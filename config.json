@@ -2968,6 +2968,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "zilko.better_screenshots": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

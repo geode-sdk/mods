@@ -1,0 +1,40 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "zilko.better_screenshots",
+	"name": "Better Screenshots",
+	"developer": "Zilko",
+	"description": "Take screenshots and save them to the clipboard.",
+	"settings": {
+		"auto_pause": {
+			"name": "Pause On Snip",
+			"description": "Automatically pause when taking an snip screenshot",
+			"type": "bool",
+			"default": true
+		},
+		"save_to_clipboard":{
+			"name": "Save to clipboard",
+			"description": "Save the screenshots to the clipboard.",
+			"type": "bool",
+			"default": true
+		},
+		"save_file":{
+			"name": "Save Image File",
+			"description": "Save the screenshots to a folder. (Click open folder on the bottom right corner)",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"dependencies": [
+		{
+			"id": "geode.custom-keybinds",
+			"version": "v1.5.2",
+			"importance": "required"
+		}
+	],
+	"repository": "https://github.com/ZiLko/Better_Screenshots",
+	"tags": [
+		"Utility"
+	]
+}
