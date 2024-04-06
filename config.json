@@ -2974,6 +2974,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "flafy.autonong": {
+            "verified": false,
+            "versions": [
+                "0.0.2"
+            ]
         }
     }
 }
