@@ -1,0 +1,14 @@
+{
+    "commit-author": "SaiOwO",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/SaiOwO/Easing-preview/releases/download/fix/elsai.easing_preview.geode",
+        "hash": "66ebcd5309dad171e17b64e2b991e10e567e8c83779f39d37b985f08312082b2",
+        "hash256": "be5649d3fe4f2e5e5f79a6d3e9ccf21339e94c6962a98b4f6b261f21002c1472"
+    },
+    "tags": []
+}
