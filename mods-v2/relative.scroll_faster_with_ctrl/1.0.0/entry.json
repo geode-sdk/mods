@@ -1,0 +1,12 @@
+{
+    "commit-author": "relativemodder",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/relativemodder/scroll-faster-with-ctrl/releases/download/v1/relative.scroll_faster_with_ctrl.geode",
+        "hash": "43f944512de092d32c0c7e7a7dbb08ef7195c56fe6adb03a8e572a9c45aeb437",
+        "hash256": "8c1d0eccb72089f1b1c2e55f4037abb029ed3a91d909e123a750c448c4645f57"
+    },
+    "tags": []
+}

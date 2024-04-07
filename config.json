@@ -2981,6 +2981,12 @@
             "versions": [
                 "0.0.2"
             ]
+        },
+        "relative.scroll_faster_with_ctrl": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

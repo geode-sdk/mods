@@ -1,0 +1,23 @@
+{
+	"geode": "2.0.0",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "relative.scroll_faster_with_ctrl",
+	"name": "Scroll Faster With Ctrl",
+	"developer": "Relative",
+	"description": "Increase the speed of scrolling by pressing Ctrl key on your keyboard",
+	"settings": {
+		"scroll-speed-modifier": {
+			"name": "Scroll speed modifier",
+			"descriptions": "Sets your scroll speed modifier",
+			"type": "float",
+			"default": 2,
+			"min": 1,
+			"max": 6,
+			"control": {
+				"slider": true
+			}
+		}
+	},
+	"repository": "https://github.com/relativemodder/scroll-faster-with-ctrl"
+}
