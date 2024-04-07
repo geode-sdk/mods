@@ -2995,6 +2995,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.replaylastcheckpoint": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
