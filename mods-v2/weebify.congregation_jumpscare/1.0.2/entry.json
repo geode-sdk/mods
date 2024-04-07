@@ -1,0 +1,17 @@
+{
+    "commit-author": "Weebifying",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Weebifying/congregation-geode/releases/download/V1.0.2/weebify.congregation_jumpscare.geode",
+        "hash": "3e33beed8c91afa39a397455d22020a6616de3308ae02d91d248a7a5ea7521e1",
+        "hash256": "3d28c48f064c889edeea6c921569180b772551216e9dea5c0a9aa225ddf486b4"
+    },
+    "tags": [
+        "Gameplay"
+    ]
+}
