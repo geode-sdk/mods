@@ -1,3 +1,8 @@
+# 1.2.8
+
+- Fixed crash.
+- Added "Reset" button in `SplashesListPopup`.
+
 # v1.2.7
 
 - Minor bugfix.
