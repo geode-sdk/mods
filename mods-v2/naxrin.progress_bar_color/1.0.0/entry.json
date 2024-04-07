@@ -1,0 +1,15 @@
+{
+    "commit-author": "Naxrin",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Naxrin/Progress-Bar-Color-Geode/releases/download/v1.0.0/naxrin.progress_bar_color.geode",
+        "hash": "d447c937dc3af42749e3939ed0d82e4dcf459effd00efbead8fc9748d19bd74e",
+        "hash256": "e782b8db77f24d19690210305ae7e5f6b5b95813bb730baa72adcdb97da98a66"
+    },
+    "tags": []
+}

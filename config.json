@@ -3001,6 +3001,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "naxrin.progress_bar_color": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

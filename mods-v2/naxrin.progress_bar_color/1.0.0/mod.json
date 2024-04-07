@@ -1,0 +1,62 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "naxrin.progress_bar_color",
+	"name": "Progress Bar Color",
+	"developer": "Naxrin",
+	"description": "This mod lets you customize your progress bar color!You can set your normal/practice progress bar manually or follow your player colors.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": "v1.0.0"			
+		}],
+	"settings":{
+		"normal-follow": {
+            "name": "Normal Bar Follow Player",
+            "description": "Make Normal Progress Bar color follow current player color.\n0->Default:Set it manually\n1->Follow Main Color\n2->Follow Secondary Color\n3->Follow Glow Color",
+            "type": "int",
+            "default": 0,
+			"min":0,
+			"max":3
+        },
+		"normal-manual": {
+            "name": "Normal Bar",
+            "description": "Color of Normal Progress Bar color\nOnly works when Normal Bar Follow Player is set to zero",
+            "type": "color",
+            "default": "#00FF00"
+		},
+		"practice-follow": {
+			"name": "Practice Bar Follow Player",
+			"description": "Make Practice Progress Bar color follow current player color.\n0->Default:Set it manually\n1->Follow Main Color\n2->Follow Secondary Color\n3->Follow Glow Color",
+			"type": "int",
+			"default": 0,
+			"min":0,
+			"max":3
+        },
+		"practice-manual": {
+            "name": "Practice Bar",
+            "description": "Color of Practice Progress Bar color\nOnly works when Practice Bar Follow Player is set to zero",
+            "type": "color",
+            "default": "#00FFFF"
+        },
+		"level-info-layer": {
+            "name": "Level Entrance",
+            "description": "Apply to LevelInfoLayer where you enter a level",
+            "type": "bool",
+            "default": true
+		},
+		"pause-layer": {
+            "name": "Pause Menu",
+            "description": "Apply to PauseLayer (pause menu), already fits BetterPause mod",
+            "type": "bool",
+            "default": true
+		},
+		"official-level": {
+            "name": "Official Levels",
+            "description": "Apply to Robtop's official levels select menu.\nThe hardest part for modding, but I guess few old players even care this.",
+            "type": "bool",
+            "default": true
+		}
+	}
+}
