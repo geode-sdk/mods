@@ -3016,6 +3016,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "alphalaneous.random_tab": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
