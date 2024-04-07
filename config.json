@@ -2960,7 +2960,8 @@
         "the_bearodactyl.gay-wave-trail": {
             "verified": false,
             "versions": [
-                "1.0.7"
+                "1.0.7",
+                "1.0.9"
             ]
         },
         "bingy3.auto_delete": {
