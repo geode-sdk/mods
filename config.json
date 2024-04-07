@@ -3007,6 +3007,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "skeletalvirus.featuredlists": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }

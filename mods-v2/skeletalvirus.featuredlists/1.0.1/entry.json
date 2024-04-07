@@ -1,0 +1,12 @@
+{
+    "commit-author": "SkeletalVirus",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/SkeletalVirus/featuredlists/releases/download/Bugfix/skeletalvirus.featuredlists.geode",
+        "hash": "4c50abea5ea33c5b0a4def34397638064c5536aa6f4f1fca3cd5aaf6cd2fc623",
+        "hash256": "95d664b291fb98b58942e4368b3b77e6f10cabf77a26c89e24a397e1a639aafa"
+    },
+    "tags": []
+}

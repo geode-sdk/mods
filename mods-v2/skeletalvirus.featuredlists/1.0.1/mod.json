@@ -1,0 +1,36 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "skeletalvirus.featuredlists",
+	"name": "Featured Lists",
+	"developer": "SkeletalVirus",
+	"description": "Adds a button to your profile that opens a predetermined list",
+	"settings": {
+		"list_id": {
+			"name": "List ID",
+			"description": "ID of the list you wish to be displayed on your profile",
+			"type": "int",
+			"default": 0,
+			"control": {
+				"slider": false
+			}
+		},
+		"btn_texture": {
+			"name": "Button Texture",
+			"description": "Changes the texture of the \"Featured List\" button on your profile! \n\n <co>0</c> = <cy>Default Texture</c> \n <co>1</c> = <cy>Demon Texture</c> \n <co>2</c> = <cy>Trophy Texture</c> \n <co>3</c> = <cy>Creator Point Texture</c> \n <co>4</c> = <cy>Star Texture</c>",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 4,
+			"control": {
+				"slider": false
+			}
+		}
+	},
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
