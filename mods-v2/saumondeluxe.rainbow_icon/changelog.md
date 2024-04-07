@@ -1,3 +1,7 @@
+# 1.1.4
+- Added offset control for particle rainbow effect
+- Removed brightness and saturation settings for the particle rainbow effect (not visible)
+
 # 1.1.3
 - Added brightness settings to the rainbow effect
 - Added particle rainbow effect (toggleable)
