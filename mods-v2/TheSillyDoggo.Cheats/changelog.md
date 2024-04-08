@@ -1,3 +1,18 @@
+# 1.3.5
+
+- Show Trajectory shows where you will die
+- Readded Show Layout
+- Fixed another crash opening mod menu
+- Optimised the on screen button
+- Made the mod menu popup scrollable
+- Fixed Spelling mistake in confirm restart
+- Added All Modes Platformer
+- Added Comment History Bypass
+- Added Game Time label
+- Temporarily removed replay because of bugs
+- Redesigned Config Menu
+- Added Search Box
+
 # 1.3.4
 
 - Added customizable message label
