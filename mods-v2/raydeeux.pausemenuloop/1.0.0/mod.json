@@ -1,0 +1,78 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+		"mac": "2.200",
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "raydeeux.pausemenuloop",
+	"name": "PauseMenuLoop",
+	"developers": ["RayDeeUx", "Weebify"],
+	"description": "Loops a song of your choice in the pause menu.",
+	"repository": "https://github.com/RayDeeUx/PauseMenuLoop",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"path": {
+			"name": "Pause Menu Loop",
+			"description": "Choose an audio file to loop.",
+			"type": "path",
+			"default": "Please choose an audio file.",
+			"control": {
+				"filters": [
+					{
+						"description": "Audio files",
+						"files": [
+							"*.mp3",
+							"*.wav",
+							"*.ogg"
+						]
+					}
+				]
+			}
+		},
+		"random": {
+			"name": "Choose Random Loop",
+			"description": "Allows the mod to choose a menu loop randomly <cy>from the mod's config directory</c>. Click on the little pencil in the mod's info layer <cl>(preferably without Mega Hack loaded)</c> to find this directory.",
+			"type": "bool",
+			"default": false
+		},
+		"volume": {
+			"name": "Volume (%)",
+			"description": "Set the volume of of your pause menu loop (as a percentage).",
+			"type": "int",
+			"default": 50,
+			"min": 0,
+			"max": 100
+		},
+		"reduction": {
+			"name": "Volume Reduction (Multiplier)",
+			"description": "Sets a multiplier to reduce the volume of your pause menu loop. Useful for folks trying to hit that sweet spot of decibel levels.",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 1.0,
+			"control": {
+				"arrows": false,
+				"slider-step": 0.01
+            }
+		}
+	},
+	"resources": {
+		"sprites": [
+			"resources/btn.png"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.8.0",
+			"importance": "required"
+		}
+	]
+}

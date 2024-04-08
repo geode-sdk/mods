@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/PauseMenuLoop/releases/download/v1.0.0/raydeeux.pausemenuloop.geode",
+        "hash": "e967fd0c12fd8b062a083fcafd735dc4f39573382f9befb5dd8f515690ad4e9c",
+        "hash256": "27a8a432c0d2119e44940ad02f951c1df296ddf05effd802c00b4ce4829ace82"
+    },
+    "tags": []
+}
