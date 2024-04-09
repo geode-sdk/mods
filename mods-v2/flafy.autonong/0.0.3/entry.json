@@ -1,0 +1,12 @@
+{
+    "commit-author": "FlafyDev",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/FlafyDev/auto-nong/releases/download/v0.0.3/flafy.autonong.geode",
+        "hash": "4145e91229f3319f0922c6b6bfcf8b6efb4c9b0b5c61ffb6e5ae20eac248c116",
+        "hash256": "d044743d7dda9be102cac719ff551bb1718c164118ab8043a719030545706353"
+    },
+    "tags": []
+}
