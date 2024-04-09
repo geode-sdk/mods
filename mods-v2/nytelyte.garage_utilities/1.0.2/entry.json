@@ -1,0 +1,14 @@
+{
+    "commit-author": "nytelytee",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/nytelytee/geode-garage-utilities/releases/download/v1.0.2/nytelyte.garage_utilities.geode",
+        "hash": "f7c029b9779e05c5105b4088f50e2a1d83e1dd8ea77c6b787613ea71e10a8cc2",
+        "hash256": "21cc4a1834df32d8641b25b10d3e1229dfc748b69f0720d4440efeb1100c10dd"
+    },
+    "tags": []
+}

@@ -3057,6 +3057,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "nytelyte.garage_utilities": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }

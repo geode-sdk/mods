@@ -1,0 +1,35 @@
+{
+  "geode": "2.0.0-beta.23",
+  "gd": {"android": "2.205", "win": "2.204"},
+  "version": "v1.0.2",
+  "id": "nytelyte.garage_utilities",
+  "name": "Garage Utilities",
+  "developer": "NyteLyte",
+  "description": "Adds extra features to the garage: filtering and sorting, arrows to unlock info popup, and more.",
+  "dependencies": [{"id": "geode.node-ids", "version": "v1.2.0", "importance": "required"}],
+  "repository": "https://github.com/nytelytee/geode-garage-utilities.git",
+  "resources": {
+    "spritesheets": {"GarageUtilitiesNavdotButtonSheet": ["resources/GU_navDotButton_denied.png", "resources/GU_navDotButton_mixed.png"]},
+    "sprites": ["resources/GU_button_01.png"],
+    "files": ["resources/examples/*.png"]
+  },
+  "settings": {
+    "hide-player-options-button":      {"name": "Hide Player Options Button",      "type": "bool", "default": false},
+    "hide-filter-and-sort-button":     {"name": "Hide Filter and Sort Button",     "type": "bool", "default": false},
+    "disable-shift-clicking-on-icons": {"name": "Disable Shift Clicking on Icons", "type": "bool", "default": false},
+    "disable-unlock-popup-arrows":     {"name": "Disable Unlock Popup Arrows",     "type": "bool", "default": false},
+    "remove-diamond-shards":           {"name": "Remove Diamond Shards",           "type": "bool", "default": false},
+    "disable-unlocking-free-icons": {
+      "name": "Disable Unlocking Free Icons",
+      "type": "bool",
+      "default": false,
+      "description": "Unlocking the free icons you used to get for rating the game is broken in 2.2; this mod unlocks those icons when you click on them (unlocking the Meltdown rate icon is enabled if you have More Games by BitZ enabled)."
+    },
+    "disable-unlock-popup-animation-name-changes": {
+      "name": "Disable Unlock Popup Animation Name Changes",
+      "type": "bool",
+      "default": false,
+      "description": "Normally the animations are called 'Items' and they go from 18 to 21; this mod renames them to 'Animations' and makes them go from 1 to 3."
+    }
+  }
+}
