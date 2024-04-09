@@ -1,0 +1,31 @@
+{
+  "geode": "2.0.0-beta.23",
+  "gd": {
+    "win": "2.204",
+    "android": "2.205",
+    "mac": "2.200"
+  },
+  "version": "v1.0.0",
+  "id": "zsa.percentage-bugfix",
+  "name": "Percentage Bugfix",
+  "developer": "ZSA",
+  "description": "",
+  "settings": {
+    "precision": {
+      "name": "Precision",
+      "description": "How many decimal places the fixed percentage should have",
+      "type": "int",
+      "default": 0,
+      "min": 0,
+      "control": {
+        "input": true
+      }
+    },
+    "force-enable": {
+      "name": "Force 2.1 logic",
+      "description": "Forces 2.1 percentage calculation for cases where the mod does not detect the bug",
+      "type": "bool",
+      "default": false
+    }
+  }
+}

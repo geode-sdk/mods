@@ -3050,6 +3050,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "zsa.percentage-bugfix": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
