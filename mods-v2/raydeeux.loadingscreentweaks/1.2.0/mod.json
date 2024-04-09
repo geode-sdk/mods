@@ -1,0 +1,71 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+        "mac": "2.200",
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.2.0",
+	"id": "raydeeux.loadingscreentweaks",
+	"name": "LoadingScreenTweaks",
+	"developer": "RayDeeUx",
+	"description": "Hides various elements of your choice from Geometry Dash's loading screen.",
+	"repository": "https://github.com/RayDeeUx/LoadingScreenTweaks",
+	"early-load": true,
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"hideCocosAndFmod": {
+			"name": "Hide Cocos/FMod Watermarks",
+			"description": "Hides the Cocos Engine and FMod watermarks.",
+			"type": "bool",
+			"default": true
+		},
+		"hideProgressBar": {
+			"name": "Hide Progress Bar",
+			"description": "Hides the loading progress bar.",
+			"type": "bool",
+			"default": false
+		},
+		"hideSplashText": {
+			"name": "Hide Splash Text",
+			"description": "Hides the golden splash text.",
+			"type": "bool",
+			"default": false
+		},
+		"customSplashText": {
+			"name": "Custom Splash Text",
+			"description": "Toggles between custom golden splash text and RobTop's splash text.\n\n(Enabling \"Hide Splash Text\" overrides this.)",
+			"type": "bool",
+			"default": false
+		},
+		"custom": {
+			"name": "custom.txt Splash Text",
+			"description": "<cp>[REQUIRES RESTART TO APPLY]</c>\n\nIncludes your own custom loading screen splash text.\nPlease edit the \"custom.txt\" file by opening this mod's config directory (look for the golden pencil button at the bottom left of the mod's introductory screen).",
+			"type": "bool",
+			"default": false
+		},
+		"stanleyCeleste": {
+			"name": "Include the Stanley Parable + Celeste",
+			"description": "<cp>[REQUIRES RESTART TO APPLY]</c>\n\nIncludes quotes from Celeste and The Stanley Parable.",
+			"type": "bool",
+			"default": false
+		},
+		"multiline": {
+			"name": "Multiline Splash Text",
+			"description": "Custom splash texts can either become multiline splash texts (if this is enabled) or be limited to one line (if this is disabled). Here is where you make that decision.",
+			"type": "bool",
+			"default": true,
+			"platforms": ["windows", "macos"]
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/*.txt"
+		]
+	}
+}
