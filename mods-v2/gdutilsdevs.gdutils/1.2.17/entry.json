@@ -1,0 +1,14 @@
+{
+    "commit-author": "Jouca",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Jouca/GDUtils-Geode/releases/download/v1.2.17/gdutilsdevs.gdutils.geode",
+        "hash": "0da81f566290bee775c5ebd6b9b37b42775059a7d1bd7de9f57b945158d095c1",
+        "hash256": "64fb9820a663f700dc612e98a909832d159ba580df2f5217795b35d06dacebc2"
+    },
+    "tags": []
+}
