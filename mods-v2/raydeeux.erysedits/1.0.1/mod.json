@@ -1,0 +1,343 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"mac": "2.200",
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.1",
+	"id": "raydeeux.erysedits",
+	"name": "ErysEdits",
+	"developers": ["RayDeeUx", "acaruso"],
+	"description": "Just a few of my tweaks that were better off under one mod instead of standalone mods.",
+	"repository": "https://github.com/RayDeeUx/ErysEdits",
+	"early-load": true,
+	"settings": {
+		"erysedits": {
+			"name": "ErysEdits",
+			"type": "custom"
+		},
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"debug-text": {
+			"name": "Info Label / Debug Text",
+			"type": "custom"
+		},
+		"debugTextToggle": {
+			"name": "Enable Debug Text Changes",
+			"description": "A soft toggle for this mod's edits to the info label in PlayLayer.\n(Useful to prevent massive FPS loss for the small population of users who still have Zilko's xdBot installed before it was de-listed from the Geode index.)",
+			"type": "bool",
+			"default": true
+		},
+		"blendingDebugText": {
+			"name": "Readable Mode",
+			"description": "Make the info label easier to read across a far larger variety of scenarios.",
+			"type": "bool",
+			"default": true
+		},
+		"tapsToClicks": {
+			"name": "\"Taps\" -> \"Clicks\"/\"Actions\"",
+			"description": "\"Taps\" becomes \"Clicks\" (\"Actions\" in platformer levels) in the info label of PlayLayer.",
+			"type": "bool",
+			"default": true
+		},
+		"pluralAttempts": {
+			"name": "Plural Attempts",
+			"description": "\"Attempt\" becomes \"Attempts\" in the info label of PlayLayer.",
+			"type": "bool",
+			"default": true
+		},
+		"fixLevelIDLabel": {
+			"name": "Fix \"LevelID:\" Label",
+			"description": "\"LevelID:\" becomes \"Level ID:\" in the info label of PlayLayer.",
+			"type": "bool",
+			"default": true
+		},
+		"expandPerformance": {
+			"name": "Expand \"Perf\" Header",
+			"description": "\"-- Perf --\" becomes \"-- Performance --\" in the info label of PlayLayer.",
+			"type": "bool",
+			"default": true
+		},
+		"addGameplayHeader": {
+			"name": "Add \"Gameplay\" Header",
+			"description": "Adds a \"-- Gameplay --\" header to the first section of the info label of PlayLayer.",
+			"type": "bool",
+			"platforms": ["windows", "android32", "android64"],
+			"default": true
+		},
+		"addCurrentChannel": {
+			"name": "Show Current Channel",
+			"description": "Shows the currently active channel in the first section of the info label of PlayLayer.",
+			"type": "bool",
+			"default": true
+		},
+		"accuratePosition": {
+			"name": "Accurate Player Position",
+			"description": "Adds four more decimal points to the player's X and Y positions in the first section of the info label of PlayLayer.",
+			"type": "bool",
+			"default": true
+		},
+		"lastPlayedSong": {
+			"name": "Show Most Recent Song/Effect",
+			"description": "Includes the filename of the most recently loaded song <cy>(and sound effect, if not on macOS)</c> in the Audio section of the info label of PlayLayer.",
+			"type": "bool",
+			"default": true
+		},
+		"compactAudioSection": {
+			"name": "Compact \"Audio\" Section",
+			"description": "Condenses Song and SFX counts from the Audio section of the info label of PlayLayer into one line.",
+			"type": "bool",
+			"default": true
+		},
+		"compactGameplaySection": {
+			"name": "Compact \"Gameplay\" Section",
+			"description": "Condenses several pieces of information in the first section of the info label of PlayLayer into one line, including:\n- Attempts and taps/clicks.\n- TimeWarp and Gravity.\n-X and Y position.\n- Gradients and Particles.",
+			"type": "bool",
+			"default": true
+		},
+		"conditionalValues": {
+			"name": "Conditional Labels",
+			"description": "Hides various values in the info label of PlayLayer if unmodified. For reference:\n- TimeWarp if currently equal to 1.\n- Gravity if currently equal to 1.\n- Pretty much anything else you can think of if it's currently equal to either \"0\" or \"0 / 0\".",
+			"type": "bool",
+			"default": false
+		},
+		"addPlayerInfo": {
+			"name": "Add Player Info",
+			"description": "Includes additional info about the player's current state in the info label of PlayLayer.",
+			"type": "bool",
+			"default": false
+		},
+		"compactDirections": {
+			"name": "Player Direction as Emoticons",
+			"description": "Replaces word descriptions of the player's current direction in the info label of PlayLayer with emoticon alternatives.\n\n<cy>Requires the previous setting (\"Add Player Info\") to be enabled; otherwise you won't see it.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"addLevelTraits": {
+			"name": "Add Level Traits",
+			"description": "Includes additional info about the current level's traits in the info label of PlayLayer.",
+			"type": "bool",
+			"default": false
+		},
+		"modLoaderInfo": {
+			"name": "Geode Mod Loader Info",
+			"description": "Adds an additional section of info related to your Geode setup named \"Geode\" to the info label of PlayLayer.",
+			"type": "bool",
+			"default": false
+		},
+		"logDebugText": {
+			"name": "Enable Logging",
+			"description": "Logs the debug text into your Geode logs folder as a last resort.\n\n<cr>By enabling this option, you agree to hold harmless the mod developer (RayDeeUx) or any lead developer of Geode and assume all responsibility for any resulting damages, including incredibly large log files.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"gameplay": {
+			"name": "Gameplay",
+			"type": "custom"
+		},
+		"unverifiedPercent": {
+			"name": "Hide Percentage If Unverified",
+			"description": "Hides the current percentage text and the progress bar if the level is not verified.\n\nUseful for WIP levels whose percentages are based on time spent and not based on X position.\n\n<cy>Due to how this feature is implemented, you should not close the game while playing a level with this feature active.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"hideLevelCompleteVisuals": {
+			"name": "Hide Level Completion Visuals",
+			"description": "Hides the circles and light flashes during level completions, except particles.\n\n<cy>To hide particles, please use your preferred mod menu (be aware that this hides particles everywhere, including outside of the level completion visuals).</c>",
+			"type": "bool",
+			"default": false
+		},
+		"disablePlatformerJumpAnim": {
+			"name": "No Platformer Cube Animation",
+			"type": "bool",
+			"default": false
+		},
+		"disableRewardsSFX": {
+			"name": "Disable Rewards SFX on Death",
+			"description": "Silences all SFX related to gaining diamonds/orbs/keys on player death.",
+			"type": "bool",
+			"default": true
+		},
+		"forceStopMusicOnDeath": {
+			"name": "Force Stop Music/SFX on Death",
+			"description": "Stops level music/SFX on player death, even if a level's option triggers demand otherwise.",
+			"type": "bool",
+			"default": true
+		},
+		"forcePlayDeathSFXOnDeath": {
+			"name": "Force Death SFX",
+			"description": "Forces the game to play death SFX, even if a level's option triggers demand otherwise.\n\n<cy>When dying on levels have multiple Option triggers, you might hear two death sound effects on death if you also have Death Sounds Randomizer (DSR) installed. This is a side effect of mimicking DSR's behavior, and Geode's currently limited bindings makes this difficult to fix.</c>",
+			"type": "bool",
+			"default": true
+		},
+		"advancedForceDeathSFX": {
+			"name": "Adv. Force Death SFX (READ!)",
+			"description": "Enables level string analysis to reduce the number of times you might hear two death SFXs with Death Sounds Randomizer installed, <cy>but causes brief freezes when loading levels.</c>\n<cr>BY ENABLING THIS, YOU ARE WILLING TO ENDURE FRAME DROPS AND WILL NOT HOLD ANYONE (BESIDES YOURSELF) RESPONSIBLE FOR ANY DAMAGES THIS MAY CAUSE.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"disableShake": {
+			"name": "No Shake Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"disableSFX": {
+			"name": "No SFX Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"disableEditSFX": {
+			"name": "No Edit SFX Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"disablePulse": {
+			"name": "No Pulse Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"disableAreaTint": {
+			"name": "No Area Tint Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"navigation": {
+			"name": "Navigation with Keybinds",
+			"type": "custom",
+			"platforms": ["windows"]
+		},
+		"pageNavAnywhere": {
+			"name": "Arrow Keys in Pages",
+			"description": "Enables a keybind (set to Alt + Left/Right for previous/next pages, Shift Left/Right for first/last pages) to refresh the layer you're on.\n\nBecause RobTop's infinite wisdom allowed him to implement this feature with the main levels (and level browsing menus) <cr>and literally nowhere else</c> in Geometry Dash.\n\n<cj>No, I'm not mad about this. What makes you think that?</c>",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"refreshAnywhere": {
+			"name": "Refresh Anywhere",
+			"description": "Enables a keybind (set to Ctrl + R by default) to refresh the layer you're on.\n<cy>Use this keybind with caution; abusing/spamming this keybind can get you rate-limited or banned from RobTop's servers. By using this keybind for any reason, you agree to hold harmless the mod developer (RayDeeUx) or any lead developer of Geode and assume all responsibility for any consequences.</c>",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": false
+		},
+		"saveEditorLevel": {
+			"name": "Save Editor Level",
+			"description": "Enables a keybind (set to Ctrl + S by default) to save your level in the editor immediately <cy>without a confirmation</c>.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"viewCommentsAnywhere": {
+			"name": "View Comments",
+			"description": "Enables a keybind (set to Shift + C by default) to view comments (either for a specific profile or for a level).",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"likeDislikeShortcut": {
+			"name": "Like/Dislike",
+			"description": "Enables a keybind (set to Left for liking and Right for disliking) to like/dislike content.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"shiftForVault": {
+			"name": "Shift Click to Vaults/Chambers/Treasure",
+			"description": "Requires holding the Shift key to enter (vanilla GD) menus that change the menu loop music.\n\nNote that this will not apply to The Tower.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"alert-layers": {
+			"name": "Alert Layers",
+			"type": "custom"
+		},
+		"flAlertWidthMultiplier": {
+			"name": "Width Multiplier",
+			"description": "Multiplies the width of <cy>most</c> Alert Layers\n(such as this one you're viewing).\n\nDon't worry, the mod will cap all widths to <cg>420</c> units.\n\n<cy>(Enabling the \"Text Scroll\" setting a bit further below this one will override whatever value you've set here.)</c>",
+			"type": "float",
+			"default": 1.0,
+			"min": 1.0,
+			"max": 1.5,
+			"control": {
+				"arrows": false,
+				"slider-step": 0.01
+			}
+		},
+		"textScale": {
+			"name": "Text Scale",
+			"description": "Changes the text scale of <cy>most</c> Alert Layers\n(such as this one you're viewing).\n\n<cy>(Enabling the \"Text Scroll\" setting a bit below this one will override whatever value you've set here.)</c>",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 2.0,
+			"control": {
+				"arrows": false,
+				"slider-step": 0.01
+			}
+		},
+		"textScroll": {
+			"name": "Text Scroll",
+			"description": "Enable (with 1), ignore (with 0), or disable (with -1) text scrolling in <cy>most</c> Alert Layers\n(such as this one you're viewing).\n\n<cy>Note that enabling text scroll will override your \"Width Multiplier\"  and \"Text Scale\" settings above this one.</c>",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1,
+			"control": {
+				"arrows": false,
+				"slider-step": 1
+			}
+		},
+		"misc": {
+			"name": "Miscellaneous",
+			"type": "custom"
+		},
+		"compactEditorLevels": {
+			"name": "My Levels: Compact View",
+			"description": "Compacts your editor levels in \"My Levels\" menu.\n\n<cy>Due to how this feature is implemented, enabling this option also disables selecting multiple levels for deletion.</c>\n\nOriginal code by Cvolton.",
+			"type": "bool",
+			"default": true
+		},
+		"levelDescFromList": {
+			"name": "Level Lists: View Level Desc",
+			"description": "View an online level's description from the level list menu (and potentially without downloading the level first).",
+			"type": "bool",
+			"default": true
+		},
+		"compactProfileComments": {
+			"name": "Profile Comments: Compact View",
+			"description": "Use the compact view on user profile comments.",
+			"type": "bool",
+			"default": true
+		},
+		"fixBITranslateOverlap": {
+			"name": "Comments: Fix Overlap in Compact View",
+			"description": "Fix the overlap in buttons when viewing your own comments while Cvolton's BetterInfo and TastyForReal's Google Translate mod installed.",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/*.png"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.8.0",
+			"importance": "required"
+		},
+		{
+			"id": "geode.custom-keybinds",
+			"version": ">=v1.5.0",
+			"importance": "required",
+			"platforms": ["windows"]
+		}
+	]
+}
