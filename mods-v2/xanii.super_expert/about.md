@@ -7,3 +7,6 @@ You have 30 lives to make it through 15 randomized platformer levels.
 
 ## Settings
 - Adds the LevelInfoLayer so you can download assets!
+
+## Credits
+- @VGmaestro on YT for Music

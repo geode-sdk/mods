@@ -1,3 +1,11 @@
+# 1.0.0
+
+- Added Widescreen support
+- Added new "Coin lives" setting
+- Added new "Lives" setting
+- New map & assets
+- Fixed crash with button loading on CreatorLayer
+
 # 1.0.0-beta.5
 
 - Added skips used on map layer
