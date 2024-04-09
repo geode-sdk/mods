@@ -3040,6 +3040,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "iandyhd3.request_logger": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

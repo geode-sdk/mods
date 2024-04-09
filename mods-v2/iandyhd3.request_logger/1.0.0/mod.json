@@ -1,0 +1,26 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "iandyhd3.request_logger",
+	"name": "Request Logger",
+	"developer": "iAndyHD3",
+	"description": "",
+
+	"settings": {
+		"log-to-console":{
+			"type":"bool",
+			"default": true,
+			"name": "Log to Console",
+			"description": "For console logs to be visibile, platform console must be activated\n\nOpen Geode Settings -> \"Show Platform Console\""
+		},
+		"log-to-file": {
+			"name": "Log to File",
+			"default": false,
+			"type": "bool",
+			"description": "will log each request to a new file in geode/log"
+		}
+	}
+}

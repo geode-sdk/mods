@@ -1,0 +1,12 @@
+{
+    "commit-author": "iAndyHD3",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/iAndyHD3/RequestLogger/releases/download/v1.0.0/iandyhd3.request_logger.geode",
+        "hash": "812d30616928380378c84f69bacff194242beff4d0a05220c762aa2119c9e596",
+        "hash256": "e9d8668534e9f859eea62edddd94a8eddfb66505439548efd00cb2b25d42c4aa"
+    },
+    "tags": []
+}
