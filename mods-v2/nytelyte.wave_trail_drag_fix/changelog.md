@@ -1,3 +1,24 @@
+# v1.2.2
+
+- fix crashes on some levels which teleport you instantly as soon as the level starts
+- make the wave trail correct on levels which teleport you instantly as soon as the level starts
+- fix the wave trail looking wrong on levels with a start position
+
+# v1.2.1
+
+- add extra checks for whether you are in-game
+
+# v1.2.0
+
+- fix behavior with spider orbs
+- fix the wave trail looking bad if you have Click Between Frames installed
+- fix practice mode bug when the player is hidden
+- try to make wave trail more accurate when colliding with blocks
+
+# v1.1.7
+
+- fix teleport portal regression
+
 # v1.1.6
 
 - fix the trail showing up in the editor when the player reverses direction
