@@ -1,3 +1,8 @@
+# v1.2.3
+
+- add some smoothening to fix duplicating points with Click Between Frames
+- fix wave trail not being visible on android
+
 # v1.2.2
 
 - fix crashes on some levels which teleport you instantly as soon as the level starts
