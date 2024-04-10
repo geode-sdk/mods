@@ -1,0 +1,15 @@
+{
+    "commit-author": "wlagos3",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/wlagos3/percentage-bugfix/releases/download/v1.0.1/zsa.percentage-bugfix.geode",
+        "hash": "8e20c88ae55db356980620466066a3febdb9e76d4f23afc50e12c41a4ba4733e",
+        "hash256": "4d86cbb0fa202624c5ecdc2e7d81cc3ee9e9e8ce266f76f1dab5932e688773b0"
+    },
+    "tags": []
+}

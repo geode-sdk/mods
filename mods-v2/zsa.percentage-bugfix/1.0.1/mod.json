@@ -1,0 +1,28 @@
+{
+  "geode": "2.0.0-beta.23",
+  "gd": {
+    "win": "2.204",
+    "android": "2.205",
+    "mac": "2.200"
+  },
+  "version": "v1.0.1",
+  "id": "zsa.percentage-bugfix",
+  "name": "Percentage Bugfix",
+  "developer": "ZSA",
+  "description": "",
+  "dependencies": [
+    {
+      "id": "geode.node-ids",
+      "version": "1.8.1",
+      "importance": "required"
+    }
+  ],
+  "settings": {
+    "force-enable": {
+      "name": "Force 2.1 logic",
+      "description": "Forces 2.1 percentage calculation",
+      "type": "bool",
+      "default": false
+    }
+  }
+}
