@@ -1,0 +1,50 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": { "win": "2.204" },
+	"version": "v1.0.1",
+	"id": "undefined0.buttoneasing",
+	"name": "ButtonEaseEdit",
+	"repository": "https://github.com/undefined06855/ButtonEaseEdit",
+	"tags": [ "interface", "customization", "enhancement" ],
+	"developer": "undefined0",
+	"description": "Buttons moving too boring? Customise the easing how you want!",
+	"settings": {
+		"test-button": { "type": "custom" },
+		"chosen-easing": {
+			"name": "Easing ID",
+			"type": "int",
+			"min": 0,
+			"max": 17,
+			"default": 8
+		},
+		"easing-list": { "type": "custom" },
+		"easing-rate": {
+			"name": "Easing Rate (if applicable)",
+			"type": "float",
+			"min": 0,
+			"max": 4,
+			"default": 2
+		},
+		"easing-length": {
+			"name": "Easing Length",
+			"type": "float",
+			"min": 0,
+			"max": 5,
+			"default": 0.5
+		},
+		"easing-amplitude": {
+			"name": "Easing Amplitude",
+			"type": "float",
+			"min": 0,
+			"max": 4,
+			"default": 1
+		},
+		"easing-speedMod": {
+			"name": "Easing Speed Mod",
+			"type": "float",
+			"min": 0,
+			"max": 4,
+			"default": 1
+		}
+	}
+}
