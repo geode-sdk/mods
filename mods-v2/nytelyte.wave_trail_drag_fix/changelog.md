@@ -1,7 +1,10 @@
+# v1.2.4
+- remove the smoothening from the previous update, as Click Between Frames got fixed in v1.0.7
+
 # v1.2.3
 
 - add some smoothening to fix duplicating points with Click Between Frames
-- fix wave trail not being visible on android
+- fix wave trail not being visible on Android
 
 # v1.2.2
 
