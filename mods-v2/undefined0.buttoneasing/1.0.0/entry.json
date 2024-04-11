@@ -1,0 +1,16 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/ButtonEaseEdit/releases/download/v1.0.0/undefined0.buttoneasing.geode",
+        "hash": "bb9f0cb5b1225c6d368f366f3b7b0e2a217142107d9670b6d730c1316f1b94d7",
+        "hash256": "f52fde47164b41e9b69bfbb784c51c0efa7d6bbdbe8cb6e6990992de60a01350"
+    },
+    "tags": [
+        "interface",
+        "customization",
+        "enhancement"
+    ]
+}
