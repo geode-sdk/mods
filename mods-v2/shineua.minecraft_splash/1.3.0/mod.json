@@ -1,0 +1,80 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.3.0",
+	"id": "shineua.minecraft_splash",
+	"name": "Minecraft Splash",
+	"developer": "ShineUA",
+	"description": "Adds the splash text from Minecraft",
+	"repository": "https://github.com/ShineUA/minecraft-splash-mod-geode",
+	"resources": {
+		"sprites": [
+			"resources/sprites/*.png"
+		]
+	},
+	"settings": {
+		"label-label": {
+			"name": "Label Settings",
+			"description": "Customization settings for label.",
+			"type": "custom"
+		},
+		"new-appearance" : {
+			"type": "bool",
+			"default": false,
+			"name": "Enable new appearance",
+			"description": "Enables new appearance which is more familiar to Minecraft original."
+		},
+		"dis-anim" : {
+			"type": "bool",
+			"default": false,
+			"name": "Disable animation"
+		},
+		"animation-length": {
+			"type": "float",
+			"default": 0.6,
+			"min": 0.1,
+			"name": "Animation length",
+			"description": "Changes length <cg>(in seconds)</c> of splash's animation.",
+			"control": {"arrows": false, "slider": false, "big-arrows": false, "input": true}
+		},
+		"animation-scale": {
+			"type": "float",
+			"default": 0.05,
+			"name": "Animation scale",
+			"description": "Changes scale of splash's animation.",
+			"control": {"arrows": false, "slider": false, "big-arrows": false, "input": true}
+		},
+		"easing-in": {
+			"type": "int",
+			"default": 3,
+			"min": 0,
+			"max": 18,
+			"name": "Scale-Up Easing",
+			"description": "Changes scale-up easing of splash's animation.\nEasings:\n<cy>0:</c> None, <cy>1:</c> Ease In Out, <cy>2:</c> Ease In, <cy>3:</c> Ease Out, <cy>4:</c> Elastic In Out, <cy>5:</c> Elastic In, <cy>6:</c> Elastic Out, <cy>7:</c> Bounce In Out, <cy>8:</c> Bounce In, <cy>9:</c> Bounce Out, <cy>10:</c> Exponential In Out, <cy>11:</c> Exponential In, <cy>12:</c> Exponential Out, <cy>13:</c> Sine In Out, <cy>14:</c> Sine In, <cy>15:</c> Sine Out, <cy>16:</c> Back In Out, <cy>17:</c> Back In, <cy>18:</c> Back Out.",
+			"control": {"slider": false, "input": false, "arrows": true,"arrow-step": 1 , "big-arrows": false},
+			"platforms": ["android32", "android64", "windows"]
+		},
+		"easing-out": {
+			"type": "int",
+			"default": 3,
+			"min": 0,
+			"max": 18,
+			"name": "Scale-Down Easing",
+			"description": "Changes scale-down easing of splash's animation.\nEasings:\n<cy>0:</c> None, <cy>1:</c> Ease In Out, <cy>2:</c> Ease In, <cy>3:</c> Ease Out, <cy>4:</c> Elastic In Out, <cy>5:</c> Elastic In, <cy>6:</c> Elastic Out, <cy>7:</c> Bounce In Out, <cy>8:</c> Bounce In, <cy>9:</c> Bounce Out, <cy>10:</c> Exponential In Out, <cy>11:</c> Exponential In, <cy>12:</c> Exponential Out, <cy>13:</c> Sine In Out, <cy>14:</c> Sine In, <cy>15:</c> Sine Out, <cy>16:</c> Back In Out, <cy>17:</c> Back In, <cy>18:</c> Back Out.",
+			"control": {"slider": false, "input": false, "arrows": true,"arrow-step": 1 , "big-arrows": false},
+			"platforms": ["android32", "android64", "windows"]
+		},
+		"splashes-label": {
+			"name": "Splashes Customization",
+			"description": "Customization settings for splashes.",
+			"type": "custom"
+		},
+		"splashes": {
+			"type": "custom"
+		}
+	}
+}

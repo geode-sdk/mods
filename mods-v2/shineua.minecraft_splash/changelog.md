@@ -1,4 +1,8 @@
-# 1.2.8
+# v1.3.0
+
+- Added Mac Support
+
+# v1.2.8
 
 - Fixed crash.
 - Added "Reset" button in `SplashesListPopup`.
