@@ -1,0 +1,12 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/Minecraftify/releases/download/0.5.16/zalphalaneous.minecraft.geode",
+        "hash": "4a38f58090a03309851ee87877401ce7ca1f50a0b6a43b4c126e5f860819f2f7",
+        "hash256": "b9ba846aa42d9d7a5bfe02d91f8264ceba873615b104d5a5cb57c5cf6a1706af"
+    },
+    "tags": []
+}
