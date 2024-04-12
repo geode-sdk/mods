@@ -3065,7 +3065,8 @@
         "iandyhd3.request_logger": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "2.0.0"
             ]
         },
         "zsa.percentage-bugfix": {

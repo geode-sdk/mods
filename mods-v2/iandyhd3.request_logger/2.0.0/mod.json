@@ -1,0 +1,53 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v2.0.0",
+	"id": "iandyhd3.request_logger",
+	"name": "Request Logger",
+	"developer": "iAndyHD3",
+	"description": "Logs gd requests to console or a file",
+
+	"settings": {
+		"log-to-console":{
+			"type":"bool",
+			"default": true,
+			"name": "Log to Console",
+			"description": "For console logs to be visibile, platform console must be activated\n\nOpen Geode Settings -> \"Show Platform Console\""
+		},
+		"log-to-file": {
+			"name": "Log to File",
+			"default": false,
+			"type": "bool",
+			"description": "will log each request to a new file in geode/log, password hide and separator setting will have no effect"
+		},
+		"hide-gjp2": {
+			"name": "Console Hide password",
+			"type": "bool",
+			"default": true,
+			"description": "The hashed password is sent as the gjp2 key and you should not share it, as such this option hides it automatically"
+
+		},
+		"body-separator":{
+			"type": "string",
+			"default": " ",
+			"name": "Key/Value Separator"
+		},
+		"enable-color": {
+			"type": "bool",
+			"default": true,
+			"name": "Console Colored Body"
+		},
+		"key-color": {
+			"type": "color",
+			"default":[59, 120, 255],
+			"name": "Key Color"
+		},
+		"value-color": {
+			"type": "color",
+			"default":[255, 166, 66],
+			"name": "Value Color"
+		}
+	}
+}
