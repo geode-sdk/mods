@@ -1,4 +1,6 @@
 # ButtonEaseEdit Changelog
+## v1.0.3
+- Android support!
 ## v1.0.2
 - Added more test buttons (and an easter egg!)
 ## v1.0.1
