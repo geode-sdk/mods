@@ -1,0 +1,16 @@
+{
+    "commit-author": "theyareonit",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/theyareonit/Click-Between-Frames/releases/download/v1.0.8/syzzi.click_between_frames.geode",
+        "hash": "902070bd596c18156ee20e82defcb8ee853ae93d0010a9bd1a38bb39ea92ba3f",
+        "hash256": "af2babf4ac847c35ed5420870ff4090d9262f52163cfca086fa4c59ee7e4ed6e"
+    },
+    "tags": [
+        "Performance",
+        "Gameplay",
+        "Enhancement"
+    ]
+}
