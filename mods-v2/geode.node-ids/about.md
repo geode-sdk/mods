@@ -16,8 +16,12 @@ Has IDs for:
 - EditorPauseLayer
 - EditorUI
 - FLAlertLayer
+- GauntletNode
+- GauntletSelectLayer
 - GJCommentListLayer
+- GJDropDownLayer
 - GJGarageLayer
+- GJListLayer
 - GJScoreCell
 - InfoLayer
 - LeaderboardsLayer
@@ -27,7 +31,10 @@ Has IDs for:
 - LevelEditorLayer
 - LevelInfoLayer
 - LevelLeaderboard
+- LevelPage
 - LevelSearchLayer
+- LevelSelectLayer
+- MoreOptionsLayer
 - OptionsLayer
 - PauseLayer
 - PlayLayer
