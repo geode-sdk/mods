@@ -2839,7 +2839,8 @@
         "raydeeux.breakingplatforming": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.1.1"
             ]
         },
         "raydeeux.disturbingnewbests": {
