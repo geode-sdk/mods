@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/FrickGlow/releases/download/v1.3.3/raydeeux.fuckglow.geode",
+        "hash": "0a3d051f8a7bb6926d69f06190f7c0ede0818a7b2868d2d3fedda933b96330e2",
+        "hash256": "21bcf6c3b215e090c1180c2990f245a6be0498bb5ff9340edeedf61917b55c66"
+    },
+    "tags": []
+}
