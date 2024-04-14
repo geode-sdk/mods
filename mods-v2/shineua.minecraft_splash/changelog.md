@@ -1,3 +1,9 @@
+# v1.3.1
+
+- Added 5 splashes.
+
+### This is the penultimate update.
+
 # v1.3.0
 
 - Added Mac Support
