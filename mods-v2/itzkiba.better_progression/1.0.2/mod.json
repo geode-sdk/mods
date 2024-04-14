@@ -1,0 +1,48 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.2",
+	"id": "itzkiba.better_progression",
+	"name": "Better Progression",
+	"developer": "ItzKiba",
+	"description": "TODO",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.8.1",
+			"importance": "required"
+		}
+    ],
+	"resources": {
+		"spritesheets": {
+			"badgeSpritesheet": [
+				"resources/*.png"
+			]
+		}
+	},
+	"settings": {
+		"bar-color": {
+			"name": "Disable Dynamic Tier Bar Color",
+			"description": "Disables the tier bar color being a similar color to a profile's tier badge.\n\nWith this setting enabled, all tier bar colors will be set to <cg>Green</c>.",
+			"type": "bool",
+			"default": false
+		},
+		"most-exp-icon": {
+			"name": "Disable Most EXP Icon",
+			"description": "Removes the icon on the tier badge that shows where most of the user's EXP comes from.",
+			"type": "bool",
+			"default": false
+		},
+		"disable-tier-bar": {
+			"name": "Disable Tier Bar",
+			"description": "Removes the tier bar that shows whenever you complete a level.\n\n<cp>The tier bar will still appear when you level up your Tier.</c>",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"repository": "https://github.com/ItzKiba/BetterProgression",
+	"tags": ["Enhancement", "Cosmetic"]
+}
