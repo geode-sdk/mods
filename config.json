@@ -2894,7 +2894,8 @@
         "raydeeux.wholesomeendtexts": {
             "verified": false,
             "versions": [
-                "1.1.1"
+                "1.1.1",
+                "1.1.2"
             ]
         },
         "avscs.noshake": {

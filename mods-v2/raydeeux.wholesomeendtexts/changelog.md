@@ -1,4 +1,6 @@
 # WholesomeEndTexts Changelog
+## v1.1.2
+- Futureproofing the mod against unexpected `m_fields` behavior between Geode versions. Also raised the minimum Geode version requirement.
 ## v1.1.1
 - A single line swap to properly enforce text alignment.
 ## v1.1.0
