@@ -1,4 +1,7 @@
 # Integrated Demonlist Changelog
+## v1.4.5 (2024-04-13)
+- Fixed a bug where the demonlist button would not appear
+
 ## v1.4.4 (2024-03-31)
 - Fixed a bug where the back button would not work on Android
 
