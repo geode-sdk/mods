@@ -1,0 +1,13 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/loquibot/Integrated-Loquibot/releases/download/1.3.12/alphalaneous.integratedloquibot.geode",
+        "hash": "33520808a90048256a02fd146929f21c81ec3e6909fab2cb65798470419ff6e3",
+        "hash256": "21ef27e85bdfce014bec0912c118e0ce3ec861c02896c8a20ee7d6e3b7c65dfa"
+    },
+    "tags": []
+}
