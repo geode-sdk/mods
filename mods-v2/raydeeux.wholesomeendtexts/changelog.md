@@ -1,4 +1,6 @@
 # WholesomeEndTexts Changelog
+## v1.1.3
+- Finally found a workaround past Cocos2D's tendency to ignore text alignment with multi-line quotes on Android. As such, quotes are no longer forcibly downscaled on Android. If your `bigFont.fnt` is somehow monospaced, that's on you.
 ## v1.1.2
 - Futureproofing the mod against unexpected `m_fields` behavior between Geode versions. Also raised the minimum Geode version requirement.
 ## v1.1.1

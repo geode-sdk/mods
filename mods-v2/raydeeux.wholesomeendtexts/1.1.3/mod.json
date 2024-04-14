@@ -1,0 +1,98 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"mac": "2.200",
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.1.3",
+	"id": "raydeeux.wholesomeendtexts",
+	"name": "WholesomeEndTexts",
+	"developers": ["RayDeeUx", "sofabeddd"],
+	"description": "Replaces \"Level Complete\" texts with wholesome ones, including those of your own choice.",
+	"repository": "https://github.com/RayDeeUx/WholesomeEndTexts",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"custom": {
+			"name": "Include Custom Messages",
+			"description": "<cp>[REQUIRES RESTART TO APPLY]</c>\n\nIncludes your own custom \"Level Complete\" text.\nPlease edit the \"custom.txt\" file by opening this mod's config directory (look for the golden pencil button at the bottom left of the mod's introductory screen).",
+			"type": "bool",
+			"default": false
+		},
+		"technoblade": {
+			"name": "Include Technoblade (o7)",
+			"description": "<cp>[REQUIRES RESTART TO APPLY]</c>\n\nIncludes quotes from Minecraft YouTuber Technoblade.",
+			"type": "bool",
+			"default": false
+		},
+		"maxScale": {
+			"name": "End Text Max Scale",
+			"description": "Sets the max scale of all end text messages.",
+			"type": "float",
+			"default": 0.5,
+			"min": 0.10,
+			"max": 1.00,
+			"control": {
+				"slider-step": 0.01
+			}
+		},
+		"platAttemptsAndJumps": {
+			"name": "Plat. Attempts + Jumps",
+			"description": "Shows your attempt and jump count on the Level Complete screen when completing Platformer levels.",
+			"type": "bool",
+			"default": false
+		},
+		"hideChains": {
+			"name": "Hide Chains",
+			"description": "Hides the chains from EndLevelLayer.",
+			"type": "bool",
+			"default": false
+		},
+		"hideBackground": {
+			"name": "Hide Background",
+			"description": "Hides the background from EndLevelLayer.",
+			"type": "bool",
+			"default": false
+		},
+		"hideMegahackHideEndscreen": {
+			"name": "Hide MH \"Hide Endscreen\" Button",
+			"description": "Hides MegaHack's \"Hide Endscreen\" button from EndLevelLayer.\n(Still clickable, just invisible.)",
+			"type": "bool",
+			"default": false
+		},
+		"hideQOLModHideEndscreen": {
+			"name": "Hide QOLMod \"Hide Endscreen\" Button",
+			"description": "Hides QOLMod's \"Hide Endscreen\" button from EndLevelLayer.\n(Still clickable, just invisible.)",
+			"type": "bool",
+			"default": false
+		},
+		"noTransition": {
+			"name": "No Transition",
+			"description": "Disables the bouncing transition when showing EndLevelLayer.",
+			"type": "bool",
+			"default": false
+		},
+		"spaceUK": {
+			"name": "SpaceUK",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/*.txt"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.8.0",
+			"importance": "required"
+		}
+	]
+}
