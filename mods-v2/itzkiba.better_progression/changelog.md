@@ -1,3 +1,6 @@
+# v1.0.6
+* Added some additional checks for the Android volume issue.
+
 # v1.0.5
 * Fixed(?) a crash caused by unlinking your profile and trying to launch the game.
 * Fixed(?) an issue on Android that caused the game volume to blast your ears after the Tier Up animation.
