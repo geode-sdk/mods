@@ -1,0 +1,14 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/SkipEditorObjects/releases/download/v1.0.1/raydeeux.skipeditorobjects.geode",
+        "hash": "0d029e91f607bd1c8af55b4ed01a72917d232d74d339d4d9e77be2b319b5b879",
+        "hash256": "e8a943a6b345e3e3c4a9a195fc3f38ea9af822107a561834fa9f187ab62abac9"
+    },
+    "tags": []
+}

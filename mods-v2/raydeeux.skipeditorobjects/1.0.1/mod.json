@@ -1,0 +1,33 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "raydeeux.skipeditorobjects",
+	"name": "SkipEditorObjects",
+	"developers": ["RayDeeUx", "iAndyHD3"],
+	"description": "Skips objects of your choice in the Editor UI using txt files.",
+	"repository": "https://github.com/RayDeeUx/SkipEditorObjects",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.\n\n<cy>Note: This softoggle will be off if</c> <cl>iAndyHD3's Hide Editor Objects</c> <cy>mod is loaded</c>.",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"resources": {
+		"sprites": [
+			"resources/blank.png"
+		]
+	},
+	"incompatibilities": [
+		{
+			"id": "iandyhd3.hideeditorobjects",
+			"version": "*",
+			"importance": "breaking"
+		}
+	]
+}

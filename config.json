@@ -3151,6 +3151,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "raydeeux.skipeditorobjects": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
