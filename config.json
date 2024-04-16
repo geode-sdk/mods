@@ -3139,6 +3139,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "kittenchilly.randomize_icon_on_death": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }
