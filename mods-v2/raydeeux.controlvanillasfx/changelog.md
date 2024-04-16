@@ -1,4 +1,6 @@
 # ControlVanillaSFX Changelog
+## v1.3.1
+- Fix an issue with SFX not playing at all on Android. ***THANK YOU WEEBIFY!***
 ## v1.3.0
 - Android support.
 - Bump minimum Geode version requirement.

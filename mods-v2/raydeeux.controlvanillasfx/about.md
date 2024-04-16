@@ -8,4 +8,4 @@ If you're particularly lazy, you can view the video demo on this mod's GitHub re
 
 <cr>To repeat: In order to change the volume of vanilla GD's sound effects, open this mod's custom settings.</c>
 
-This mod is exclusive to Windows.
+This mod is licensed under LGPLv2.
