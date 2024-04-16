@@ -1,0 +1,15 @@
+{
+    "commit-author": "hiimjustin000",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/hiimjustin000/LevelSize/releases/download/v1.0.3/hiimjustin000.level_size.geode",
+        "hash": "f28f664192266f8c5056d81cc499b17bb714c56e980af07dfbd3b6e726604f49",
+        "hash256": "18f084864775b06e43d45ac1b2eb2e10910729fa30906db4a27239047c75e74b"
+    },
+    "tags": []
+}

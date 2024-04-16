@@ -1,4 +1,7 @@
 # Level Size Changelog
+## v1.0.3 (2024-04-15)
+- Moved the level size label to the bottom right corner of the level cell
+- Added macOS support
 
 ## v1.0.2 (2024-03-25)
 - Fixed a bug where the total size label would be off on Android
