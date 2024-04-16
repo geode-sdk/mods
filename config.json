@@ -3157,6 +3157,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "xiyxs.recolored_music_library_songs": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }

@@ -1,0 +1,28 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204",
+		"mac": "2.200"
+	},
+	"version": "v1.0.1",
+	"id": "xiyxs.recolored_music_library_songs",
+	"name": "Recolored Music Library Songs",
+	"developer": "xiyxs",
+	"description": "Changes the color of songs from the Music Library in level search so they're different from songs that are on Newgrounds.",
+	"settings": {
+		"color": {
+			"name": "Color",
+			"description": "Color of songs from the Custom Music Library.",
+			"type": "color",
+			"default": "#64FFC8"
+		}
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.9.1",
+			"importance": "required"
+		}
+	]
+}

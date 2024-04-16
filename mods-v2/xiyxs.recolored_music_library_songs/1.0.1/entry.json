@@ -1,0 +1,12 @@
+{
+    "commit-author": "xiyxs",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/xiyxs/Recolored-Music-Library-Songs/releases/download/v1.0.1/xiyxs.recolored_music_library_songs.geode",
+        "hash": "58525a0314ff1ed3a8cb4841cbca89f1a2e14e9d059228a6a1d519873c388eb2",
+        "hash256": "15a577273a1bdadacfd3487044540c7e2e3b8c7c84ca796e40e4ebd1448e4635"
+    },
+    "tags": []
+}
