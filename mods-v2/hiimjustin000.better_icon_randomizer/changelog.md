@@ -1,4 +1,7 @@
 # Better Icon Randomizer Changelog
+## v1.2.1 (2024-04-14)
+- Added checkboxes to select all of the modes in the popup menu
+
 ## v1.2.0 (2024-04-14)
 - Randomized the color of the randomize button
 - Added macOS support
