@@ -1,0 +1,43 @@
+{
+  "geode": "2.0.0-beta.23",
+  "gd": {
+    "win": "2.204"
+  },
+  "name": "AutoDeafen",
+  "version": "v1.0.3",
+  "developer": "Lynxdeer",
+  "id": "lynxdeer.autodeafen",
+  "description": "A mod that automatically hits a configurable deafen keybind when you reach a certain percentage. Configurable per-level.",
+  "tags": ["Enhancement", "Utility"],
+  "repository": "https://github.com/Lynxdeer/AutoDeafen",
+  "early-load": true,
+  "settings": {
+	"Enabled by Default": {
+	  "type": "bool",
+	  "default": false,
+		"description": "Whether AutoDeafen is <co>enabled by default</c> when you load into a level for the first time. Basically enables AutoDeafen globally rather than per-level."
+	},
+	"Default Percentage": {
+	  "control": {
+		"input": true
+	  },
+	  "type": "int",
+	  "default": 50,
+	  "min": 0,
+	  "max": 100,
+		"description": "The <co>default percentage to deafen at</c> when you load into a level for the first time."
+	},
+	"Logging": {
+	  "type": "bool",
+	  "default": false,
+		"description": "Whether you want additional logging when exiting a level."
+	}
+  },
+  "dependencies": [
+	{
+	  "id": "geode.node-ids",
+	  "version": ">=v1.9.1",
+	  "importance": "required"
+	}
+  ]
+}
