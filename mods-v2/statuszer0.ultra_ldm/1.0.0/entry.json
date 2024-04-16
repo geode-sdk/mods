@@ -1,0 +1,12 @@
+{
+    "commit-author": "StatusZer0",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/StatusZer0/UltraLDM/releases/download/Release/statuszer0.ultra_ldm.geode",
+        "hash": "7760d47d0159bc288172eb9b992a4823a545a23cceb470136dddfb6663c6c5de",
+        "hash256": "423f77ec28fc943240306052043c487f3d6c0a611cd90dd21157fde57ba9722c"
+    },
+    "tags": []
+}
