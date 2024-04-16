@@ -1,0 +1,34 @@
+{
+	"geode": "2.0.0-beta.24",
+	"version": "v1.3.6",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "*"
+	},
+	"early-load": true,
+	"id": "TheSillyDoggo.Cheats",
+	"name": "QOLMod",
+	"developer": "TheSillyDoggo",
+	"description": "Best Geode Android mod menu!",
+	"links": {
+		"source": "https://github.com/TheSillyDoggo/GeodeMenu",
+		"community": "https://discord.gg/8CFcZNh4CW"
+	},
+	"resources": {
+        "files": [
+            "resources/fonts/*.ttf",
+			"resources/*.png",
+			"resources/*.glsl",
+			"resources/*.hlsl"
+        ],
+		"sprites": [
+			"resources/sprites/*.png"
+		]
+    },
+	"tags": [
+		"Cheat",
+		"Mod Menu",
+		"Hack"
+	]
+}
