@@ -3059,7 +3059,8 @@
         "alphalaneous.random_tab": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "syzzi.click_between_frames": {
