@@ -3145,6 +3145,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "yellowcat98.profilebio": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }

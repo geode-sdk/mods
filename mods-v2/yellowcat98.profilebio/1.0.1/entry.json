@@ -1,0 +1,14 @@
+{
+    "commit-author": "YellowCat98",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/YellowCat98/ProfileBio/releases/download/1.0.0/yellowcat98.profilebio.geode",
+        "hash": "b10cc00ccc0d5d215e64ecd98c889e776a22ff01ed40e3bc28170a37b94687a5",
+        "hash256": "ce67d3b73d51e1907aaf7f12c31f1f602903fdcce76054b9c42fe9d85dd1d640"
+    },
+    "tags": []
+}

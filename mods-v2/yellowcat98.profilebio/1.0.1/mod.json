@@ -1,0 +1,22 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "yellowcat98.profilebio",
+	"name": "ProfileBio",
+	"developer": "YellowCat98",
+	"description": "Add and view bios on Geometry Dash user profiles.",
+	"repository": "https://github.com/YellowCat98/ProfileBio",
+	"resources": {
+		"files": [
+			"resources/arial.ttf"
+		],
+		"sprites": [
+			"resources/btn.png"
+		]
+	}
+}
