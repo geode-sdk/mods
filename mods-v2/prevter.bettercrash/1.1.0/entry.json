@@ -1,0 +1,15 @@
+{
+    "commit-author": "Prevter",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Prevter/BetterCrashlogs/releases/download/v1.1.0/prevter.bettercrash.geode",
+        "hash": "abe1db7503dd717be8dd6ed86990edb37ec3547816f181d538d39798618bf4fd",
+        "hash256": "576232011d0f10a588d2dc4fddd678525d6a24b6502d577da7dafcb3ec50c11b"
+    },
+    "tags": [
+        "Utility",
+        "Developer"
+    ]
+}
