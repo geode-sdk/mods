@@ -1,3 +1,9 @@
+# v1.0.5
+* Fixed(?) a crash caused by unlinking your profile and trying to launch the game.
+* Fixed(?) an issue on Android that caused the game volume to blast your ears after the Tier Up animation.
+* Updated Node IDs dependency to v1.9.1.
+* If any of these issues (?) are not actually fixed, please submit an issue on this mod's repository.
+
 # v1.0.4
 * Fixed a bug that caused the Tier Up animation to play every time you open the game on Android.
 * Fixed a crash that was caused by blocking a player.

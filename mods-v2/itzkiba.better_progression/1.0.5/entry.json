@@ -1,0 +1,17 @@
+{
+    "commit-author": "ItzKiba",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/ItzKiba/BetterProgression/releases/download/v1.0.5/itzkiba.better_progression.geode",
+        "hash": "b3d3e691cae3e400e2cc8627e97fef0dffc474bd3d3de8a2b236aa83e931736d",
+        "hash256": "77cd38b771738bf97117671eff43e7f1dc516d89101897e82007c7c481a49d9c"
+    },
+    "tags": [
+        "Enhancement",
+        "Cosmetic"
+    ]
+}
