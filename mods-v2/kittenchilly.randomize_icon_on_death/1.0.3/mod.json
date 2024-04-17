@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.3",
+	"id": "kittenchilly.randomize_icon_on_death",
+	"name": "Randomize Icon on Death",
+	"developer": "kittenchilly",
+	"description": "Randomizes your icons and colors everytime you die",
+	"repository": "https://github.com/kittenchilly/Randomize-Icon-on-Death"
+}

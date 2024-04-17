@@ -1,0 +1,14 @@
+{
+    "commit-author": "kittenchilly",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/kittenchilly/Randomize-Icon-on-Death/releases/download/v1.0.3/kittenchilly.randomize_icon_on_death.geode",
+        "hash": "a438564ebd58b3737fb9baed70e8d4587197aa42b2509cb51bc5fbb0d3c8b720",
+        "hash256": "be7cbe8fd8ceee99226503fede6ebcafa0bb053d6138dfe4a440bc6b0f0a0f56"
+    },
+    "tags": []
+}
