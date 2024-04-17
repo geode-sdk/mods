@@ -1,0 +1,52 @@
+{
+    "geode": "2.0.0-beta.23",
+    "gd": {
+        "android": "2.205",
+        "win": "2.204",
+        "mac": "2.200"
+    },
+    "version": "v1.0.2",
+    "id": "hiimjustin000.more_object_info",
+    "name": "More Object Info",
+    "developer": "hiimjustin000",
+    "description": "Adds more object properties to the object info selection text in the level editor.",
+    "repository": "https://github.com/hiimjustin000/MoreObjectInfo",
+    "settings": {
+        "show-object-id": {
+            "name": "Show Object ID",
+            "description": "Show the object's ID in the object info selection text.",
+            "type": "bool",
+            "default": true
+        },
+        "show-object-position": {
+            "name": "Show Object Position",
+            "description": "Show the object's position in the object info selection text.",
+            "type": "bool",
+            "default": true
+        },
+        "show-object-rotation": {
+            "name": "Show Object Rotation",
+            "description": "Show the object's rotation in the object info selection text.",
+            "type": "bool",
+            "default": true
+        },
+        "show-object-scale": {
+            "name": "Show Object Scale",
+            "description": "Show the object's scale in the object info selection text.",
+            "type": "bool",
+            "default": true
+        },
+        "show-object-base-color": {
+            "name": "Show Object Base Color",
+            "description": "Show the object's base color in the object info selection text.",
+            "type": "bool",
+            "default": true
+        },
+        "show-object-detail-color": {
+            "name": "Show Object Detail Color",
+            "description": "Show the object's detail color in the object info selection text.",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
