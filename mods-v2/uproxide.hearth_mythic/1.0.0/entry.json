@@ -1,0 +1,14 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/mythic-hearth/releases/download/1.0.0/uproxide.hearth_mythic.geode",
+        "hash": "7d267c1bde20bbc1bed5a677c12a116da2425d32f05257c6c804637131b69b51",
+        "hash256": "49e038bfd3f9ae9cd1094b33b3e43c9086e8864464b82b5465729583a839d471"
+    },
+    "tags": []
+}
