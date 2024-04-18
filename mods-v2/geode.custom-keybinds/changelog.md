@@ -1,11 +1,21 @@
 # Changelog
 
+## v1.5.3
+
+ - Fix modifiers not being properly handled on release
+ - Fix "unpause" sometimes not working
+ - Fix the "Confirm Exit" popup being able to be spawned multiple times through keybinds
+ - Simplify the keybind repeat logic, fixing some bugs in the process
+ - Allow multiple key combinations to trigger the same non-repeating bind at once
+
 ## v1.5.2
+
  - Fix unpausing with space also causing the player to jump
  - Add missing "Pan editor while swiping" editor keybind
  - Add missing "Transform" editor keybind
 
 ## v1.5.1
+
  - Fix not being able to hold from respawn in PlayLayer
 
 ## v1.5.0
