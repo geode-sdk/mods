@@ -1,0 +1,34 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": "2.204",
+	"version": "v1.0.5",
+	"id": "capeling.geometry-dash-lunar",
+	"name": "Geometry Dash: Lunar",
+	"developers": [
+		"GenaMorphosis",
+		"Capeling"
+	],
+	"description": "",
+	"resources": {
+		"files": [
+			"resources/levels/*.txt",
+			"resources/songs/*.mp3",
+			"resources/icons/IconSheet/*.png",
+			"resources/icons/IconSheet/*.plist"
+		],
+		"spritesheets": {
+			"LunarSheet":[
+				"resources/LunarSheet/*.png"
+			]
+		}
+	},
+	"settings": {
+		"nocopyright": {
+			"type": "bool",
+			"default": false,
+			"description": "Uses non copyrighted remixes for copyrighted songs",
+			"name": "Use Song Remixes"
+		}
+	},
+	"early-load": true
+}
