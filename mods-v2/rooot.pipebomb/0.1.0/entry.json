@@ -1,0 +1,15 @@
+{
+    "commit-author": "RoootTheFox",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RoootTheFox/gd-pipebomb/releases/download/v0.1.0/rooot.pipebomb.geode",
+        "hash": "f4d266eee75c41c7896a78cfe878614d5f632a58a89578977116f3f71b75eec8",
+        "hash256": "1da3d586ff385adfdf1843126081b5ce97935b630954ffe6e423b95f1303b7ea"
+    },
+    "tags": []
+}

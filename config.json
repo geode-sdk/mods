@@ -3173,6 +3173,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "rooot.pipebomb": {
+            "verified": false,
+            "versions": [
+                "0.1.0"
+            ]
         }
     }
 }
