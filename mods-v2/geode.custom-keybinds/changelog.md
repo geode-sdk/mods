@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.6
+
+ - Fix jump-p2 using the wrong PlayLayer function
+
 ## v1.5.5
 
  - Fix player jump breaking the space key in EndLevelLayer and RetryLevelLayer
