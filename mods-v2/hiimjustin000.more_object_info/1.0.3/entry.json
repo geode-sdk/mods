@@ -1,0 +1,15 @@
+{
+    "commit-author": "hiimjustin000",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/hiimjustin000/MoreObjectInfo/releases/download/v1.0.3/hiimjustin000.more_object_info.geode",
+        "hash": "4c7fd16860b7a719009713346e66459b4d5197bf49694e76f4f3b8b73726b6e8",
+        "hash256": "2a41a0ffecd5db1702bba82af65e868a1466f74d1d7f5ad55e47183ce6478ec9"
+    },
+    "tags": []
+}

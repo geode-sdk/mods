@@ -1,4 +1,8 @@
 # More Object Info Changelog
+## v1.0.3 (2024-04-18)
+- Only enabled extra object info when the values are not the default values
+- Tweaked display of color HSV values
+
 ## v1.0.2 (2024-04-17)
 - Fixed a bug where the game would crash when the editor was opened on Android devices
 
