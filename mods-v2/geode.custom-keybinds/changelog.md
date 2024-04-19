@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.5.4
+
+ - Fix repeating binds entering a repeat loop on press
+ - Fix Pause Menu not having vanilla functionality with Confirm Exit
+ - Fix Player not jumping when holding on death
+ - Bump to Geode v2.0.0-beta.24
+
 ## v1.5.3
 
  - Fix modifiers not being properly handled on release
