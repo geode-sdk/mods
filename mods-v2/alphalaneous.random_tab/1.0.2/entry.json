@@ -1,0 +1,15 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/Random-Tab/releases/download/1.0.2/alphalaneous.random_tab.geode",
+        "hash": "9812296333ce964bbb5343243cde323b210e625f5f0185e39c1e339180b4e4cf",
+        "hash256": "fa02850629858f1dbad7b8c231924370119ca1e5b8fdce0fb571b81adec2f195"
+    },
+    "tags": []
+}
