@@ -1,0 +1,40 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+		"win":"2.204",
+		"android":"2.205"
+	},
+	"dependencies":[{
+        "id": "geode.node-ids",
+        "version":">=1.8.1",
+        "importance":"required"
+    }],
+	"incompatibilities": [
+		{
+			"id": "xanii.youtubers",
+			"importance": "conflicting",
+			"version": "*"
+		},
+		{
+			"id": "uproxide.geodedevelopers",
+			"importance": "conflicting",
+			"version": "*"
+		}
+	],
+	"resources": {
+		"spritesheets": {
+			"statusSheet1":[
+				"resources/status_online.png",
+				"resources/status_idle.png",
+				"resources/status_dnd.png",
+				"resources/status_offline.png",
+				"resources/status_custom.png"
+			]
+		}
+	},
+	"version": "v1.0.0",
+	"id": "cdc.statuses",
+	"name": "Statuses",
+	"developer": "cdc",
+	"description": "Displays statuses on profiles, comments, account comments, level cells and level pages"
+}
