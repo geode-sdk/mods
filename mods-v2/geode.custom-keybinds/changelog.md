@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.5
+
+ - Fix player jump breaking the space key in EndLevelLayer and RetryLevelLayer
+
 ## v1.5.4
 
  - Fix repeating binds entering a repeat loop on press
@@ -9,6 +13,7 @@
 
 ## v1.5.3
 
+ - Add custom setting that opens the keybind menu
  - Fix modifiers not being properly handled on release
  - Fix "unpause" sometimes not working
  - Fix the "Confirm Exit" popup being able to be spawned multiple times through keybinds
