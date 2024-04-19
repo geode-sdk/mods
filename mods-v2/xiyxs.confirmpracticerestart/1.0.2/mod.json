@@ -1,0 +1,35 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": "2.204",
+	"version": "v1.0.2",
+	"id": "xiyxs.confirmpracticerestart",
+	"name": "Confirm Practice/Restart",
+	"developer": "xiyxs",
+	"description": "Shows a confirmation menu when you try to practice/restart/full restart.",
+	"settings": {
+		"enable": {
+			"name": "Enable",
+			"description": "Enables mod functionality. Disabling will turn off all confirm menus.",
+			"type": "bool",
+			"default": true
+		},
+		"practice": {
+			"name": "Enable Practice Menu",
+			"description": "Enables the confirm practice menu.",
+			"type": "bool",
+			"default": true
+		},
+		"restart": {
+			"name": "Enable Restart Menu",
+			"description": "Enables the confirm restart menu.",
+			"type": "bool",
+			"default": true
+		},
+		"fullrestart": {
+			"name": "Enable Full Restart Menu",
+			"description": "Enables the confirm full restart menu.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
