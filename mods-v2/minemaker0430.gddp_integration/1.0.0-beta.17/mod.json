@@ -1,0 +1,155 @@
+{
+		"geode": "2.0.0-beta.24",
+		"gd": {
+			"win": "2.204",
+			"android": "2.205"
+		},
+		"version": "v1.0.0-beta.17",
+		"id": "minemaker0430.gddp_integration",
+		"name": "GDDP Integration",
+		"developer": "Minemaker0430",
+		"description": "Adds a new Menu for GDDP Progression",
+		"repository": "https://github.com/Minemaker0430/GDDPIntegration",
+
+		"issues": {
+			"info": "Submit problems to the GitHub or @minemaker0430 on Discord.",
+			"url": "https://github.com/Minemaker0430/GDDPIntegration/issues"
+		},
+
+		"resources": {
+			"spritesheets": {
+				"Menu": [ "resources/DP_Menu/*.png" ],
+				"Difficulty": [ "resources/DP_Difficulty/*.png" ],
+				"PlusDifficulty": [ "resources/DP_PlusDifficulty/*.png" ],
+				"Bonus": [ "resources/DP_Bonus/*.png" ],
+				"Monthly": [ "resources/DP_Monthly/*.png" ],
+				"DifficultyText": [ "resources/DP_DifficultyText/*.png" ],
+				"PlusDifficultyText": [ "resources/DP_PlusDifficultyText/*.png" ],
+				"DifficultySmallText": [ "resources/DP_DifficultySmallText/*.png" ],
+				"PlusDifficultySmallText": [ "resources/DP_PlusDifficultySmallText/*.png" ]
+			}
+		},
+
+		"tags": [
+			"Gameplay",
+			"Convenience",
+			"Integration"
+		],
+
+		"dependencies": [
+			{
+				"id": "geode.node-ids",
+				"version": ">=v1.9.1",
+				"importance": "required"
+			}
+		],
+
+	"settings": {
+		"bypass-section": {
+			"name": "Bypass",
+			"type": "custom"
+		},
+		"unlock-all-tiers": {
+			"name": "Unlock All Tiers",
+			"description": "Disables the Locked Tiers so you can Jump Difficulties to your heart's content.",
+			"type": "bool",
+			"default": false
+		},
+		"unlock-all-legacy": {
+			"name": "Unlock All Legacy Packs",
+			"description": "Disables Legacy Packs being Locked behind Main Packs.",
+			"type": "bool",
+			"default": false
+		},
+		"enable-practice": {
+			"name": "Enable Practice Packs",
+			"description": "Adds Practice versions of the Main Packs to help you practice Main Tier levels.",
+			"type": "bool",
+			"default": true
+		},
+		"enable-cache": {
+			"name": "Enable Cache",
+			"description": "Saves previous database data. Updates to previously existing data may take longer.",
+			"type": "bool",
+			"default": false
+		},
+		"show-outside-menus": {
+			"name": "Show Faces Outside Menus",
+			"description": "Makes Custom Difficulty Faces no longer require GDDP Menus to activate.",
+			"type": "bool",
+			"default": false
+		},
+		"menu-section": {
+			"name": "Menu",
+			"type": "custom"
+		},
+		"alt-button-texture": {
+			"name": "Alternate Button Texture",
+			"description": "Changes the menu button to something less nightmarish.",
+			"type": "bool",
+			"default": false
+		},
+		"compact-button": {
+			"name": "Compact Menu Button",
+			"description": "Changes the menu button to a Circle Button rather than a typical Creator Menu Button.",
+			"type": "bool",
+			"default": false
+		},
+		"replace-map-packs": {
+			"name": "Replace Map Packs",
+			"description": "Replaces the Map Packs button with the Demon Progression button.",
+			"type": "bool",
+			"default": false
+		},
+		"show-database-version": {
+			"name": "Show Database Version",
+			"description": "Shows what version of the database you're currently on.",
+			"type": "bool",
+			"default": false
+		},
+		"cosmetic-section": {
+			"name": "Cosmetic",
+			"type": "custom"
+		},
+		"restore-bg-color": {
+			"name": "Vanilla Background Color",
+			"description": "Changes the background color in the GDDP Menus to the Vanilla Color.",
+			"type": "bool",
+			"default": false
+		},
+		"custom-difficulty-faces": {
+			"name": "Custom Difficulty Faces",
+			"description": "Shows custom difficulty faces in the GDDP Menus.",
+			"type": "bool",
+			"default": true
+		},
+		"replace-epic": {
+			"name": "Replace Epic Fire",
+			"description": "Replaces the Epic fire with the Plus fire in the GDDP Menus.",
+			"type": "bool",
+			"default": true
+		},
+		"override-ratings": {
+			"name": "Plus Tier Override",
+			"description": "Ratings will always show the Plus fire in the GDDP Menus when in a Plus Tier.",
+			"type": "bool",
+			"default": false
+		},
+		"compatibility-section": {
+			"name": "Compatibility",
+			"type": "custom"
+		},
+		"override-grandpa-demon": {
+			"name": "Override Grandpa Demon",
+			"description": "Overrides the custom Grandpa Demon Difficulty Faces in the GDDP Menus.",
+			"type": "bool",
+			"default": true
+		},
+		"disable-grandpa-demon-effects": {
+			"name": "Disable Grandpa Demon Effects [BUGGY]",
+			"description": "Disables the Grandpa Demon background effects in the GDDP Menus. <cr>Currently very broken, nothing I can do about it at the moment, sorry :(</c>",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
