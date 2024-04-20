@@ -7,3 +7,5 @@ allows you to have an "About me" section in your profile.
 - it's pretty straightforward from there.
 
 server files are on github :)
+
+**note that this crashes on gdpss. this is really only meant for official GD servers.**
