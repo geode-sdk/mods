@@ -1,4 +1,7 @@
 # Changelog
+## <cg>v1.1.3</c> (2024-04-20)
+* <cg>Improved</c> <cj>Geode Auto Updater</c> fix
+
 ## <cg>v1.1.2</c> (2024-03-28)
 * <cg>Made</c> <cj>restarting</c> after applying <co>4GB Patch</c> <cy>safer</c>
 * <cg>Fixed</c> a possible startup <cr>crash</c>
