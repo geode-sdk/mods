@@ -29,4 +29,4 @@ And that's pretty much it! Have fun rouletting!
 
 ## Contact
 
-You can contact me through my personal [Discord server](https://discord.gg/WPcqK3Yt).
+You can contact me through my personal [Discord server](https://discord.gg/3bShQb6Jz3).

@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.5] - 2024-04-13
+
+### Changed
+
+- Alphalaneous github page to their new profile
+
+### Fixed
+
+- `RLDifficultyNode` wrong position when playing roulette
+- `RLLoadingCircle` wrong position for a split second when offline
+- Some miscellaneous bugs
+
 ## [2.0.4] - 2024-03-13
 
 ### Added
