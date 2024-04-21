@@ -1,3 +1,7 @@
+# v1.2.5
+- fix interaction with orbs
+- fix interaction with spider pads
+
 # v1.2.4
 - remove the smoothening from the previous update, as Click Between Frames got fixed in v1.0.7
 
