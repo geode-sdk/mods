@@ -1,0 +1,14 @@
+{
+    "commit-author": "matcool",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/matcool/geode-mods/releases/download/run-info-v1.0.3/mat.run-info.geode",
+        "hash": "c31771292578e7891f11cc034ea31eb6cda485cb5b95c47d316e40977deb882d",
+        "hash256": "f6dec8f64cbb64a35a59747c4056c9d01293b23623dd9737dacdaa69a7a76de3"
+    },
+    "tags": []
+}
