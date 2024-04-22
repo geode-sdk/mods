@@ -1,0 +1,40 @@
+{
+    "geode": "2.0.0-beta.24",
+    "version": "v1.3.1",
+    "id": "n.robtop-jumpscare",
+    "name": "Robtop Jumpscare",
+    "developer": "n",
+    "gd": {
+        "android": "2.205",
+        "win": "2.204",
+                "ios": "2.205"
+    },
+    "repository": "https://github.com/NicknameGG/robtop-jumpscare",
+    "description": "Jumpscare yourself everytime you jump!",
+    "resources": {
+        "files": [
+            "resources/*.mp3",
+            "resources/*.png"
+        ]
+    },
+    "settings": {
+        "randomize-jumpscare": {
+            "name": "Randomize Jumpscare",
+            "description": "Jumpscares happen with a certain chance instead of a 100% chance when enabled.",
+            "type": "bool",
+            "default": false
+        },
+        "randomize-jumpscare-chance": {
+            "name": "Randomize Jumpscare Chance",
+            "description": "The % chance that Robert Topala will jumpscare you. Enable Randomize Jumpscare for this to take effect!",
+            "type": "float",
+            "default": 1,
+            "min": 0,
+            "max": 100,
+            "control": {
+                "slider": true,
+                "slider-step": 0.05
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit-author": "NicknameGG",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64",
+        "ios"
+    ],
+    "mod": {
+        "download": "https://github.com/NicknameGG/robtop-jumpscare/releases/download/v1.3.1/n.robtop-jumpscare.geode",
+        "hash": "ea9024ae546e28a1c1c7ab84134e594fc18083a1ca7d615af589b868d4b965cd",
+        "hash256": "5950e79e06195040b461d78cb7e362fd9ba4e749daa68c1928a4f8af00168a46"
+    },
+    "tags": []
+}
