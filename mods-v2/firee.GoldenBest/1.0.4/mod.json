@@ -1,0 +1,34 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+        "win": "2.204",
+		"android": "2.205",
+        "ios": "2.205"
+    },
+	"version": "v1.0.4",
+	"id": "firee.GoldenBest",
+	"name": "Golden Best",
+	"developer": "Firee",
+	"description": "A mod that changes the percentage to gold when you are achieving a new best!",
+    "repository": "https://github.com/FireMario211/Golden-Best",
+    "settings": {
+        "practice-mode": {
+            "name": "Show in Practice Mode",
+            "description": "Whether or not to change the percentage while in practice mode",
+            "type": "bool",
+            "default": true
+        },
+        "platformer-mode": {
+            "name": "Show in Platformer Mode",
+            "description": "Whether or not to change the time to be gold while playing a platformer level.",
+            "type": "bool",
+            "default": true
+        },
+        "test-mode": {
+            "name": "Show in Startpos Mode",
+            "description": "Whether or not to change the percentage / time to be gold while playing the level with Startpos or in Test Mode.",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
