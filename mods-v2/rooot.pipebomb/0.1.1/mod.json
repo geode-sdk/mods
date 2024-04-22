@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"ios": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v0.1.1",
+	"id": "rooot.pipebomb",
+	"name": "Pipe bomb",
+	"developer": "rooot",
+	"description": "Send pipe bombs to your friends!",
+	"resources": {
+		"files": [
+			"resources/audio/pipebomb.ogg"
+		]
+	},
+	"settings": {
+		"enable-sound": {
+			"name": "Enable Sound (LOUD!!) (very)",
+			"description": "Enables the pipebomb sound, may break your ears. BEWARE WHEN USING HEADPHONES!",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
