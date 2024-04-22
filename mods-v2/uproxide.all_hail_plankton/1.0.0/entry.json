@@ -1,0 +1,16 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64",
+        "ios"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/all-hail-plankton/releases/download/1.0.0/uproxide.all_hail_plankton.geode",
+        "hash": "48e1ef8ba6ffdd0410018ac3413b3125f8e841b2cb087800f4191d0af179ae83",
+        "hash256": "ed24e4c901502b1d5290d22741e003194bd9643056dac69a3e93b12e4ab3db31"
+    },
+    "tags": []
+}

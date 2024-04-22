@@ -1,0 +1,22 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205",
+		"ios": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "uproxide.all_hail_plankton",
+	"name": "All Hail Plankton",
+	"developer": "Uproxide",
+	"description": "Well Plan Z failed... What now?",
+	"resources": {
+		"files": [
+			"resources/audio/*.mp3"
+		],
+		"sprites": [
+			"resources/sprites/*.png"
+		]
+	}
+}

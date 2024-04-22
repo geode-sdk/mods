@@ -3214,6 +3214,12 @@
             "versions": [
                 "1.2.0-beta.6"
             ]
+        },
+        "uproxide.all_hail_plankton": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
