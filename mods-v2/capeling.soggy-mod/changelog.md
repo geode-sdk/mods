@@ -1,4 +1,6 @@
 # Soggy Mod Changelog
+## v1.0.5
+- Add iOS support
 ## v1.0.4
 - Fixed another mod purposfully removing the button due to the developers personal opinions
 ## v1.0.3

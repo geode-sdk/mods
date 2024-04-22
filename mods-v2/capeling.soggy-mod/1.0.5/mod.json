@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+		"android": "2.205",
+		"ios": "2.205",
+		"mac": "2.200",
+		"win": "2.204"
+	},
+	"version": "v1.0.5",
+	"id": "capeling.soggy-mod",
+	"name": "Soggy Mod",
+	"developers": [
+		"Capeling",
+		"Availax"
+	],
+	"description": "Sog your game with the Soggy Mod! Check your icon kit. Now.",
+	"resources": {
+		"spritesheets": {
+			"SoggySheet": [
+				"resources/SoggySheet/*.png"
+			]
+		},
+		"files": [
+			"resources/SogLoop.mp3"
+		]
+	}
+}
