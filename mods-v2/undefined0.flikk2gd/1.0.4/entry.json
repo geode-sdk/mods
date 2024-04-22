@@ -1,0 +1,14 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/FLIKK2GD/releases/download/v1.0.4/undefined0.flikk2gd.geode",
+        "hash": "f643d91db9598ea216e6ecabe5fec85852fd1ba3e5d4b02498cd91f8fcc9d04d",
+        "hash256": "98c146cdd7119d0ed3620eca607604be98d37d09760df10db5efaeff86bc2159"
+    },
+    "tags": []
+}
