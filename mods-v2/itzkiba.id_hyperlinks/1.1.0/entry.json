@@ -1,0 +1,12 @@
+{
+    "commit-author": "ItzKiba",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/ItzKiba/IDHyperlinks/releases/download/v1.1.0/itzkiba.id_hyperlinks.geode",
+        "hash": "0877ef64baa113cff0100315704ccd22d04f093a85ce9e6c748852c4e378e9af",
+        "hash256": "02be4aeb275ad86172de3e6555b46f8fc6f9485b9961cf629672eb8a396bbdee"
+    },
+    "tags": []
+}

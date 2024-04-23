@@ -2573,7 +2573,8 @@
         "itzkiba.id_hyperlinks": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.1.0"
             ]
         },
         "cdc.level_thumbnails": {
