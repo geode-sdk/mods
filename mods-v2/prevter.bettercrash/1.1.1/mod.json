@@ -1,0 +1,15 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": "2.204",
+	"version": "v1.1.1",
+	"id": "prevter.bettercrash",
+	"name": "BetterCrashlogs",
+	"developer": "Prevter",
+	"description": "Improves the default crash handler by providing more information",
+	"resources": {
+		"files": ["resources/*"]
+	},
+	"tags": ["Utility", "Developer"],
+	"repository": "https://github.com/Prevter/BetterCrashlogs",
+	"early-load": true
+}

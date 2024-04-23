@@ -3165,7 +3165,8 @@
         "prevter.bettercrash": {
             "verified": false,
             "versions": [
-                "1.1.0"
+                "1.1.0",
+                "1.1.1"
             ]
         },
         "statuszer0.ultra_ldm": {

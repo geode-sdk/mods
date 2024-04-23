@@ -1,3 +1,7 @@
+## v1.1.1
+- Added a fallback message box for GPU driver crashes
+- Fixed method offset calculation
+
 ## v1.1.0
 - Released on Geode mod index
 - Added C++ exception handling
