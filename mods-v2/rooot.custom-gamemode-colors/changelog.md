@@ -1,3 +1,8 @@
+# v0.1.6
+
+* also show custom colors in the editor
+* *seeecret :3*
+
 # v0.1.5
 
 * **MacOS support!** huge thanks to dankmeme for telling me what functions have inlined flashPlayer <3
