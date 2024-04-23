@@ -1,0 +1,19 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+		},
+	"version": "v1.0.0",
+	"id": "xanii.level_ratings",
+	"name": "Level Ratings",
+	"developer": "Xanii",
+	"description": "Adds level ratings to levels",
+	"dependencies": [
+	        {
+	            "id": "geode.node-ids",
+	            "version": ">=v1.7.0",
+	            "importance": "required"
+	        }
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "commit-author": "LXanii",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/LXanii/Level-Ratings/releases/download/1.0.0/xanii.level_ratings.geode",
+        "hash": "19b181226821a069d021fd588b2097b41f06dde8e5e75ef5f5672be2c910a58b",
+        "hash256": "64bc678c40dddf6b2706b729f1919d8a61362e0dbdf299ff4ba0e9fd961b4fc5"
+    },
+    "tags": []
+}

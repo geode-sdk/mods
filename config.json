@@ -3227,6 +3227,12 @@
             "versions": [
                 "1.0.4"
             ]
+        },
+        "xanii.level_ratings": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
