@@ -1,0 +1,16 @@
+{
+    "commit-author": "iArtie",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/iArtie/DarkMode-V4/releases/download/v1.0.0/bitz.darkmode_v4.geode",
+        "hash": "a1c51b37a2ea3d4368a5b6b3a730e85ffb65ecd2890d6a53cdd8addfe8b8792b",
+        "hash256": "9b2029edc0bcd83b79955cea88f1f8d92feed4abd47ad4a09cedf6fedf3e4f83"
+    },
+    "tags": [
+        "Customization"
+    ]
+}

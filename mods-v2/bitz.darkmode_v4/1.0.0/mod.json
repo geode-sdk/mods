@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "bitz.darkmode_v4",
+	"name": "DarkMode V4",
+	"developers": [ "BitZ", "GhostPower" ],
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.4.0",
+			"importance": "required"
+		},
+		{
+			"id": "geode.texture-loader",
+			"version": ">=v1.5.0",
+			"importance": "required"
+		}
+	],
+	"tags": [
+		"Customization"
+	],
+	"description": "Change the entire game interface to darker tones,\n in addition to being able to choose between the colors of some details."
+}

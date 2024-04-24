@@ -3239,6 +3239,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "bitz.darkmode_v4": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
