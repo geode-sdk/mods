@@ -17,8 +17,8 @@ A mod that overhauls the crash log system in Geometry Dash.
 - [x] Ability to continue execution (may crash again)
 - [x] Motivational quotes (like in Minecraft)
 - [x] Base game method names (no more GeometryDash.exe+0x123456)
+- [x] Basic disassembly view (using Zydis)
 
 ## Planned Features
 - [ ] Fetch .pdb files from mod's GitHub repository (if available)
-- [ ] Basic disassembly view (using Zydis)
 - [ ] Add a settings menu to configure the theme/font size
