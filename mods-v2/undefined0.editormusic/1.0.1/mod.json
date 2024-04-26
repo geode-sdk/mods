@@ -1,0 +1,11 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": { "win": "2.204", "android": "2.205" },
+	"version": "v1.0.1",
+	"id": "undefined0.editormusic",
+	"name": "EditorMusic",
+	"developer": "undefined0",
+	"description": "hey it's like super mario maker",
+	"repository": "https://github.com/undefined06855/EditorMusic",
+	"tags": [ "editor", "enhancement" ]
+}

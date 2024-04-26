@@ -3250,7 +3250,8 @@
         "undefined0.editormusic": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         }
     }
