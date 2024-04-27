@@ -1,3 +1,8 @@
+# v1.1.6
+- Added a way to [disable the GDDL button on levels in a specified tier range](https://github.com/B1rtek/Geode-GDDLIntegration/issues/34) (or enable it only in that range)
+- The placement of the GDDL Search UI button is now automated and shouldn't collide with other mods thanks to Node IDs 1.9.0
+- Fixed a [bug that would prevent the player from placing checkpoints in practice mode due to still being clicked into the default in-game search bar](https://github.com/B1rtek/Geode-GDDLIntegration/issues/33)
+
 # v1.1.5
 - Fixed a bug that would cause the game to crash if the level cache was for some reason not a valid json
 - The "couldn't cache" popup shouldn't pop up every single time when there's no connection anymore on the title screen
