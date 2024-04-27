@@ -1,3 +1,8 @@
+# Version 1.3.2
+- Added text opacity setting
+- Lots of code improvements & optimization
+- Make beta 23 the minimum version
+
 # Version 1.3.1
 - Code optimization
 - Added a string ID to the label
@@ -15,7 +20,7 @@
 - Changed logs debug to info
 - Made logs show the level and its author
 - Removed a duplicate main.cpp (which fixed macOS build failing, which means macOS support is back!)
-- Fixed the mod getting informations about the level and displaying them even if every settings were disabled
+- Fixed the mod getting information about the level and displaying them even if every setting were disabled
 
 # Version 1.2.1
 - Optimized the code for many things: Feature state, Object count and Game version (Thanks VolcaroCham!)

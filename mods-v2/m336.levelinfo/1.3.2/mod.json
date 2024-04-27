@@ -1,0 +1,113 @@
+{
+  "geode": "2.0.0-beta.23",
+  "version": "v1.3.2",
+  "gd": {
+    "win": "2.204",
+    "android": "2.205",
+    "mac": "2.200"
+  },
+  "id": "m336.levelinfo",
+  "name": "Level Info",
+  "developer": "M336",
+  "description": "A simple and customizable mod that displays information about the level you are on in Geometry Dash",
+  "repository": "https://github.com/M336G/LevelInfo",
+  "issues": {
+    "info": "GitHub Issues",
+    "url": "https://github.com/M336G/LevelInfo/issues"
+  },
+  "tags": [
+    "Utility",
+    "Interface"
+  ],
+  "settings": {
+    "text-opacity": {
+      "name": "Text opacity",
+      "description": "Set the opacity of the text that will be displayed",
+      "type": "int",
+      "default": 100,
+      "min": 0,
+      "max": 100,
+      "control": {
+        "slider": true
+      }
+    },
+    "text-color": {
+      "name": "Text color",
+      "description": "The color in which the text is displayed",
+      "type": "color",
+      "default": "#FFFFFF"
+    },
+    "show-requested-stars": {
+      "name": "Requested Stars",
+      "description": "Displays the star difficulty requested by the creator",
+      "type": "bool",
+      "default": true
+    },
+    "show-featured-rank": {
+      "name": "Featured Rank",
+      "description": "Displays the featured rank of the level",
+      "type": "bool",
+      "default": true
+    },
+    "show-object-count": {
+      "name": "Object Count",
+      "description": "Indicates how many objects are in the level (may be inaccurate for levels with more than 65535 objects)",
+      "type": "bool",
+      "default": true
+    },
+    "show-two-player-mode": {
+      "name": "2 Player mode",
+      "description": "Indicates if the level is using 2 player mode",
+      "type": "bool",
+      "default": true
+    },
+    "show-game-version": {
+      "name": "Game Version",
+      "description": "Display the game version in which the level was posted",
+      "type": "bool",
+      "default": true
+    },
+    "show-level-version": {
+      "name": "Level Version",
+      "description": "Displays the current version of a level",
+      "type": "bool",
+      "default": true
+    },
+    "show-editor-time": {
+      "name": "Editor Time",
+      "description": "Shows how much time the creator(s) of the level spent in the editor",
+      "type": "bool",
+      "default": true
+    },
+    "show-editor-time-copies": {
+      "name": "Editor Time (+copies)",
+      "description": "Shows how much time the creator(s) of the level spent in the editor (with copies)",
+      "type": "bool",
+      "default": true
+    },
+    "show-total-attempts": {
+      "name": "Attempts",
+      "description": "Show how many attempts you spent on the level",
+      "type": "bool",
+      "default": true
+    },
+    "show-total-jumps": {
+      "name": "Jumps",
+      "description": "Show how many times you jumped in the level",
+      "type": "bool",
+      "default": true
+    },
+    "show-clicks": {
+      "name": "Clicks",
+      "description": "Show how many times you clicked during your best attempt",
+      "type": "bool",
+      "default": true
+    },
+    "show-attempt-time": {
+      "name": "Best time",
+      "description": "Show your best time on a level",
+      "type": "bool",
+      "default": true
+    }
+  }
+}
