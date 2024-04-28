@@ -2,8 +2,10 @@
 Customize your profile with a new and interesting interface!
 
 
-## **Android and Mac Support!**
-- Now the customizations are available on android and mac!
+## **News!**
+- Blocking users crash fix!
+- Revamped Settings Section!
+- Same Settings Section for all devices!
 
 ## **Features**
 
@@ -14,10 +16,6 @@ Customize your profile with a new and interesting interface!
 
 ## **How to customize it**
 
-**- Windows**
-To customize your profile you have to go to the gray options button found in your profile, there you will have all the options to add or remove from the profile.
-
-**- Android and Mac**
-The customizations are in the mod settings! They work only for android and mac
+Customize your profile pressing the button go to the gray options button found in your profile, there you will have all the options to add or remove from the profile.
 #
 ## **And that's it! I hope you have fun using it <3**
