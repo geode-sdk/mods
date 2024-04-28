@@ -3271,6 +3271,12 @@
                 "1.1.1",
                 "1.1.2"
             ]
+        },
+        "dogotrigger.level_history": {
+            "verified": false,
+            "versions": [
+                "1.0.1"
+            ]
         }
     }
 }
