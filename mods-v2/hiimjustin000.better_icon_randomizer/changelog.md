@@ -1,4 +1,7 @@
 # Better Icon Randomizer Changelog
+## v1.2.2 (2024-04-27)
+- Tweaked randomize popup menu button
+
 ## v1.2.1 (2024-04-14)
 - Added checkboxes to select all of the modes in the popup menu
 
