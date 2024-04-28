@@ -1,0 +1,14 @@
+{
+    "commit-author": "CelestialGecko",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/CelestialGecko/Art-importer/releases/download/v1.2.0/grian.art_importer.geode",
+        "hash": "fac0ecd756f4032f62f3e8b171f1ae760c788a576c38beaf725fb6fb1fa95ded",
+        "hash256": "1197a1bfc4d7f43b07eee1df3fca04430fb2305c44a29ee3bb147d1d1f3ed741"
+    },
+    "tags": []
+}

@@ -1,0 +1,45 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {	
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.2.0",
+	"id": "grian.art_importer",
+	"name": "Art importer",
+	"developer": "Grian",
+	"description": "This will import pixel art from an image file into the level editor",
+	"resources": {
+		"spritesheets":{
+			"ImageButton": [
+				"res/pixelArtToolBtn.png"
+			]
+		}
+	},
+	"settings":{
+		"Use-OlderObjects":{
+			"name" : "Use 2.1 pixels",
+			"description": "Will use the old 2.1 pixel object instead of the newer one.\nThis will <cr>not</c> work with the basic optimisation.",
+			"type": "bool",
+			"default": false
+		},
+		"Enable-Basic-optimise":{
+			"name" : "Optimise art",
+			"description": "Optimises the art using 4 different objects of different sizes.",
+			"type": "bool",
+			"default": true
+		},
+		"Enable-Scale":{
+			"name" : "Use scaling",
+			"description": "Uses scaling to optimise the pixel art.\nThis is still in development and will <cr>not</c> work for most images.\nOnly works if <cr>optimise art</c> is checked.",
+			"type": "bool",
+			"default": false
+		},
+		"Disable-limit":{
+			"name" : "Remove size limit",
+			"description": "Will remove the default size limit for images that can be imported.\nCan cause <cr>crashes</c> if the image is too big so is not recommended.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
