@@ -3050,7 +3050,8 @@
             "verified": false,
             "versions": [
                 "1.0.7",
-                "1.0.9"
+                "1.0.9",
+                "1.0.15"
             ]
         },
         "bingy3.auto_delete": {
