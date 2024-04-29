@@ -3291,6 +3291,12 @@
             "versions": [
                 "1.1.1"
             ]
+        },
+        "limegradient.doki-theme-gd": {
+            "verified": false,
+            "versions": [
+                "1.1.0"
+            ]
         }
     }
 }
