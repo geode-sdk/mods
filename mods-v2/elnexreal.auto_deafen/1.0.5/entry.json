@@ -1,0 +1,16 @@
+{
+    "commit-author": "elnexreal",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/elnexreal/AutoDeafen_geode/releases/download/1.0.5/elnexreal.auto_deafen.geode",
+        "hash": "50d9d2b8f5e2983a2b02c5333116d830e652c63474ac08c3d7bba54915ceae71",
+        "hash256": "d98871035581cb12dfc0d8d9be8d9c5ad5dd6c3a976cde9f5d079dd4750a6641"
+    },
+    "tags": [
+        "Utility",
+        "Gameplay",
+        "Enhancement"
+    ]
+}

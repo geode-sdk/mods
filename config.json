@@ -2920,7 +2920,8 @@
         "elnexreal.auto_deafen": {
             "verified": false,
             "versions": [
-                "1.0.2"
+                "1.0.2",
+                "1.0.5"
             ]
         },
         "lynxdeer.autodeafen": {
