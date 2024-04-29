@@ -1,0 +1,14 @@
+{
+    "commit-author": "SergeyMC9730",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/SergeyMC9730/levelhistory/releases/download/v1.0.2/dogotrigger.level_history.geode",
+        "hash": "b76db29cb541c4c92e310e98709dbafe0c5c52124cf0a6c99cd28c16d2e9b084",
+        "hash256": "ea1723ae519a6c97545b695f095b6617c36a390c123ad83279d5c4c819e4fd15"
+    },
+    "tags": []
+}
