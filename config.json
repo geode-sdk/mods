@@ -3311,6 +3311,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "korshun.quickaccess": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

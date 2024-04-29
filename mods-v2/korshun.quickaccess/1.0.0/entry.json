@@ -1,0 +1,12 @@
+{
+    "commit-author": "KorshunDev",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/KorshunDev/QuickAccess/releases/download/1.0.0/korshun.quickaccess.geode",
+        "hash": "308f472a447d5eaf23110ebdf8a718806973faef15828404f8d56ee61ff13066",
+        "hash256": "4d2ceadbe1895770d5fec8b75f10c66d4d8586d215de840e0fba3f05cbfad38b"
+    },
+    "tags": []
+}
