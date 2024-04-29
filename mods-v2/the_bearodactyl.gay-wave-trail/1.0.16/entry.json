@@ -1,0 +1,15 @@
+{
+    "commit-author": "TheBearodactyl",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheBearodactyl/gay-wave-trail/releases/download/1.0.16/the_bearodactyl.gay-wave-trail.geode",
+        "hash": "e9eb92ba4889a5abaceccf5af8237e437cfbfe942d4d7a58322529b4606051ef",
+        "hash256": "c888464ae38493ee97704bb7443e0d4bf8eae91038329abb3c9a2316b3ca61e0"
+    },
+    "tags": []
+}

@@ -1,0 +1,62 @@
+{
+  "geode": "2.0.0-beta.25",
+  "gd": {
+    "win": "2.204",
+    "mac": "2.200",
+    "android": "2.205"
+  },
+  "version": "v1.0.16",
+  "id": "the_bearodactyl.gay-wave-trail",
+  "name": "Gay Wave Trail",
+  "developer": "The Bearodactyl",
+  "description": "make your wave trail a raging homosexual >:3",
+  "settings": {
+    "enable": {
+      "name": "Enable the G A E",
+      "type": "bool",
+      "description": "uwu",
+      "default": true
+    },
+    "speed": {
+      "name": "GOTTA GO FAST",
+      "type": "float",
+      "default": 10,
+      "min": 1,
+      "max": 100,
+      "control": {
+        "slider-step": 1
+      },
+      "description": "the speed of the alphabet mafia\nshould not be underestimated."
+    },
+    "saturation": {
+      "name": "HOW GAY ARE YOU???",
+      "type": "float",
+      "default": 100,
+      "min": 0,
+      "max": 100,
+      "control": {
+        "slider-step": 1
+      },
+      "description": "You think you're more fruity than me? wrong."
+    },
+    "mirror-players": {
+      "name": "Mirror the Players",
+      "description": "It's like looking in a Bat-Mirror\n- Batman\n\n(sorry i couldn't come up with a funny name lol)",
+      "type": "bool",
+      "default": true
+    },
+    "no-reg-trail": {
+      "name": "THE\nDE-REGULARINATOR\n2000",
+      "description": "\n         bye-bye regular trail :3",
+      "type": "bool",
+      "default": true
+    },
+    "solid-wave-trail": {
+      "name": "Blending in ain't that fun",
+      "description": "\nfood processors are better than blenders anyways",
+      "type": "bool",
+      "default": true
+    }
+  },
+  "repository": "https://gitlab.com/TheBearodactyl/gay-wave-trail.git"
+}
