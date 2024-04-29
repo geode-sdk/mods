@@ -1,0 +1,134 @@
+{
+	"geode": "2.0.0-beta.25",
+	"version": "v1.1.1",
+	"id": "gdemerald.custom_icon_colors",
+	"name": "Custom Icon Colors",
+	"developer": "gdemerald",
+	"description": "Customize your icon colors to any color you want",
+	"gd": {
+		"win": "2.204"
+	},
+	"settings": {
+		"enablePrimaryColorP1": {
+			"name": "Enable Primary Color P1",
+			"type": "bool",
+			"default": true,
+			"description": "Enable custom primary color for player 1"
+		},
+		"enableSecondaryColorP1": {
+			"name": "Enable Secondary Color P1",
+			"type": "bool",
+			"default": true,
+			"description": "Enable custom secondary color for player 1"
+		},
+		"enablePrimaryColorP2": {
+			"name": "Enable Primary Color P2",
+			"type": "bool",
+			"default": true,
+			"description": "Enable custom primary color for player 2"
+		},
+		"enableSecondaryColorP2": {
+			"name": "Enable Secondary Color P2",
+			"type": "bool",
+			"default": true,
+			"description": "Enable custom secondary color for player 2"
+		},
+		"enableGlowP1": {
+			"name": "Enable Glow Color P1",
+			"type": "bool",
+			"default": true,
+			"description": "Enable custom glow color for player 1"
+		},
+		"enableGlowP2": {
+			"name": "Enable Glow Color P2",
+			"type": "bool",
+			"default": true,
+			"description": "Enable custom glow color for player 2"
+		},
+		"sameDualColor": {
+			"name": "Enable Same Dual Color",
+			"type": "bool",
+			"default": true,
+			"description": "Sets your P2 dual color to be the same as your P1 dual color"
+		},
+		"primaryColorP1": {
+			"name": "Primary Color P1",
+			"type": "rgb",
+			"default": "#ffffff",
+			"description": "Change primary color"
+		},
+		"secondaryColorP1": {
+			"name": "Secondary Color P1",
+			"type": "rgb",
+			"default": "#ffffff",
+			"description": "Change secondary color on Player 1"
+		},
+		"primaryColorP2": {
+			"name": "Primary Color P2",
+			"type": "rgb",
+			"default": "#ffffff",
+			"description": "Change primary color on Player 2"
+		},
+		"secondaryColorP2": {
+			"name": "Secondary Color P2",
+			"type": "rgb",
+			"default": "#ffffff",
+			"description": "Change secondary color on Player 2"
+		},
+		"glowColorP1": {
+			"name": "Glow Color P1",
+			"type": "rgb",
+			"default": "#ffffff",
+			"description": "Change glow color of player 1"
+		},
+		"glowColorP2": {
+			"name": "Glow Color P2",
+			"type": "rgb",
+			"default": "#ffffff",
+			"description": "Change glow color of player 2"
+		}
+	},
+	"repository": "https://github.com/emerald73/custom-icon-colors",
+	"incompatibilities": [
+		{
+			"id": "weebify.separate_dual_icons",
+			"version": "*",
+			"importance": "breaking"
+		},
+		{
+			"id": "asaki_zuki.same_dual_color",
+			"version": "*",
+			"importance": "breaking"
+		},
+		{
+			"id": "terma.ambienticons",
+			"version": "*",
+			"importance": "breaking"
+		},
+		{
+			"id": "saumondeluxe.rainbow_icon",
+			"version": "*",
+			"importance": "conflicting"
+		},
+		{
+			"id": "rooot.custom-gamemode-colors",
+			"version": "*",
+			"importance": "breaking"
+		},
+		{
+			"id": "the_bearodactyl.gay-wave-trail",
+			"version": "*",
+			"importance": "breaking"
+		},
+		{
+			"id": "ninkaz.blending_glow",
+			"version": "*",
+			"importance": "breaking"
+		},
+		{
+			"id": "capeling.coloured-wave-trail",
+			"version": "*",
+			"importance": "breaking"
+		}
+	]
+}

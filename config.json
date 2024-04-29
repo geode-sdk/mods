@@ -3279,6 +3279,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "gdemerald.custom_icon_colors": {
+            "verified": false,
+            "versions": [
+                "1.1.1"
+            ]
         }
     }
 }

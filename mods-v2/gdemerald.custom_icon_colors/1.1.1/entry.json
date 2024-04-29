@@ -1,0 +1,12 @@
+{
+    "commit-author": "emerald73",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/emerald73/custom-icon-colors/releases/download/v1.1.1/gdemerald.custom_icon_colors.geode",
+        "hash": "74579d3f7f87a6ad9bb9bc1e54d5eba27b83ac87ac47e4afd557c894a963ca19",
+        "hash256": "ea405e2adce1e96addb55a58ca9915d2e136bd3b44dcc66082a591c680713b12"
+    },
+    "tags": []
+}
