@@ -1,0 +1,17 @@
+{
+    "commit-author": "Naxrin",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Naxrin/Transparent-Background/releases/download/v1.3.0/naxrin.transparent.geode",
+        "hash": "e19389b249278a6575809991258496bc14a5223bb82cdbaa1849811def62e395",
+        "hash256": "cb69dadf85a7a8c9f535ced0cb7c0ec126133d16428dfd4fda930b3f3ab979f0"
+    },
+    "tags": [
+        "cosmetic"
+    ]
+}

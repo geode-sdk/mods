@@ -1,0 +1,58 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+		"win":"2.204",
+		"android": "2.205",
+		"mac":"2.200"
+	},
+	"version": "v1.3.0",
+	"id": "naxrin.transparent",
+	"name": "Transparent BG",
+	"developer": "Naxrin & Lwhe",
+	"description": "\"This mod removes the blue blending of background image so players can enjoy their picked background images better.\"",
+	"repository":"https://github.com/Naxrin/Transparent-BG-Geode",
+	"tags":["cosmetic"],
+	"dependencies": [
+			{
+				"id": "geode.node-ids",
+				"version": "v1.0.0"			
+			}],
+	"settings":{
+		"BG": {
+            "name": "Transparent BG",
+            "description": "Removes the blue blendings of Background.",
+            "type": "bool",
+            "default": true
+      },
+	"frame":{
+            "name": "Remove Frames",
+            "description": "Set the frames in Edit Level Layer and LevelSearchLayer to invisible transparent\nYou can enable it individually (This option works even when <cb>Transparent BG</c> option is disabled)",
+            "type": "bool",
+            "default": true
+	},
+	"dark":{
+            "name": "Dark Gauntlets",
+            "description": "Set the background of Gauntlet levels and Daily/Weekly Levels darker, to make them look different from general levels from search engine",
+            "type": "bool",
+            "default": true
+	},	
+	"Circles": {
+            "name": "Custom Loading Circle",
+            "description": "Recolor the loading circle thing to fit with your background.",
+            "type": "bool",
+            "default": false
+      },
+	"plate":{
+            "name": "Loading Plate Color",
+            "description": "Customize the colorof the loading module's round plate.\nSuggest a color similar to your background",
+            "type": "color",
+            "default": "000000"
+	},
+	"circle":{
+            "name": "Loading Circle Color",
+            "description": "Customize the color of the color of the loading module's round plate.\nSuggest a color that differs as far as possible to the plate color",
+            "type": "color",
+            "default": "FFFFFF"
+	}
+	}
+}

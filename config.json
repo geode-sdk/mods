@@ -2169,7 +2169,8 @@
         "naxrin.transparent": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.3.0"
             ]
         },
         "hiimjustin000.integrated_demonlist": {
