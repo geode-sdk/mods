@@ -3285,6 +3285,12 @@
             "versions": [
                 "1.1.1"
             ]
+        },
+        "hiimjustin000.fake_rate": {
+            "verified": false,
+            "versions": [
+                "1.1.1"
+            ]
         }
     }
 }
