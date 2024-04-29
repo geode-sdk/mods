@@ -1,0 +1,14 @@
+{
+    "commit-author": "iAndyHD3",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/iAndyHD3/pickups-across-sessions/releases/download/v1.0.0/iandyhd3.persistent_pickup_ids.geode",
+        "hash": "8b17cd37233387c375106d651908196d341361b9b49b2becabfef84d8e2f90cb",
+        "hash256": "6331389b5c5d004511ed634951d53145442caf4d78a87792d02cc3421c2591af"
+    },
+    "tags": []
+}

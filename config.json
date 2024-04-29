@@ -3305,6 +3305,12 @@
             "versions": [
                 "1.3.0"
             ]
+        },
+        "iandyhd3.persistent_pickup_ids": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
