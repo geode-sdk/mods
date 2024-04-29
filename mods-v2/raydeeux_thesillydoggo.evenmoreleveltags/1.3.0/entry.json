@@ -1,0 +1,14 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/More-Level-Tags/releases/download/v1.3.0/raydeeux_thesillydoggo.evenmoreleveltags.geode",
+        "hash": "3f44b5575b06dafeb8eb6daed6d52079206715c4d81832d66f24adff06f3a796",
+        "hash256": "6ea5f99b25d2bb5ccd7eb5156d66579822325266a4e7f490a1de210cfb443b89"
+    },
+    "tags": []
+}
