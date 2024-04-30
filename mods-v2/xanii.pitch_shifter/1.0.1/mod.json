@@ -1,0 +1,35 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.1",
+	"id": "xanii.pitch_shifter",
+	"name": "Pitch Shifter",
+	"developer": "Xanii",
+	"description": "A song pitch shifter for GD",
+	"repository": "https://github.com/LXanii/Pitch-Shifter",
+	"settings": {
+		"pitch": {
+			"name": "Pitch Shift",
+			"description": "Amount to pitch shift by:\n100 = 1 Semitone\n0 = Reset",
+			"type": "int",
+			"default": 0,
+			"min": -400,
+			"max": 400
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/*.dll",
+			"resources/*.exe",
+			"resources/*.ini",
+			"resources/*.png"
+		]
+	},
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.7.0",
+            "importance": "required"
+        }
+	]
+}
