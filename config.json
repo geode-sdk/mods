@@ -3321,6 +3321,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "xanii.pitch_shifter": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
