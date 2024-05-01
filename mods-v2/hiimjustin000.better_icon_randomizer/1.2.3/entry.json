@@ -1,0 +1,15 @@
+{
+    "commit-author": "hiimjustin000",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/hiimjustin000/BetterIconRandomizer/releases/download/v1.2.3/hiimjustin000.better_icon_randomizer.geode",
+        "hash": "150af0daa1dcd9c0bbac328e8aab79365703fe5ffced476aeef2a4a742bdf494",
+        "hash256": "f3845cf59c4e34bc9029474f0b32d3d5fd7ae8b7d539b2db865fde73746c1a57"
+    },
+    "tags": []
+}

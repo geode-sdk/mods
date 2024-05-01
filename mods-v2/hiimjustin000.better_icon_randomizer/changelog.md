@@ -1,4 +1,7 @@
 # Better Icon Randomizer Changelog
+## v1.2.3 (2024-04-30)
+- Added color to the randomize button color setting display
+
 ## v1.2.2 (2024-04-27)
 - Tweaked randomize popup menu button
 
