@@ -1,0 +1,12 @@
+{
+    "commit-author": "LXanii",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/LXanii/Pitch-Shifter/releases/download/1.0.2/xanii.pitch_shifter.geode",
+        "hash": "c194f8a81675071140f67051d2581698e1ae8fc13fd80427426844b1d60eacde",
+        "hash256": "8ff62a6b0f77e2a03058833b50455d2bcfd6fd57a19b0bd7971633a564f01e4a"
+    },
+    "tags": []
+}
