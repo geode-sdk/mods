@@ -3298,7 +3298,8 @@
         "hiimjustin000.fake_rate": {
             "verified": false,
             "versions": [
-                "1.1.1"
+                "1.1.1",
+                "1.1.2"
             ]
         },
         "limegradient.doki-theme-gd": {
