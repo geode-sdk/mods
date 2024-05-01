@@ -1,0 +1,12 @@
+{
+    "commit-author": "SergeyMC9730",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/SergeyMC9730/deathreplay/releases/download/v1.2.0-beta8/dogotrigger.deathreplay.geode",
+        "hash": "23c87fdce989e78bc756df83bae985f678167840ba8b2b378e29ca23523c55ea",
+        "hash256": "a005a46a393b1b667193b17bde14d5e3a18164ba5f00f60a21cea9cbbbbbd85e"
+    },
+    "tags": []
+}
