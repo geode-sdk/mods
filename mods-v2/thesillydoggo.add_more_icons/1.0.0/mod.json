@@ -1,0 +1,92 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "thesillydoggo.add_more_icons",
+	"name": "Add More Icons",
+	"developer": "TheSillyDoggo",
+	"description": "Allows you to modify your icon count",
+	"settings": {
+		"cube-count": {
+            "name": "Cube Count",
+            "description": "How many cubes you want",
+            "type": "int",
+            "default": 484,
+            "control": {
+                "slider": false
+            }
+        },
+		"ship-count": {
+            "name": "Ship Count",
+            "description": "How many ships you want",
+            "type": "int",
+            "default": 169,
+            "control": {
+                "slider": false
+            }
+        },
+		"ball-count": {
+            "name": "Ball Count",
+            "description": "How many balls you want",
+            "type": "int",
+            "default": 118,
+            "control": {
+                "slider": false
+            }
+        },
+		"ufo-count": {
+            "name": "Ufo Count",
+            "description": "How many ufos you want",
+            "type": "int",
+            "default": 149,
+            "control": {
+                "slider": false
+            }
+        },
+		"wave-count": {
+            "name": "Wave Count",
+            "description": "How many waves you want",
+            "type": "int",
+            "default": 96,
+            "control": {
+                "slider": false
+            }
+        },
+		"robot-count": {
+            "name": "Robot Count",
+            "description": "How many robots you want",
+            "type": "int",
+            "default": 68,
+            "control": {
+                "slider": false
+            }
+        },
+		"spider-count": {
+            "name": "Spider Count",
+            "description": "How many spiders you want",
+            "type": "int",
+            "default": 69,
+            "control": {
+                "slider": false
+            }
+        },
+		"swing-count": {
+            "name": "Swing Count",
+            "description": "How many swings you want",
+            "type": "int",
+            "default": 43,
+            "control": {
+                "slider": false
+            }
+        },
+		"jetpack-count": {
+            "name": "Jetpack Count",
+            "description": "How many jetpacks you want",
+            "type": "int",
+            "default": 5,
+            "control": {
+                "slider": false
+            }
+        }
+	}
+}
