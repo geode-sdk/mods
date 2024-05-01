@@ -1,0 +1,15 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/Add-More-Icons/releases/download/v1.0.1/thesillydoggo.add_more_icons.geode",
+        "hash": "59723df2a72208d087a44f7e9860c3d230a53d5cdb0fc364245dda75fcbd9dfb",
+        "hash256": "b638e85929d2b78c0b015434d7b3c35530737e7cabbf7fe29c8cf343eed45a53"
+    },
+    "tags": []
+}

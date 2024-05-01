@@ -3332,7 +3332,8 @@
         "thesillydoggo.add_more_icons": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         }
     }
