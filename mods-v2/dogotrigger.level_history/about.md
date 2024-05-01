@@ -2,7 +2,7 @@
 
 Look through <cy>deleted and outdated levels</c> using <cp>GDHistory</c> or other sources!
 
-## As of `v1.0.1` GDHistory is supported only.
+## As of `v1.0.3` GDHistory is supported only.
 
 # How To Use
 
