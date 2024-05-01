@@ -1,4 +1,8 @@
 # BreakingPlatforming Changelog
+## v1.2.0
+- Add macOS support.
+- Added a new toggle to disable the platformer squish jumping animation.
+- Fix a bug where speed portals could not be marked as multiactivated.
 ## v1.1.1
 - Apply a temporary (and toggleable) fix caused by accessing the garage before playing a level from the EditLevelLayer. ***This setting is off by default (so the crash will still happen) as toggling it on prevents you from entering the garage at all.***
 ## v1.1.0
