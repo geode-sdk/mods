@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/LikeBaitExterminator/releases/download/v1.2.0/raydeeux.likebaitexterminator.geode",
+        "hash": "5edd1006b93401a288369604cbd4b7af516a9d149ff95819d25946c46eaa772b",
+        "hash256": "e0c228da2cf74700c5f41c905a0c116fa8c2a3be74c9929c070f78cba8122153"
+    },
+    "tags": []
+}

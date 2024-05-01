@@ -1,0 +1,40 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+        "mac": "2.200",
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v1.2.0",
+	"id": "raydeeux.likebaitexterminator",
+	"name": "LikeBaitExterminator",
+	"developer": "RayDeeUx",
+	"description": "Replaces like-baiting comments with text of your choice.",
+	"repository": "https://github.com/RayDeeUx/LikeBaitExterminator",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"onlyOnDaily": {
+			"name": "Enable Only on Daily/Weekly",
+			"description": "Only toggles the mod on daily/weekly levels. Intended for the population that only finds this useful for daily/weekly chat.",
+			"type": "bool",
+			"default": false
+		},
+		"markAsSpam": {
+			"name": "Mark As Spam",
+			"description": "Marks likebaiting comments as spam.\n\n<cy>Disclaimer: Sometimes the \"Show\" button does nothing.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"replacementText": {
+			"name": "Replacement Text",
+			"description": "Set your replacment text for likebating comments here.",
+			"type": "string",
+			"default": "[LikeBaitExterminator] LBE has identified this comment to be likebait. No further action is necessary."
+		}
+	}
+}

@@ -8,8 +8,10 @@ To view the original comment's contents, simply toggle off the "Enabled" option 
 
 Thanks to TechStudent10 and TheSillyDoggo for finding the right hooks and member fields to get this working.
 
+Thanks to Alphalaneous and Prevter for helping find the cause of a super rare crash.
+
 Mod name vaguely inspired by Hazbin Hotel.
 
 (There *can and will* be false positives [likely] and false negatives [not too likely].)
 
-This Geode mod is licensed under LGPLv2.
+This [Geode mod](https://geode-sdk.org) is licensed under LGPLv2.
