@@ -1,0 +1,15 @@
+{
+    "commit-author": "LimeGradient",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/LimeGradient/doki-theme-gd/releases/download/v1.1.1/limegradient.doki-theme-gd.geode",
+        "hash": "2d65c2e7a2cacc82307fd82b891a11aa384e581f07bc9131c05806bd0cdb04c7",
+        "hash256": "fb2578a7e4d8ed8137aca59210a8d981b0276c0b8ac5249ac19c52e76e9f786d"
+    },
+    "tags": []
+}

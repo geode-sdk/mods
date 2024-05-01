@@ -1,0 +1,126 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.1.1",
+	"id": "limegradient.doki-theme-gd",
+	"name": "Doki Theme",
+	"developers": [
+		"LimeGradient",
+		"RayDeeUx"
+	],
+	"description": "Add Anime Characters to Geometry Dash!",
+	"resources": {
+		"spritesheets": {
+			"StickerSheet": [
+				"resources/background/*.png",
+				"resources/stickers/*.png"
+			]
+		}
+	},
+	"settings": {
+		"StickerSlider": {
+			"name": "Sticker",
+			"description": "Choose a sticker from here. Stickers include:\n0: Fully transparent sticker (visually a softtoggle)\n1: Essex, 2: Sleepy Kanna, 3: Kanna, 4: Mai, 5: Ram\n6: Rem, 7: Rias, 8: Yuno, 9: Ryuko, 10: Nagatoro",
+			"type": "int",
+			"default": 1,
+			"min": 0,
+			"max": 10,
+			"control": {
+				"slider": true,
+				"input": false,
+				"arrows": true,
+				"arrow-step": 1
+			}
+		},
+		"TransparencySliderLevel": {
+			"name": "Sticker Transparency",
+			"type": "int",
+			"default": 100,
+			"min": 10,
+			"max": 100,
+			"control": {
+				"slider": true
+			}
+		},
+		"ShowStickerInLevel": {
+			"name": "Show Sticker in Level",
+			"type": "bool",
+			"default": true
+		},
+		"ShowStickerInEditor": {
+			"name": "Show Sticker in Editor",
+			"type": "bool",
+			"default": true
+		},
+		"xPosPercent": {
+			"name": "Sticker X Position (%)",
+			"description": "Sets the position of the sticker as a percentage of the width of your screen.",
+			"type": "int",
+			"default": 90,
+			"min": 0,
+			"max": 100
+		},
+		"yPosPercent": {
+			"name": "Sticker Y Position (%)",
+			"description": "Sets the position of the sticker as a percentage of the height of your screen.",
+			"type": "int",
+			"default": 10,
+			"min": 0,
+			"max": 100
+		},
+		"Scale": {
+			"name": "Scale",
+			"description": "Sets the scale of the sticker.",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 2,
+			"control": {
+				"slider": true,
+				"input": true,
+				"arrows": false,
+				"slider-step": 0.01
+			}
+		},
+		"BackgroundSlider": {
+			"name": "Background (Editor Only)",
+			"description": "Choose a level editor background from here. Backgrounds include:\n0: Fully transparent background (visually a softtoggle)\n1: Aqua, 2: Astolfo, 3: Asuna, 4: Azuki, 5: Beatrice, 6: Cinnamon, 7: Coconut, 8: Darkness, 9: Echidna\n10: Gray",
+			"type": "int",
+			"default": 1,
+			"min": 1,
+			"max": 20,
+			"control": {
+				"slider": true,
+				"input": false,
+				"arrows": true,
+				"arrow-step": 1
+			}
+		},
+		"TransparencySliderEditor": {
+			"name": "Background Transparency",
+			"type": "int",
+			"default": 75,
+			"min": 10,
+			"max": 100,
+			"control": {
+				"slider": true
+			}
+		},
+		"ShowBackgroundInEditor": {
+			"name": "Show Background in Editor",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.9.1",
+			"importance": "required"
+		}
+	]
+}
