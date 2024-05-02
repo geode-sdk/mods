@@ -1,4 +1,7 @@
 # Changelog
+## 1.5.2
+* Add support ??? platform
+* Fixed BetterPause support
 ## 1.5.1
 * Add support for comment button thingy
 ## 1.5.0
