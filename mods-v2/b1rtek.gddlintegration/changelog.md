@@ -1,3 +1,6 @@
+# v1.1.7
+- Addressed a [bug that caused the game to crash when opening the GDDL Search menu](https://github.com/B1rtek/Geode-GDDLIntegration/issues/40)
+
 # v1.1.6
 - Added a way to [disable the GDDL button on levels in a specified tier range](https://github.com/B1rtek/Geode-GDDLIntegration/issues/34) (or enable it only in that range)
 - The placement of the GDDL Search UI button is now automated and shouldn't collide with other mods thanks to Node IDs 1.9.0
