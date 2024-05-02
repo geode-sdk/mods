@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": "2.204",
+	"version": "v1.0.2",
+	"id": "korshun.quickaccess",
+	"name": "QuickAccess",
+	"developer": "Korshun",
+	"description": "",
+	"resources": {
+		"sprites": [
+			"resources/steal.png"
+		]
+	}
+}

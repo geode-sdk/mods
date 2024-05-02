@@ -9,3 +9,5 @@ Book Button - Hall Of Fame
 Heart Button - Your Favourites
 
 Folder Button - Saved Levels
+
+Mod badge Button - Sent Level
