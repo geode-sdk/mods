@@ -1,0 +1,14 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/Comment-Emojis/releases/download/v1.0.0-beta.8/thesillydoggo.comment_emojis.geode",
+        "hash": "8a38d7db1d0acc97a6c22d71709cc11576d952eaebba006c873801553e88870b",
+        "hash256": "6b23b0a8171e699a5bf6cf3035cb123e83fdbc2ab64b9f790b13a9451d88a001"
+    },
+    "tags": []
+}
