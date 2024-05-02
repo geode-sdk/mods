@@ -1,0 +1,14 @@
+{
+    "commit-author": "LXanii",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/LXanii/Auto-Music-Sync/releases/download/1.0.0/xanii.auto_music_sync.geode",
+        "hash": "d5aaedc4dbf0fab226bf7f38e0d826ba447f30b88fb9d717e755ac1824102541",
+        "hash256": "23da68237a2101cb7c00fc8e8055f8d376264b8ccea18fb675fb304335549849"
+    },
+    "tags": []
+}

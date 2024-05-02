@@ -3351,6 +3351,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "xanii.auto_music_sync": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

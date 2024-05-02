@@ -1,0 +1,22 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "xanii.auto_music_sync",
+	"name": "Auto Music Sync",
+	"developer": "Xanii",
+	"description": "Automatically syncs the music if you miss a speed portal",
+	"settings": {
+		"pixelBuffer" : {
+			"name": "Unit Distance",
+			"description": "The higher this number is the more aggressive the music sync attempts will be.\n<cr>DO NOT MESS WITH THIS IF YOU DO NOT KNOW WHAT YOU'RE DOING.</c>",
+			"type": "int",
+			"default": 28,
+			"max": 50,
+			"min": 0
+		}
+	}
+}
