@@ -1,3 +1,24 @@
+# v1.2.20
+    - Added iOS support (Only BG and notifications currently work)
+# v1.2.19 
+    - Fix performance issues with the bg color (Thanks camila!)
+# v1.2.18
+    - Added opacity scale for your child backgrounds
+    - Fixed bug that all backgrounds colours were changed (even without activating the feature)
+    - Fixed "The Shop" when entering on it
+# v1.2.17
+    - Added GDUtils Discord support server for assistance or informations about next updates
+    - Added custom backgrounds & transparency
+    - Gave the button badges Node IDs
+    - Fixed bug that duplicates the button badges upon profile reload
+    - Fixed mod list that was "noclipping" outside of the list
+# v1.2.15
+    - Added settings for level sharing protocol & receiving all notifications from the server
+# v1.2.14
+    - Fixed compatibility with Gradient Pages mod
+# v1.2.12
+    - Added creators leaderboard
+    - Fixed level URL sharing button that was having conflicts with the left page button for levels comments
 # v1.2.1
     - Added Android support
 # v1.2.0
