@@ -1,0 +1,16 @@
+{
+    "commit-author": "coopeeo",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64",
+        "ios"
+    ],
+    "mod": {
+        "download": "https://github.com/coopeeo/HidePlus/releases/download/1.2.1/coopeeo.hideplus.geode",
+        "hash": "f5995ee49f84fc44c958ee19707c5d55a7efb222b9139018ab1224b71582f71b",
+        "hash256": "ee4fb48ea9ec99bc9a29626fba61faed8e156de21822a18e4a5f78e68259c605"
+    },
+    "tags": []
+}

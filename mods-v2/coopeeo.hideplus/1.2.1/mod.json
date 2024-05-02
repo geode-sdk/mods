@@ -1,0 +1,397 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205",
+		"ios": "2.205"
+	},
+	"version": "v1.2.1",
+	"id": "coopeeo.hideplus",
+	"name": "Hide+",
+	"developers": [
+		"Cooper",
+		"Viper"
+	],
+	"description": "The ultimate hiding mod! Replaces other mods with one customizable mod.",
+	"repository": "https://github.com/coopeeo/HidePlus/",
+	"settings": {
+		"hideplus-section": {
+			"name": "Hide+",
+			"type": "custom"
+		},
+		"hideplus-enable": {
+			"name": "Enable Mod",
+			"type": "bool",
+			"default": true
+		},
+		"menulayer-section": {
+			"name": "Main Menu",
+			"type": "custom"
+		},
+		"menulayer-achievements": {
+			"name": "Achievements",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-stats": {
+			"name": "Stats",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-newgrounds": {
+			"name": "Newgrounds",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-social": {
+			"name": "Social Media",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-title": {
+			"name": "Title",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-moregames": {
+			"name": "More Games",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-profile": {
+			"name": "Profile",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-username": {
+			"name": "Username",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-daily": {
+			"name": "Daily Chests",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-garage": {
+			"name": "Icon Kit (Garage)",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-build": {
+			"name": "Creator Button (Create, Saved, etc)",
+			"type": "bool",
+			"default": false
+		},
+		"menulayer-play": {
+			"name": "Play Button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-section": {
+			"name": "Creator Layer",
+			"type": "custom"
+		},
+		"creatorlayer-background": {
+			"name": "Background",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-leftcorner": {
+			"name": "Left Corners",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-Treasure-Room": {
+			"name": "Treasure Room button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-Vault": {
+			"name": "Vault button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-featured": {
+			"name": "Featured button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-lists": {
+			"name": "Lists button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-paths": {
+			"name": "Paths button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-mappacks": {
+			"name": "Map Packs",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-search": {
+			"name": "Search button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-map": {
+			"name": "Map button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-daily": {
+			"name": "Daily button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-weekly": {
+			"name": "Weekly button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-event": {
+			"name": "Event button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-gauntlets": {
+			"name": "Gauntlets button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-create": {
+			"name": "Create button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-saved": {
+			"name": "Saved button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-scores": {
+			"name": "Scores button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-quests": {
+			"name": "Quests button",
+			"type": "bool",
+			"default": false
+		},
+		"creatorlayer-versus": {
+			"name": "Versus button",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-section": {
+			"name": "Level Search Menu",
+			"type": "custom"
+		},
+		
+		"LevelSearchLayer-background": {
+			"name": "Menu Background",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-corners": {
+			"name": "Corners",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-levelsearchbg": {
+			"name": "Level Search Background",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-quicksearchbg": {
+			"name": "Level Quick Search Background",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-difficultyfiltersbg": {
+			"name": "Level Difficulty Background",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-lengthfiltersbg": {
+			"name": "Level Length Background",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-levelsearchbutton": {
+			"name": "Level Search button",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-levelsearchuserbutton": {
+			"name": "Level User button",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-levelclearbutton": {
+			"name": "Level Clear button",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-quicksearchtext": {
+			"name": "Quick Search Text",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-filterstitle": {
+			"name": "Filters Text",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-clearfilters": {
+			"name": "Clear Filters",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-advancedfilters": {
+			"name": "Advanced Filters",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-listbutton": {
+			"name": "Lists",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-mostdownloadedbutton": {
+			"name": "Downloaded Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-mostlikedbutton": {
+			"name": "Liked Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-sentbutton": {
+			"name": "Mod Sent Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-trendingbutton": {
+			"name": "Trending Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-recentbutton": {
+			"name": "Recent Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-magicbutton": {
+			"name": "Magic Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-awardedbutton": {
+			"name": "Awarded Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-followedbutton": {
+			"name": "Followed Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-friendsbutton": {
+			"name": "Friends Tab",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-nafilterbutton": {
+			"name": "N/A Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-autofilterbutton": {
+			"name": "Auto Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-easyfilterbutton": {
+			"name": "Easy Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-normalfilterbutton": {
+			"name": "Normal Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-hardfilterbutton": {
+			"name": "Hard Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-harderfilterbutton": {
+			"name": "Harder Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-insanefilterbutton": {
+			"name": "Insane Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-demonfilterbutton": {
+			"name": "Demon Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-demontypebutton": {
+			"name": "Demon Type",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-iconclock": {
+			"name": "Clock Icon",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-tinyfilter": {
+			"name": "Tiny Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-shortfilter": {
+			"name": "Short Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-mediumfilter": {
+			"name": "Medium Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-longfilter": {
+			"name": "Long Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-xlfilter": {
+			"name": "Xl Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-platfilter": {
+			"name": "Platformer Filter",
+			"type": "bool",
+			"default": false
+		},
+		"LevelSearchLayer-starfilter": {
+			"name": "Star Filter",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
