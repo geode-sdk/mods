@@ -1,0 +1,46 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": "2.204",
+	"version": "v1.0.3",
+	"id": "korshun.quickaccess",
+	"name": "QuickAccess",
+	"developer": "Korshun",
+	"description": "",
+	"settings": {
+		"profile-move": {
+			"name": "Profile move",
+			"type": "bool",
+			"default": true
+		},
+		"my-levels": {
+			"name": "My levels Button show",
+			"type": "bool",
+			"default": true
+		},
+		"awarded": {
+			"name": "Awarded button show",
+			"type": "bool",
+			"default": true
+		},
+		"hall_of_fame": {
+			"name": "Hall of Fame button show",
+			"type": "bool",
+			"default": true
+		},
+		"favourite-levels": {
+			"name": "Favourite levels button show",
+			"type": "bool",
+			"default": true
+		},
+		"saved-button": {
+			"name": "Saved button show",
+			"type": "bool",
+			"default": true
+		},
+		"sent-button": {
+			"name": "Sent button show",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
