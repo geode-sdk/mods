@@ -1,0 +1,12 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/LevelEditorHack/releases/download/v1.0.0/raydeeux.leveleditorhack.geode",
+        "hash": "25f8131a311a5fb9cdf8d999a837f8094064a1d989198a5e9c232e527ae8883c",
+        "hash256": "fc40bc300143ef26237f188bfad043ad260ff60d85044a8ba0ec3a69852f9fb0"
+    },
+    "tags": []
+}

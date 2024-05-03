@@ -3359,6 +3359,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "raydeeux.leveleditorhack": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

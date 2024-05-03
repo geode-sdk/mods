@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "raydeeux.leveleditorhack",
+	"name": "LevelEditorHack",
+	"developer": "RayDeeUx",
+	"description": "Because *someone* forgot to add it to their macOS-compatible mod menus.",
+	"repository": "https://github.com/RayDeeUx/LevelEditorHack",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.9.1",
+			"importance": "required"
+		}
+	],
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles this mod.",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
