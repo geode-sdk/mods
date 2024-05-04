@@ -1,0 +1,26 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.3",
+	"id": "alphalaneous.random_tab",
+	"name": "Random Tab",
+	"developer": "Alphalaneous",
+	"repository": "https://github.com/Alphalaneous/Random-Tab",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.9.1",
+            "importance": "required"
+        }
+    ],
+	"description": "Adds a random tab in search!",
+	"resources": {
+        "sprites": [
+			"assets/*"
+        ]
+    }
+}
