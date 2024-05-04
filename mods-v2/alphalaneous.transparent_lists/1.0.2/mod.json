@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.2",
+	"id": "alphalaneous.transparent_lists",
+	"name": "Transparent Lists",
+	"developer": "Alphalaneous",
+	"description": "Makes lists transparent."
+}
