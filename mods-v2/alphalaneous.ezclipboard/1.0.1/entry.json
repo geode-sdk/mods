@@ -1,0 +1,15 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/EZ-Clipboard/releases/download/1.0.1/alphalaneous.ezclipboard.geode",
+        "hash": "72b1a39f09a95bc9ec1c4dc8df27a7faf3b8896961e96527dd0ad67049dc1e62",
+        "hash256": "be1606a0e97ddfcf42343d2f0b01eddc179a7a323ed67ebd166afc11f3adf17e"
+    },
+    "tags": []
+}
