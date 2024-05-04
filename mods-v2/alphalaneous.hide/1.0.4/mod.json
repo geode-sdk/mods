@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.4",
+	"id": "alphalaneous.hide",
+	"name": "hIDe",
+	"developer": "Alphalaneous",
+	"description": "Hide level IDs to prevent level leaks",
+	"repository": "https://github.com/Alphalaneous/hIDe",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "v1.6.1",
+            "importance": "required"
+        }
+    ]
+}
