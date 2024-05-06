@@ -1,7 +1,6 @@
 {
     "commit-author": "iristraa",
     "platforms": [
-        "windows"
     ],
     "mod": {
         "download": "https://github.com/iristraa/SpinoffSubtitles/releases/download/v1.1.0/iristraa.spinoffsubtitles.geode",
