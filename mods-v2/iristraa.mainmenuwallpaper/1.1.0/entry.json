@@ -1,10 +1,6 @@
 {
     "commit-author": "iristraa",
     "platforms": [
-        "macos",
-        "windows",
-        "android32",
-        "android64"
     ],
     "mod": {
         "download": "https://github.com/iristraa/MainMenuWallpaper/releases/download/v1.1.0/iristraa.mainmenuwallpaper.geode",
