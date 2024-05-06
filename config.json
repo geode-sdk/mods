@@ -3383,6 +3383,12 @@
             "versions": [
                 "1.0.1"
             ]
+        },
+        "alphalaneous.editorsounds": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

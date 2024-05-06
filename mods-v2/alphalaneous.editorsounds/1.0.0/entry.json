@@ -1,0 +1,14 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/Editor-Sounds/releases/download/1.0.0/alphalaneous.editorsounds.geode",
+        "hash": "1900d56c4f3bb2c933bc5aa4ffd40bb8b6705dcf1e5e5789e7d3ca24732fbb4d",
+        "hash256": "15353f0b1a2ce3aee6a155d56670a39d112c88db8fdffaef1eac42ff35eb2ccd"
+    },
+    "tags": []
+}
