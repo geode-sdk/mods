@@ -1,0 +1,69 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.2.0",
+	"id": "undefined0.editormusic",
+	"name": "EditorMusic",
+	"developer": "undefined0",
+	"description": "music in your editor, what's not to like?",
+	"repository": "https://github.com/undefined06855/EditorMusic",
+	"tags": [ "editor", "enhancement" ],
+
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": "v1.3.0",
+			"importance": "required"
+		},
+		{
+			"id": "geode.custom-keybinds",
+			"version": "v1.5.6",
+			"importance": "required"
+		}
+	],
+
+	"settings": {
+		"volume": {
+			"name": "Music volume",
+			"type": "float",
+			"default": 0.8,
+			"min": 0,
+			"max": 1
+		},
+		"current-song": {
+			"name": "Show current song in editor",
+			"type": "bool",
+			"default": true
+		},
+		"skip-song": {
+			"name": "Show next song button in editor",
+			"type": "bool",
+			"default": true
+		},
+		"prev-song": {
+			"name": "Show previous song button in editor",
+			"type": "bool",
+			"default": false
+		},
+		"unnamed-song-fallback": {
+			"name": "Use filename for unnamed songs (req. restart)",
+			"type": "bool",
+			"default": true,
+			"description": "If this is enabled, it uses the file name for unnamed songs instead of your preference."
+		},
+		"unnamed-song-fallback-custom": {
+			"name": "Unnamed song fallback name (req. restart)",
+			"type": "string",
+			"default": "(unnamed song)"
+		},
+		"extra-songs-path": {
+			"name": "Extra songs path (req. restart)",
+			"type": "string",
+			"description": "If this is set to a path, EditorMusic will take songs from here as well as the config folder.",
+			"default": "(none)"
+		}
+	}
+}
