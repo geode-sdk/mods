@@ -1,0 +1,12 @@
+{
+    "commit-author": "Cvolton",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/CustomKeybinds/releases/download/v1.5.7/geode.custom-keybinds.geode",
+        "hash": "7b23fc7c22cf292b4ff50c786a30cc7b895006e3728c8851a83182bf36cff682",
+        "hash256": "eaf41086b8a2afa56b88427443b4456773a977f2a06e6f01625cf1de23b55b31"
+    },
+    "tags": []
+}

@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.7
+
+- Fix some other PlayLayer binds from stopping PauseLayer binds
+
 ## v1.5.6
 
  - Fix jump-p2 using the wrong PlayLayer function
