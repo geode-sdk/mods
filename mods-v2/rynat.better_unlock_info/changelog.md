@@ -1,3 +1,6 @@
+# v1.1.1
+ - ensure that animations are being played when the [Animated Profile Icons](https://geode-sdk.org/mods/thesillydoggo.animatedprofiles) mod is installed
+
 # v1.1.0
  - added Android support
  - fixed incorrect shard values
