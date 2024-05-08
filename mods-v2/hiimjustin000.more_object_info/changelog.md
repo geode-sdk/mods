@@ -1,4 +1,11 @@
 # More Object Info Changelog
+## v1.0.5 (2024-05-06)
+- Small optimizations
+
+## v1.0.4 (2024-05-05)
+- Added Object Address
+- Added iOS support
+
 ## v1.0.3 (2024-04-18)
 - Only enabled extra object info when the values are not the default values
 - Tweaked display of color HSV values
