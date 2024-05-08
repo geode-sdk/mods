@@ -1,3 +1,7 @@
+# v2.1.1
+- Fix crash that occurs when blocking people
+- Android + macOS support
+
 # v2.1.0
 - Now uses layouts to control the button positioning (compatibility!!!!)
 - Added demons in garage support by moving them with the other bois
