@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.7",
+	"id": "alphalaneous.editorsounds",
+	"name": "Editor Sounds",
+	"developer": "Alphalaneous",
+	"description": "Adds sounds to the editor!",
+	"resources": {
+		"files": [
+			"audio/*.ogg"
+		]
+	}
+}
