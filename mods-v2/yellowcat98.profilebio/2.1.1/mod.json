@@ -1,0 +1,27 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205",
+		"ios": "2.205"
+	},
+	"version": "v2.1.1",
+	"id": "yellowcat98.profilebio",
+	"name": "ProfileBio",
+	"developer": "YellowCat98",
+	"description": "Add and view bios on Geometry Dash user profiles.",
+	"repository": "https://github.com/YellowCat98/ProfileBio",
+	"issues": {
+		"info": "**If there's a bug you want to report, join the [discord](https://discord.gg/vweCVPgamC).",
+		"url": "https://discord.gg/vweCVPgamC"
+	},
+	"resources": {
+		"files": [
+			"resources/arial.ttf"
+		],
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
