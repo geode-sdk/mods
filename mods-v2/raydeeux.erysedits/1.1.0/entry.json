@@ -1,0 +1,15 @@
+{
+    "commit-author": "RayDeeUx",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/RayDeeUx/ErysEdits/releases/download/v1.1.0/raydeeux.erysedits.geode",
+        "hash": "fe0cad871a953e56d469470f4e2f25df2df3b7d96002217ef4cf35fd0616cf12",
+        "hash256": "d1d38de35e11e9ec1cdbb5fecc69da78c5e841c06f99203f35e18ed1f14be8d0"
+    },
+    "tags": []
+}
