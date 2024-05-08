@@ -1,4 +1,6 @@
 # EditorMusic
+## v1.2.1
+- Fix android not being able to update
 ## v1.2.0
 - Keybinds!
 - Quick settings in the pause menu

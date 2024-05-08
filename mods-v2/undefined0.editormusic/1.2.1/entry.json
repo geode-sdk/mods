@@ -1,0 +1,17 @@
+{
+    "commit-author": "undefined06855",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/undefined06855/EditorMusic/releases/download/v1.2.1/undefined0.editormusic.geode",
+        "hash": "1fdb96adb823b77d019b002afd603e9f6d68aab5f3162d5211dd1d51411f0284",
+        "hash256": "dc648cca0b5cacec61fcc64bc9f05348d864e0c56dced51bc55a98caeff04b59"
+    },
+    "tags": [
+        "editor",
+        "enhancement"
+    ]
+}
