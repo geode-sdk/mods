@@ -1,0 +1,14 @@
+{
+    "commit-author": "Adam7290",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Adam7290/randdeathsounds/releases/download/v1.1.0/adam_729.randdeathsounds.geode",
+        "hash": "209750e6bb0336bbe1ee97c9ebbb56b45584a84a7698325869b53a49d65866b1",
+        "hash256": "b9adac5a42ce2e7b39d9568946bdcfb1de6687bbf2afc73d9f64e42500a25973"
+    },
+    "tags": []
+}

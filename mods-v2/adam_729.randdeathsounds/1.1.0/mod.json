@@ -1,0 +1,42 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.1.0",
+	"id": "adam_729.randdeathsounds",
+	"name": "Death Sound Randomizer",
+	"developer": "Adam_729",
+	"description": "Randomizes your death sound.",
+	"repository": "https://github.com/Adam7290/randdeathsounds",
+	"issues": {
+		"url": "https://discord.gg/Tsu8h5nAe2",
+		"info": "Report bugs or suggest new features in my discord server"
+	},
+	"settings": {
+		"enabled": {
+			"name": "Random Death SFX",
+			"type": "bool",
+			"default": true
+		},
+		"force-play-sfx": {
+			"name": "Force Death SFX",
+			"description": "Plays death sfx even when an options trigger disables it.",
+			"type": "bool",
+			"default": false
+		},
+		"stop-sfx-on-respawn": {
+            "name": "Stop Death SFX on Respawn",
+            "type": "bool",
+            "default": true
+        }
+	},
+	"incompatibilities": [
+		{
+			"id": "raydeeux.erysedits",
+			"importance": "breaking",
+			"version": "<=v1.0.2"
+		}
+	]
+}
