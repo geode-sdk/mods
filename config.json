@@ -3407,6 +3407,12 @@
                 "1.0.7",
                 "1.0.8"
             ]
+        },
+        "alphalaneous.shiftdeselect": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

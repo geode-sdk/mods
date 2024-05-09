@@ -1,0 +1,15 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/ShiftDeselect/releases/download/1.0.0/alphalaneous.shiftdeselect.geode",
+        "hash": "eba465d1d924c76e0c5fc28954f043b98858cad14d685d127b48f7d6fd6c1227",
+        "hash256": "73e1876cb781b9cfb422b828c214c655f550f8b19209e7008a4d9b1bdca295f0"
+    },
+    "tags": []
+}
