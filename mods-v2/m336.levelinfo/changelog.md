@@ -1,3 +1,9 @@
+# Version 1.3.3
+- Added the text size setting
+- Code improvements & optimization (Thanks wnt\nr!)
+- Faster object count calculation on Windows and Android
+- Added the "_spr" operator at the end of the label string ID
+
 # Version 1.3.2
 - Added text opacity setting
 - Lots of code improvements & optimization
