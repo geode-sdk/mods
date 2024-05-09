@@ -19,8 +19,8 @@ Adds new features to the garage:
 Player Options:
 ![Example Image: Player Options](nytelyte.garage_utilities/player-options.png)
 
-Arrows in Unlock Popups:
-![Example Image: Arrows in Unlock Popups](nytelyte.garage_utilities/arrows-in-unlock-popups.png)
+Arrows in Item Info Popups:
+![Example Image: Arrows in Item Info Popups](nytelyte.garage_utilities/arrows-in-item-info-popups.png)
 
 Main Filter and Sort Popup:
 ![Example Image: Main Filter and Sort Popup](nytelyte.garage_utilities/filter-and-sort.png)
