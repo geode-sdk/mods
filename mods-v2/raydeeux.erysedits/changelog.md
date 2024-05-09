@@ -1,4 +1,9 @@
 # ErysEdits Changelog
+## v1.1.2
+- (Hopefully) fix a rare crash with LoadingLayer.
+- Added mods list copying functionality to the `Level End Screen: Show Mods List` setting.
+- Bump Geode minimum version to 2.0.0-beta.26.
+- Bump Custom Keybinds minimum version to v1.5.7. *[Windows only.]*
 ## v1.1.1
 - Fix a silly bug with the debug text's `Compact "Gameplay" Section` setting. Oops!
 ## v1.1.0
@@ -11,6 +16,7 @@
 - Unfortunately, there's still incredibly specific edge cases where SFX *can* loop infinitely while using this mod, so a config description has been added to the relevant spot.
 - Recategorized a few settings.
 - Added punctuation to changelogs.
+- Bump Geode minimum version to 2.0.0-beta.25.
 - Bump Node IDs minimum requirement to v1.9.1.
 - Add keybinds for the level search menu, gauntlets menu, and icon kit. *[Windows only.]*
 - Add keybinds when viewing comments in a level/viewing comments by a specific user. *[Windows only.]*
