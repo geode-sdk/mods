@@ -3227,7 +3227,8 @@
         "statuszer0.ultra_ldm": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "kittenchilly.randomize_icon_on_death": {
