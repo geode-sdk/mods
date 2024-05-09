@@ -1,4 +1,6 @@
 # ErysEdits Changelog
+## v1.1.1
+- Fix a silly bug with the debug text's `Compact "Gameplay" Section` setting. Oops!
 ## v1.1.0
 - New slider settings: `Always Active LDM` and `Level End Screen: Show Mods List`. Make sure to read their config descriptions!
 - A few miscellaneous settings for tidying up the icon kit. 
