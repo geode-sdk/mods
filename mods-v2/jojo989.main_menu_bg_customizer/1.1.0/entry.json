@@ -1,0 +1,15 @@
+{
+    "commit-author": "jojo989",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/jojo989/menuBG-customizer/releases/download/idk2/jojo989.main_menu_bg_customizer.geode",
+        "hash": "2d3b3689dce3e2463e067597d5c3b25c5cbc32c312f694fb3b32e2c3f40d6406",
+        "hash256": "cfacf8f523fd5bbea338d2d417e54a328e71ee8b3b75785a4828222e491c805c"
+    },
+    "tags": []
+}

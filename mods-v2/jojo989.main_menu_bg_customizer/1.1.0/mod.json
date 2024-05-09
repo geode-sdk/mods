@@ -1,0 +1,57 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"version": "v1.1.0",
+	"id": "jojo989.main_menu_bg_customizer",
+	"name": "menuBG customizer",
+	"developer": "jojo989",
+	"description": "",
+	"settings": {
+		"removeGDLogo": {
+			"name": "Disable GD Logo",
+			"description": "Removes the GD Logo in the main menu.",
+			"type": "bool",
+			"default": false
+		},
+		"creatorLayer": {
+			"name": "Creator Layer",
+			"description": "Enables your BG in Level Info Layer.",
+			"type": "bool",
+			"default": false
+		},
+		"levelInfoLayer": {
+			"name": "Level Info Layer",
+			"description": "Enables your BG in Level Info Layer.",
+			"type": "bool",
+			"default": false
+		},
+		"opacity": {
+			"name": "Set BG Opacity",
+			"description": "The lower the value, the less visible it is.",
+			"type": "int",
+			"default": 255,
+			"min": 0,
+			"max": 255,
+			"control": {
+				"big-arrows": true,
+				"arrows": true,
+				"input": true,
+				"slider": true,
+				"slider-step": 1,
+				"arrow-step": 1,
+				"big-arrow-step": 5
+			}
+		}
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.9.1",
+			"importance": "required"
+		}
+	]
+}
