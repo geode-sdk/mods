@@ -1,0 +1,15 @@
+{
+    "commit-author": "cgytrus",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/cgytrus/SmoothParticles/releases/download/v2.0.0/cgytrus.smooth-particles.geode",
+        "hash": "344fab395b6a882b62a0497026e79645895ec1817afe61911c2b0267de49b77d",
+        "hash256": "1e30c598f5a96f577c887bbfe349fbafafa8d33ee22e6b9d80cc756e86a68c73"
+    },
+    "tags": []
+}

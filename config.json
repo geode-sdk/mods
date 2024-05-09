@@ -3413,6 +3413,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "cgytrus.smooth-particles": {
+            "verified": false,
+            "versions": [
+                "2.0.0"
+            ]
         }
     }
 }
