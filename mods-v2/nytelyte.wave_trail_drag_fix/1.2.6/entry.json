@@ -1,0 +1,14 @@
+{
+    "commit-author": "nytelytee",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/nytelytee/geode-wave-trail-drag-fix/releases/download/v1.2.6/nytelyte.wave_trail_drag_fix.geode",
+        "hash": "e1d8d64aefe3cc19172418f68fb59b6f1562f2dcc5719e4a4db048950a170d03",
+        "hash256": "84ab9e23cb43c20e42c75a0c384122d9b8eb6b4b4ebb6f71d3beed7001cc74cf"
+    },
+    "tags": []
+}

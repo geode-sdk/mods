@@ -1,3 +1,9 @@
+# v1.2.6
+- fix interaction with slope stacks
+- make the wave snapping to blocks visible, drawing a vertical line
+- copy player 2 data to player 1 if in dual mode and player 2 touches a single portal
+- make error margin inversely proportional to delta time (less likely to double up a point with Click Between Frames)
+
 # v1.2.5
 - fix interaction with orbs
 - fix interaction with spider pads
