@@ -1,4 +1,7 @@
 # Better Icon Randomizer Changelog
+## v1.3.3 (2024-05-09)
+- Small optimizations to the codebase
+
 ## v1.3.2 (2024-05-07)
 - Small tweaks to player color display
 
