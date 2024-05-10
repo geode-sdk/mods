@@ -1,0 +1,62 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": {
+		"mac": "2.200",
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.1.2",
+	"id": "raydeeux.disturbingnewbests",
+	"name": "DisturbingNewBests",
+	"developers": ["RayDeeUx", "sofabeddd"],
+	"description": "Replaces \"New Best\" messages with slightly \"better\" ones.",
+	"repository": "https://github.com/RayDeeUx/DisturbingNewBests",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"custom": {
+			"name": "Include Custom Messages",
+			"description": "<cp>[REQUIRES RESTART TO APPLY]</c>\n\nIncludes your own custom \"New Best\" text.\nPlease edit the \"custom.txt\" file by opening this mod's config directory (look for the golden pencil button at the bottom left of the mod's introductory screen).",
+			"type": "bool",
+			"default": false
+		},
+		"brandonRogers": {
+			"name": "Include Brandon Rogers (READ!)",
+			"description": "<cp>[REQUIRES RESTART TO APPLY]</c>\n\nIncludes quotes from YouTube comedian Brandon Rogers.\n<cr>WARNING: Brandon Rogers' humor may not be for everyone.</c>\n<cy>By enabling this option, you agree to hold harmless the mod developer (RayDeeUx) or any lead developer of Geode and assume all responsibility for any resulting damages, including damages to your emotions, ego, self-esteem, or moral compass.</c>\n\n<cr>This is your only warning.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"lineWrapping": {
+			"name": "Linewrapping",
+			"description": "Allows linewrapping for all \"New Best\" death messages.\n\nUseful for anyone who wants incredibly long (but still legible) death messages.\n\nDisabling this option will ignore whatever value you have set for the \"'New Best' Text Max Scale\" setting below.",
+			"type": "bool",
+			"default": true
+		},
+		"maxScale": {
+			"name": "\"New Best\" Text Max Scale",
+			"description": "Sets the max scale of all \"New Best\" death messages.\n\n(The \"Linewrapping\" setting above needs to be enabled for this setting to apply.)",
+			"type": "float",
+			"default": 1,
+			"min": 0.10,
+			"max": 1.20,
+			"control": {
+				"slider-step": 0.01
+			}
+		},
+		"currencyLayer": {
+			"name": "Hide Reward Animations",
+			"description": "Hides the reward animation you get when getting a new best on a rated level.",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/*.txt"
+		]
+	}
+}

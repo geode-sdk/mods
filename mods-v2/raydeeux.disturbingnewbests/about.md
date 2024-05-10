@@ -8,7 +8,7 @@ Custom messages defined from the `custom.txt` file within the mod's config direc
 
 As tempting as it would be to have a regex filter to moderate messages found in `custom.txt`, this mod will not be pulling double duty by attempting to solve the Scunthorpe problem.
 
-Quotes originated from a variety of sources, including various members of the Geode SDK Discord server, [Brandon Rogers](https://linktr.ee/brandonbored), and Adam Neylan.
+Quotes originated from a variety of sources, including various members of the Geode SDK Discord server, xkcd, [Brandon Rogers](https://linktr.ee/brandonbored), and Adam Neylan.
 
 Logo contributions and text linewrapping support by [sofabeddd](user:7976112).
 
