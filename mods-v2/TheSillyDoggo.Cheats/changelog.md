@@ -1,8 +1,19 @@
+# 1.4.1
+
+- Added new 'Darken' theme
+- Added Blur Mod Menu BG (May cause lag on devices with weak gpus)
+- Added No Wave Trail Remove
+- Added Editor Set Scale and Set Rotation functions
+- Removed the [?] button from the universal tab
+- Moved Transition Customizer to its own module
+- Misc UI Related Bug Fixes / Changes
+
 # 1.4.0
 
 - Added Conditional Auto-Retry
 - Added Auto Practice Mode
 - Added Unlock Buttons
+- Added Disable in-game
 - Redesigned the button tab in the config menu, this also resulted in Hide Button being moved to the menu tab
 - Show Layout shows Hidden objects
 - Added an option to customize show layout bg and ground colours
