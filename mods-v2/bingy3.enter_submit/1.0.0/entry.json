@@ -1,0 +1,12 @@
+{
+    "commit-author": "Bingy3",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Bingy3/gd-enter-submit/releases/download/v1.0.0/bingy3.enter_submit.geode",
+        "hash": "68108394e19df6a23c42603e49fc47dd2a7c7bfe416cd6e541893de1207f8b3f",
+        "hash256": "3876db1db8f478087965fc5ac2313c2ee4674da02753082e08448786544a007c"
+    },
+    "tags": []
+}

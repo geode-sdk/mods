@@ -3452,6 +3452,12 @@
             "versions": [
                 "1.0.3"
             ]
+        },
+        "bingy3.enter_submit": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
