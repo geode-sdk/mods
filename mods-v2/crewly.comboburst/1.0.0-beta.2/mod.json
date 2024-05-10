@@ -1,0 +1,79 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": "2.204",
+	"version": "v1.0.0-beta.2",
+	"id": "crewly.comboburst",
+	"name": "Combo Burst",
+	"developer": "crewly",
+	"description": "Have characters cheer you on as you play the level",
+	"repository": "https://github.com/crewly/comboBurst",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		],
+		"files": [
+			"resources/*.wav",
+			"resources/*.ogg",
+			"resources/*.mp3",
+			"resources/*.flic",
+			"resources/*.m4a"
+		]
+	},
+	"settings": {
+		"popup-enable": {
+			"name": "Enable Combo Burst",
+			"description": "Enable or disable the combo burst animations",
+			"type": "bool",
+			"default": true
+		},
+		"sprite-pack": {
+			"name": "Sprite Pack",
+			"description": "The sprite pack to use for the pop-up animations. Check mod desc for list of sprites.",
+			"type": "int",
+			"default": 1,
+			"min": 0,
+			"max": 2,
+			"control": {
+				"slider": false
+			}
+		},
+		"popup-percent": {
+			"name": "Appear every %",
+			"description": "The percentage difference required for a popup animation.",
+			"type": "int",
+			"default": 30,
+			"min": 5,
+			"max": 100,
+			"control": {
+				"slider": true,
+				"slide-step": 1
+			}
+		},
+		"popup-size": {
+			"name": "Size",
+			"description": "The size of the sprites",
+			"type": "float",
+			"default": 0.55,
+			"min": 0.2,
+			"max": 1
+		},
+		"popup-defaultsfx": {
+			"name": "Use default SFX if needed",
+			"description": "Play use sound effect if a custom sprite doesn't have their own sound effect.",
+			"type": "bool",
+			"default": true
+		},
+		"popup-platformer": {
+			"name": "Show in Platformer",
+			"description": "Show combo burst animations after every checkpoint in platformer mode",
+			"type": "bool",
+			"default": true
+		},
+		"popup-practice": {
+			"name": "Show in Practice Mode",
+			"description": "Show combo burst animations in practice mode",
+			"type": "bool",
+			"default": false
+		}
+	}
+}

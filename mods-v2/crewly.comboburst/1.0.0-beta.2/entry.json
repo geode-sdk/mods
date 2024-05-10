@@ -1,0 +1,12 @@
+{
+    "commit-author": "crewly",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/crewly/comboBurst/releases/download/v1.0.0-beta.2/crewly.comboburst.geode",
+        "hash": "1c1c40414058e8f50b1a97743294e8585347e88886d2194c5802edfedcf5020a",
+        "hash256": "0f6b4450887d99696c8163d330adfd7fbb673822c45d85410190ce347346e363"
+    },
+    "tags": []
+}
