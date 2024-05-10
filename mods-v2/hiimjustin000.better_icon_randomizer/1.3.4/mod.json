@@ -1,0 +1,25 @@
+{
+    "geode": "2.0.0-beta.25",
+    "gd": {
+        "android": "2.205",
+        "ios": "2.205",
+        "win": "2.204",
+        "mac": "2.200"
+    },
+    "version": "v1.3.4",
+    "id": "hiimjustin000.better_icon_randomizer",
+    "name": "Better Icon Randomizer",
+    "developer": "hiimjustin000",
+    "description": "A mod based on randomizing icons and colors. (Unlocked icons and colors only)",
+    "repository": "https://github.com/hiimjustin000/BetterIconRandomizer",
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+    "settings": {
+        "randomize-button-color": {
+            "type": "custom"
+        }
+    }
+}

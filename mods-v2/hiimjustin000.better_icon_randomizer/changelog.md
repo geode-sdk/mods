@@ -1,4 +1,7 @@
 # Better Icon Randomizer Changelog
+## v1.3.4 (2024-05-10)
+- Removed Node IDs requirement for the mod to work
+
 ## v1.3.3 (2024-05-09)
 - Small optimizations to the codebase
 
