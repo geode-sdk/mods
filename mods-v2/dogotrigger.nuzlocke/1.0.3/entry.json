@@ -1,0 +1,12 @@
+{
+    "commit-author": "SergeyMC9730",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/SergeyMC9730/nuzlocke/releases/download/v1.0.3/dogotrigger.nuzlocke.geode",
+        "hash": "d2e186fd44bb64d2b711d86c14192834c14993cae7f23b73c2d034cfdaf31136",
+        "hash256": "eb14ec45d96cbb9c88cfaed92f1ac55dcc854ef490bfcbffd03ae0a5b8e9d388"
+    },
+    "tags": []
+}

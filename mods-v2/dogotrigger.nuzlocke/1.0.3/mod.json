@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.3",
+	"id": "dogotrigger.nuzlocke",
+	"name": "Nuzlocke",
+	"developer": "dogotrigger",
+	"description": "Nuzlocke Challenge in GD. If you die, your currently selected cube icon becomes unusable. If no icons remaining you lose. For better experience make new clean account.",
+	"resources": {
+		"files": [
+			"banner.png"
+		]
+	}
+}
