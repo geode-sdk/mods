@@ -1,0 +1,14 @@
+{
+    "commit-author": "Naxrin",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Naxrin/Chroma-Icons/releases/download/v1.0.0/naxrin.rgb_icons.geode",
+        "hash": "cdd91159f5538aefe2a797ea1d56694c612af7b18a999f1a33e809a5f4cbc2b0",
+        "hash256": "45f51ad1896e197a14a48c9e72e737161e5cdd192e2b36decaff3a7ad5cad205"
+    },
+    "tags": []
+}

@@ -1,0 +1,24 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {"win":"2.204", "android": "2.205"},
+	"version": "v1.0.0",
+	"id": "naxrin.rgb_icons",
+	"name": "Chroma Icons",
+	"developer": "Naxrin",
+	"description": "Chroma Icons like Mega Hack v7 Icon Effects!",
+	"repository":"https://github.com/Naxrin/Chroma-Icons",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		],
+		"files": [
+			"./title.png"
+		]
+	},
+	"dependencies": [
+		{
+			"id":"geode.node-ids",
+			"version": "1.0.0"
+	    }
+	]
+}
