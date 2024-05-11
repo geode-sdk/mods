@@ -3462,6 +3462,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "zmx.cbf-lite": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
