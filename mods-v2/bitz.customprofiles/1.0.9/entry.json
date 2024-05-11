@@ -1,0 +1,15 @@
+{
+    "commit-author": "iArtie",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/iArtie/CustomProfiles/releases/download/v1.0.9/bitz.customprofiles.geode",
+        "hash": "04bda293fc0f3f8c771f97f995837f0ea43aa2360738c022a87325f5f60c3b75",
+        "hash256": "944ba8b8e90cae5561e7727954f17587d61d26a55b1e5af2c6bc4847ee9dea2d"
+    },
+    "tags": []
+}

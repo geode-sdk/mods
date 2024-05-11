@@ -1,0 +1,70 @@
+{
+	"geode": "2.0.0-beta.26",
+	"version": "v1.0.9",
+	"id": "bitz.customprofiles",
+	"name": "CustomProfiles",
+	"developer": "BitZ",
+	"description": "My first mod to geode, a port for the original CustomProfiles now available with new features!",
+	"gd": {
+		"android": "2.205",
+		"mac": "2.200",
+		"win": "2.204"
+	},
+	"settings": {
+		"Corners-section": {
+			"name": "Corners",
+			"description": "You can change the corners from your profile right there!",
+			"type": "custom",
+			"scale": 300,
+			"posX": 65
+		},
+		"CornersOptions": {
+			"name": "Placement",
+			"description": "Nothing important here, LOL",
+			"type": "custom"
+		},
+		"Colors-section": {
+			"name": "Colors",
+			"description": "You can change the order of the colors from your profile right there!",
+			"type": "custom",
+			"scale": 300,
+			"posX": 65
+		},
+		"ColorOptions": {
+			"name": "Placement",
+			"description": "Nothing important here, LOL",
+			"type": "custom"
+		},
+		"Extras-section": {
+			"name": "Extras",
+			"description": "Some extra options!",
+			"type": "custom",
+			"scale": 300,
+			"posX": 65
+		},
+		"Disable-info-button": {
+			"name": "Disable info button",
+			"description": "This hide the info button from profile",
+			"type": "bool",
+			"default": false
+		},
+		"Account-settings": {
+			"name": "Account Settings",
+			"description": "NONE",
+			"type": "custom"
+		}
+
+	},
+	"repository": "https://github.com/iArtie/CustomProfiles",
+	"issues": {
+		"info": "Post your issues on the <cp>Issue tracking repository</c>.",
+		"url": "https://github.com/iArtie/CustomProfiles/issues/new/choose"
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.1.4",
+			"importance": "required"
+		}
+	]
+}
