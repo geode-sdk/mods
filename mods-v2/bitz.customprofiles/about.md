@@ -3,10 +3,7 @@ Customize your profile with a new and interesting interface!
 
 
 ## **News!**
-- Saving Settings fix!
-- Blocking users crash fix!
-- Revamped Settings Section!
-- Same Settings Section for all devices!
+- Blur mod crash fix!
 
 
 ## **Features**
