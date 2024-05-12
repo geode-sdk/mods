@@ -1,0 +1,17 @@
+{
+    "commit-author": "cgytrus",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/cgytrus/MenuShaders/releases/download/v1.2.0/cgytrus.menu-shaders.geode",
+        "hash": "47380b6eaf545904e5ff52a3fe4967a93d58784d6690a4a03fad37f802f55cf0",
+        "hash256": "0ad8e927c1c0313e7b3d38fb1e3d6163078b2497d60ddc03bcd0f789df8d4c1b"
+    },
+    "tags": [
+        "Customization"
+    ]
+}
