@@ -1,0 +1,15 @@
+{
+    "commit-author": "TheSillyDoggo",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheSillyDoggo/Blur-BG/releases/download/v1.0.0/thesillydoggo.blur_bg.geode",
+        "hash": "f6c5d8997b89b16ec47be9805ad1a77959a8fe628aeb7150b3692a78f6c8d1b8",
+        "hash256": "cb8dff95c2787aab389fdeb5b62db0b5d3f86eaedb06bdc8c9b0ee178c8376f4"
+    },
+    "tags": []
+}
