@@ -1,0 +1,21 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205",
+		"ios": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "thesillydoggo.blur_bg",
+	"name": "Blur BG",
+	"developer": "TheSillyDoggo",
+	"description": "Applys a gaussian blur to most popups in Geometry Dash",
+	"resources": {
+        "files": [
+			"resources/*.glsl",
+			"resources/*.hlsl",
+			"resources/*.png"
+        ]
+    }
+}
