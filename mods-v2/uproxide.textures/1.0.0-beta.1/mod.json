@@ -1,0 +1,28 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0-beta.1",
+	"id": "uproxide.textures",
+	"name": "Texture Workshop",
+	"developer": "Uproxide",
+	"description": "An Index for Texture Packs :)",
+	"resources": {
+		"spritesheets": {
+			"TWSSheet": [
+				"resources/TWSSheet/*.png"
+			]
+		}
+	},
+	"dependencies": [
+		{
+			"id": "geode.texture-loader",
+            "version": "*",
+            "importance": "required"
+		}
+	],
+	"repository": "https://github.com/Uproxide/Texture-Workshop"
+}

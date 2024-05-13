@@ -3478,6 +3478,12 @@
                 "1.0.0",
                 "1.0.1"
             ]
+        },
+        "uproxide.textures": {
+            "verified": false,
+            "versions": [
+                "1.0.0-beta.1"
+            ]
         }
     }
 }
