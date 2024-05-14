@@ -1,10 +1,6 @@
 {
     "commit-author": "YellowCat98",
     "platforms": [
-        "windows",
-        "android32",
-        "android64",
-        "ios"
     ],
     "mod": {
         "download": "https://github.com/YellowCat98/ProfileBio/releases/download/2.1.1/yellowcat98.profilebio.geode",
