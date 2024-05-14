@@ -3484,6 +3484,12 @@
             "versions": [
                 "1.0.0-beta.1"
             ]
+        },
+        "iandyhd3.known_players": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

@@ -1,0 +1,14 @@
+{
+    "commit-author": "iAndyHD3",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/iAndyHD3/KnownPlayers/releases/download/v1.0.0/iandyhd3.known_players.geode",
+        "hash": "b5caa81ce4fd9d56a2f01e1dd36bb38e1fab8395884c0a247ad420375c45c29b",
+        "hash256": "eca3fa8b06f6d96403cf414fdc2a5c75f5d23b2b76a91a71f3d5c62737dc0779"
+    },
+    "tags": []
+}
