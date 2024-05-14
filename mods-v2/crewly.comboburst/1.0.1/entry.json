@@ -1,0 +1,18 @@
+{
+    "commit-author": "crewly",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/crewly/comboBurst/releases/download/v1.0.1/crewly.comboburst.geode",
+        "hash": "4f1639272f5a3a44337910ad82cbd47e2a00e55b83281f1b374e2c319e6a1fd3",
+        "hash256": "5f89c401e4d403860ec076febfa59b6c817266d3cb14af7261eb66bb385b904f"
+    },
+    "tags": [
+        "Customization",
+        "Cosmetic",
+        "Gameplay"
+    ]
+}

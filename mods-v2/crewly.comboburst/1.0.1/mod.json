@@ -1,0 +1,112 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "crewly.comboburst",
+	"name": "Combo Burst",
+	"developer": "crewly",
+	"description": "Have characters cheer you on as you play the level!",
+	"repository": "https://github.com/crewly/comboBurst",
+	"tags": ["Customization", "Cosmetic", "Gameplay"],
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		],
+		"files": [
+			"resources/*.wav",
+			"resources/*.ogg",
+			"resources/*.mp3",
+			"resources/*.flic",
+			"resources/*.m4a"
+		]
+	},
+	"settings": {
+		"popup-enable": {
+			"name": "Enable Combo Burst",
+			"description": "Enable or disable the combo burst animations",
+			"type": "bool",
+			"default": true
+		},
+		"popup-volume": {
+			"name": "SFX Volume (%)",
+			"description": "Volume of the Sprite SFX",
+			"type": "int",
+			"default": 30,
+			"min": 0,
+			"max": 100,
+			"control": {
+				"slider": true
+			}
+		},
+		"sprite-pack": {
+			"name": "Sprite Pack",
+			"description": "The sprite pack to use for the pop-up animations. Check mod desc for list of sprites.",
+			"type": "int",
+			"default": 1,
+			"min": 0,
+			"max": 2,
+			"control": {
+				"slider": false
+			}
+		},
+		"popup-percent": {
+			"name": "Appear every %",
+			"description": "The percentage difference required for a popup animation.",
+			"type": "int",
+			"default": 30,
+			"min": 5,
+			"max": 100,
+			"control": {
+				"slider": true
+			}
+		},
+		"popup-size": {
+			"name": "Size",
+			"description": "The size of the sprites",
+			"type": "float",
+			"default": 0.55,
+			"min": 0.2,
+			"max": 1
+		},
+		"popup-defaultsfx": {
+			"name": "Use default SFX if needed",
+			"description": "Use sound effect if a custom sprite doesn't have their own sound effect.",
+			"type": "bool",
+			"default": true
+		},
+		"popup-sfxslider": {
+			"name": "Use GD SFX slider",
+			"description": "Use Geometry Dash's SFX volume slider for the mod. Overwrites the mod's volume setting.",
+			"type": "bool",
+			"default": false
+		},
+		"popup-random": {
+			"name": "Use randomizer",
+			"description": "Characters will be randomly picked. If disabled, characters will be shown sequentially.",
+			"type": "bool",
+			"default": true
+		},
+		"popup-platformer": {
+			"name": "Show in Platformer",
+			"description": "Show combo burst animations after every checkpoint in platformer mode. (MacOS not supported)",
+			"type": "bool",
+			"default": true
+		},
+		"popup-practice": {
+			"name": "Show in Practice Mode",
+			"description": "Show combo burst animations in practice mode.",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"importance": "required",
+			"version": ">=1.8.0"
+		}
+	]
+}
