@@ -1,0 +1,16 @@
+{
+    "commit-author": "blueblock6",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64",
+        "ios"
+    ],
+    "mod": {
+        "download": "https://github.com/blueblock6/CleanStartpos/releases/download/1.1.0/blueblock6.cleanstartpos.geode",
+        "hash": "25be1edac27e693dc148ce9f7af74eac8dfbe1ad430fd6a24a6df0a643b5b8ad",
+        "hash256": "35845269c36ddd0f6f0bc6005e6cde49a87b6bef327334aec89808f5e69ad806"
+    },
+    "tags": []
+}
