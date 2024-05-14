@@ -1,5 +1,8 @@
 # ChangeLog
 ### BetterMenu V2.04-beta.1
+* Compact mode (Not 100% finished)
+* Shadow-Window Bug fix (Expermental)
+### BetterMenu V2.04-beta.1
 * bug fix on menu
 ### BetterMenu V2.03
 * Cleaner Code
