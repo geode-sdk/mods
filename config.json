@@ -3495,6 +3495,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "hjfod.bettersave": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
