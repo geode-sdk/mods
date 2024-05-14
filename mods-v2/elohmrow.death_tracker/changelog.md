@@ -5,23 +5,36 @@
 - <cg>added Android support</c>
 - <cg>code refactor</c>
 - <cg>added scrolling</c>
+- <cg>added run tracking</c>
+- <cg>added multi-session tracking</c>
+- <cg>complete UI overhaul</c>
+- <cg>added graphs</c>
+- <cg>linking between levels</c>
 
 <---------- IN PROGRESS ---------->
 
-- <cg>added macOS support</c>
-- <cy>added run tracking</c>
-- <cy>added multi-session tracking</c>
-- <co>complete UI overhaul</c>
-- <co>added graphs</c>
+- <cy>added macOS support</c>
+- <cy>per-level and global customization settings</c>
 
 <---------- TO-DO ---------->
 
-- <co>linking between levels</c>
-- <co>per-level and global customization settings</c>
 - <co>custom save data folder path</c>
 - <co>import/export save data</c>
 
 # Changelog
+## v2.0.0-beta.4
+- added the new UI and removed the old one
+- added linking levels
+- added graphs
+- added multi session tracking
+- added run tracking
+- added manual run management
+- added layout customization
+- a lot of fixes
+- completions are now tracked as 100% instead of 0-100 runs
+
+This update has been in the works for the last 1.5 months so I really hope you enjoy it :D
+
 ## v2.0.0-beta.2
 - fixed a crash on android
 

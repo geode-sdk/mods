@@ -1,0 +1,18 @@
+{
+    "commit-author": "abb2k",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/eloh-mrow/death-tracker/releases/download/v2.0.0-beta.4/elohmrow.death_tracker.geode",
+        "hash": "47e7521586526ab008f8342c4822d752e8e4001dc046b06003407e924a16fadf",
+        "hash256": "5765590f4c7d095bc92fb0f02620839d61b3f30f740491f34398a0752af84de4"
+    },
+    "tags": [
+        "Utility",
+        "Interface"
+    ]
+}
