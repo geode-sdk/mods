@@ -1,3 +1,6 @@
+# v1.1.2
+ * Fix creating new levels / copying levels causing weird behaviours
+
 # v1.1.1
  * Fix an issue with the mod not being usable for developers on Android
 
