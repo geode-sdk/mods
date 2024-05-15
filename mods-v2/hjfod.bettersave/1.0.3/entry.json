@@ -1,0 +1,14 @@
+{
+    "commit-author": "HJfod",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/HJfod/BetterSave/releases/download/v1.0.3/hjfod.bettersave.geode",
+        "hash": "20cfe8b08252e247af1911c2f0611a7f1b6cb66fa8c3053d09c6533fa7b1e606",
+        "hash256": "817916663faefc12b0a204b04b65eb05b0760467a0f5b956b9ce67ac12d54ae2"
+    },
+    "tags": []
+}
