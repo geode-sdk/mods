@@ -1,0 +1,15 @@
+{
+    "commit-author": "Uproxide",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Uproxide/Texture-Workshop/releases/download/1.0.0-beta.2/uproxide.textures.geode",
+        "hash": "2335a96ae7d9cb99e1bf29a7ec0daa1ae7c05def210a88898a12a6ea06e7625e",
+        "hash256": "22268e0fc4e067917fc0a1886ba367da2cd1957dbabd934548ade00db5734948"
+    },
+    "tags": []
+}

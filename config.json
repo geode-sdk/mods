@@ -3488,7 +3488,8 @@
         "uproxide.textures": {
             "verified": false,
             "versions": [
-                "1.0.0-beta.1"
+                "1.0.0-beta.1",
+                "1.0.0-beta.2"
             ]
         },
         "iandyhd3.known_players": {
