@@ -1,3 +1,7 @@
+# v1.2.0
+ * Add support for level lists, as well as recovering any created lists that were accidentally deleted by earlier versions of BetterSave
+ * Fix various minor bugs
+
 # v1.1.2
  * Fix creating new levels / copying levels causing weird behaviours
 
