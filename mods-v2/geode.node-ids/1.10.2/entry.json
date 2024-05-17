@@ -1,0 +1,15 @@
+{
+    "commit-author": "kynex7510",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/NodeIDs/releases/download/v1.10.2/geode.node-ids.geode",
+        "hash": "632c1137f03b14403cc0545757d7074da81f166b56ce2b56c84bc32daac8d511",
+        "hash256": "5ba018819b4aaa6bc92a447f4d1b7aff998113ddaa30c96c51fa3dfcfa467217"
+    },
+    "tags": []
+}
