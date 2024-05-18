@@ -1,5 +1,8 @@
 # ChangeLog
-### BetterMenu V2.04-beta.1
+### BetterMenu V2.04-beta.3
+* Compact mode 
+* Buttons for each shortcut
+### BetterMenu V2.04-beta.2
 * Compact mode (Not 100% finished)
 * Shadow-Window Bug fix (Expermental)
 ### BetterMenu V2.04-beta.1
