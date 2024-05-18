@@ -1,3 +1,6 @@
+# 1.0.0 (Beta 3)
+- Change Patreon to Ko-Fi. Thats all :)
+
 # 1.0.0 (Beta 2)
 - Icons on Texture Packs
 - Descriptions
