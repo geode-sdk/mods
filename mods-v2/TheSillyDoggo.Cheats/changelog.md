@@ -1,3 +1,11 @@
+# 1.4.2
+
+- Added Individual X/Y scale mode in Creator Set Scale
+- Performance Improvements
+- Added Show Level Password
+- Added Pitch Shifter
+- Fixed Being unable to scroll in some layers
+
 # 1.4.1
 
 - Added new 'Darken' theme
