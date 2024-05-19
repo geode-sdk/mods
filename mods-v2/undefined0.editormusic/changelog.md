@@ -1,4 +1,7 @@
 # EditorMusic
+## v1.3.1
+- Fix folder input
+- Time formatting changes
 ## v1.3.0
 - Slightly wider menu (raydeeux)
 - Dynamic song label scaling, after much pestering from Capeling (raydeeux)
