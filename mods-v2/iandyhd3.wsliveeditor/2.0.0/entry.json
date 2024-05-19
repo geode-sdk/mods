@@ -1,0 +1,18 @@
+{
+    "commit-author": "iAndyHD3",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/iAndyHD3/WSLiveEditor/releases/download/v2.0.0/iandyhd3.wsliveeditor.geode",
+        "hash": "ae8ca14b4855e62b7f0e4a237433f1e0394393d1ff929ccb00b3abb728e842d7",
+        "hash256": "9ff4594ce2938a08429b17e7fb343f95aa0e99a04189645cf9070821474094f9"
+    },
+    "tags": [
+        "Devlopement",
+        "Tool",
+        "External",
+        "Utility",
+        "Editor"
+    ]
+}
