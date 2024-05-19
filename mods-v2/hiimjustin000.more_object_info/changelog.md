@@ -1,4 +1,8 @@
 # More Object Info Changelog
+## v1.0.6 (2024-05-19)
+- Added Object Type      
+- Tweaked display of scale and rotation values
+
 ## v1.0.5 (2024-05-06)
 - Small optimizations
 
