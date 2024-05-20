@@ -1,8 +1,18 @@
 # Changelog
 
+## v1.5.9
+
+ - Bump to Geode v2.0.0-beta.26
+ - Fix 'shift' not being passed in CCKeyboardDispatcher::dispatchKeyboardMSG
+
+## v1.5.8
+
+ - Bump to Geode v2.0.0-beta.25
+ - Fix Alt getting stuck when alt-tabbing out of the game
+
 ## v1.5.7
 
-- Fix some other PlayLayer binds from stopping PauseLayer binds
+ - Fix some other PlayLayer binds from stopping PauseLayer binds
 
 ## v1.5.6
 
