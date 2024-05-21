@@ -1,11 +1,11 @@
 # Happy Textures :3
 
-A mod that will fix small texture annoyances
+A Geometry Dash mod that brings texture packs to the next level!
 
-Current features include:
+## Features
 
-- Having a separate image for the title on the Menu Layer by adding GJ_title.png in your resources
-- Replacing bigFont does not affect levels anymore
-- CCScale9Sprite no longer has texture overlap issues (Transparent textures in the level search look good now :3)
+- Replacing bigFont (Pusab) will not replace the font within levels.
+- Fixed overlapping texture issues with CCScale9Sprite (Transparent textures in the level search look good now)
+- Extensive Data Driven UI support with JSON
 
-Feature requests welcome, DM me @Alphalaneous on Discord
+**For a full explanation on how this works, visit the README for this mod at https://github.com/Alphalaneous/HappyTextures/blob/main/README.md**
