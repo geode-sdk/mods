@@ -1,0 +1,15 @@
+{
+    "commit-author": "HJfod",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/NodeIDs/releases/download/v1.11.0/geode.node-ids.geode",
+        "hash": "d226c3753e29679e8ca3f386bfb4de27a7811ecd47aaa78014706cdd86bd5c5e",
+        "hash256": "0b710ea3576ed2aca29fdcd430ce6c1547837d7457ee10097139b0864d9336dd"
+    },
+    "tags": []
+}
