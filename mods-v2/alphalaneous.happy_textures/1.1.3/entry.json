@@ -1,0 +1,15 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/HappyTextures/releases/download/1.1.3/alphalaneous.happy_textures.geode",
+        "hash": "8357a3c53026beb8b8cd59a7fcd02df7a2bfead7c315a7d6ad0bebe95d45cc35",
+        "hash256": "df35fc33b55221a7cb7351c52b1c95cc66cd76e11e548c57b5aa154c1be10ec9"
+    },
+    "tags": []
+}
