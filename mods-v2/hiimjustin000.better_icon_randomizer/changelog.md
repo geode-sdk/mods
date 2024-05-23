@@ -1,4 +1,12 @@
 # Better Icon Randomizer Changelog
+## v1.3.6 (2024-05-16)
+- Tweaked the ordering of buttons in the popup menu
+- Added back Node IDs requirement for the mod to work
+
+## v1.3.5 (2024-05-12)
+- More tweaks to the randomize button
+- Changed the logo because I essentially stole the last one
+
 ## v1.3.4 (2024-05-10)
 - Removed Node IDs requirement for the mod to work
 
