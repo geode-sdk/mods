@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"version": "v1.0.1",
+	"id": "ziegenhainy.xxlify",
+	"name": "XXLify",
+	"developer": "Ziegenhainy",
+	"description": "Levels longer than 4 minutes get more Xs in the length"
+}

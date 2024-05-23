@@ -1,0 +1,15 @@
+{
+    "commit-author": "Ziegenhainy",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Ziegenhainy/XXLify/releases/download/v1.0.1/ziegenhainy.xxlify.geode",
+        "hash": "a2e7131201cf15d9a9708f8a755b39c6761c88c3047b570bfc4608a7b2013deb",
+        "hash256": "11f52eb152a85e71977594c4924abfbc4949fc14a85f6054d3ca05eae60b443b"
+    },
+    "tags": []
+}
