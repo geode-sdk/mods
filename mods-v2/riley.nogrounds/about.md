@@ -1,5 +1,9 @@
-# nogrounds
-the mod just removes the newgrounds button, thats all
-thank you uproxide for helping :crown:
+# NoGrounds
+Removes the Newgrounds button from the game, as it really doesn't do much.
 
-made this to just learn how to make mods (yay)
+Developed by Riley
+Uproxide helped me code the first version
+and M336 ported it to other platforms!
+
+Thank you, Uproxide and M336!
+# Join [Uproxide's Little Land](https://discord.gg/Nb9ZuXtx5y)!

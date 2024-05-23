@@ -1,0 +1,19 @@
+{
+    "commit-author": "rileythesillyone",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/rileythesillyone/nogrounds/releases/download/update/riley.nogrounds.geode",
+        "hash": "ba07fb3092dae51047d03e7d87821f0204f236754695c0a0652a911583d49e38",
+        "hash256": "61b9893e41e92045b0bcc51539f125a807ac1f4fd866cd56433d3ea8e0077f92"
+    },
+    "tags": [
+        "Interface",
+        "Cosmetic",
+        "MenuLayer"
+    ]
+}

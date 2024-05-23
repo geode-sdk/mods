@@ -1962,7 +1962,8 @@
         "riley.nogrounds": {
             "verified": false,
             "versions": [
-                "1.0.0"
+                "1.0.0",
+                "1.0.1"
             ]
         },
         "jojo989.main_menu_bg_customizer": {
