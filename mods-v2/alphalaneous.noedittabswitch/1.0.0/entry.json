@@ -1,0 +1,15 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/NoEditTabSwitch/releases/download/1.0.0/alphalaneous.noedittabswitch.geode",
+        "hash": "c7816f2d0af8c41ec68f4ae591a7b30bca97ee1bf13df11d1c4809a36b5ca2d4",
+        "hash256": "f002ef87e55d6f5d42a85457db8d47e6dfdd428880535d4c80596a86135df32d"
+    },
+    "tags": []
+}
