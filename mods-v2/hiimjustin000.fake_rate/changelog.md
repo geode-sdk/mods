@@ -1,4 +1,7 @@
 # Fake Rate Changelog
+## v1.1.3 (2024-05-20)
+- Fixed a mistake in the manifest that caused More Difficulties 1.1.0 to not be marked as incompatible
+
 ## v1.1.2 (2024-04-30)
 - Marked More Difficulties version 1.1.0 as incompatible
 - Fixed position of difficulty faces
