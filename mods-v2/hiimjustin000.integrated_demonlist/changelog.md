@@ -1,4 +1,9 @@
 # Integrated Demonlist Changelog
+## v1.4.7 (2024-05-15)
+- Fixed a bug where two-player demons would appear twice in the demonlist
+- Fixed a few bugs with the demonlist search    
+- Changed the logo to be more in line with Geode's logo style
+
 ## v1.4.6 (2024-04-30)
 - Tweaked the appearance of the demonlist button
 - Fixed incompatibility with DarkMode V4
