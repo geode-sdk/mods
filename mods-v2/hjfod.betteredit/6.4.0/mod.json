@@ -1,0 +1,147 @@
+{
+	"geode": "2.0.0-beta.26",
+	"version": "6.4.0",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"id": "hjfod.betteredit",
+	"name": "BetterEdit",
+	"developers": ["HJfod"],
+	"description": "The Ultimate Editor Mod",
+	"repository": "https://github.com/HJfod/BetterEdit",
+	"links": {
+		"homepage": "https://betteredit.pro",
+		"source": "https://github.com/HJfod/BetterEdit",
+		"community": "https://discord.gg/UGHDfzQtpz"
+	},
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": "1.11.0",
+            "importance": "required"
+        },
+		{
+			"id": "geode.custom-keybinds",
+			"version": "1.5.0",
+			"importance": "required",
+			"platforms": ["windows"]
+		},
+		{
+			"id": "hjfod.gmd-api",
+			"version": "1.1.0",
+			"importance": "required"
+		},
+		{
+			"id": "hjfod.bettersave",
+			"version": "1.2.0",
+			"importance": "required"
+		}
+    ],
+	"resources": {
+		"spritesheets": {
+			"UISheet": [
+				"resources/*.png"
+			],
+			"ViewTabSheet": [
+				"resources/view/*.png"
+			]
+		}
+	},
+	"settings": {
+		"auto-save": {
+			"type": "bool",
+			"default": true,
+			"name": "Auto-save",
+			"description": "Automatically saves the level every 5 minutes, as well as creates a backup. The backups created by autosave get automatically deleted after 3 new ones have been created to avoid using too much disk space"
+		},
+		"mouse-move-on-zoom": {
+			"type": "bool",
+			"default": true,
+			"name": "Zoom Towards Cursor",
+			"description": "When enabled and while holding down the CTRL key, zooming in the editor with the scroll wheel will be zoomed toward the cursor and not the center of the screen",
+			"platforms": ["windows", "macos"]
+		},
+		"pinch-to-zoom": {
+			"type": "bool",
+			"default": true,
+			"name": "Pinch to Zoom",
+			"description": "When enabled, you can use two fingers to zoom",
+			"platforms": ["android32", "android64"]
+		},
+		"show-zoom-text": {
+			"type": "bool",
+			"default": true,
+			"name": "Show Zoom Text",
+			"description": "When enabled, flashes the current zoom level as text when you zoom in / out in the editor"
+		},
+		"scale-factor": {
+			"type": "float",
+			"default": 1.00,
+			"max": 1.00,
+			"min": 0.6,
+			"name": "Scale Factor",
+			"description": "The factor the UI should be scaled by. <cr>Requires re-entering the editor!</c>",
+			"control": {
+                "slider": true,
+				"slider-step": 0.025
+            }
+		},
+		"scale-pause": {
+			"type": "bool",
+			"default": true,
+			"name": "Scale Pause Menu",
+			"description": "Whether the editor pause menu should be scaled according to the scale factor aswell"
+		},
+		"scale-build-tabs": {
+			"type": "bool",
+			"default": true,
+			"name": "Scale Build Tabs",
+			"description": "Whether the tabs above the object selection area should be scaled according to the scale factor aswell"
+		},
+		"better-font-select": {
+			"type": "bool",
+			"default": true,
+			"name": "New Font Selection Menu",
+			"description": "Replaces the old font select screen with a better one with scrolling"
+		},
+		"new-edit-menu": {
+			"type": "bool",
+			"default": true,
+			"name": "New Edit Menu",
+			"description": "Changes the object moving menu to have the move button grouped directionally rather than in a list. <cr>Requires re-entering the editor!</c>"
+		},
+		"new-color-menu": {
+			"type": "bool",
+			"default": true,
+			"name": "New Color Menu",
+			"description": "Changes the object color selection menu to show more channels aswell as previews for colors and special colors"
+		},
+		"larger-color-menu": {
+			"type": "bool",
+			"default": {
+				"win": false,
+				"mac": false,
+				"android": true
+			},
+			"name": "Larger Color Menu",
+			"description": "If you're using the <cr>New Color Menu</c>, this makes the color channel buttons a bit larger"
+		},
+		"grid-size-controls": {
+			"type": "bool",
+			"default": true,
+			"name": "Show Grid Size Controls",
+			"description": "Shows controls in the UI for adjusting the size of the grid. <cr>Requires re-entering the editor!</c>",
+			"platforms": ["windows", "android64"]
+		},
+		"show-grid-on-size-change": {
+			"type": "bool",
+			"default": true,
+			"name": "Show Grid on Size Change",
+			"description": "If the grid is currently hidden and you use the controls to change its size, its toggled on",
+			"platforms": ["windows", "android64"]
+		}
+	},
+	"tags": ["editor", "enhancement", "utility", "customization"]
+}
