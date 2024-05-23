@@ -1,0 +1,37 @@
+{
+	"geode": "2.0.0-beta.23",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "xiyxs.daily_and_weekly_levels",
+	"name": "Daily & Weekly Indicators",
+	"developer": "xiyxs",
+	"description": "Adds an indicator to show which levels have been daily or weekly.",
+	"settings": {
+		"levelcell": {
+			"name": "Show in level cell",
+			"description": "Shows the indicator in the level cell (search, featured, etc.)",
+			"type": "bool",
+			"default": true
+		},
+		"levelinfo": {
+			"name": "Show in level info",
+			"description": "Shows the indicator in the level info page (the one you see before playing the level)",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/data.txt",
+			"resources/daily.png",
+			"resources/weekly.png"
+		]		
+	},
+	"dependencies": [
+	        {
+	            "id": "geode.node-ids",
+	            "version": ">=v1.10.2",
+	            "importance": "required"
+	        }
+	]
+}

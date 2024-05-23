@@ -1,0 +1,12 @@
+{
+    "commit-author": "xiyxs",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/xiyxs/Daily-and-Weekly-Levels/releases/download/v1.0.0/xiyxs.daily_and_weekly_levels.geode",
+        "hash": "184da2db50ce4396a96c5951f308b0a30f092262701f199fb1e143bed6d2c1b6",
+        "hash256": "072b7e994b51dd4dcb3abd43770c949dac63940255e5a18cef8e7101571f9164"
+    },
+    "tags": []
+}

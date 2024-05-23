@@ -3549,6 +3549,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "xiyxs.daily_and_weekly_levels": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
