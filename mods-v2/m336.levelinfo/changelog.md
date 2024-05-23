@@ -1,3 +1,10 @@
+# Version 1.3.4
+- Add the original level ID setting
+- Reduced "Edit. Time" and "Edit. Time (+cop.)" to "Editor" and "Edit. (+cop.)"
+- Added the "customization" tag
+- Improved settings' description
+- Code improvements
+
 # Version 1.3.3
 - Added the text size setting
 - Code improvements & optimization (Thanks wnt\nr!)
