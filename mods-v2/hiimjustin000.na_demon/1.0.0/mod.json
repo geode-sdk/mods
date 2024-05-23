@@ -1,0 +1,22 @@
+{
+    "geode": "2.0.0-beta.26",
+    "gd": {
+        "android": "2.205",
+        "ios": "2.205",
+        "win": "2.204",
+        "mac": "2.200"
+    },
+    "version": "v1.0.0",
+    "id": "hiimjustin000.na_demon",
+    "name": "NA Demon",
+    "developer": "hiimjustin000",
+    "description": "A mod that assigns a demon rating to unrated levels that request it.",
+    "repository": "https://github.com/hiimjustin000/NADemon",
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.9.1",
+            "importance": "required"
+        }
+    ]
+}

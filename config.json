@@ -3540,6 +3540,12 @@
                 "1.1.2",
                 "1.2.0"
             ]
+        },
+        "hiimjustin000.na_demon": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
