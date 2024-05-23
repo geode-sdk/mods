@@ -3555,6 +3555,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "hiimjustin000.every_key_jumps": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
