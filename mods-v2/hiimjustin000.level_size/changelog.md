@@ -1,4 +1,8 @@
 # Level Size Changelog
+## v1.1.0 (2024-05-18)
+- Changed the appearance of the sort by size button and moved it to the bottom center of the level browser
+- Added iOS support
+
 ## v1.0.3 (2024-04-15)
 - Moved the level size label to the bottom right corner of the level cell
 - Added macOS support
