@@ -1,3 +1,6 @@
+# v1.2.2
+ * Fix changes to level info not being saved
+
 # v1.2.1
  * Fix crash on startup
 
