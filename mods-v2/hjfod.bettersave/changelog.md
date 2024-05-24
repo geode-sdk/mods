@@ -1,3 +1,6 @@
+# v1.2.1
+ * Fix crash on startup
+
 # v1.2.0
  * Add support for level lists, as well as recovering any created lists that were accidentally deleted by earlier versions of BetterSave
  * Fix various minor bugs
