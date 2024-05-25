@@ -1,3 +1,10 @@
+## v1.3.0
+- Fix crash when getting two or more crashes (how ironic)
+- Added a button to terminate a crashed thread
+- Now only one crashlog window will exist, closing previous one when opening a new one
+- Added thread start address to crashlog
+- Fixed default layout + added a button to reset layout in "Settings" submenu
+
 ## v1.2.0
 - Save window position and size
 - Improved function name resolution

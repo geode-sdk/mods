@@ -18,7 +18,9 @@ A mod that overhauls the crash log system in Geometry Dash.
 - [x] Motivational quotes (like in Minecraft)
 - [x] Base game method names (no more GeometryDash.exe+0x123456)
 - [x] Basic disassembly view (using Zydis)
+- [x] Terminate crashed threads without closing the game
 
 ## Planned Features
 - [ ] Fetch .pdb files from mod's GitHub repository (if available)
 - [ ] Add a settings menu to configure the theme/font size
+- [ ] Get class names for CCObject pointers
