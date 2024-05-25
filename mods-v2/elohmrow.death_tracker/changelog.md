@@ -22,6 +22,14 @@
 - <co>import/export save data</c>
 
 # Changelog
+## v2.0.0-beta.5
+- stopped macOS support temporarily
+- fixed platformer level tracking
+- fixed lots of crash bugs
+- added the option to delete the current level save
+- added the option to revert your save back to a backup in the case of the saves corruption
+
+# Changelog
 ## v2.0.0-beta.4
 - added the new UI and removed the old one
 - added linking levels
