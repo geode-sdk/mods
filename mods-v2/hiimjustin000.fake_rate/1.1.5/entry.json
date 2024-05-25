@@ -1,0 +1,15 @@
+{
+    "commit-author": "hiimjustin000",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/hiimjustin000/FakeRate/releases/download/v1.1.5/hiimjustin000.fake_rate.geode",
+        "hash": "b912fee62722a13c1feb5b8bd11dcbc127013b4bbfa4d7f6bebe1a8b175a8d36",
+        "hash256": "16ec7861f8fc1a060f0abf1758fe3db6c09b90e436eda82caedc33c762f7b85a"
+    },
+    "tags": []
+}
