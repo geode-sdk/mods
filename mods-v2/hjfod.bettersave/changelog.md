@@ -1,3 +1,6 @@
+# v1.2.4
+ * Don't assume CCLocalLevels name (for GDPSes)
+
 # v1.2.3
  * Fix a crash when CCLocalLevels doesn't exist
 
