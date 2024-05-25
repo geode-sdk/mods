@@ -1,3 +1,6 @@
+# v1.2.3
+ * Fix a crash when CCLocalLevels doesn't exist
+
 # v1.2.2
  * Fix changes to level info not being saved
 
