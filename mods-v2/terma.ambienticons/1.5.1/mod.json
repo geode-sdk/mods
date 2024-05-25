@@ -1,0 +1,158 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.5.1",
+	"id": "terma.ambienticons",
+	"name": "Ambient Icons",
+	"developer": "Terma",
+	"description": "The color of the icons syncs with the color of the level you are playing!",
+	"tags": ["Customization"],
+	"settings": {
+		"change-main-color": {
+			"name": "Change main color",
+			"type": "bool",
+			"default": true
+		},
+		"change-secondary-color": {
+			"name": "Change secondary color",
+			"type": "bool",
+			"default": false
+		},
+		"change-main-color-dual": {
+			"name": "Change dual main color",
+			"type": "bool",
+			"default": true
+		},
+		"change-secondary-color-dual": {
+			"name": "Change dual secondary color",
+			"type": "bool",
+			"default": false
+		},
+		"change-wave-trail": {
+			"name": "Change wave trail color",
+			"description": "<co>Having ambient glow enabled makes this option useless.</c>",
+			"type": "bool",
+			"default": true
+		},
+		"change-glow-color": {
+			"name": "Change glow color",
+			"type": "bool",
+			"default": false
+		},
+		"render-x-pos": {
+			"name": "Set X",
+			"description": "Set where in the X axis pick the colors. <co>0.4 may conflict with player follow picker.</c>",
+			"type": "float",
+			"default": 0.3,
+			"min": 0,
+			"max": 1,
+			"control": {
+				"slider-step": 0.1,
+				"slider": true,
+				"arrows": false
+			}
+		},
+		"render-y-pos": {
+			"name": "Set Y",
+			"description": "Set where in the Y axis pick the colors\n<co>Overriden by Y offset when player follow is enabled.</c>",
+			"type": "float",
+			"default": 0.5,
+			"min": 0,
+			"max": 1,
+			"control": {
+				"slider-step": 0.1,
+				"slider": true,
+				"arrows": false
+			}
+		},
+		"player-follow-picker": {
+			"name": "Follow player",
+			"description": "The color picker follows the player\n<co>Useful when the level has a custom BG, doesn't work with dual.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"player-follow-offset": {
+			"name": "Follow player Y offset",
+			"description": "Set where in the Y axis pick the colors related to the player position on Y\n(player pos + offset).",
+			"type": "float",
+			"default": 0.1,
+			"min": 0,
+			"max": 0.3,
+			"control": {
+				"slider-step": 0.1,
+				"slider": true,
+				"arrows": false
+			}
+		},
+		"update-time": {
+			"name": "Update time (ms)",
+			"description": "<co>Increase the value if there are too many flashing colors or having fps drops.</c>",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 1000,
+			"control": {
+				"slider": true,
+				"arrows": false
+			}
+		},
+		"bg-color-picker": {
+			"name": "Pick color from BG",
+			"description": "Picks the background color instead of picking the screen color.\n<co>Having this option disabled can cause flashing lights. Doesn't change on custom BG</c>",
+			"type": "bool",
+			"default": true
+		},
+		"change-method-when-black": {
+			"name": "Change method on black",
+			"description": "Change the pick color method (BG picker to non-follow screen picker) if the color picked in the BG is black (0,0,0).",
+			"type": "bool",
+			"default": true
+		},
+		"change-to-follow-method-when-black": {
+			"name": "Change method to follow",
+			"description": "Change the pick color method (BG picker to screen player follow picker) if the color picked in the BG is black (0,0,0).",
+			"type": "bool",
+			"default": true
+		},
+		"player-flash": {
+			"name": "Show Player Flash",
+			"description": "Show player flashes in dash orbs, spider orbs, teleports and spider dashes.\n<co>It may cause update color bugs when is enabled without 0ms update time.</c>",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"incompatibilities": [
+		{
+			"id": "saumondeluxe.rainbow_icon",
+			"version": "*",
+			"importance": "conflicting"
+		},
+		{
+			"id": "ninkaz.blending_glow",
+			"version": "*",
+			"importance": "conflicting"
+		},
+		{
+			"id": "capeling.coloured-wave-trail",
+			"version": "*",
+			"importance": "conflicting"
+		},
+		{
+			"id": "asaki_zuki.same_dual_color",
+			"version": "*",
+			"importance": "conflicting"
+		}
+	],
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"importance": "required",
+			"version": ">=1.8.0"
+		}
+	],
+
+	"repository": "https://github.com/Termantita/AmbientIcons"
+}

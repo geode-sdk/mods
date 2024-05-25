@@ -13,3 +13,8 @@ Can cause performance issues with <cy>Globed</c>.
 - Adjust where to pick the colors in the mod's settings (X and Y axes)
 - **BG color picker** - Pick the color from the BG wihout objects affecting the picked color
 - **Player follow color picker** - Autoadjust by following the player where to pick the colors
+
+### New incoming stuff (maybe)
+
+- Add multithreading (better performance)
+- Fix player follow picker (mainly for 2 Player mode)
