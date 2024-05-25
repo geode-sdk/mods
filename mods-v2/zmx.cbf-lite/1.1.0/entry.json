@@ -1,0 +1,19 @@
+{
+    "commit-author": "qimiko",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/qimiko/click-on-steps/releases/download/v1.1.0/zmx.cbf-lite.geode",
+        "hash": "34b814f552f79c9aeb1653ea10fbbd25e0016bc88b7f492a28a06488b91f96b0",
+        "hash256": "15b05aacdbdf739346d519696587cb3b473f75275cf4327761db1679d752def0"
+    },
+    "tags": [
+        "gameplay",
+        "performance",
+        "enhancement"
+    ]
+}

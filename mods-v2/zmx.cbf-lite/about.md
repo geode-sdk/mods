@@ -8,7 +8,7 @@ In practice, you gain the following benefits:
 - No physics/trigger bugs, including in platformer mode
 - Improved bot compatibility
 - Improved support for other input devices
-- Theoretically leaderboard safe (identical to playing on 240fps). Don't take my word on that.
+- Theoretically leaderboard safe (identical to playing on 240fps).
 
 Unlike CBF, this mod _cannot_ click between steps.
 Which is to say, your input precision is fixed at 240 tps.
@@ -17,7 +17,12 @@ This mod is made for players on lower end devices, or devices that don't perform
 
 See the README.md on the GitHub repository for more details.
 
+Android support requires the **latest version** of the Android launcher.
+
+_Windows support is experimental!_ Windowing issues may occur :(
+
 ## Special Thanks
 
-- [mat](https://github.com/matcool) for the name
+- [mat](https://github.com/matcool) for the name and Windows testing
 - [ninXout](https://github.com/ninXout) for testing
+- [syzzi](https://github.com/theyareonit) for the original mod concept
