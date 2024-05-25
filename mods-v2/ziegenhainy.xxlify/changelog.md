@@ -1,3 +1,12 @@
+# v1.1.2
+* Fixe doccasional-er crashes
+
+# v1.1.1
+* Fixed occasional crashes
+
+# v1.1.0
+* 2.1 and earlier levels now supported! Thanks to CVolton's [BetterInfo](https://github.com/Cvolton/betterinfo-geode/) mod!
+
 # v1.0.1
 * very minor improvements
 * New logo
