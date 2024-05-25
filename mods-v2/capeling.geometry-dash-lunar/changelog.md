@@ -1,4 +1,6 @@
 # Geometry Dash: Lunar Changelog
+## v2.0.1
+- Removes start pos from Ground Zero
 ## v2.0.0
 - New main levels "Power Glove", "Payback", "Reverie", "Ground Zero" and "Ultrasonic"
 - New achievements
