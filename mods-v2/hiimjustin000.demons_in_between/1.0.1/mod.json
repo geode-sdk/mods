@@ -1,0 +1,31 @@
+{
+    "geode": "2.0.0-beta.26",
+    "gd": {
+        "android": "2.205",
+        "win": "2.204",
+        "mac": "2.200"
+    },
+    "version": "v1.0.1",
+    "id": "hiimjustin000.demons_in_between",
+    "name": "Demons In Between",
+    "developer": "hiimjustin000",
+    "description": "A mod that adds additional demon difficulties in between existing ones.",
+    "repository": "https://github.com/hiimjustin000/DemonsInBetween",
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.9.1",
+            "importance": "required"
+        }
+    ],
+    "resources": {
+        "spritesheets": {
+            "DIB_LongSheet": [
+                "resources/LongSheet/*.png"
+            ],
+            "DIB_ShortSheet": [
+                "resources/ShortSheet/*.png"
+            ]
+        }
+    }
+}
