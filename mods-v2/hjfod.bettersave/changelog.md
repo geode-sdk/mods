@@ -1,3 +1,6 @@
+# v1.3.0
+ * Save to CCLocalLevels all the time to ensure data isn't lost when updating to 2.206
+
 # v1.2.4
  * Don't assume CCLocalLevels name (for GDPSes)
 
