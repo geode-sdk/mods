@@ -1,0 +1,35 @@
+{
+	"geode": "2.0.0-beta.27",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200",
+		"android": "2.205"
+	},
+	"version": "v1.2.0",
+	"id": "ziegenhainy.xxlify",
+	"name": "XXLify",
+	"developer": "Ziegenhainy",
+	"description": "Levels longer than 4 minutes get more Xs in the length",
+	"settings": {
+        "maximum-xs": {
+            "name": "Maximum Xs",
+            "description": "How many Xs you can have before an L",
+            "type": "int",
+            "default": 10,
+			"max": 10,
+			"min": 1
+        },
+		"use-power-notation": {
+			"name": "Use power notation",
+			"description": "If enabled, XXL and longer levels will be displayed using power notation, i.e. \"XXXL\" becomes \"X^3L\"",
+			"type": "bool",
+			"default": false
+		},
+		"xxl-plus": {
+			"name": "Enable XXL+",
+			"description": "If enabled, levels that are beyond halfway to the next XXL label get a + added to the length",
+			"type": "bool",
+			"default": false
+		}
+    }
+}
