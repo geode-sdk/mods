@@ -3604,6 +3604,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "xytriza.menu_modifier": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
