@@ -1,0 +1,15 @@
+{
+    "commit-author": "Alphalaneous",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Alphalaneous/Icon-Kit-Switcher/releases/download/1.0.3/thesillydoggo.icon_kit_switcher.geode",
+        "hash": "8137c8c20dca8464f2f35758bd46171b7d58c2abed161f697f19d99d02af6d07",
+        "hash256": "216ea74244bf2ddcadb3d13ab21e934f95402de2f9a7a2e7385282e22d268e06"
+    },
+    "tags": []
+}
