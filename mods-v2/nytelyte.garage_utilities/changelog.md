@@ -1,3 +1,9 @@
+# v1.0.5
+- fix crashes on Android
+- better compatibility with Better Unlock Info
+  - don't remove diamond shards, hide them instead, BUI tries to modify the label, causing a crash
+  - refresh the filters if something is purchased inside the garage using BUI's purchase popups
+
 # v1.0.4
 - added support for colors in the item info popup on profile pages
 - reordered gauntlets for strict category to match newly added ones
