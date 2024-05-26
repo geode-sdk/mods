@@ -1,0 +1,18 @@
+{
+    "commit-author": "Xytriza",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Xytriza/menu-modifier/releases/download/v1.0.1/xytriza.menu_modifier.geode",
+        "hash": "f8f8643fc5bf3d96479a8effe0f50dd3f5faa3a98d9ff5734ee2e8eae2bf975b",
+        "hash256": "5cfaad3eb2b1a518165c62fff6d4a17be55d56731e3bd618cf1ba1cbbb84a5fc"
+    },
+    "tags": [
+        "Customization",
+        "Interface"
+    ]
+}
