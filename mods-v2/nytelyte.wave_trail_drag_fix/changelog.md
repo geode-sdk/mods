@@ -1,3 +1,6 @@
+# v1.2.7
+- slightly better interaction with slopes
+
 # v1.2.6
 - fix interaction with slope stacks
 - make the wave snapping to blocks visible, drawing a vertical line
