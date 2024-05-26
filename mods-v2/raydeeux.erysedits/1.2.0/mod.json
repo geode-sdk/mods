@@ -1,0 +1,668 @@
+{
+	"geode": "2.0.0-beta.27",
+	"gd": {
+		"mac": "2.200",
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.2.0",
+	"id": "raydeeux.erysedits",
+	"name": "ErysEdits",
+	"developers": ["RayDeeUx", "acaruso"],
+	"description": "Just a few of my tweaks that were better off under one mod instead of standalone mods.",
+	"repository": "https://github.com/RayDeeUx/ErysEdits",
+	"settings": {
+		"erysedits": {
+			"name": "ErysEdits",
+			"desc": "Settings for the ErysEdits mod itself.",
+			"type": "custom"
+		},
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"debug-text": {
+			"name": "Info Label / Debug Text",
+			"desc": "Settings for editing the info label in PlayLayer.",
+			"type": "custom"
+		},
+		"debugTextToggle": {
+			"name": "Enable Debug Text Changes",
+			"description": "A soft toggle for this mod's edits to the info label in PlayLayer.\n(Useful to prevent massive FPS loss for the small population of users who have Viper's Oppenheimer mod menu installed, or still have Zilko's xdBot installed before it was de-listed from the Geode index.)",
+			"type": "bool",
+			"default": true
+		},
+		"blendingDebugText": {
+			"name": "Readable Mode",
+			"description": "Make the info label easier to read across a far larger variety of scenarios.\n\n<cy>(Make sure to check out the other options below this one!)</c>",
+			"type": "bool",
+			"default": true
+		},
+		"debugTextAlpha": {
+			"name": "Adjust Alpha/Opacity",
+			"description": "Sets the info label's opacity. Minimum is 150 (as seen in vanilla Geometry Dash).",
+			"type": "int",
+			"default": 150,
+			"min": 150,
+			"max": 255,
+			"control": {
+				"input": false,
+				"slider": true,
+				"arrows": false,
+				"big-arrows": false,
+				"arrow-step": 0,
+				"big-arrow-step": 0,
+				"slider-step": 1
+			}
+		},
+		"maxAlphaDebugText": {
+			"name": "Max Opacity",
+			"description": "Maxes the info label's opacity. This quick toggle is here in case you'd like to briefly see your debug text at maximum opacity without having to remember what your preferred value for the \"Adjust Alpha/Opacity\" setting was.\n\n<cy>(If this is enabled, your setting for \"Adjust Alpha/Opacity\" will be ignored.)</c>",
+			"type": "bool",
+			"default": false
+		},
+		"chromaDebugText": {
+			"name": "Chroma Mode",
+			"description": "<cl>Original code by ItzKiba.</c>\n\nSets the color of the info label to that of a rainbow, as a last ditch effort to make the debug text readable under every imaginable circumstance without flooding your Geode logs.",
+			"type": "bool",
+			"default": false
+		},
+		"chromaDebugTextSpeed": {
+			"name": "Chroma Speed",
+			"description": "Sets how quickly (lower value)/slowly (higher value) the info label changes color if \"Chroma Mode\" is enabled.",
+			"type": "float",
+			"default": 0.5,
+			"min": 0.1,
+			"max": 2.0,
+			"control": {
+				"input": false,
+				"slider": true,
+				"arrows": false,
+				"big-arrows": false,
+				"arrow-step": 0,
+				"big-arrow-step": 0,
+				"slider-step": 0.1
+			}
+		},
+		"tapsToClicks": {
+			"name": "\"Taps\" -> \"Clicks\"/\"Actions\"",
+			"description": "\"Taps\" becomes \"Clicks\" (\"Actions\" in platformer levels).",
+			"type": "bool",
+			"default": true
+		},
+		"includeJumps": {
+			"name": "Include Jumps",
+			"description": "Includes your current session's jump count (stylized like <cy>[this]</c>) next to your \"Taps\"/\"Clicks\"/\"Actions\" label.",
+			"type": "bool",
+			"default": true
+		},
+		"pluralAttempts": {
+			"name": "Plural Attempts",
+			"description": "\"Attempt\" becomes \"Attempts\".",
+			"type": "bool",
+			"default": true
+		},
+		"fixLevelIDLabel": {
+			"name": "Fix \"LevelID:\" Label",
+			"description": "\"LevelID:\" becomes \"Level ID:\".",
+			"type": "bool",
+			"default": true
+		},
+		"expandPerformance": {
+			"name": "Expand \"Perf\" Header",
+			"description": "\"-- Perf --\" becomes \"-- Performance --\".",
+			"type": "bool",
+			"default": true
+		},
+		"addGameplayHeader": {
+			"name": "Add \"Gameplay\" Header",
+			"description": "Adds a \"-- Gameplay --\" header to the first section.",
+			"type": "bool",
+			"default": true
+		},
+		"addCurrentChannel": {
+			"name": "Show Current Channel",
+			"description": "Shows the currently active channel.\n\n<cy>(Currently unavailable for macOS.)</c>",
+			"type": "bool",
+			"default": true,
+			"platforms": ["windows", "android64", "android32"]
+		},
+		"accuratePosition": {
+			"name": "Accurate Player Position",
+			"description": "Adds four more decimal points to the player's X and Y positions in the first section.\n\n<cy>(If you want accurate player positions while your player's X or Y position is in the negatives, consider buying MegaHack v8 instead; levels won't let you get there anyways without a start position.)</c>",
+			"type": "bool",
+			"default": true
+		},
+		"lastPlayedSong": {
+			"name": "Show Most Recent Song/Effect",
+			"description": "Includes the filename of the most recently loaded song <cy>(and sound effect, if not on macOS)</c> in the Audio section.",
+			"type": "bool",
+			"default": true
+		},
+		"includeMusicFromMods": {
+			"name": "Include Songs/Effects from Mods",
+			"description": "If \"Show Most Recent Song/Effect\" is enabled, songs and SFX file names from other Geode mods will appear in the Audio section.",
+			"type": "bool",
+			"default": true
+		},
+		"compactAudioSection": {
+			"name": "Compact \"Audio\" Section",
+			"description": "Condenses Song and SFX counts from the Audio section into one line.",
+			"type": "bool",
+			"default": true
+		},
+		"compactGameplaySection": {
+			"name": "Compact \"Gameplay\" Section",
+			"description": "Condenses several pieces of information in the first section into one line, including:\n- Attempts and taps/clicks.\n- TimeWarp and Gravity.\n- X and Y position.\n- Gradients and Particles.",
+			"type": "bool",
+			"default": true
+		},
+		"conditionalValues": {
+			"name": "Conditional Labels",
+			"description": "Hides various values if unmodified. For reference:\n- TimeWarp if currently equal to 1.\n- Gravity if currently equal to 1.\n- Anything equal to either \"0\" or \"0 / 0\".",
+			"type": "bool",
+			"default": false
+		},
+		"addPlayerInfo": {
+			"name": "Player Status",
+			"description": "Includes info about the player's current status.",
+			"type": "bool",
+			"default": false
+		},
+		"compactDirections": {
+			"name": "Player Direction as Emoticons",
+			"description": "Replaces word descriptions of the player's current direction with emoticon alternatives.\n\n<cy>Requires the previous setting (\"Add Player Info\") to be enabled; otherwise you won't see it.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"addLevelTraits": {
+			"name": "Level Traits",
+			"description": "Includes info about the current level's traits.",
+			"type": "bool",
+			"default": false
+		},
+		"includeFPS": {
+			"name": "FPS",
+			"description": "Includes your FPS count.",
+			"type": "bool",
+			"default": false
+		},
+		"modLoaderInfo": {
+			"name": "Geode Mod Loader Info",
+			"description": "Adds an additional section of info related to your Geode setup named \"Geode\".",
+			"type": "bool",
+			"default": false
+		},
+		"logDebugText": {
+			"name": "Enable Logging",
+			"description": "Logs the debug text into your Geode logs folder.\n\n<cr>By enabling this option, you agree to hold harmless the mod developer (RayDeeUx) or any lead developer of Geode and assume all responsibility for any resulting damages, including incredibly large log files.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"compact": {
+			"name": "Compact View",
+			"desc": "Enable compact view in these lesser known areas.",
+			"type": "custom"
+		},
+		"compactEditorLevels": {
+			"name": "My Levels",
+			"description": "<cl>Original code by Cvolton.</c>\n\nCompacts your editor levels in \"My Levels\" menu.\n\n<cy>Due to how this feature is implemented, enabling this option also disables selecting multiple levels for deletion.</c>",
+			"type": "bool",
+			"default": true
+		},
+		"compactProfileComments": {
+			"name": "Profile Comments",
+			"description": "Use the compact view on user profile comments/posts.",
+			"type": "bool",
+			"default": true
+		},
+		"gameplay": {
+			"name": "Gameplay",
+			"desc": "Settings for tweaking gameplay as you please.\n\n<cy>Note that some of these settings can get you banned from the leaderboards; enable them at your own risk.</c>",
+			"type": "custom"
+		},
+		"unverifiedPercent": {
+			"name": "Hide Percentage If Unverified",
+			"description": "Hides the current percentage text and the progress bar if the level is not verified.\n\nUseful for WIP levels whose percentages are based on time spent and not based on X position.\n\n<cy>Due to how this feature is implemented, you should not close the game while playing a level with this feature active.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"hideLevelCompleteVisuals": {
+			"name": "Hide Level Completion Visuals",
+			"description": "Hides the circles and light flashes during level completions, except particles.\n\n<cy>To hide particles, please use your preferred mod menu (be aware that this hides particles everywhere, including outside of the level completion visuals).</c>",
+			"type": "bool",
+			"default": false
+		},
+		"disableRewardsSFX": {
+			"name": "Disable Rewards SFX on Death",
+			"description": "Silences all SFX related to gaining diamonds/orbs/keys on player death.",
+			"type": "bool",
+			"default": true
+		},
+		"forceStopMusicOnDeath": {
+			"name": "Force Stop Music/SFX on Death",
+			"description": "Stops level music/SFX on player death, even if a level's option triggers demand otherwise.\n\n<cy>Note: This setting will not apply when you are connected to Globed's servers.</c>",
+			"type": "bool",
+			"default": true
+		},
+		"alwaysLDM": {
+			"name": "Always Active LDM (READ!)",
+			"description": "<cp>INTENTIONALLY APPLIES TO ONLINE LEVELS ONLY.</c>\n<cp>INTENTIONALLY IGNORED IF \"ENABLE LOW DETAIL\" FROM YOUR PERFORMACE OPTIONS IS DISABLED.</c>\n\nAs of <cc>2.200</c>/<cl>2.204</c>/<cg>2.205</c> (for <cc>macOS</c>, <cl>Windows</c>, and <cg>Android</c> respectively), LDM toggles for individual levels might toggle themselves off after (re)downloading a level. This slider serves to avoid the hassle of opening the level settings to re-enable such toggles.\n\n0: Disables this setting.\n1: Enable on unrated online levels <cr>ONLY</c>.\n2: Enable on rated online levels <cr>ONLY</c>.\n3: Enable on all online levels regardless of star/moon rating.",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 3,
+			"control": {
+				"input": false,
+				"slider": true,
+				"arrows": false,
+				"big-arrows": false,
+				"arrow-step": 0,
+				"big-arrow-step": 0,
+				"slider-step": 1
+			}
+		},
+		"forceAudioScale": {
+			"name": "Force Audio Scale",
+			"type": "bool",
+			"description": "Forces objects to pulse with the music.\n\n<cy>For platformer levels ONLY: If you have RayDeeUx's BreakingPlatforming mod loaded/enabled, this setting will be ignored in favor of whatever Audio Scale preference you've set in there.</c>",
+			"default": false
+		},
+		"forceVisibleEffect": {
+			"name": "Force Visible Effect",
+			"type": "bool",
+			"default": false,
+			"description": "Forces objects to activate usage effects (those translucent scaling circles when you interact with them).\n\n<cy>Unfortunately, this applies to all objects even if they are marked invisible, and enabling this will count as cheating.</c>"
+		},
+		"disableShake": {
+			"name": "No Shake Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"disableSFX": {
+			"name": "No SFX Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"disableEditSFX": {
+			"name": "No Edit SFX Triggers (READ!)",
+			"description": "Disables Edit SFX triggers in levels.\n\n<cy>If you toggle this, it is</c> <cr>STRONGLY RECOMMENDED</c> <cy>that you enable the \"No SFX Triggers\" option above this setting as well, unless if you're a fan of infinitely looping SFX playing in your eardrums in rare cases such as the war crime \"Evasion\" by YunHaSeu14.</c>",
+			"type": "bool",
+			"default": false
+		},
+		"disablePulse": {
+			"name": "No Pulse Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"disableAreaTint": {
+			"name": "No Area Tint Triggers",
+			"type": "bool",
+			"default": false
+		},
+		"level-editor": {
+			"name": "Level Editor Keybinds",
+			"desc": "Keybinds for the level editor.",
+			"type": "custom",
+			"platforms": ["windows"]
+		},
+		"saveEditorLevel": {
+			"name": "Save Editor Level",
+			"description": "Enables a keybind (set to Ctrl + S by default) to save your level in the editor immediately <cy>without a confirmation</c>.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"saveAndExit": {
+			"name": "Save And Exit",
+			"description": "Enables a keybind (set to Shift + Ctrl + S by default) to save your level in the editor and exit the editor <cy>without a confirmation</c>.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"resumeShortcut": {
+			"name": "Resume Editor",
+			"description": "Enables a keybind (set to Shift + 1 by default) to resume editing a level.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"browser": {
+			"name": "Browser-like Navigation Keybinds",
+			"desc": "Keybinds for navigating most menus related to browsing/viewing online levels.",
+			"type": "custom",
+			"platforms": ["windows"]
+		},
+		"pageNavAnywhere": {
+			"name": "Arrow Keys in Pages",
+			"description": "Enables a keybind (set to Alt + Left/Right for previous/next pages, Shift Left/Right for first/last pages) to navigate between pages.\n\nBecause RobTop's infinite wisdom allowed him to implement this feature with the main levels (and level browsing menus) <cr>and literally nowhere else</c> in Geometry Dash.\n\n<cj>No, I'm not mad about this. What makes you think that?</c>",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"refreshAnywhere": {
+			"name": "Refresh Anywhere",
+			"description": "Enables a keybind (set to Ctrl + R by default) to refresh the layer you're on.\n<cy>Use this keybind with caution; abusing/spamming this keybind can get you rate-limited or banned from RobTop's servers. By using this keybind for any reason, you agree to hold harmless the mod developer (RayDeeUx) or any lead developer of Geode and assume all responsibility for any consequences.</c>",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": false
+		},
+		"viewCommentsAnywhere": {
+			"name": "View Comments",
+			"description": "Enables a keybind (set to Shift + C by default) to view comments (either for a specific profile or for a level).",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"likeDislikeShortcut": {
+			"name": "Like/Dislike",
+			"description": "Enables a keybind (set to Left for liking and Right for disliking) to like/dislike content.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"level-search-layer": {
+			"name": "Level Search Menu Navigation",
+			"desc": "Keybinds for the level search menu.",
+			"type": "custom",
+			"platforms": ["windows"]
+		},
+		"clearFilters": {
+			"name": "Clear Search Filters",
+			"description": "Enables a keybind (set to Shift + Delete by default) to prepare to clear your search filters.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"openFilters": {
+			"name": "Open Search Filters",
+			"description": "Enables a keybind (set to Shift + Minus by default) to open advanced search filters.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"searchMode": {
+			"name": "Toggle Levels/Lists Mode",
+			"description": "Enables a keybind (set to Shift + Backspace by default) to switch between searching for levels and level lists.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"starToggle": {
+			"name": "Star/Moon Rate Filter",
+			"description": "Enables a keybind (set to Alt + 0 by default) to toggle the star rate filter.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"quickSearch": {
+			"name": "Quick Search Shortcuts",
+			"description": "Enables several keybinds (set to Ctrl + D(ownloads), Ctrl + T(rending), Ctrl + A(warded), Ctrl + L(ikes), Ctrl + R(ecent), Ctrl + F(ollowed), Ctrl + S(ent), Ctrl + M(agic), and Ctrl + (Fr)I(ends)) to open a quick search option.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"lengthFilter": {
+			"name": "Level Length Filters",
+			"description": "Enables several keybinds (set to Alt + <cy>[1 through 6]</c> by default) to toggle a level length search filter.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"difficultyFilter": {
+			"name": "Level Difficulty Filters",
+			"description": "Enables several keybinds (set to Ctrl + <cy>[1 through 9]</c> by default) to toggle a level difficulty search filter.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"demonFilter": {
+			"name": "Demon Filters",
+			"description": "Enables several keybinds (set to Shift + Ctrl + <cy>[1 through 6]</c> by default) to toggle a demon search filter.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"my-levels": {
+			"name": "\"My Levels\" Navigation",
+			"desc": "Keybinds for navigating your own editor levels/level lists.",
+			"type": "custom",
+			"platforms": ["windows"]
+		},
+		"newEditorLevel": {
+			"name": "Create New Level/List",
+			"description": "Enables a keybind (set to Ctrl + N by default) to create a new level/list.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"toggleLevelLists": {
+			"name": "Toggle Levels/Lists Mode",
+			"description": "Enables a keybind (set to Shift + Ctrl + L by default) to toggle between viewing local editor levels and local level lists.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"viewUploaded": {
+			"name": "View Uploaded Levels/Lists",
+			"description": "Enables a keybind (set to Shift + Ctrl + Alt + L by default) to view uploaded levels/level lists.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"misc-keybinds": {
+			"name": "Misc. Keybinds",
+			"desc": "Keybind-related toggles for navigating all sorts of menus.",
+			"type": "custom",
+			"platforms": ["windows"]
+		},
+		"moreOptions": {
+			"name": "More Options Navigation",
+			"description": "Enables a keybind (set to Ctrl + O by default) to open your Geometry Dash settings.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"garageNavigation": {
+			"name": "Icon Kit Navigation",
+			"description": "Enables several keybinds (set to the whole numrow for each gamemode [Shift + 2 for jetpacks], left/right arrow keys, Alt + S(hards) and Alt + C(olor) by default) to navigate the garage/icon kit.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"infoLayerNavigation": {
+			"name": "Comment Viewing Shortcuts",
+			"description": "Enables several keybinds (set to 1, 2, 3, 4 by default) to toggle various options for viewing comments, much like toggling between the \"Build\", \"Edit\", and \"Delete\" modes in the level editor.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"navigateGauntlets": {
+			"name": "Gauntlets Navigation",
+			"description": "Enables several keybinds (Left/Right for previous/next pages, 1/2/3 for the first, second, and third gauntlets visible on screen) to navigate the Gauntlets.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"shiftForVault": {
+			"name": "Shift Click to Vaults/Chambers/Treasure",
+			"description": "Requires holding the Shift key to enter (vanilla GD) menus that change the menu loop music.\n\nNote that this will not apply to The Tower.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"erysEditsSettings": {
+			"name": "ErysEdits Settings",
+			"description": "Enables a keybind (set to Shift + Alt + Ctrl + E by default) to open the settings menu for ErysEdits.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"geodeModsList": {
+			"name": "Geode Mods List",
+			"description": "Enables a keybind (set to Shift + Alt + Ctrl + G by default) to open the Geode mods list.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"customKeybinds": {
+			"name": "Open Custom Keybinds",
+			"description": "Enables a keybind (set to Shift + Alt + Ctrl + K by default) to open your custom keybinds.",
+			"type": "bool",
+			"platforms": ["windows"],
+			"default": true
+		},
+		"alert-layers": {
+			"name": "Alert Layers",
+			"desc": "Settings for messing with the appearances of FLAlertLayers.",
+			"type": "custom"
+		},
+		"flAlertWidthMultiplier": {
+			"name": "Width Multiplier",
+			"description": "Multiplies the width of <cy>most</c> Alert Layers\n(such as this one you're viewing).\n\nDon't worry, the mod will cap all widths to <cg>420</c> units.\n\n<cy>(Enabling the \"Text Scroll\" setting a bit further below this one will override whatever value you've set here.)</c>",
+			"type": "float",
+			"default": 1.0,
+			"min": 1.0,
+			"max": 1.5,
+			"control": {
+				"input": true,
+				"slider": true,
+				"arrows": false,
+				"big-arrows": false,
+				"arrow-step": 0,
+				"big-arrow-step": 0,
+				"slider-step": 0.01
+			}
+		},
+		"textScale": {
+			"name": "Text Scale",
+			"description": "Changes the text scale of <cy>most</c> Alert Layers\n(such as this one you're viewing).\n\n<cy>(Enabling the \"Text Scroll\" setting a bit below this one will override whatever value you've set here. Text scales are also ignored in alerts with scrolling already enabled beforehand.)</c>",
+			"type": "float",
+			"default": 1.0,
+			"min": 0.1,
+			"max": 2.0,
+			"control": {
+				"input": true,
+				"slider": true,
+				"arrows": false,
+				"big-arrows": false,
+				"arrow-step": 0,
+				"big-arrow-step": 0,
+				"slider-step": 0.01
+			}
+		},
+		"textScroll": {
+			"name": "Text Scroll",
+			"description": "Enable (with 1), ignore (with 0), or disable (with -1) text scrolling in <cy>most</c> Alert Layers\n(such as this one you're viewing).\n\n<cy>Note that enabling text scroll will override your \"Width Multiplier\" and \"Text Scale\" settings above this one.</c>",
+			"type": "int",
+			"default": 0,
+			"min": -1,
+			"max": 1,
+			"control": {
+				"input": false,
+				"slider": true,
+				"arrows": false,
+				"big-arrows": false,
+				"arrow-step": 0,
+				"big-arrow-step": 0,
+				"slider-step": 1
+			}
+		},
+		"garage": {
+			"name": "Icon Kit",
+			"desc": "Settings for the Icon Kit.",
+			"type": "custom"
+		},
+		"slightlyCleanerGarage": {
+			"name": "Cleanup",
+			"description": "Hides the ground line and random gray lock from the icon kit.",
+			"type": "bool",
+			"default": true
+		},
+		"garageShardsMenu": {
+			"name": "Shards Menu Scale",
+			"description": "Set the scaling of the shards menu of the icon kit. Useful as more mods begin hooking the icon kit menu to add their own buttons.",
+			"type": "float",
+			"default": 0.9,
+			"min": 0.5,
+			"max": 1.0,
+			"control": {
+				"input": true,
+				"slider": true,
+				"arrows": false,
+				"big-arrows": false,
+				"arrow-step": 0,
+				"big-arrow-step": 0,
+				"slider-step": 0.01
+			}
+		},
+		"misc": {
+			"name": "Miscellaneous",
+			"desc": "Settings that couldn't fit into any other category.",
+			"type": "custom"
+		},
+		"levelDescFromList": {
+			"name": "Level Lists: View Level Desc",
+			"description": "View an online level's description from the level list menu (and potentially without downloading the level first).",
+			"type": "bool",
+			"default": true
+		},
+		"showModsListMode": {
+			"name": "Level End Screen: Show/Copy Mods List",
+			"description": "<cp>RESTARTS REQUIRED TO APPLY CHANGES.</c>\n<cl>Original ideas: ItzKiba, Alphalaneous. Adapted code: sofabeddd.</c>\nThe \"Level Complete\"/\"Practice Complete\" text becomes a button that lists your installed mods (and copies it to your clipboard).\n\n0: Disables this feature.\n\n<cc>macOS</c> <cy>users:</c>\n<cy>To minimizes crashes, all values will categorize your installed mods by developer name. Values greater than 2 will separate each developer using new lines instead of commas.</c>\n\n<cl>Windows</c>/<cg>Android</c> users:\n1: Developer name, mod name, version number\n2: Developer name + mod name only\n3: Mod name + version number only\n4: Mod name only\n\n<cy>Disclaimer: This feature is a proof of concept, not a concrete product. Not all installed mods will be visible. By setting this value to anything besides the default (0), you assume full responsibility for all consequences.</c>",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 4,
+			"control": {
+				"input": false,
+				"slider": true,
+				"arrows": false,
+				"big-arrows": false,
+				"arrow-step": 0,
+				"big-arrow-step": 0,
+				"slider-step": 1
+			}
+		},
+		"fixBITranslateOverlap": {
+			"name": "Comments: Fix Overlap in Compact View",
+			"description": "Fix the overlap in buttons when viewing your own comments while Cvolton's BetterInfo and TastyForReal's Google Translate mod installed.",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"resources": {
+		"files": [
+			"resources/*.png"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.11.0",
+			"importance": "required"
+		},
+		{
+			"id": "geode.custom-keybinds",
+			"version": ">=1.5.7",
+			"importance": "required",
+			"platforms": ["windows"]
+		}
+	],
+	"incompatibilities": [
+		{
+			"id": "adam_729.randdeathsounds",
+			"version": "<1.1.0",
+			"importance": "breaking",
+			"platforms": ["windows"]
+		},
+		{
+			"id": "raydeeux.breakingplatforming",
+			"version": "<1.2.0",
+			"importance": "conflicting",
+			"platforms": ["windows", "android32", "android64"]
+		}
+	]
+}
