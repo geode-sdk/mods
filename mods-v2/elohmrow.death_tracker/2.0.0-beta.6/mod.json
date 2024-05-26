@@ -1,0 +1,41 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+        "android": "2.205",
+        "win": "2.204"
+    },
+	"version": "v2.0.0-beta.6",
+	"id": "elohmrow.death_tracker",
+	"name": "Death Tracker",
+	"developer": "abb2k",
+	"description": "Tracks your deaths at every percentage",
+	"repository": "https://github.com/eloh-mrow/death-tracker",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"tags": ["Utility", "Interface"],
+	"settings": {
+		"session-length": {
+			"name": "Session Length",
+			"description": "Allows a session to continue if entering a level before this duration (in seconds) has passed since exiting the level.\n\n<cy>A value of -2</c> means the session will end when you exit the level (default).\n\n<co>A value of -1</c> means the session will end when you exit the game.",
+			"type": "int",
+			"default": -2,
+			"min": -2,
+			"max": 86400
+		},
+		"disable-tracking-completed-levels": {
+			"name": "Disable Tracking Completed Levels",
+			"description": "Disables tracking on completed online levels.",
+			"type": "bool",
+			"default": false
+		},
+		"practice-zero-deaths": {
+			"name": "Enable 0% Practice Mode Deaths",
+			"description": "Deaths will be shown instead of runs from 0% in practice mode.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
