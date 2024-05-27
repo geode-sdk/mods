@@ -1,0 +1,15 @@
+{
+    "commit-author": "ninXout",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/geode-sdk/DevTools/releases/download/v1.6.0/geode.devtools.geode",
+        "hash": "985b5f3af8e153e86d3d66a5dd6b36115605f944c4272c355543f773871cff13",
+        "hash256": "b8abd0076cd14ae686c395b34a7965a79a8d8349403f98c0086630b322e7f570"
+    },
+    "tags": []
+}
