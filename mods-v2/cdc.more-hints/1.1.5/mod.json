@@ -1,0 +1,50 @@
+{
+	"geode": "2.0.0-beta.27",
+	"gd": {"win":"2.204","android":"2.205"},
+	"version": "v1.1.5",
+	"id": "cdc.more-hints",
+	"name": "Hints+",
+	"developer": "cdc",
+	"description": "Adds more hints after you die twice in PlayLayer :)",
+    "repository": "https://github.com/CdcOnGitHub/more-hints-geode",
+    "dependencies":[{
+        "id": "geode.node-ids",
+        "version":">=1.2.2",
+        "importance":"required"
+    }],
+	"settings": {
+		"more-hints": {
+            "name": "Use Hints+ Hints",
+            "description": "Use <cj>Hints+</c> hints.",
+            "type": "bool",
+            "default": true
+        },
+		"robtop-hints": {
+            "name": "Use Default Hints",
+            "description": "Use Default <cj>Geometry Dash</c> hints.",
+            "type": "bool",
+            "default": false
+        },
+        "custom-hint": {
+            "name": "Use Custom Hint",
+			"description": "Add your own <cy>hint</c> to a <cg>level</c>.",
+            "type": "bool",
+            "default": false
+        },
+        "new-layout": {
+            "name": "Hint Redesign",
+            "type": "bool",
+            "default": false
+        },
+        "require-no-jumps": {
+            "name": "Jump Requirement",
+            "type": "bool",
+            "default": true
+        },
+        "disable-creation-disclaimer2": {
+            "name": "Disable Custom Hint Creation Disclaimer",
+            "type": "bool",
+            "default": false
+        }
+    }
+}

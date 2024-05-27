@@ -33,3 +33,6 @@
 **Reworked Custom Hint System**
 - Reworked the **Custom Hint System**
 - Fixed a bug where the **Create Hint** popup crashed with empty **Scale** and **Delay** fields.
+
+## v1.1.5
+- Updated **about.md** to fix a mistake.
