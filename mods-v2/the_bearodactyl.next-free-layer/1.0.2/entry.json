@@ -1,0 +1,14 @@
+{
+    "commit-author": "TheBearodactyl",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheBearodactyl/next-free-layer-button/releases/download/1.0.2/the_bearodactyl.next-free-layer.geode",
+        "hash": "c46dd17846023a4dbb0389f6607b6cd7d9c0062fefe6facb887376c7552e545c",
+        "hash256": "afba7481a142dd4376b15eb5aa021028b904907f7c65681ab4df425d7297ba59"
+    },
+    "tags": []
+}

@@ -3645,6 +3645,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "the_bearodactyl.next-free-layer": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }
