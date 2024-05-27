@@ -1,0 +1,14 @@
+{
+    "commit-author": "cdc-sys",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/cdc-sys/statuses-mod/releases/download/v1.0.1/cdc.statuses.geode",
+        "hash": "bcfcbfaaed869cc735896b13767e9184ff7a90d3c5a400990586cafe3fa4920e",
+        "hash256": "d06f9d920a60931347f71538b4de75ed37abd74573316a0e8e3180c5aa444700"
+    },
+    "tags": []
+}
