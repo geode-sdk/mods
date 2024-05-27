@@ -1,4 +1,6 @@
 # EditorMusic
+## v1.3.3
+- Fix -10s button going to previous song regardless of how long was left
 ## v1.3.2
 - Filter out file names that aren't supported
 - Add option to customise filtered letter
