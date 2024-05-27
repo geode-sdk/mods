@@ -1,4 +1,8 @@
 # EditorMusic
+## v1.3.2
+- Filter out file names that aren't supported
+- Add option to customise filtered letter
+- Bump to beta 27
 ## v1.3.1
 - Fix folder input
 - Time formatting changes
