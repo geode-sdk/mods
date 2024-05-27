@@ -1,4 +1,7 @@
 # Fake Rate Changelog
+## v1.1.6 (2024-05-27)
+- Fixed incompatibility with the mod "GDDP Integration" by Minemaker0430
+
 ## v1.1.5 (2024-05-25)
 - Fixed incompatibility with the mod "Demons In Between" by me
 
