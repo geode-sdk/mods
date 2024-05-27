@@ -3636,6 +3636,12 @@
                 "1.0.1",
                 "1.0.2"
             ]
+        },
+        "blueblock6.keystrokes": {
+            "verified": false,
+            "versions": [
+                "1.0.2"
+            ]
         }
     }
 }

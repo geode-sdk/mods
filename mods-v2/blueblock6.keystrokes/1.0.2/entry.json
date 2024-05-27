@@ -1,0 +1,12 @@
+{
+    "commit-author": "blueblock6",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/blueblock6/Keystrokes/releases/download/1.0.2/blueblock6.keystrokes.geode",
+        "hash": "59e8670ac607f9c2fa31a5d0c9bd7ee66c951e8b2d289c50b3061d8cde1521ba",
+        "hash256": "b1077364ef72493eba07aaef58f05d6ca211872640fb2b5118ca77d2c1960f6a"
+    },
+    "tags": []
+}
