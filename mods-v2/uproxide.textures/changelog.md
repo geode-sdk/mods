@@ -1,3 +1,8 @@
+# 1.0.0
+- New Version Popup
+- Update Indicator for Texture Packs
+- Credits
+
 # 1.0.0 (Beta 3)
 - Change Patreon to Ko-Fi. Thats all :)
 
