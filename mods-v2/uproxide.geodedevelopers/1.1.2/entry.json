@@ -1,10 +1,6 @@
 {
     "commit-author": "Uproxide",
     "platforms": [
-        "macos",
-        "windows",
-        "android32",
-        "android64"
     ],
     "mod": {
         "download": "https://github.com/Uproxide/Geode-Contributors/releases/download/v1.1.2/uproxide.geodedevelopers.geode",

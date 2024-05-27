@@ -1,9 +1,6 @@
 {
     "commit-author": "Uproxide",
     "platforms": [
-        "windows",
-        "android32",
-        "android64"
     ],
     "mod": {
         "download": "https://github.com/Uproxide/accurate-practice-attempts/releases/download/1.0.0/uproxide.accupracatt.geode",

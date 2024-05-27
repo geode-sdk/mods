@@ -1,7 +1,6 @@
 {
     "commit-author": "Uproxide",
     "platforms": [
-        "windows"
     ],
     "mod": {
         "download": "https://github.com/Uproxide/GeodeMods/releases/download/egd-v1.0.1/uproxide.evilgd.geode",
