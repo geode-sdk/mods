@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.27",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "sadwave.mod_random",
+	"name": "Random Moderator",
+	"developer": "sadwave",
+	"description": "Cool funny random moderator"
+}

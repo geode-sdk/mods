@@ -1,0 +1,12 @@
+{
+    "commit-author": "sadwavecodes",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/sadwavecodes/randommod/releases/download/release/sadwave.mod_random.geode",
+        "hash": "9b65b2f2a744f999494d8c03aa6ac60f78a8b5e4080999450faacbe52a4df4a0",
+        "hash256": "b875fb82615ae6577eb6d13eda9af4c370c923d6702811b9e089763d2d27df48"
+    },
+    "tags": []
+}

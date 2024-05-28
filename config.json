@@ -3660,6 +3660,12 @@
             "versions": [
                 "1.0.2"
             ]
+        },
+        "sadwave.mod_random": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
