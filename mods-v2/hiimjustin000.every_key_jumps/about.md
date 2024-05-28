@@ -1,6 +1,6 @@
 # Every Key Jumps
 A mod that allows you to jump with almost every key on your keyboard.
-- **This mod is not compatible with the mod "Click Between Frames" by syzzi.**
+**This mod is not compatible with the mod "Click Between Frames" by syzzi.**
 
 # Features
 - Jump with almost every key on your keyboard.
