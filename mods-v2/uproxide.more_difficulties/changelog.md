@@ -1,3 +1,6 @@
+# 1.3.1
+ * iOS support, again
+
 # 1.3.0
  * Support for Unrated Levels
   - It will only work if the level was requested 4, 7 or 9 stars.
