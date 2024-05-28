@@ -1,0 +1,33 @@
+{
+    "geode": "2.0.0-beta.27",
+    "gd": {
+        "android": "2.205",
+        "win": "2.204",
+        "mac": "2.200"
+    },
+    "version": "v1.1.7",
+    "id": "hiimjustin000.fake_rate",
+    "name": "Fake Rate",
+    "developer": "hiimjustin000",
+    "description": "Give online levels a fake rate.",
+    "repository": "https://github.com/hiimjustin000/FakeRate",
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.9.1",
+            "importance": "required"
+        }
+    ],
+    "incompatibilities": [
+        {
+            "id": "uproxide.more_difficulties",
+            "importance": "breaking",
+            "version": "<=v1.2.0"
+        }
+    ],
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    }
+}

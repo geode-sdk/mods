@@ -1,4 +1,7 @@
 # Fake Rate Changelog
+## v1.1.7 (2024-05-27)
+- Fixed a few bugs with compatibilty with other mods
+
 ## v1.1.6 (2024-05-27)
 - Fixed incompatibility with the mod "GDDP Integration" by Minemaker0430
 
