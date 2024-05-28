@@ -1,0 +1,55 @@
+{
+  "geode": "2.0.0-beta.27",
+  "gd": {
+    "android": "2.205",
+    "win": "2.204"
+  },
+  "version": "v1.0.6",
+  "id": "abb2k.backup",
+  "name": "Backup",
+  "developers": ["abb2k", "Bearodactyl"],
+  "description": "allows you to easily backup your save file :D",
+  "repository": "https://github.com/abb2k/Backup",
+  "settings": {
+    "Auto_Backup": {
+      "name": "Auto Backup",
+      "description": "Automatically backup the game.",
+      "type": "bool",
+      "default": false
+    },
+    "Max_Auto_Backups": {
+      "name": "Max Auto Backups",
+      "description": "How many backups the mod autosaves before starting to delete old ones for space.",
+      "type": "int",
+      "default": 1,
+      "min": 1,
+      "max": 10
+    },
+    "Button_In_Options_Menu": {
+      "name": "Button In Options Menu",
+      "description": "Moves the button of the mod to the settings menu.",
+      "type": "bool",
+      "default": false
+    },
+    "Backup_Save_Path": {
+      "name": "Backup Save Path\n(restarts the game)",
+      "description": "\nThe path where the backups are stored. (optional)",
+      "type": "string",
+      "default": "",
+      "filter": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789/\\:;.,-_(){}[]!$£ %^&#~@=+"
+    },
+    "Sort_By_Latest": {
+      "name": "Sort backups from latest to oldest",
+      "description": "Sorts the backups from latest to oldest.",
+      "type": "bool",
+      "default": true
+    }
+  },
+  "dependencies": [
+    {
+      "id": "geode.node-ids",
+      "version": "v1.11.0",
+      "importance": "required"
+    }
+  ]
+}
