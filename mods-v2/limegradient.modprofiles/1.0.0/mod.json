@@ -1,0 +1,18 @@
+{
+	"geode": "2.0.0-beta.27",
+	"gd": {
+		"android": "2.205",
+		"win": "2.204",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "limegradient.modprofiles",
+	"name": "Mod Profiles",
+	"developer": "LimeGradient",
+	"description": "Share your mods with others!",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}

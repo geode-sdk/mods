@@ -3669,6 +3669,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "limegradient.modprofiles": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }
