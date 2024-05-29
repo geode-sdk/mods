@@ -6,9 +6,9 @@ A mod that adds additional demon difficulties in between existing ones.
 - These difficulties are determined using the [Geometry Dash Demon Ladder](https://gdladder.com).
 
 # Credits
-- NotCreativeName - Idea for the mod
-- Krintop - Designer of the mod logo and textures
-- hiimjustin000 - Creator of the mod
+- [NotCreativeName](user:20865884) - Idea for the mod
+- [Krintop](user:7242014) - Designer of the mod logo and textures
+- [hiimjustin000](user:7466002) - Creator of the mod
 
 # Difficulties
 - Free Demon (Tier 1)

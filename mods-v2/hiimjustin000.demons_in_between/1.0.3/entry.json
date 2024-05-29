@@ -1,0 +1,15 @@
+{
+    "commit-author": "hiimjustin000",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/hiimjustin000/DemonsInBetween/releases/download/v1.0.3/hiimjustin000.demons_in_between.geode",
+        "hash": "6495f791039d66f135af6d31108df7aa2fb3beb98fc3a450d5407c94df602bdf",
+        "hash256": "1f97c4e3db5393c56ad4fb5142d00a4430cb978e222a769159b3f39656622c51"
+    },
+    "tags": []
+}
