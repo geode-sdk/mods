@@ -3676,6 +3676,12 @@
             "versions": [
                 "1.0.0"
             ]
+        },
+        "the_bearodactyl.ocd-icons": {
+            "verified": false,
+            "versions": [
+                "1.0.0"
+            ]
         }
     }
 }

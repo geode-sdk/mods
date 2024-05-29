@@ -1,0 +1,15 @@
+{
+    "commit-author": "TheBearodactyl",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/TheBearodactyl/ocd-icons/releases/download/1.0.0/the_bearodactyl.ocd-icons.geode",
+        "hash": "c84d52cf5a5fd0de7221ba6166489459bf5b7d27859c8fc3e0d1032f6399fa09",
+        "hash256": "f111abf0e0f0ef402451464c50d9f6ecea9085a012ec0ced4786b83baa40c4c5"
+    },
+    "tags": []
+}

@@ -1,0 +1,17 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "the_bearodactyl.ocd-icons",
+	"name": "ocd-icons",
+	"developer": "the bearodactyl",
+	"description": "",
+  "settings": {
+    "enabled": {
+      "name": "Enable OCD mode",
+      "description": "R I G H T\nS I D E\nU P",
+      "type": "bool",
+      "default": true
+    }
+  }
+}
