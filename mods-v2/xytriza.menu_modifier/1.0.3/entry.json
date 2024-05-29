@@ -1,11 +1,6 @@
 {
     "commit-author": "Xytriza",
-    "platforms": [
-        "macos",
-        "windows",
-        "android32",
-        "android64"
-    ],
+    "platforms": [],
     "mod": {
         "download": "https://github.com/Xytriza/menu-modifier/releases/download/v1.0.3/xytriza.menu_modifier.geode",
         "hash": "da7b069d4029f8c99c9f282e25601f943f043fe900c848dc639dd071a6a638b6",
