@@ -1,4 +1,4 @@
-# Cleaner Menus
+# Menu Modifier
 A simple, but very nice mod to have
 
 ## Features

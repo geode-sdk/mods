@@ -1,0 +1,97 @@
+{
+	"geode": "2.0.0-beta.27",
+    "gd": {
+        "win": "2.204",
+        "android": "2.205",
+        "mac": "2.200"
+    },
+	"version": "v1.0.4",
+	"id": "xytriza.menu_modifier",
+	"name": "Menu Modifier",
+	"developer": "Xytriza",
+	"description": "",
+    "repository": "https://github.com/Xytriza/menu-modifier",
+    "issues": {
+        "info": "Submit problems to the GitHub or @xytriza on Discord.",
+        "url": "https://github.com/Xytriza/menu-modifier/issues"
+    },
+    "settings": {
+        "creatorlayer_enabled": {
+            "name": "Modify Creator Layer",
+            "description": "Disable to keep the CreatorLayer to the default state",
+            "type": "bool",
+            "default": true
+        },
+        "main_menu_enabled": {
+            "name": "Modify Main Menu",
+            "description": "When disabled, None of the settings below will have an effect",
+            "type": "bool",
+            "default": true
+        },
+        "main_menu_robtoplogo": {
+            "name": "Remove RobTop Logo",
+            "description": "When disabled, Move Profile Buttons down will not work with this setting, it will continue to stay higher up",
+            "type": "bool",
+            "default": true
+        },
+        "main_menu_socials": {
+            "name": "Remove Main Menu Socials",
+            "description": "When disabled, Move Profile Buttons down will not work with this setting, it will continue to stay higher up",
+            "type": "bool",
+            "default": true
+        },
+        "main_menu_moregames": {
+            "name": "Remove More Games Button",
+            "type": "bool",
+            "default": true
+        },
+        "main_menu_move_profile": {
+            "name": "Move Profile Button down",
+            "type": "bool",
+            "default": true
+        },
+        "main_menu_move_daily": {
+            "name": "Move Daily Chest Button down",
+            "type": "bool",
+            "default": true
+        }
+    },
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.11.0",
+            "importance": "required"
+        }
+    ],
+    "tags": [
+        "Customization",
+        "Interface"
+    ],
+    "incompatibilities": [
+        {
+            "id": "muhammadgames.bettermenu",
+            "version": "*",
+            "importance": "breaking"
+        },
+        {
+            "id": "capeling.goodbye_unnecessary_buttons",
+            "version": "*",
+            "importance": "breaking"
+        },
+        {
+            "id": "blackholemx.nomoregames",
+            "version": "*",
+            "importance": "breaking"
+        },
+        {
+            "id": "colon.gd_in_2019",
+            "version": "*",
+            "importance": "breaking"
+        },
+        {
+            "id": "weebify.randomizecreatorlayer-geode",
+            "version": "*",
+            "importance": "breaking"
+        }
+    ]
+}

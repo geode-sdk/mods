@@ -1,3 +1,6 @@
+## 1.0.4
+- Fix potential crashes caused by other mods
+
 ## 1.0.3
 - Fix crashes caused by other mods
 
