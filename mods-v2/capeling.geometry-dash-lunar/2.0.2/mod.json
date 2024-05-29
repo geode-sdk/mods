@@ -1,0 +1,49 @@
+{
+	"geode": "2.0.0-beta.27",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v2.0.2",
+	"id": "capeling.geometry-dash-lunar",
+	"name": "Geometry Dash: Lunar",
+	"developers": [
+		"GenaMorphosis",
+		"Capeling"
+	],
+	"early-load": true,
+	"description": "",
+	"resources": {
+		"files": [
+			"resources/particles/*.plist",
+			"resources/levels/*.txt",
+			"resources/songs/*.mp3",
+			"resources/songs/normal/Active.mp3",
+			"resources/songs/normal/Earthsplitter.mp3",
+			"resources/songs/normal/GroundZero.mp3",
+			"resources/songs/normal/Hypercharged.mp3",
+			"resources/songs/normal/Payback.mp3",
+			"resources/songs/normal/PowerGlove.mp3",
+			"resources/songs/normal/Reverie.mp3",
+			"resources/songs/normal/SpaceBattle.mp3",
+			"resources/songs/normal/ThunderZone.mp3",
+			"resources/songs/normal/Ultrasonic.mp3",
+			"resources/extra/jumpscareAudio.mp3",
+			"resources/icons/update2/*.png",
+			"resources/icons/update2/*.plist",
+			"resources/icons/update2/robot_02/*.png",
+			"resources/icons/update2/robot_02/*.plist",
+			"resources/icons/update2/robot_03/*.png",
+			"resources/icons/update2/robot_03/*.plist"
+		],
+		"spritesheets": {
+			"LunarSheet": [
+				"resources/LunarSheet/*.png"
+			]
+		},
+		"sprites": [
+			"resources/dialogue/*.png",
+			"resources/sprites/*.png"
+		]
+	}
+}
