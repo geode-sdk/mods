@@ -1,0 +1,28 @@
+{
+  "description": "",
+  "developer": "the bearodactyl",
+  "gd": {
+    "android": "2.205",
+    "mac": "2.200",
+    "win": "2.204"
+  },
+  "geode": "2.0.0-beta.27",
+  "id": "the_bearodactyl.ocd-icons",
+  "name": "ocd-icons",
+  "repository": "https://github.com/TheBearodactyl/ocd-icons",
+  "settings": {
+    "enabled": {
+      "default": true,
+      "description": "R I G H T\nS I D E\nU P",
+      "name": "Enable OCD mode",
+      "type": "bool"
+    },
+    "no-anim": {
+      "default": true,
+      "description": "Disables animations for\nrobot and spider",
+      "name": "Disable animations",
+      "type": "bool"
+    }
+  },
+  "version": "v1.0.4"
+}
