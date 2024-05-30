@@ -1,0 +1,15 @@
+{
+    "commit-author": "LimeGradient",
+    "platforms": [
+        "macos",
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/LimeGradient/ModProfiles/releases/download/v1.1.0/limegradient.modprofiles.geode",
+        "hash": "2d8b1bb7b57e926865c32fbbe9e90674c949d4ea94298172cc41e80560e956f1",
+        "hash256": "0b41bc44bac098e5c68bcb171a283c6aa051a867fbd53c2d0e963a56188dc65e"
+    },
+    "tags": []
+}
