@@ -1,0 +1,13 @@
+{
+    "commit-author": "hiimjustin000",
+    "platforms": [
+        "macos",
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/hiimjustin000/EveryKeyJumps/releases/download/v1.1.1/hiimjustin000.every_key_jumps.geode",
+        "hash": "270f5747035496f919f2572fe8289d5498ff453809dc6ee46d80a886167ce2db",
+        "hash256": "dad8e0a6b73225ba546441c297147e9ee005a3cf14ae44543d1a466707031242"
+    },
+    "tags": []
+}

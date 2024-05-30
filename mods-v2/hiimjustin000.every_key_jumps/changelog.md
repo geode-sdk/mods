@@ -1,4 +1,7 @@
 # Every Key Jumps Changelog
+## v1.1.1 (2024-05-30)
+- Fixed a bug with the W key in platformer mode
+
 ## v1.1.0 (2024-05-28)
 - Rewrote the code to make it look cleaner
 - Added editor playtest support
