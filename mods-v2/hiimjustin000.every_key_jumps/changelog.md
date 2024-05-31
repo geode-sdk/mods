@@ -1,4 +1,7 @@
 # Every Key Jumps Changelog
+## v1.1.2 (2024-05-30)
+- Revert the W key fix because it caused a bug with the W key in platformer mode
+
 ## v1.1.1 (2024-05-30)
 - Fixed a bug with the W key in platformer mode
 
