@@ -9,6 +9,10 @@ Upon entering a level, a message will appear, offering the option to download th
 
 Furthermore, a new button will be integrated into levels featuring NONG songs. By clicking this button, a list of available NONG songs for the respective level will be displayed, allowing you to download them conveniently without leaving the game.
 
+## How to add Nongs to the mod
+There are multiple ways to add Nongs to the mod and make them appear in game:
+- Fill the form on GitHub [here](https://github.com/FlafyDev/auto-nong-indexes/issues/new?assignees=&labels=nong-addition%2Cofficial-addition&projects=&template=add-nong-song.yml&title=Add+Nong+Song%3A+).
+- Or get the nong added to [SFH (SongFileHub)](https://songfilehub.com/).
 
 ## Indexes
 The mod knows which levels have NONG songs from "indexes".
@@ -18,6 +22,9 @@ You can add/remove indexes in the settings of the mod.
 Without these the mod wouldn't be possible.
 
 - [Geode](https://github.com/geode-sdk/geode)
-- [Jukebox](https://github.com/Fleeym/jukebox)
-- This mod intergrates with Jukebox for swapping songs for levels.
+- [Jukebox](https://github.com/Fleeym/jukebox)  
+  - This mod intergrates with Jukebox for swapping songs for levels.  
+  - Additionally, Jukebox's code was helpful to figuring out how to make this mod.
+- [SFH (SongFileHub)](https://songfilehub.com/) - Auto Nong gets information about many of its Nongs from SFH.
+- SFH mirrors(like `sfh-rooot` and `sfh-pingusmc`) - Auto Nong downloads SFH Nongs from these mirrors. 
 

@@ -1,0 +1,67 @@
+{
+	"geode": "2.0.0-beta.27",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v0.1.0",
+	"id": "flafy.autonong",
+	"name": "Auto Nong",
+	"developer": "Flafy",
+	"description": "Automatically download NONG songs for levels",
+  "dependencies": [
+    {
+      "id": "fleym.nongd",
+      "version": ">=2.9.0",
+      "required": true
+    }
+  ],
+  "resources": {
+    "sprites": [
+      "resources/addIcon.png",
+      "resources/logo_regular.png",
+      "resources/logo_grayscaled.png"
+    ]
+  },
+  "settings": {
+    "use-cobalt": {
+      "name": "Use Cobalt Tools",
+      "type": "bool",
+      "default": true
+    },
+    "use-yt-dlp": {
+      "name": "Use yt dlp",
+      "type": "bool",
+      "default": false
+    },
+    "yt-dlp-path": {
+      "name": "yt dlp path",
+      "type": "file",
+      "default": "yt-dlp.exe"
+    },
+    "indexes": {
+      "name": "Indexes",
+      "description": "Auto Nong indexes.\nFrom indexes the mod knows where to fetch the songs from.",
+      "type": "custom",
+      "default": [
+        "https://cdn.jsdelivr.net/gh/FlafyDev/auto-nong-indexes@dist/official.json.gz",
+        "https://cdn.jsdelivr.net/gh/FlafyDev/auto-nong-indexes@dist/sfh-rooot.json.gz"
+      ]
+    },
+    "show-level-popup": {
+      "name": "Show popup",
+      "description": "Shows a popup when a level has a NONG song. Only once per level.",
+      "type": "bool",
+      "default": true
+    },
+    "always-show-auto-nong-btn": {
+      "name": "Always show\nAuto Nong button",
+      "description": "\nAlways show the Auto Nong button when entering a level. Even when there are no NONG songs to replace.\nThis is for adding NONG songs to levels that don't have any.",
+      "type": "bool",
+      "default": false
+    },
+    "_blacklistPPClear": {
+      "type": "custom"
+    }
+  }
+}
