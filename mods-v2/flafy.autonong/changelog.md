@@ -1,11 +1,21 @@
 # Changelog
 
+## v0.1.2
+###### 31-05-2024
+
+- <cl>Fixed</c> a crash on Editor settings
+
+## v0.1.1
+###### 31-05-2024
+
+- <cl>Fixed</c> setting NONGs for RobTop songs
+
 ## v0.1.0
 ###### 31-05-2024
 
 - <cg>Added</c> support for Android
 - <cg>Added</c> a button to add new NONGs to the mod
-- <cg>Added</c> support for Roptop songs (Since it is now supported in Jukebox)
+- <cg>Added</c> support for RobTop songs (Since it is now supported in Jukebox)
 - <cg>Added</c> support for uncompressed indexes
 - <cg>Added</c> a setting to always show the Auto Nong button
 - <cg>Improved</c> the UI for downloading and choosing NONGs
