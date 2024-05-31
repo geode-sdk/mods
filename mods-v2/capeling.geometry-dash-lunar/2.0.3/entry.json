@@ -1,0 +1,14 @@
+{
+    "commit-author": "Capeling",
+    "platforms": [
+        "windows",
+        "android32",
+        "android64"
+    ],
+    "mod": {
+        "download": "https://github.com/Capeling/geometry-dash-lunar-u2/releases/download/v2.0.3/capeling.geometry-dash-lunar.geode",
+        "hash": "e203cf937426a29be8e705dcdcc40ce0f6d2c054af8bbdfcee9a9f224bb50585",
+        "hash256": "03c92c483e61b5be91ba087ea7d6f16124204f82ba75af62ef33f3b9d562aace"
+    },
+    "tags": []
+}

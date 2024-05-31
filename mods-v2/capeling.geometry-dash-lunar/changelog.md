@@ -1,4 +1,6 @@
 # Geometry Dash: Lunar Changelog
+## v2.0.3
+- Added Ancient Ruins in the vault
 ## v2.0.2
 - Updated Payback
 - Updated Ultrasonic
