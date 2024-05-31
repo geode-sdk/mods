@@ -3691,6 +3691,12 @@
                 "1.0.0",
                 "1.0.4"
             ]
+        },
+        "spaghettdev.betterinputs": {
+            "verified": false,
+            "versions": [
+                "2.0.0-beta"
+            ]
         }
     }
 }
