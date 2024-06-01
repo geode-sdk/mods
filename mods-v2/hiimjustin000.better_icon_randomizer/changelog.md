@@ -1,4 +1,7 @@
 # Better Icon Randomizer Changelog
+## v1.3.7 (2024-06-01)
+- Added robot and spider animation randomization
+
 ## v1.3.6 (2024-05-16)
 - Tweaked the ordering of buttons in the popup menu
 - Added back Node IDs requirement for the mod to work
