@@ -5,11 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.2.1-beta] - 2024-06-01
+
+### Changed
+
+- For loop in layer detection to just use last node
+
 ## [2.2.0-beta] - 2024-06-01
 
 ### Added
 
-- `Auto deselect input` option, default is enabled. If on, deselects the selected input if an alert/layer is created.
+- `Auto deselect input` option, default is enabled. If on, and when ESC is clicked while an input is selected, closes the alert/layer that is in front of the input instead of deselecting the input.
 
 ### Fixed
 
