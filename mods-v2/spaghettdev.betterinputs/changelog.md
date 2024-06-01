@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.0-beta] - 2024-06-01
+
+Robert where update 👀
+
+### Added
+
+- CharNode struct, returned when calling `getCharNodePosInfo` or `getCharNodePosInfoAtLine`
+
+### Fixed
+
+- Text being inserted somewhere completely wrong in TextAreas when highlighting
+- Cursor also being positioned somewhere wrong in TextAreas when highlighting
+
+### Changed
+
+- Moved helper types into /src/types folder
+
 ## [2.0.0-beta] - 2024-05-31
 
 ### Fixed

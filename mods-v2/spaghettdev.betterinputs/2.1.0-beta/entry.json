@@ -1,0 +1,12 @@
+{
+    "commit-author": "SpaghettDev",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/SpaghettDev/BetterInputs/releases/download/v2.1.0-beta/spaghettdev.betterinputs.geode",
+        "hash": "b7637252fbc467adf38393b283a609941cd00e0b634cb4b932b2f9e354d92922",
+        "hash256": "27f6fdc9343636f29bfb3b0b0aa6508328ae0888821c3a16a0ad6f7a94456cb2"
+    },
+    "tags": []
+}
