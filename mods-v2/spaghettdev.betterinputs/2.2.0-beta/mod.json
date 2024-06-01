@@ -1,0 +1,34 @@
+{
+    "geode": "2.0.0-beta.27",
+    "gd": {
+        "win": "2.204"
+    },
+    "version": "v2.2.0-beta",
+    "id": "spaghettdev.betterinputs",
+    "name": "BetterInputs",
+    "developer": "SpaghettDev",
+    "description": "Makes inputs behave like on Windows (text highlighting, Ctrl+A, Ctrl+Arrow hotkeys, etc...)",
+    "repository": "https://github.com/SpaghettDev/BetterInputs",
+	"links": {
+		"community": "https://discord.gg/3bShQb6Jz3",
+		"source": "https://github.com/SpaghettDev/BetterInputs"
+	},
+	"issues": {
+		"info": "Report any bugs/suggestions here.",
+		"url": "https://github.com/SpaghettDev/BetterInputs/issues"
+	},
+    "settings": {
+        "auto-deselect": {
+            "type": "bool",
+            "default": true,
+            "name": "Auto deselect input",
+            "description": "<cr>Highly Experimental!</c> Automatically deselect the currently selected input when an alert or layer appears. (Fixes escape key deselecting the input instead of closing the opened alert/layer)"
+        },
+        "allow-any-character": {
+            "type": "bool",
+            "default": true,
+            "name": "Allow any character",
+            "description": "Allows inputting any character (even ones not allowed) into input nodes. <cr>This is ignored if you have a mod menu that already has this enabled!</c>"
+        }
+    }
+}

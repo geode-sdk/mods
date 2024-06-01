@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.2.0-beta] - 2024-06-01
+
+### Added
+
+- `Auto deselect input` option, default is enabled. If on, deselects the selected input if an alert/layer is created.
+
+### Fixed
+
+- CCTextInputNode swallowing ESC key of Alerts/Layers above it
+- `m_string` not getting updated when `CCTextInputNode::setString` is called
+
 ## [2.1.0-beta] - 2024-06-01
 
 Robert where update 👀
