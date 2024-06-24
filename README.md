@@ -1,3 +1,5 @@
+> ⚠️ Geode mods are now hosted on [our own server](https://github.com/geode-sdk/server)
+
 # Mods
 
 This is the public **Mods Index** for Geode. The mods listed here will show up on the in-game list as part of the Geode API, and users can download & install mods that appear here through that list.
